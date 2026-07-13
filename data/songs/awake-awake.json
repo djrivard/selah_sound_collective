@@ -1,0 +1,318 @@
+{
+  "slug": "awake-awake",
+  "title": "Awake, Awake",
+  "status": "published",
+  "scripture": "Judges 5",
+  "book": "Judges",
+  "epigraph": "Awake, awake, Deborah: awake, awake, utter a song.",
+  "epigraphRef": "Judges 5:12",
+  "styleNote": "Cinematic Folk Anthem · The Song of Deborah",
+  "cover": "awake-awake.jpg",
+  "audio": "awake-awake.mp3",
+  "audioFallback": "https://drive.usercontent.google.com/download?id=1I9PyOMgaREs76FQ-dguEwBnhXwmM0Eso&export=download",
+  "spotify": "",
+  "lyricHeading": "The Song of Deborah",
+  "lyricEyebrow": "From the Book of Judges",
+  "whisper": "Break out, break out in song",
+  "listenLine": "Press play and rise with Deborah’s song.",
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I was plowing quiet fields"
+        ],
+        [
+          null,
+          "When she spoke my name"
+        ],
+        [
+          null,
+          "Said the iron’s coming down"
+        ],
+        [
+          null,
+          "And I was holding back the rain"
+        ],
+        [
+          null,
+          "Ten thousand men behind me"
+        ],
+        [
+          null,
+          "And I could not see"
+        ],
+        [
+          null,
+          "Till a woman asked the question"
+        ],
+        [
+          null,
+          "That was asked of me"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "And the highways had grown still"
+        ],
+        [
+          null,
+          "And the villages were gone"
+        ],
+        [
+          null,
+          "Something had to wake"
+        ],
+        [
+          null,
+          "Before the dawn"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "The dark won’t hold us long"
+        ],
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "Break out, break out in song"
+        ],
+        [
+          null,
+          "The stars have taken sides"
+        ],
+        [
+          null,
+          "The river’s running strong"
+        ],
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "Awake"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "I sat beneath the palm tree"
+        ],
+        [
+          null,
+          "Where the old ones spoke my name"
+        ],
+        [
+          null,
+          "And the young ones came for judgment"
+        ],
+        [
+          null,
+          "And the broken came for flame"
+        ],
+        [
+          null,
+          "I am not a general"
+        ],
+        [
+          null,
+          "I am not a king"
+        ],
+        [
+          null,
+          "I’m a mother to the ruined"
+        ],
+        [
+          null,
+          "And I’m sent to sing"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "And the highways had grown still"
+        ],
+        [
+          null,
+          "And the villages were gone"
+        ],
+        [
+          null,
+          "Something had to wake"
+        ],
+        [
+          null,
+          "Before the dawn"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "The dark won’t hold us long"
+        ],
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "Break out, break out in song"
+        ],
+        [
+          null,
+          "The stars have taken sides"
+        ],
+        [
+          null,
+          "The river’s running strong"
+        ],
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "Awake"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The stars came down from their courses"
+        ],
+        [
+          null,
+          "from their ancient burning halls"
+        ],
+        [
+          null,
+          "The river rose up like a witness"
+        ],
+        [
+          null,
+          "and the river knew us all"
+        ]
+      ]
+    },
+    {
+      "label": "Kishon",
+      "lines": [
+        [
+          null,
+          "Kishon, Kishon"
+        ],
+        [
+          null,
+          "Age-old water"
+        ],
+        [
+          null,
+          "Age-old song"
+        ],
+        [
+          null,
+          "Kishon, Kishon"
+        ],
+        [
+          null,
+          "Sweep us where we belong"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "The dark won’t hold us long"
+        ],
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "Break out, break out in song"
+        ],
+        [
+          null,
+          "The stars have taken sides"
+        ],
+        [
+          null,
+          "The river’s running strong"
+        ],
+        [
+          null,
+          "We will rise like the sun"
+        ],
+        [
+          null,
+          "When it climbs into its strength"
+        ],
+        [
+          null,
+          "Awake, awake"
+        ],
+        [
+          null,
+          "Awake"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Awake"
+        ],
+        [
+          null,
+          "Awake"
+        ],
+        [
+          null,
+          "Break out in song"
+        ]
+      ]
+    }
+  ]
+}

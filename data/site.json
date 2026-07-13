@@ -1,0 +1,17 @@
+{
+  "siteName": "Selah Sound Collective",
+  "tagline": "Scripture, set to cinematic song.",
+  "description": "Original cinematic songs drawn from the stories and psalms of Scripture, by Selah Sound Collective.",
+  "baseUrl": "https://selah-site.pages.dev",
+  "ogImage": "https://i.scdn.co/image/ab67616d0000b2736c15c3e3daf6c3c88027042c",
+  "contactFormEndpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID",
+  "contactEmail": "hello@selahsoundcollective.com",
+  "donateUrl": "https://buy.stripe.com/REPLACE_WITH_YOUR_LINK",
+  "donatePaypal": "https://www.paypal.com/donate/?hosted_button_id=REPLACE_WITH_YOUR_ID",
+  "donateAmounts": [
+    "$5",
+    "$15",
+    "$50"
+  ],
+  "spotifyArtist": ""
+}

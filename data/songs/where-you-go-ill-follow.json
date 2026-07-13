@@ -1,0 +1,257 @@
+{
+  "slug": "where-you-go-ill-follow",
+  "title": "Where You Go, I'll Follow",
+  "status": "published",
+  "scripture": "Ruth 1",
+  "book": "Ruth",
+  "epigraph": "Whither thou goest, I will go; thy people shall be my people.",
+  "epigraphRef": "Ruth 1:16",
+  "styleNote": "Cinematic Folk Vow · Soft Piano to Grand Swell · Female Lead Vocal",
+  "cover": "where-you-go-ill-follow.jpg",
+  "audio": "where-you-go-ill-follow.mp3",
+  "audioFallback": "https://drive.usercontent.google.com/download?id=1MSmB0_m1yBf4bp0pCqE7mcd5AkcDxtfs&export=download",
+  "spotify": "https://open.spotify.com/track/0WYDF8gaQFI6FShtTGdMBP",
+  "lyricHeading": "The Vow on the Road",
+  "lyricEyebrow": "From the Book of Ruth",
+  "whisper": "Forever bound, forever safe",
+  "listenLine": "Press play and walk the road of Ruth’s vow.",
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          2.02,
+          "Through the fields of sorrow,"
+        ],
+        [
+          5.0,
+          "dust upon my feet,"
+        ],
+        [
+          8.46,
+          "Every step beside you,"
+        ],
+        [
+          11.8,
+          "love that won’t retreat."
+        ],
+        [
+          15.27,
+          "The road is long, the nights grow cold,"
+        ],
+        [
+          22.71,
+          "But hand in hand, we’re brave and bold."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          30.84,
+          "Your voice a whisper in the wind,"
+        ],
+        [
+          35.13,
+          "Calling me to start again."
+        ],
+        [
+          38.46,
+          "No past to hold, no chains remain,"
+        ],
+        [
+          45.9,
+          "Just love that speaks through loss and pain."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          52.5,
+          "I’ve left behind the life I knew,"
+        ],
+        [
+          56.4,
+          "For something deeper, something true."
+        ],
+        [
+          60.24,
+          "No turning back, no parting ways,"
+        ],
+        [
+          64.02,
+          "In every storm, I choose to stay."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          70.32,
+          "Where you go, I will follow,"
+        ],
+        [
+          74.07,
+          "Where you stay, I will stay."
+        ],
+        [
+          77.82,
+          "Your people will be my people,"
+        ],
+        [
+          81.33,
+          "Your God will be my God."
+        ],
+        [
+          85.32,
+          "Where you go, I will follow,"
+        ],
+        [
+          89.07,
+          "Even unto the grave."
+        ],
+        [
+          93.3,
+          "Nothing but death will part us,"
+        ],
+        [
+          97.65,
+          "Forever, my love remains."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          117.03,
+          "Through the golden fields we walk,"
+        ],
+        [
+          120.9,
+          "Hope reborn in every thought."
+        ],
+        [
+          124.77,
+          "A promise stitched in threads of fate,"
+        ],
+        [
+          131.73,
+          "Love that even time won’t break."
+        ],
+        [
+          138.96,
+          "I’ll be your shadow in the light."
+        ],
+        [
+          147.12,
+          "No force could tear this vow apart,"
+        ],
+        [
+          154.59,
+          "For love is written in my heart."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus 2",
+      "lines": [
+        [
+          160.29,
+          "Where you go, I will follow,"
+        ],
+        [
+          164.13,
+          "Where you stay, I will stay."
+        ],
+        [
+          167.88,
+          "Your people will be my people,"
+        ],
+        [
+          170.7,
+          "and God, my God."
+        ],
+        [
+          173.46,
+          "Your heart will never be alone."
+        ],
+        [
+          176.78,
+          "Where you go, I will follow,"
+        ],
+        [
+          179.1,
+          "Even unto the grave."
+        ],
+        [
+          183.6,
+          "Nothing but death will part us,"
+        ],
+        [
+          187.65,
+          "Forever, my love remains."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          192.24,
+          "And when the stars fade from the sky,"
+        ],
+        [
+          195.84,
+          "Still by your side, I’ll close my eyes."
+        ],
+        [
+          199.74,
+          "A love unbroken, sealed by grace,"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          222.18,
+          "Where you go, I will follow,"
+        ],
+        [
+          225.93,
+          "Where you stay, I will stay."
+        ],
+        [
+          230.55,
+          "Your people will be my people,"
+        ],
+        [
+          234.0,
+          "and your God will be mine."
+        ],
+        [
+          237.57,
+          "Where you go, I will follow,"
+        ],
+        [
+          240.99,
+          "Even unto the grave."
+        ],
+        [
+          245.53,
+          "Nothing but death will part us,"
+        ],
+        [
+          250.32,
+          "Forever, my love remains."
+        ]
+      ]
+    }
+  ],
+  "shareText": "Where You Go, I'll Follow — a cinematic folk vow from the Book of Ruth, by Selah Sound Collective."
+}

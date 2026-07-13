@@ -1,0 +1,237 @@
+{
+  "slug": "valley-of-the-shadow",
+  "title": "Valley of the Shadow",
+  "status": "published",
+  "scripture": "Psalm 23",
+  "book": "Psalms",
+  "epigraph": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me.",
+  "epigraphRef": "Psalm 23:4",
+  "styleNote": "Hushed Folk Psalm · Close-Mic’d Vocal to Full Harmony",
+  "cover": "valley-of-the-shadow.jpg",
+  "audio": "valley-of-the-shadow.mp3",
+  "audioFallback": "https://drive.usercontent.google.com/download?id=19RRkYXaLJvPL1qQjmvlzITfKijSJtdYc&export=download",
+  "spotify": "",
+  "lyricHeading": "The Shepherd’s Road",
+  "lyricEyebrow": "From the Psalms",
+  "whisper": "You are with me",
+  "listenLine": "Press play and walk the valley unafraid.",
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The shepherd came walking when the long dark fell"
+        ],
+        [
+          null,
+          "He led me down to water still as stone"
+        ],
+        [
+          null,
+          "He laid me in a pasture green and ancient"
+        ],
+        [
+          null,
+          "He gave me back a soul I’d sold alone"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "I don’t know the country, I don’t know the road"
+        ],
+        [
+          null,
+          "But I know the hand that walks me through the cold"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Though I walk through the valley of the shadow"
+        ],
+        [
+          null,
+          "I will fear no evil, you are with me"
+        ],
+        [
+          null,
+          "(You are with me)"
+        ],
+        [
+          null,
+          "Your rod, your staff — a mercy and a weapon"
+        ],
+        [
+          null,
+          "I will fear no evil, you are with me"
+        ],
+        [
+          null,
+          "Oh, you are with me"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He walks ahead of me into the valley"
+        ],
+        [
+          null,
+          "Where the shadow keeps its slow and patient name"
+        ],
+        [
+          null,
+          "Where the wolves have learned the shape of every pilgrim"
+        ],
+        [
+          null,
+          "Where the road grows thin and calls me just the same"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "I don’t know the hour, I don’t know the day"
+        ],
+        [
+          null,
+          "But I know the hand that will not turn away"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Though I walk through the valley of the shadow"
+        ],
+        [
+          null,
+          "I will fear no evil, you are with me"
+        ],
+        [
+          null,
+          "(You are with me)"
+        ],
+        [
+          null,
+          "Your rod, your staff — a mercy and a weapon"
+        ],
+        [
+          null,
+          "I will fear no evil, you are with me"
+        ],
+        [
+          null,
+          "Oh, you are with me"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "He sets a table where my enemies are watching"
+        ],
+        [
+          null,
+          "He anoints my head with oil and with flame"
+        ],
+        [
+          null,
+          "My cup is a dark water overflowing"
+        ],
+        [
+          null,
+          "Every hunger I have carried finds its name"
+        ],
+        [
+          null,
+          "And goodness, and mercy, they are coming up behind me"
+        ],
+        [
+          null,
+          "All my days, all my dying days"
+        ],
+        [
+          null,
+          "And the house of the shepherd opens at the river"
+        ],
+        [
+          null,
+          "Opens at the ending of the road"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Though I walk through the valley of the shadow"
+        ],
+        [
+          null,
+          "I will fear no evil, you are with me"
+        ],
+        [
+          null,
+          "(You are with me)"
+        ],
+        [
+          null,
+          "Though I walk, though I walk, through the hollow"
+        ],
+        [
+          null,
+          "I will fear no evil, you are with me"
+        ],
+        [
+          null,
+          "Oh, you are with me"
+        ],
+        [
+          null,
+          "Oh, you are with me"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Surely goodness, surely mercy"
+        ],
+        [
+          null,
+          "Walk behind me all my days"
+        ],
+        [
+          null,
+          "I will dwell in the house of the shepherd"
+        ],
+        [
+          null,
+          "I will dwell and I will stay"
+        ]
+      ]
+    }
+  ]
+}

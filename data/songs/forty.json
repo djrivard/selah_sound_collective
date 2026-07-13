@@ -1,0 +1,246 @@
+{
+  "slug": "forty",
+  "title": "Forty",
+  "status": "published",
+  "scripture": "Matthew 4",
+  "book": "Matthew",
+  "epigraph": "Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+  "epigraphRef": "Matthew 4:4",
+  "styleNote": "Desert Cinematic · Sparse Verses to Anthemic Swell",
+  "cover": "forty.jpg",
+  "audio": "forty.mp3",
+  "audioFallback": "https://drive.usercontent.google.com/download?id=1-ZZ95pfW4NJkJ7QnXBn_vfhHjXXzz-Jw&export=download",
+  "spotify": "",
+  "lyricHeading": "Forty Days in the Wilderness",
+  "lyricEyebrow": "From the Gospel of Matthew",
+  "whisper": "I became the flame",
+  "listenLine": "Press play and enter the wilderness.",
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Led by the Spirit… into the silence…"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Ash and bone beneath my feet"
+        ],
+        [
+          null,
+          "The sun a blade on my shoulder"
+        ],
+        [
+          null,
+          "Hunger stitching hymns in my ribs"
+        ],
+        [
+          null,
+          "Each breath like a sermon smoldered"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The stones cry, “Turn us into bread”"
+        ],
+        [
+          null,
+          "But I hear thunder in the stillness"
+        ],
+        [
+          null,
+          "Not every craving is a need"
+        ],
+        [
+          null,
+          "Not every silence is wilderness"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Not by bread alone,"
+        ],
+        [
+          null,
+          "Do we walk these deserts unknown"
+        ],
+        [
+          null,
+          "But by every word,"
+        ],
+        [
+          null,
+          "Spoken through stars and storms"
+        ],
+        [
+          null,
+          "By the mouth of God"
+        ],
+        [
+          null,
+          "By the mouth of God"
+        ],
+        [
+          null,
+          "We are not alone"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "He showed me all the kingdoms lit,"
+        ],
+        [
+          null,
+          "Glittering gold on fragile glass"
+        ],
+        [
+          null,
+          "“Bow and I’ll make you king of it”"
+        ],
+        [
+          null,
+          "But I am fire that will not pass"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "I’ve seen rivers carved from tears"
+        ],
+        [
+          null,
+          "Mountains move on whispered truths"
+        ],
+        [
+          null,
+          "No throne built on the bones of fear"
+        ],
+        [
+          null,
+          "Will hold what love can’t prove"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Not by bread alone,"
+        ],
+        [
+          null,
+          "Do we crown what we call home"
+        ],
+        [
+          null,
+          "But by every word,"
+        ],
+        [
+          null,
+          "Burning in the voice unknown"
+        ],
+        [
+          null,
+          "By the mouth of God"
+        ],
+        [
+          null,
+          "By the mouth of God"
+        ],
+        [
+          null,
+          "We are not alone"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Even angels walked away"
+        ],
+        [
+          null,
+          "Till truth stood taller than the pain"
+        ],
+        [
+          null,
+          "I faced the dusk with empty hands"
+        ],
+        [
+          null,
+          "And still the light remained"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Not by bread alone,"
+        ],
+        [
+          null,
+          "But by something deeper sown"
+        ],
+        [
+          null,
+          "By every word,"
+        ],
+        [
+          null,
+          "That names the soul as known"
+        ],
+        [
+          null,
+          "By the mouth of God"
+        ],
+        [
+          null,
+          "By the mouth of God"
+        ],
+        [
+          null,
+          "I walk the wind and stone"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Led by the Spirit…"
+        ],
+        [
+          null,
+          "I became the flame."
+        ]
+      ]
+    }
+  ]
+}
