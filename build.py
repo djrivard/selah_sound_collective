@@ -47,6 +47,9 @@ def esc(s):
 
 def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
     og = og_image or site.get("ogImage", "")
+    if og and not og.startswith("http"):
+        base = site.get("baseUrl", "").rstrip("/")
+        og = f"{base}/{og.lstrip('/')}" if base else og
     bits = [
         '<!DOCTYPE html><html lang="en"><head>',
         '<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">',
@@ -66,6 +69,9 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
     if og:
         bits.append(f'<meta name="twitter:image" content="{esc(og)}">')
     bits.append(FONTS)
+    bits.append(f'<link rel="icon" href="{root}assets/favicon.ico" sizes="any">')
+    bits.append(f'<link rel="icon" type="image/png" sizes="32x32" href="{root}assets/favicon-32.png">')
+    bits.append(f'<link rel="apple-touch-icon" href="{root}assets/apple-touch-icon.png">')
     bits.append(f'<link rel="stylesheet" href="{root}assets/site.css">')
     bits.append(extra)
     bits.append("</head>")
@@ -79,7 +85,9 @@ def nav(site, root, active=""):
         f'<a href="{root}{href}"{" class=\"active\"" if active==key else ""}>{label}</a>'
         for label, href, key in items)
     return (f'<header class="nav"><div class="nav-wrap">'
-            f'<a class="brand" href="{root}index.html">{esc(site["siteName"])}</a>'
+            f'<a class="brand" href="{root}index.html">'
+            f'<img class="brand-mark" src="{root}assets/emblem.png" alt="" width="34" height="34">'
+            f'<span>{esc(site["siteName"])}</span></a>'
             f'<button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>'
             f'<nav class="nav-links" id="navLinks">{links}</nav></div></header>')
 
@@ -88,7 +96,9 @@ def footer(site, root):
     items = [("Songs", "index.html"), ("About", "about.html"),
              ("Contact", "contact.html"), ("Support", "support.html")]
     links = "".join(f'<a href="{root}{href}">{label}</a>' for label, href in items)
-    return (f'<footer class="site-footer"><a class="brand" href="{root}index.html">{esc(site["siteName"])}</a>'
+    return (f'<footer class="site-footer">'
+            f'<img class="foot-mark" src="{root}assets/emblem.png" alt="" width="46" height="46">'
+            f'<a class="brand" href="{root}index.html"><span>{esc(site["siteName"])}</span></a>'
             f'<div class="foot-links">{links}</div>'
             f'<div class="foot-note">{esc(site.get("tagline",""))}</div></footer>')
 
@@ -264,6 +274,7 @@ def render_library(site, songs, root=""):
 {nav(site, root, "songs")}
 <main class="page">
   <div class="page-head">
+    <img class="crest" src="{root}assets/emblem.png" alt="{esc(site["siteName"])}" width="82" height="82">
     <div class="eyebrow">The Catalog</div>
     <h1>Songs</h1>
     <p class="lede">{esc(site.get("tagline",""))}</p>
