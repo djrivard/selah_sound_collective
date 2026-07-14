@@ -14,7 +14,18 @@ Writes a complete static site to:
 Add a song = drop a new <slug>.json in data/songs/ (+ its cover and audio),
 then run:  python3 build.py
 """
-import json, shutil, pathlib, html
+import json, shutil, pathlib, html, hashlib
+
+_VER = {}
+
+
+def vurl(root, rel):
+    """Asset URL with a content-hash version — changes automatically when the file changes,
+    so browser/CDN caches can never serve a stale stylesheet, script, cover, or image."""
+    if rel not in _VER:
+        f = SRC / rel
+        _VER[rel] = hashlib.sha1(f.read_bytes()).hexdigest()[:8] if f.exists() else "0"
+    return f"{root}{rel}?v={_VER[rel]}"
 
 ROOT = pathlib.Path(__file__).parent
 DATA = ROOT / "data"
@@ -49,7 +60,7 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
     og = og_image or site.get("ogImage", "")
     if og and not og.startswith("http"):
         base = site.get("baseUrl", "").rstrip("/")
-        og = f"{base}/{og.lstrip('/')}" if base else og
+        og = f"{base}/{vurl('', og.lstrip('/'))}" if base else og
     bits = [
         '<!DOCTYPE html><html lang="en"><head>',
         '<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">',
@@ -69,10 +80,10 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
     if og:
         bits.append(f'<meta name="twitter:image" content="{esc(og)}">')
     bits.append(FONTS)
-    bits.append(f'<link rel="icon" href="{root}assets/favicon.ico" sizes="any">')
-    bits.append(f'<link rel="icon" type="image/png" sizes="32x32" href="{root}assets/favicon-32.png">')
-    bits.append(f'<link rel="apple-touch-icon" href="{root}assets/apple-touch-icon.png">')
-    bits.append(f'<link rel="stylesheet" href="{root}assets/site.css">')
+    bits.append(f'<link rel="icon" href="{vurl(root, "assets/favicon.ico")}" sizes="any">')
+    bits.append(f'<link rel="icon" type="image/png" sizes="32x32" href="{vurl(root, "assets/favicon-32.png")}">')
+    bits.append(f'<link rel="apple-touch-icon" href="{vurl(root, "assets/apple-touch-icon.png")}">')
+    bits.append(f'<link rel="stylesheet" href="{vurl(root, "assets/site.css")}">')
     bits.append(extra)
     bits.append("</head>")
     return "".join(bits)
@@ -87,7 +98,7 @@ def nav(site, root, active=""):
         for label, href, key in items)
     return (f'<header class="nav"><div class="nav-wrap">'
             f'<a class="brand" href="{root}index.html" aria-label="{esc(site["siteName"])} home">'
-            f'<img class="brand-logo" src="{root}assets/logo-full.png" alt="{esc(site["siteName"])}"></a>'
+            f'<img class="brand-logo" src="{vurl(root, "assets/logo-full.png")}" alt="{esc(site["siteName"])}"></a>'
             f'<button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>'
             f'<nav class="nav-links" id="navLinks">{links}</nav></div></header>')
 
@@ -98,7 +109,7 @@ def footer(site, root):
     links = "".join(f'<a href="{root}{href}">{label}</a>' for label, href in items)
     return (f'<footer class="site-footer">'
             f'<a class="brand" href="{root}index.html" aria-label="{esc(site["siteName"])} home">'
-            f'<img class="foot-logo" src="{root}assets/logo-full.png" alt="{esc(site["siteName"])}"></a>'
+            f'<img class="foot-logo" src="{vurl(root, "assets/logo-full.png")}" alt="{esc(site["siteName"])}"></a>'
             f'<div class="foot-links">{links}</div>'
             f'<div class="foot-note">{esc(site.get("tagline",""))}</div></footer>')
 
@@ -134,7 +145,8 @@ def render_song(site, song, root="../"):
     base = site.get("baseUrl", "").rstrip("/")
     canonical = f"{base}/songs/{song['slug']}.html" if base else None
     og_image = f"{base}/covers/{cover}" if base else None
-    cover_style = f"<style>:root{{--cover:url('{root}covers/{esc(cover)}')}}</style>"
+    cover_rel = "covers/" + cover
+    cover_style = f"<style>:root{{--cover:url('{vurl(root, cover_rel)}')}}</style>"
     h = head(site, full_title, site.get("description", ""), root,
              og_image=og_image, canonical=canonical, extra=cover_style)
 
@@ -157,7 +169,8 @@ def render_song(site, song, root="../"):
 
     sources = ""
     if song.get("audio"):
-        sources += f'<source src="{root}audio/{esc(song["audio"])}" type="audio/mpeg">'
+        audio_rel = "audio/" + song["audio"]
+        sources += f'<source src="{vurl(root, audio_rel)}" type="audio/mpeg">'
     if song.get("audioFallback"):
         sources += f'<source src="{esc(song["audioFallback"])}" type="audio/mpeg">'
 
@@ -236,8 +249,8 @@ def render_song(site, song, root="../"):
 
 <audio id="audio" preload="metadata">{sources}</audio>
 <script>window.SELAH_SONG={{title:{json.dumps(title)},shareText:{json.dumps(share_text)}}};</script>
-<script src="{root}assets/site.js"></script>
-<script src="{root}assets/player.js"></script>
+<script src="{vurl(root, "assets/site.js")}"></script>
+<script src="{vurl(root, "assets/player.js")}"></script>
 </body></html>"""
     return h + body
 
@@ -282,7 +295,7 @@ def render_library(site, songs, root=""):
         soon = s.get("status") != "published"
         cover = s.get("cover", "_coming-soon.jpg")
         inner = (f'<div class="card-cover">'
-                 f'<img class="card-img" src="{root}covers/{esc(cover)}" alt="{esc(s["title"])} cover" loading="lazy">'
+                 f'<img class="card-img" src="{vurl(root, "covers/" + cover)}" alt="{esc(s["title"])} cover" loading="lazy">'
                  f'<div class="scrim"></div>'
                  + ('<span class="badge">Coming soon</span>' if soon else
                     '<span class="play-dot"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>')
@@ -301,7 +314,7 @@ def render_library(site, songs, root=""):
 {nav(site, root, "songs")}
 <section class="home-hero">
   <div class="frame">
-    <img src="{root}assets/hero.jpg" alt="{esc(site["siteName"])} \u2014 {esc(site.get("tagline",""))}">
+    <img src="{vurl(root, "assets/hero.jpg")}" alt="{esc(site["siteName"])} \u2014 {esc(site.get("tagline",""))}">
     <div class="home-hero__fade"></div>
     <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
   </div>
@@ -323,7 +336,7 @@ def render_library(site, songs, root=""):
   <div class="lib-empty" id="libEmpty">No songs match that search yet.</div>
 </main>
 {footer(site, root)}
-<script src="{root}assets/site.js"></script>
+<script src="{vurl(root, "assets/site.js")}"></script>
 </body></html>"""
     return h + body
 
@@ -374,7 +387,7 @@ def content_page(site, root, active, eyebrow, title, lede, inner_html, canonical
   {inner_html}
 </main>
 {footer(site, root)}
-<script src="{root}assets/site.js"></script>
+<script src="{vurl(root, "assets/site.js")}"></script>
 </body></html>"""
     return h + body
 
@@ -443,10 +456,10 @@ def main():
 
     # Cloudflare Pages: long-cache immutable media, short-cache pages
     (OUT / "_headers").write_text(
-        "/audio/*\n  Cache-Control: public, max-age=31536000, immutable\n"
+        "/*\n  X-Content-Type-Options: nosniff\n  Cache-Control: public, max-age=0, must-revalidate\n"
+        "/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n"
         "/covers/*\n  Cache-Control: public, max-age=31536000, immutable\n"
-        "/assets/*\n  Cache-Control: public, max-age=86400\n"
-        "/*\n  X-Content-Type-Options: nosniff\n")
+        "/audio/*\n  Cache-Control: public, max-age=31536000, immutable\n")
 
     (OUT / "index.html").write_text(render_library(site, songs, root=""))
     (OUT / "listen.html").write_text(render_listen(site, root=""))
