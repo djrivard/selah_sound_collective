@@ -1,12 +1,289 @@
 {
   "slug": "the-mighty-fallen",
   "title": "The Mighty Fallen",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "2 Sam.1:17-27",
   "book": "2 Samuel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-mighty-fallen.jpg",
+  "audio": "the-mighty-fallen.mp3",
   "spotify": "https://open.spotify.com/track/0ZLG8xRB04gKBxIDPHHcrw",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27319f9ef23acca4d486fd3fb16"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro – soft guitar, distant reverb]"
+        ],
+        [
+          null,
+          "On the hills where silence lingers,"
+        ],
+        [
+          null,
+          "Shadows stretch like broken kings,"
+        ],
+        [
+          null,
+          "The wind still carries names we whispered,"
+        ],
+        [
+          null,
+          "Through the clash of shattered things."
+        ],
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "Golden armour in the twilight,"
+        ],
+        [
+          null,
+          "Dust where glory used to stand,"
+        ],
+        [
+          null,
+          "Echoes of a fearless heartbeat"
+        ],
+        [
+          null,
+          "Now slipping through my trembling hands."
+        ],
+        [
+          null,
+          "No songs in foreign streets for sorrow,"
+        ],
+        [
+          null,
+          "No laughter where the strangers gaze,"
+        ],
+        [
+          null,
+          "We bury fire beneath the marrow,"
+        ],
+        [
+          null,
+          "And mourn in quiet, hidden ways."
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "Don’t let them see our ruin,"
+        ],
+        [
+          null,
+          "Don’t let them speak your name in vain…"
+        ],
+        [
+          null,
+          "[Chorus – explosive, emotional lift]"
+        ],
+        [
+          null,
+          "How the mighty have fallen,"
+        ],
+        [
+          null,
+          "Like stars torn out of the sky,"
+        ],
+        [
+          null,
+          "How the brave turn to silence,"
+        ],
+        [
+          null,
+          "But their echoes never die."
+        ],
+        [
+          null,
+          "How the mighty have fallen,"
+        ],
+        [
+          null,
+          "Still I call through the night—"
+        ],
+        [
+          null,
+          "If love outlives the battle,"
+        ],
+        [
+          null,
+          "Then you’re still in the fight."
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "Your bow once sang like thunder rolling,"
+        ],
+        [
+          null,
+          "Your blade like lightning split the dark,"
+        ],
+        [
+          null,
+          "You ran where fear refused to follow,"
+        ],
+        [
+          null,
+          "You lit the war inside my heart."
+        ],
+        [
+          null,
+          "No eagle soared as fierce as you did,"
+        ],
+        [
+          null,
+          "No lion burned with such a flame,"
+        ],
+        [
+          null,
+          "And now the fields are cold and empty,"
+        ],
+        [
+          null,
+          "But I still whisper out your name."
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "No oil, no crown, no victory remains—"
+        ],
+        [
+          null,
+          "Just love that outlives all the pain…"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "How the mighty have fallen,"
+        ],
+        [
+          null,
+          "Like stars torn out of the sky,"
+        ],
+        [
+          null,
+          "How the brave turn to silence,"
+        ],
+        [
+          null,
+          "But their echoes never die."
+        ],
+        [
+          null,
+          "How the mighty have fallen,"
+        ],
+        [
+          null,
+          "Still I call through the night—"
+        ],
+        [
+          null,
+          "If love outlives the battle,"
+        ],
+        [
+          null,
+          "Then you’re still in the fight."
+        ],
+        [
+          null,
+          "[Bridge – stripped, intimate, swelling]"
+        ],
+        [
+          null,
+          "I am torn where you once stood beside me,"
+        ],
+        [
+          null,
+          "A brother not by blood but by soul,"
+        ],
+        [
+          null,
+          "No depth, no grave, no ending can hide me"
+        ],
+        [
+          null,
+          "From the love that has made me whole."
+        ],
+        [
+          null,
+          "Your memory burns like a signal,"
+        ],
+        [
+          null,
+          "Through valleys of ash and of stone—"
+        ],
+        [
+          null,
+          "If I rise from this ruin,"
+        ],
+        [
+          null,
+          "I won’t rise alone."
+        ],
+        [
+          null,
+          "[Final Chorus – full band, anthemic]"
+        ],
+        [
+          null,
+          "How the mighty have fallen,"
+        ],
+        [
+          null,
+          "But your fire still remains,"
+        ],
+        [
+          null,
+          "In the pulse of the broken,"
+        ],
+        [
+          null,
+          "In the echo of your name."
+        ],
+        [
+          null,
+          "How the mighty have fallen,"
+        ],
+        [
+          null,
+          "Yet your light still survives—"
+        ],
+        [
+          null,
+          "For love is stronger than death is,"
+        ],
+        [
+          null,
+          "And it carries our lives."
+        ],
+        [
+          null,
+          "[Outro – fading, ambient guitar]"
+        ],
+        [
+          null,
+          "On the hills where silence lingers…"
+        ],
+        [
+          null,
+          "I still hear you in the wind…"
+        ]
+      ]
+    }
+  ]
 }

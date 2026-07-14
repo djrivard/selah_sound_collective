@@ -1,12 +1,273 @@
 {
   "slug": "i-will-not-let-you-go",
   "title": "I Will Not Let You Go",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Genesis 32",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "i-will-not-let-you-go.jpg",
+  "audio": "i-will-not-let-you-go.mp3",
   "spotify": "https://open.spotify.com/track/3eGuTVhlGEH0q1u4AtvTpG",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273afce8c2de78af38fe5c8d308"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "The silence was loud"
+        ],
+        [
+          null,
+          "Like the breath before thunder"
+        ],
+        [
+          null,
+          "I fell to my knees"
+        ],
+        [
+          null,
+          "Still reaching for wonder"
+        ],
+        [
+          null,
+          "I wrestled with shadows"
+        ],
+        [
+          null,
+          "And held on to pain"
+        ],
+        [
+          null,
+          "But something inside me"
+        ],
+        [
+          null,
+          "Refused to let break"
+        ],
+        [
+          null,
+          "No name in the dark"
+        ],
+        [
+          null,
+          "But You knew what I carried"
+        ],
+        [
+          null,
+          "A heart full of doubt"
+        ],
+        [
+          null,
+          "And a soul barely married"
+        ],
+        [
+          null,
+          "To faith that was flickering"
+        ],
+        [
+          null,
+          "Like a flame in the cold"
+        ],
+        [
+          null,
+          "But still I kept holding"
+        ],
+        [
+          null,
+          "Though nothing would hold"
+        ],
+        [
+          null,
+          "You struck where I stand"
+        ],
+        [
+          null,
+          "Now I walk with a limp"
+        ],
+        [
+          null,
+          "But I walk like a man"
+        ],
+        [
+          null,
+          "Who's been touched by the wind"
+        ],
+        [
+          null,
+          "I will not let go until You bless me"
+        ],
+        [
+          null,
+          "Even if the night is long"
+        ],
+        [
+          null,
+          "I’ll wrestle through the breaking"
+        ],
+        [
+          null,
+          "Through the silence and the song"
+        ],
+        [
+          null,
+          "I am holding on to something holy"
+        ],
+        [
+          null,
+          "Even if it breaks my bones"
+        ],
+        [
+          null,
+          "I will not let go…"
+        ],
+        [
+          null,
+          "'Til You call me Your own"
+        ],
+        [
+          null,
+          "You met me in shadows"
+        ],
+        [
+          null,
+          "With fire in Your eyes"
+        ],
+        [
+          null,
+          "You whispered my future"
+        ],
+        [
+          null,
+          "As I screamed through the fight"
+        ],
+        [
+          null,
+          "You broke me to build me"
+        ],
+        [
+          null,
+          "You named me in flame"
+        ],
+        [
+          null,
+          "Now every scar I carry"
+        ],
+        [
+          null,
+          "Is singing Your name"
+        ],
+        [
+          null,
+          "If love is a struggle"
+        ],
+        [
+          null,
+          "Then let it be real"
+        ],
+        [
+          null,
+          "I’ll meet You in midnight"
+        ],
+        [
+          null,
+          "And break just to heal"
+        ],
+        [
+          null,
+          "I will not let go until You bless me"
+        ],
+        [
+          null,
+          "Even as my hands grow tired"
+        ],
+        [
+          null,
+          "Through the storm and through the shaking"
+        ],
+        [
+          null,
+          "Through the ash and through the fire"
+        ],
+        [
+          null,
+          "I am holding on, though torn and lowly"
+        ],
+        [
+          null,
+          "Even when the light feels gone"
+        ],
+        [
+          null,
+          "I will not let go…"
+        ],
+        [
+          null,
+          "'Til I know where I belong"
+        ],
+        [
+          null,
+          "What is your name?"
+        ],
+        [
+          null,
+          "And what is mine?"
+        ],
+        [
+          null,
+          "I left it behind..."
+        ],
+        [
+          null,
+          "[instrumental swell]"
+        ],
+        [
+          null,
+          "To be reborn in time"
+        ],
+        [
+          null,
+          "I will not let go until You bless me"
+        ],
+        [
+          null,
+          "Even with this broken frame"
+        ],
+        [
+          null,
+          "Through the night that tried to end me"
+        ],
+        [
+          null,
+          "I’m still calling out Your name"
+        ],
+        [
+          null,
+          "I am holding on, I’ve been remade slowly"
+        ],
+        [
+          null,
+          "Touched by heaven, marked in flame"
+        ],
+        [
+          null,
+          "I will not let go…"
+        ],
+        [
+          null,
+          "'Til You give me a name"
+        ],
+        [
+          null,
+          "I will not let go..."
+        ],
+        [
+          null,
+          "I will not let go..."
+        ],
+        [
+          null,
+          "'Til You call me Your own"
+        ]
+      ]
+    }
+  ]
 }

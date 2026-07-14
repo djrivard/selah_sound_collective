@@ -1,12 +1,173 @@
 {
   "slug": "who-the-world-forgot",
   "title": "Who the World Forgot",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Matthew 5",
   "book": "Matthew",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "who-the-world-forgot.jpg",
+  "audio": "who-the-world-forgot.mp3",
   "spotify": "https://open.spotify.com/track/3SuOd4FrhCCrCW6arFgqgV",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b413481a2bc2919b4ea104be"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "They say the meek will never rise"
+        ],
+        [
+          null,
+          "But heaven knows the quiet fight"
+        ],
+        [
+          null,
+          "A whisper holds more truth than pride"
+        ],
+        [
+          null,
+          "The stars still shine when no one's looking"
+        ],
+        [
+          null,
+          "The broken soul, the weeping eye"
+        ],
+        [
+          null,
+          "They see what power fails to find"
+        ],
+        [
+          null,
+          "For in the dark, the flames ignite"
+        ],
+        [
+          null,
+          "A love that will not die"
+        ],
+        [
+          null,
+          "Not the crowned or the loud"
+        ],
+        [
+          null,
+          "But the ones who bow"
+        ],
+        [
+          null,
+          "To mercy, grace, and light"
+        ],
+        [
+          null,
+          "Blessed are the ones the world forgets"
+        ],
+        [
+          null,
+          "Those who love with nothing left"
+        ],
+        [
+          null,
+          "Heaven's near, though earth may wound"
+        ],
+        [
+          null,
+          "The crown is found in solitude"
+        ],
+        [
+          null,
+          "Rejoice and sing, your trials tell"
+        ],
+        [
+          null,
+          "The gates of glory know you well"
+        ],
+        [
+          null,
+          "The hungry heart that longs for right"
+        ],
+        [
+          null,
+          "Will taste the feast beyond this life"
+        ],
+        [
+          null,
+          "And those who mourn, though tears still fall"
+        ],
+        [
+          null,
+          "Will dance where no more sorrow calls"
+        ],
+        [
+          null,
+          "The pure in heart, they clear the haze"
+        ],
+        [
+          null,
+          "And see the face that angels praise"
+        ],
+        [
+          null,
+          "The peacemakers will build the day"
+        ],
+        [
+          null,
+          "When swords to gardens lay"
+        ],
+        [
+          null,
+          "Blessed are the ones the world forgets"
+        ],
+        [
+          null,
+          "Those who love with nothing left"
+        ],
+        [
+          null,
+          "Heaven's near, though earth may wound"
+        ],
+        [
+          null,
+          "The crown is found in solitude"
+        ],
+        [
+          null,
+          "Rejoice and sing, your trials tell"
+        ],
+        [
+          null,
+          "The gates of glory know you well"
+        ],
+        [
+          null,
+          "Blessed are the ones the world forgets"
+        ],
+        [
+          null,
+          "Those who love with nothing left"
+        ],
+        [
+          null,
+          "oh, with nothing left"
+        ],
+        [
+          null,
+          "Heaven's near, though earth may wound"
+        ],
+        [
+          null,
+          "The crown is found in solitude"
+        ],
+        [
+          null,
+          "Rejoice and sing, your trials tell"
+        ],
+        [
+          null,
+          "The gates of glory know you well"
+        ],
+        [
+          null,
+          "know you well, know you well…"
+        ]
+      ]
+    }
+  ]
 }

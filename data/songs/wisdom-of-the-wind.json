@@ -1,12 +1,261 @@
 {
   "slug": "wisdom-of-the-wind",
   "title": "Wisdom of the Wind",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Solomon's Vanity",
   "book": "Ecclesiastes",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "wisdom-of-the-wind.jpg",
+  "audio": "wisdom-of-the-wind.mp3",
   "spotify": "https://open.spotify.com/track/0v47QoIaItRMpffJtWrbql",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273757cd5fdf6d109f48e99c87a"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Wisdom of Wind"
+        ],
+        [
+          null,
+          "A whisper on the wind, a kingdom in my hand"
+        ],
+        [
+          null,
+          "The weight of seven seas, the wisdom of the sand"
+        ],
+        [
+          null,
+          "Each riddle solved, each treasure known, a tapestry of might"
+        ],
+        [
+          null,
+          "A throne of ivory, bathed in golden light"
+        ],
+        [
+          null,
+          "They came from dust and distant shores, to hear the words I’d speak"
+        ],
+        [
+          null,
+          "Believing in the answers that a mortal tongue could seek"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Building slightly, drums enter softly, reverb-heavy)"
+        ],
+        [
+          null,
+          "And for a time, the world felt like a song I understood"
+        ],
+        [
+          null,
+          "Every note in harmony, every stone a precious good"
+        ],
+        [
+          null,
+          "My heart, a listening chamber, for the secrets whispered low"
+        ],
+        [
+          null,
+          "But even oceans deep can’t fill the space where spirits grow"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Powerful, harmonized, full band swells, shimmering textures, dynamic crescendo. This is the most memorable part.)"
+        ],
+        [
+          null,
+          "Beyond the shimmer, past the gleam, a truth begins to rise"
+        ],
+        [
+          null,
+          "More than the power, more than the dream, reflected in our eyes"
+        ],
+        [
+          null,
+          "This fleeting wonder, rich and vast, a shadow and a sign"
+        ],
+        [
+          null,
+          "The echo of a love that lasts, a truly grand design!"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Vocals still powerful but with a touch of introspection, piano prominent)"
+        ],
+        [
+          null,
+          "I walked through gardens, gold-paved ways, with pleasure as my guide"
+        ],
+        [
+          null,
+          "Drank deep from every fleeting joy, with nothing left to hide"
+        ],
+        [
+          null,
+          "The laughter of a thousand feasts, the sparkle of the vine"
+        ],
+        [
+          null,
+          "Yet in the quiet after, a different hunger, mine."
+        ],
+        [
+          null,
+          "For every tower built so tall, and every gem so bright"
+        ],
+        [
+          null,
+          "Could never match the simple grace of dawn dispelling night."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Building again, layered harmonies start to weave in)"
+        ],
+        [
+          null,
+          "And in that chase, the world felt like a race I couldn't win"
+        ],
+        [
+          null,
+          "Collecting moments, fleeting fast, where does the soul begin?"
+        ],
+        [
+          null,
+          "My heart, a restless wanderer, through all that glitters bold"
+        ],
+        [
+          null,
+          "Searching for a story that could never quite be told... by gold."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Even more powerful, soaring vocals, full singalong moment, drums driving)"
+        ],
+        [
+          null,
+          "Beyond the shimmer, past the gleam, a truth begins to rise"
+        ],
+        [
+          null,
+          "More than the power, more than the dream, reflected in our eyes"
+        ],
+        [
+          null,
+          "This fleeting wonder, rich and vast, a shadow and a sign"
+        ],
+        [
+          null,
+          "The echo of a love that lasts, a truly grand design!"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Dynamics pull back slightly, then swell massively. Ambient guitars, then drums re-enter with force. Layered, ethereal vocals before a powerful lead vocal pushes through.)"
+        ],
+        [
+          null,
+          "Like chasing wind, these earthly crowns, they fade like fading stars"
+        ],
+        [
+          null,
+          "But in the broken, open ground, is where the healing starts."
+        ],
+        [
+          null,
+          "A whisper turns into a roar, a flicker to a flame,"
+        ],
+        [
+          null,
+          "The richest treasure to explore is calling out your name!"
+        ],
+        [
+          null,
+          "Not in the castles built on sand, but in the heart that’s free,"
+        ],
+        [
+          null,
+          "To reach for an eternal hand, for all eternity!"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Fullest and most anthemic, everyone singing, ad-libs, massive reverb)"
+        ],
+        [
+          null,
+          "Beyond the shimmer, past the gleam, a truth begins to rise"
+        ],
+        [
+          null,
+          "More than the power, more than the dream, reflected in our eyes"
+        ],
+        [
+          null,
+          "This fleeting wonder, rich and vast, a shadow and a sign"
+        ],
+        [
+          null,
+          "The echo of a love that lasts, a truly grand design!"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Fades out slowly with shimmering piano arpeggios, ambient guitar swells, lingering vocal harmonies (\"a grand design... echoes in eternity... more than gold...\"). Drums become spacious and fade.)"
+        ],
+        [
+          null,
+          "A grand design..."
+        ],
+        [
+          null,
+          "Echoes... in eternity..."
+        ],
+        [
+          null,
+          "More than gold..."
+        ],
+        [
+          null,
+          "It’s more than gold..."
+        ]
+      ]
+    }
+  ]
 }

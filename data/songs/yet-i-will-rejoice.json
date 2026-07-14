@@ -1,12 +1,177 @@
 {
   "slug": "yet-i-will-rejoice",
   "title": "Yet, I Will Rejoice",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Habakkuk",
   "book": "Habakkuk",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "yet-i-will-rejoice.jpg",
+  "audio": "yet-i-will-rejoice.mp3",
   "spotify": "https://open.spotify.com/track/63ZHvLPblquDvy1DiRf1C9",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27384c9306bf2815c55474d77d6"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Cinematic Strings, Ethereal Vocal Layering]"
+        ],
+        [
+          null,
+          "The fields are bare, the rivers run dry"
+        ],
+        [
+          null,
+          "The fig trees fade beneath a broken sky"
+        ],
+        [
+          null,
+          "Yet in the hush, I hear a sound"
+        ],
+        [
+          null,
+          "A whisper soft, where hope is found"
+        ],
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "The vineyards wither, no harvest remains"
+        ],
+        [
+          null,
+          "The olive groves stand in silent pain"
+        ],
+        [
+          null,
+          "The flocks have vanished from the fold"
+        ],
+        [
+          null,
+          "Yet still, my heart sings brave and bold"
+        ],
+        [
+          null,
+          "[Chorus, Sweeping Strings, Emotional Lift]"
+        ],
+        [
+          null,
+          "Yet I will rejoice in the storm, in the night"
+        ],
+        [
+          null,
+          "Dance on the heights though there's no end in sight"
+        ],
+        [
+          null,
+          "For love is my strength, my unshaken light"
+        ],
+        [
+          null,
+          "I rise, I rise, on the wings of delight"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "The earth may tremble, the heavens may weep"
+        ],
+        [
+          null,
+          "Darkness may drown the valleys deep"
+        ],
+        [
+          null,
+          "Yet even here, in the dust and ash"
+        ],
+        [
+          null,
+          "A song still burns, it will not pass"
+        ],
+        [
+          null,
+          "[Bridge, Instrumental Swell, Angelic Harmonies]"
+        ],
+        [
+          null,
+          "He lifts me high, my soul takes flight"
+        ],
+        [
+          null,
+          "Like deer that leap in morning light"
+        ],
+        [
+          null,
+          "Above the sorrow, beyond the past"
+        ],
+        [
+          null,
+          "In His embrace, I’m free at last"
+        ],
+        [
+          null,
+          "[Verse 3, Reflective, Building Tension]"
+        ],
+        [
+          null,
+          "The days may wander, the nights may be long"
+        ],
+        [
+          null,
+          "But love keeps writing a steadfast song"
+        ],
+        [
+          null,
+          "Not by sight, but faith alone"
+        ],
+        [
+          null,
+          "I know my steps are leading home"
+        ],
+        [
+          null,
+          "[Chorus, Powerful Reprise]"
+        ],
+        [
+          null,
+          "Yet I will rejoice in the storm, in the night"
+        ],
+        [
+          null,
+          "Dance on the heights though there's no end in sight"
+        ],
+        [
+          null,
+          "For love is my strength, my unshaken light"
+        ],
+        [
+          null,
+          "I rise, I rise, on the wings of delight"
+        ],
+        [
+          null,
+          "[Outro, Soft Fade, Dreamlike Echoes]"
+        ],
+        [
+          null,
+          "The fields are bare, the rivers run dry"
+        ],
+        [
+          null,
+          "Yet still, my soul will testify"
+        ],
+        [
+          null,
+          "For joy is here, though none can see"
+        ],
+        [
+          null,
+          "A song of hope inside of me"
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,221 @@
 {
   "slug": "perfect-timing",
   "title": "Perfect Timing",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Ecclesiastes 3",
   "book": "Ecclesiastes",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "perfect-timing.jpg",
+  "audio": "perfect-timing.mp3",
   "spotify": "https://open.spotify.com/track/7nwDh9z0s8acEK66nb1BYH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736cadc07b0583436a8a96e5a8"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "There’s a time to rise, a time to fall,"
+        ],
+        [
+          null,
+          "A time to build, a time to crawl."
+        ],
+        [
+          null,
+          "A time to dance in golden light,"
+        ],
+        [
+          null,
+          "A time to weep through sleepless nights."
+        ],
+        [
+          null,
+          "A time to plant, a time to reap,"
+        ],
+        [
+          null,
+          "A time to wake, a time to sleep."
+        ],
+        [
+          null,
+          "A time to keep, a time to let go,"
+        ],
+        [
+          null,
+          "A time to learn what we don’t know."
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Oh, turn, turn, turn again,"
+        ],
+        [
+          null,
+          "The tides will change, the storm will end."
+        ],
+        [
+          null,
+          "Nothing stays, yet nothing’s lost,"
+        ],
+        [
+          null,
+          "Every moment knows its cost."
+        ],
+        [
+          null,
+          "Oh, turn, turn, turn again,"
+        ],
+        [
+          null,
+          "The hands of time are heaven’s pen."
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "A time to mend, a time to break,"
+        ],
+        [
+          null,
+          "A time to give, a time to take."
+        ],
+        [
+          null,
+          "A time to love, a time to fight,"
+        ],
+        [
+          null,
+          "A time to see through different eyes."
+        ],
+        [
+          null,
+          "A time to hold, a time to free,"
+        ],
+        [
+          null,
+          "A time for you, a time for me."
+        ],
+        [
+          null,
+          "A time to whisper, a time to shout,"
+        ],
+        [
+          null,
+          "A time to know what life's about."
+        ],
+        [
+          null,
+          "[Verse 3]"
+        ],
+        [
+          null,
+          "A time for silence, a time for sound,"
+        ],
+        [
+          null,
+          "A time to wander, a time to be found."
+        ],
+        [
+          null,
+          "A time for questions, a time to trust,"
+        ],
+        [
+          null,
+          "A time for diamonds made from dust."
+        ],
+        [
+          null,
+          "A time for patience, a time for speed,"
+        ],
+        [
+          null,
+          "A time for hunger, a time to feed."
+        ],
+        [
+          null,
+          "A time for doors that close so tight,"
+        ],
+        [
+          null,
+          "A time when darkness births the light."
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "The sun will rise, the moon will wane,"
+        ],
+        [
+          null,
+          "The sky will clear after the rain."
+        ],
+        [
+          null,
+          "No tear is wasted, no breath is vain,"
+        ],
+        [
+          null,
+          "Even the dark will shine again."
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Oh, turn, turn, turn again,"
+        ],
+        [
+          null,
+          "The tides will change, the storm will end."
+        ],
+        [
+          null,
+          "Nothing stays, yet nothing’s lost,"
+        ],
+        [
+          null,
+          "Every moment knows its cost."
+        ],
+        [
+          null,
+          "Oh, turn, turn, turn again,"
+        ],
+        [
+          null,
+          "The hands of time are heaven’s pen."
+        ],
+        [
+          null,
+          "[Outro]"
+        ],
+        [
+          null,
+          "So take a breath, embrace the flow,"
+        ],
+        [
+          null,
+          "The perfect time is all we know."
+        ],
+        [
+          null,
+          "Oh, turn, turn, turn again…"
+        ],
+        [
+          null,
+          "Every season has its end."
+        ]
+      ]
+    }
+  ]
 }

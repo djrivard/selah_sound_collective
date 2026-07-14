@@ -1,12 +1,241 @@
 {
   "slug": "nevertheless",
   "title": "Nevertheless",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 106",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "nevertheless.jpg",
+  "audio": "nevertheless.mp3",
   "spotify": "https://open.spotify.com/track/1aIfQE3MNQjY3IANyadRNy",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27302ffd5921f2c8da721bc7238"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "Down by the water where the red sea opened"
+        ],
+        [
+          null,
+          "I held your promises between my teeth"
+        ],
+        [
+          null,
+          "I was a girl who forgot the miracles"
+        ],
+        [
+          null,
+          "I was a bride who traded love for grief"
+        ],
+        [
+          null,
+          "The gold calf shining in the desert moonlight"
+        ],
+        [
+          null,
+          "We danced around it till the music broke"
+        ],
+        [
+          null,
+          "We built a kingdom out of our forgetting"
+        ],
+        [
+          null,
+          "Then wondered why the heavens never spoke"
+        ],
+        [
+          null,
+          "[Chorus — soft, breathy]"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "I know I soon forgot"
+        ],
+        [
+          null,
+          "But remember me"
+        ],
+        [
+          null,
+          "Nevertheless"
+        ],
+        [
+          null,
+          "Nevertheless"
+        ],
+        [
+          null,
+          "Love that would not die"
+        ],
+        [
+          null,
+          "When mine would not last"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I sold my daughters to the evening idols"
+        ],
+        [
+          null,
+          "I mingled in the nations of the strange"
+        ],
+        [
+          null,
+          "I traded glory for a bronze-age shadow"
+        ],
+        [
+          null,
+          "And called my ruin by another name"
+        ],
+        [
+          null,
+          "And still you heard me in the iron country"
+        ],
+        [
+          null,
+          "And still you listened when I could not pray"
+        ],
+        [
+          null,
+          "You broke my captors into open weeping"
+        ],
+        [
+          null,
+          "You called me kindness and you called me safe"
+        ],
+        [
+          null,
+          "[Chorus — building]"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "I know I soon forgot"
+        ],
+        [
+          null,
+          "But remember me"
+        ],
+        [
+          null,
+          "Nevertheless"
+        ],
+        [
+          null,
+          "Nevertheless"
+        ],
+        [
+          null,
+          "Love that would not die"
+        ],
+        [
+          null,
+          "When mine would not last"
+        ],
+        [
+          null,
+          "[Bridge — cinematic, strings swell, spoken-sung]"
+        ],
+        [
+          null,
+          "From everlasting to everlasting"
+        ],
+        [
+          null,
+          "The sea divides, the sea divides"
+        ],
+        [
+          null,
+          "And I am gathered from the nations"
+        ],
+        [
+          null,
+          "Into the kindnesses I tried to hide"
+        ],
+        [
+          null,
+          "From everlasting to everlasting"
+        ],
+        [
+          null,
+          "[Chorus — elevated, belted, full strings]"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "Though I had soon forgot"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "Nevertheless"
+        ],
+        [
+          null,
+          "Nevertheless"
+        ],
+        [
+          null,
+          "The love that would not die"
+        ],
+        [
+          null,
+          "When mine would not last"
+        ],
+        [
+          null,
+          "Remember me"
+        ],
+        [
+          null,
+          "[Outro — whispered, intimate]"
+        ],
+        [
+          null,
+          "Amen"
+        ],
+        [
+          null,
+          "Amen"
+        ],
+        [
+          null,
+          "Remember me"
+        ]
+      ]
+    }
+  ]
 }

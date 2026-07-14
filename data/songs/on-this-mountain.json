@@ -1,12 +1,225 @@
 {
   "slug": "on-this-mountain",
   "title": "On This Mountain",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Genesis 22",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "on-this-mountain.jpg",
+  "audio": "on-this-mountain.mp3",
   "spotify": "https://open.spotify.com/track/2Sz2g4UmXh10kIsBdp6P55",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735c8081850fa110fd9b6c803f"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The fire and the knife, I carry both in silence,"
+        ],
+        [
+          null,
+          "Steps echo on the path I do not choose."
+        ],
+        [
+          null,
+          "The wood is on his shoulders like a question—"
+        ],
+        [
+          null,
+          "And still, I say, “The Lord will surely prove.”"
+        ],
+        [
+          null,
+          "Three days through dust and dreamless lands,"
+        ],
+        [
+          null,
+          "My soul in tethered thread."
+        ],
+        [
+          null,
+          "The child beside me, eyes of trust,"
+        ],
+        [
+          null,
+          "Unknowing what lies ahead."
+        ],
+        [
+          null,
+          "We speak in fragments—just enough,"
+        ],
+        [
+          null,
+          "His laughter cracks the sky."
+        ],
+        [
+          null,
+          "But every word weighs heavy now,"
+        ],
+        [
+          null,
+          "Beneath Jehovah’s eye."
+        ],
+        [
+          null,
+          "**On this mountain, I raise my hands,"
+        ],
+        [
+          null,
+          "Not to strike, but to believe."
+        ],
+        [
+          null,
+          "In the silence where I cannot stand,"
+        ],
+        [
+          null,
+          "Grace waits in the unseen."
+        ],
+        [
+          null,
+          "A voice like thunder through the veil—"
+        ],
+        [
+          null,
+          "“Do not lay your hand.”"
+        ],
+        [
+          null,
+          "On this mountain, He will provide,"
+        ],
+        [
+          null,
+          "And mercy walks the land.**"
+        ],
+        [
+          null,
+          "I built the altar stone by stone,"
+        ],
+        [
+          null,
+          "Each one a silent prayer."
+        ],
+        [
+          null,
+          "My fingers tremble as I bind"
+        ],
+        [
+          null,
+          "The son whom angels stare."
+        ],
+        [
+          null,
+          "His breath is calm—too calm, too pure—"
+        ],
+        [
+          null,
+          "As if he somehow knows."
+        ],
+        [
+          null,
+          "And I, undone by love and fear,"
+        ],
+        [
+          null,
+          "Lift up the blade so slow."
+        ],
+        [
+          null,
+          "The moment hangs like breaking dawn,"
+        ],
+        [
+          null,
+          "Where time and truth align."
+        ],
+        [
+          null,
+          "The blade held still in sovereign pause—"
+        ],
+        [
+          null,
+          "Divine in its design."
+        ],
+        [
+          null,
+          "A rustle in the thorny hush,"
+        ],
+        [
+          null,
+          "A ram with crowned head caught."
+        ],
+        [
+          null,
+          "And I fall down in ash and dust,"
+        ],
+        [
+          null,
+          "Undone by what I'm taught."
+        ],
+        [
+          null,
+          "**On this mountain, I raise my hands,"
+        ],
+        [
+          null,
+          "Not to strike, but to believe."
+        ],
+        [
+          null,
+          "In the silence where I cannot stand,"
+        ],
+        [
+          null,
+          "Grace waits in the unseen."
+        ],
+        [
+          null,
+          "A voice like thunder through the veil—"
+        ],
+        [
+          null,
+          "“Do not lay your hand.”"
+        ],
+        [
+          null,
+          "On this mountain, He will provide,"
+        ],
+        [
+          null,
+          "And mercy walks the land.**"
+        ],
+        [
+          null,
+          "Ashes where the altar stood,"
+        ],
+        [
+          null,
+          "And still the fire burns."
+        ],
+        [
+          null,
+          "A covenant carved into the wood—"
+        ],
+        [
+          null,
+          "A faith that always learns."
+        ],
+        [
+          null,
+          "He walks beside me once again,"
+        ],
+        [
+          null,
+          "No shadow in his stride."
+        ],
+        [
+          null,
+          "And I know now, without the blade,"
+        ],
+        [
+          null,
+          "The offering was *inside*."
+        ]
+      ]
+    }
+  ]
 }

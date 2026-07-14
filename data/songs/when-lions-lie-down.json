@@ -1,12 +1,241 @@
 {
   "slug": "when-lions-lie-down",
   "title": "When Lions Lie Down",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Isaiah 11",
   "book": "Isaiah",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "when-lions-lie-down.jpg",
+  "audio": "when-lions-lie-down.mp3",
   "spotify": "https://open.spotify.com/track/3wCwzptx80f1VouwbZlYpW",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739ce4c139a7fc6755e104b596"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "The sword sleeps beneath the olive tree,"
+        ],
+        [
+          null,
+          "Rust in the sun like forgotten war cries"
+        ],
+        [
+          null,
+          "Children trace stars in the dust of the hills"
+        ],
+        [
+          null,
+          "Where no shadow dares to rise"
+        ],
+        [
+          null,
+          "The lion sighs beside the lamb,"
+        ],
+        [
+          null,
+          "In fields that once wept fire and fear"
+        ],
+        [
+          null,
+          "A child walks barefoot through wildflower jaws"
+        ],
+        [
+          null,
+          "And never sheds a tear"
+        ],
+        [
+          null,
+          "No more thrones of trembling bone"
+        ],
+        [
+          null,
+          "No more crowns of dust and stone"
+        ],
+        [
+          null,
+          "Only voices like rainfall echo through the dawn"
+        ],
+        [
+          null,
+          "And the earth shall know —"
+        ],
+        [
+          null,
+          "As waters cover the endless sea"
+        ],
+        [
+          null,
+          "Every heart made whole,"
+        ],
+        [
+          null,
+          "Bathed in light and mystery"
+        ],
+        [
+          null,
+          "The silence of fear undone"
+        ],
+        [
+          null,
+          "By the song of the risen sun"
+        ],
+        [
+          null,
+          "And the earth shall know —"
+        ],
+        [
+          null,
+          "A world reborn, a kingdom come"
+        ],
+        [
+          null,
+          "Mountains remember what wrath forgot"
+        ],
+        [
+          null,
+          "Their roots grown deep in the peace of God"
+        ],
+        [
+          null,
+          "The wolf wears wonder in golden eyes"
+        ],
+        [
+          null,
+          "At the cradle of awe and law"
+        ],
+        [
+          null,
+          "No killing hand, no sharpened tongue"
+        ],
+        [
+          null,
+          "No poisoned stream, no exile’s song"
+        ],
+        [
+          null,
+          "Only the knowing — like morning dew —"
+        ],
+        [
+          null,
+          "That right was right all along"
+        ],
+        [
+          null,
+          "No more veils of smoke and pride"
+        ],
+        [
+          null,
+          "No more truths we have to hide"
+        ],
+        [
+          null,
+          "Just the fire that doesn’t burn, but frees"
+        ],
+        [
+          null,
+          "And the earth shall know —"
+        ],
+        [
+          null,
+          "As waters cover the endless sea"
+        ],
+        [
+          null,
+          "Every breath will glow"
+        ],
+        [
+          null,
+          "With the pulse of eternity"
+        ],
+        [
+          null,
+          "The silence of fear undone"
+        ],
+        [
+          null,
+          "By the voice of the only One"
+        ],
+        [
+          null,
+          "And the earth shall know —"
+        ],
+        [
+          null,
+          "A world reborn, a kingdom come"
+        ],
+        [
+          null,
+          "The child will lead"
+        ],
+        [
+          null,
+          "Without a crown, without a creed"
+        ],
+        [
+          null,
+          "Just eyes that see"
+        ],
+        [
+          null,
+          "What we forgot to believe"
+        ],
+        [
+          null,
+          "Roots in bloom where ruin stood"
+        ],
+        [
+          null,
+          "The language of the soul understood"
+        ],
+        [
+          null,
+          "And the earth shall know —"
+        ],
+        [
+          null,
+          "As waters cover the endless sea"
+        ],
+        [
+          null,
+          "Every soul will grow"
+        ],
+        [
+          null,
+          "In the light of what shall be"
+        ],
+        [
+          null,
+          "The silence of fear undone"
+        ],
+        [
+          null,
+          "By the dawn of the risen Son"
+        ],
+        [
+          null,
+          "And the earth shall know —"
+        ],
+        [
+          null,
+          "A world remade, a kingdom come"
+        ],
+        [
+          null,
+          "And the lion lies down"
+        ],
+        [
+          null,
+          "And the lamb dreams free"
+        ],
+        [
+          null,
+          "As it was, as it is,"
+        ],
+        [
+          null,
+          "As it always shall be..."
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,277 @@
 {
   "slug": "reversal",
   "title": "Reversal",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "1 Samuel 2:1-10",
   "book": "1 Samuel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "reversal.jpg",
+  "audio": "reversal.mp3",
   "spotify": "https://open.spotify.com/track/6DQmQ1xethHYchp7LZ9699",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273adfcffda8129a9f3d7f48f7e"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "My heart wakes up like morning light"
+        ],
+        [
+          null,
+          "Breaking through a battle night"
+        ],
+        [
+          null,
+          "No crown upon my fragile head"
+        ],
+        [
+          null,
+          "Still You heard the words I said"
+        ],
+        [
+          null,
+          "They build their towers to the sky"
+        ],
+        [
+          null,
+          "Counting power, measuring pride"
+        ],
+        [
+          null,
+          "But I was trembling on my knees"
+        ],
+        [
+          null,
+          "Learning strength is dependency"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "The world exalts the iron fist"
+        ],
+        [
+          null,
+          "But You lean close to brokenness"
+        ],
+        [
+          null,
+          "The proud parade in armour bright"
+        ],
+        [
+          null,
+          "But You are found in surrender’s white"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "You break the bow of the mighty"
+        ],
+        [
+          null,
+          "You lift the low from the dust"
+        ],
+        [
+          null,
+          "You crown the quiet with mercy"
+        ],
+        [
+          null,
+          "You turn the strong into trust"
+        ],
+        [
+          null,
+          "You raise the poor from the ashes"
+        ],
+        [
+          null,
+          "Seat them where kings would rise"
+        ],
+        [
+          null,
+          "The throne belongs to the humble"
+        ],
+        [
+          null,
+          "And the hungry inherit the skies"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I’ve seen the full go begging bread"
+        ],
+        [
+          null,
+          "And empty hands by grace be fed"
+        ],
+        [
+          null,
+          "I’ve watched the loudest voices fall"
+        ],
+        [
+          null,
+          "While whispers shook the marble halls"
+        ],
+        [
+          null,
+          "No one wins by standing tall"
+        ],
+        [
+          null,
+          "If heaven bends to hear the small"
+        ],
+        [
+          null,
+          "The barren sings, the weary stand"
+        ],
+        [
+          null,
+          "Life is written in scarred hands"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "The scales tilt toward the least of these"
+        ],
+        [
+          null,
+          "The last become the legacy"
+        ],
+        [
+          null,
+          "The shattered bones are wrapped in light"
+        ],
+        [
+          null,
+          "And weakness learns its right to fight"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "You break the bow of the mighty"
+        ],
+        [
+          null,
+          "You lift the low from the dust"
+        ],
+        [
+          null,
+          "You crown the quiet with mercy"
+        ],
+        [
+          null,
+          "You turn the strong into trust"
+        ],
+        [
+          null,
+          "You raise the poor from the ashes"
+        ],
+        [
+          null,
+          "Seat them where kings would rise"
+        ],
+        [
+          null,
+          "The throne belongs to the humble"
+        ],
+        [
+          null,
+          "And the hungry inherit the skies"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "No sword can hold what You decree"
+        ],
+        [
+          null,
+          "No throne can steal eternity"
+        ],
+        [
+          null,
+          "The pillars of the earth are Yours"
+        ],
+        [
+          null,
+          "You set the weak before the war"
+        ],
+        [
+          null,
+          "Adversaries fade like flame"
+        ],
+        [
+          null,
+          "Power trembles at Your name"
+        ],
+        [
+          null,
+          "Not by might and not by fame"
+        ],
+        [
+          null,
+          "But by surrender we are changed"
+        ],
+        [
+          null,
+          "[Final Chorus]"
+        ],
+        [
+          null,
+          "You break the bow of the mighty"
+        ],
+        [
+          null,
+          "You lift the low from the dust"
+        ],
+        [
+          null,
+          "You crown the quiet with mercy"
+        ],
+        [
+          null,
+          "You turn the strong into trust"
+        ],
+        [
+          null,
+          "You raise the poor from the ashes"
+        ],
+        [
+          null,
+          "Seat them where kings would rise"
+        ],
+        [
+          null,
+          "The throne belongs to the humble"
+        ],
+        [
+          null,
+          "And the hungry inherit the skies"
+        ],
+        [
+          null,
+          "Yes, the hungry inherit the skies"
+        ]
+      ]
+    }
+  ]
 }

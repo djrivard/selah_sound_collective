@@ -1,12 +1,197 @@
 {
   "slug": "the-road-before-you",
   "title": "The Road Before You",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Deut. 30:19-20",
   "book": "Deuteronomy",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-road-before-you.jpg",
+  "audio": "the-road-before-you.mp3",
   "spotify": "https://open.spotify.com/track/3omxjMFD6bI83krwfAUVOY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733c637f34d4b6cbde817b5228"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Soft Piano, Reverb Guitars]"
+        ],
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "One path rises, the air is clear"
+        ],
+        [
+          null,
+          "Sunlight dancing, the way is near"
+        ],
+        [
+          null,
+          "The other fades in hollow night"
+        ],
+        [
+          null,
+          "Cold winds whisper, stealing light"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "A voice is calling through the haze"
+        ],
+        [
+          null,
+          "One way leads, one way decays"
+        ],
+        [
+          null,
+          "The fire burns, the river flows"
+        ],
+        [
+          null,
+          "Which road you take, your future knows"
+        ],
+        [
+          null,
+          "[Chorus, Expansive, Uplifting]"
+        ],
+        [
+          null,
+          "I set before you life or dust"
+        ],
+        [
+          null,
+          "One is hope, one turns to rust"
+        ],
+        [
+          null,
+          "Choose the fire, choose the breath"
+        ],
+        [
+          null,
+          "Or fade into the hands of death"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "Blessings bloom where waters run"
+        ],
+        [
+          null,
+          "The fields rejoice beneath the sun"
+        ],
+        [
+          null,
+          "The sky will open, the rain will fall"
+        ],
+        [
+          null,
+          "If you choose to heed the call"
+        ],
+        [
+          null,
+          "But curse the ground, let sorrow grow"
+        ],
+        [
+          null,
+          "If love is left, if truth is cold"
+        ],
+        [
+          null,
+          "The stars will darken, winds will wail"
+        ],
+        [
+          null,
+          "If you turn and lose the trail"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "A voice is calling through the haze"
+        ],
+        [
+          null,
+          "One way leads, one way decays"
+        ],
+        [
+          null,
+          "The fire burns, the river flows"
+        ],
+        [
+          null,
+          "Which road you take, your future knows"
+        ],
+        [
+          null,
+          "[Chorus, Expansive, Uplifting]"
+        ],
+        [
+          null,
+          "I set before you life or dust"
+        ],
+        [
+          null,
+          "One is hope, one turns to rust"
+        ],
+        [
+          null,
+          "Choose the fire, choose the breath"
+        ],
+        [
+          null,
+          "Or fade into the hands of death"
+        ],
+        [
+          null,
+          "[Bridge, Instrumental Build, Ethereal Harmonies]"
+        ],
+        [
+          null,
+          "[Breakdown, Stripped-Down Vocals, Soft Piano]"
+        ],
+        [
+          null,
+          "Stand before the parting tide"
+        ],
+        [
+          null,
+          "One road falls, one road climbs"
+        ],
+        [
+          null,
+          "[Final Chorus, Soaring and Climactic]"
+        ],
+        [
+          null,
+          "I set before you life or dust"
+        ],
+        [
+          null,
+          "One is hope, one turns to rust"
+        ],
+        [
+          null,
+          "Choose the fire, choose the breath"
+        ],
+        [
+          null,
+          "Or fade into the hands of death"
+        ],
+        [
+          null,
+          "[Outro, Echoing Guitar, Soft Synths]"
+        ]
+      ]
+    }
+  ]
 }

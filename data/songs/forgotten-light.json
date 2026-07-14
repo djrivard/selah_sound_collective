@@ -1,12 +1,153 @@
 {
   "slug": "forgotten-light",
   "title": "Forgotten Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "",
   "book": "Standalone",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "forgotten-light.jpg",
+  "audio": "forgotten-light.mp3",
   "spotify": "https://open.spotify.com/track/3AhbRlzkcEiTlYTKtPdVD3",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273bb838eaadd766d6f24e5ec82"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "There’s dust on the pages, a hush in the hall,"
+        ],
+        [
+          null,
+          "The words we were given, forgotten by all."
+        ],
+        [
+          null,
+          "We chase every light that flickers and fades,"
+        ],
+        [
+          null,
+          "And call it our truth, though it leads us astray."
+        ],
+        [
+          null,
+          "He said, “My people perish for lack of knowledge,”"
+        ],
+        [
+          null,
+          "But still we wander blind."
+        ],
+        [
+          null,
+          "We traded His fire for our own reflection,"
+        ],
+        [
+          null,
+          "And left our hearts behind."
+        ],
+        [
+          null,
+          "There is a famine—not of bread, nor thirst for water,"
+        ],
+        [
+          null,
+          "But for hearing the Word of the Lord."
+        ],
+        [
+          null,
+          "We run through the noise and call it living,"
+        ],
+        [
+          null,
+          "Starving with our souls ignored."
+        ],
+        [
+          null,
+          "We sing about love, but forget its Giver,"
+        ],
+        [
+          null,
+          "Turn mercy to something we sell."
+        ],
+        [
+          null,
+          "We speak of grace like a story remembered,"
+        ],
+        [
+          null,
+          "But live like we built heaven ourselves."
+        ],
+        [
+          null,
+          "He said, “You’ve forgotten My law, I’ll forget your sons,”"
+        ],
+        [
+          null,
+          "And the echo breaks like rain."
+        ],
+        [
+          null,
+          "Yet even in the ache of silence,"
+        ],
+        [
+          null,
+          "I hear His voice again."
+        ],
+        [
+          null,
+          "There is a famine—not of bread, nor thirst for water,"
+        ],
+        [
+          null,
+          "But for hearing the Word of the Lord."
+        ],
+        [
+          null,
+          "We drink from wells that run to nothing,"
+        ],
+        [
+          null,
+          "And wonder what we’re thirsty for."
+        ],
+        [
+          null,
+          "The stars still whisper His name in the dark,"
+        ],
+        [
+          null,
+          "The wind still carries His word."
+        ],
+        [
+          null,
+          "It’s not that He’s gone—it’s we who have drifted,"
+        ],
+        [
+          null,
+          "Forgetting the voice we heard."
+        ],
+        [
+          null,
+          "There is a famine—not of bread, nor thirst for water,"
+        ],
+        [
+          null,
+          "But for hearing the Word of the Lord."
+        ],
+        [
+          null,
+          "Yet grace still waits in the quiet morning,"
+        ],
+        [
+          null,
+          "calling every heart restored."
+        ],
+        [
+          null,
+          "When the Word returns like a long-lost friend,"
+        ],
+        [
+          null,
+          "Will we know how to listen again?"
+        ]
+      ]
+    }
+  ]
 }

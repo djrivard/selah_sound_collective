@@ -1,12 +1,213 @@
 {
   "slug": "under-the-fig-tree",
   "title": "Under The Fig Tree",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "John 1:48-51",
   "book": "John",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "under-the-fig-tree.jpg",
+  "audio": "under-the-fig-tree.mp3",
   "spotify": "https://open.spotify.com/track/0Zxo8f71gAo0iG0bWKDL1I",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734918b9f809ec8c694d99e5fe"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "In the hush before the morning breaks"
+        ],
+        [
+          null,
+          "In the shadows no one else could trace"
+        ],
+        [
+          null,
+          "I was still, unseen, unnamed"
+        ],
+        [
+          null,
+          "But You were there, and You knew my name"
+        ],
+        [
+          null,
+          "A whisper rose beneath the leaves"
+        ],
+        [
+          null,
+          "A breath that stirred eternity"
+        ],
+        [
+          null,
+          "Before the words had left my tongue"
+        ],
+        [
+          null,
+          "You said, \"I saw you where you’d come from\""
+        ],
+        [
+          null,
+          "Under the fig tree, I was known"
+        ],
+        [
+          null,
+          "Not by men, but by the One alone"
+        ],
+        [
+          null,
+          "No mask, no shield, no veiling light"
+        ],
+        [
+          null,
+          "You saw my soul, and called it right"
+        ],
+        [
+          null,
+          "Under the fig tree, all was still"
+        ],
+        [
+          null,
+          "But You moved first, and You always will"
+        ],
+        [
+          null,
+          "Before the world had time to see"
+        ],
+        [
+          null,
+          "You had already chosen me"
+        ],
+        [
+          null,
+          "The sky was heavy with the unseen stars"
+        ],
+        [
+          null,
+          "And still You reached into my heart"
+        ],
+        [
+          null,
+          "No résumé, no grand acclaim"
+        ],
+        [
+          null,
+          "Yet still You whispered out my name"
+        ],
+        [
+          null,
+          "Where silence wept and roots ran deep"
+        ],
+        [
+          null,
+          "You spoke of heavens opened, free"
+        ],
+        [
+          null,
+          "A ladder stretched from earth to fire"
+        ],
+        [
+          null,
+          "You called me up — You called me higher"
+        ],
+        [
+          null,
+          "Under the fig tree, I was known"
+        ],
+        [
+          null,
+          "Not by sight, but by the One alone"
+        ],
+        [
+          null,
+          "Before the earth could spell my worth"
+        ],
+        [
+          null,
+          "You’d written love across my birth"
+        ],
+        [
+          null,
+          "Under the fig tree, still and small"
+        ],
+        [
+          null,
+          "You met me there — You knew it all"
+        ],
+        [
+          null,
+          "Before the curtain rose for me"
+        ],
+        [
+          null,
+          "You were already on your knees"
+        ],
+        [
+          null,
+          "No corner too quiet"
+        ],
+        [
+          null,
+          "No moment too soon"
+        ],
+        [
+          null,
+          "You saw through the stillness"
+        ],
+        [
+          null,
+          "And sang me in tune"
+        ],
+        [
+          null,
+          "You knew the map"
+        ],
+        [
+          null,
+          "Though I hadn’t moved"
+        ],
+        [
+          null,
+          "You saw the fig tree"
+        ],
+        [
+          null,
+          "And You saw through"
+        ],
+        [
+          null,
+          "Under the fig tree, I was known"
+        ],
+        [
+          null,
+          "Where heaven's eyes had made me home"
+        ],
+        [
+          null,
+          "Before the noise, before the crown"
+        ],
+        [
+          null,
+          "You lifted me without a sound"
+        ],
+        [
+          null,
+          "Under the fig tree, unashamed"
+        ],
+        [
+          null,
+          "No hiding left, no need for fame"
+        ],
+        [
+          null,
+          "Just You and I, and sacred ground"
+        ],
+        [
+          null,
+          "Where I was lost — and now I’m found"
+        ],
+        [
+          null,
+          "You saw me there… You see me still"
+        ]
+      ]
+    }
+  ]
 }

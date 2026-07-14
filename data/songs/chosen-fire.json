@@ -1,12 +1,161 @@
 {
   "slug": "chosen-fire",
   "title": "Chosen Fire",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "",
   "book": "Standalone",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "chosen-fire.jpg",
+  "audio": "chosen-fire.mp3",
   "spotify": "https://open.spotify.com/track/7nYMZ9nAv1xpAhhUeCJ3gx",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273de5023c4b80616ccaa374eba"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "We built our altars out of smoke and gold,"
+        ],
+        [
+          null,
+          "Sang our hymns but our hearts grew cold."
+        ],
+        [
+          null,
+          "He whispers truth beneath the flame"
+        ],
+        [
+          null,
+          "Love is not safe, but it’s not to blame."
+        ],
+        [
+          null,
+          "And in the hush, I hear Him call,"
+        ],
+        [
+          null,
+          "Through crumbling walls, through it all."
+        ],
+        [
+          null,
+          "Judgment begins in the house of His name,"
+        ],
+        [
+          null,
+          "Not wrath, but mercy wrapped in flame."
+        ],
+        [
+          null,
+          "Chosen hearts must learn the cost,"
+        ],
+        [
+          null,
+          "To find what’s pure, we face what’s lost."
+        ],
+        [
+          null,
+          "Judgment begins in the house of His name."
+        ],
+        [
+          null,
+          "The fire doesn’t fall to wound,"
+        ],
+        [
+          null,
+          "It falls to clear what we’ve entombed."
+        ],
+        [
+          null,
+          "He breaks the pride that hides as peace,"
+        ],
+        [
+          null,
+          "To teach the weary soul release."
+        ],
+        [
+          null,
+          "I see my shadow in the glass,"
+        ],
+        [
+          null,
+          "And pray this burning pain will pass."
+        ],
+        [
+          null,
+          "The prophets wept for love, not hate,"
+        ],
+        [
+          null,
+          "Their tears became the flood of fate."
+        ],
+        [
+          null,
+          "He said, “Of all, you I have known,”"
+        ],
+        [
+          null,
+          "So I will bow where seeds are sown."
+        ],
+        [
+          null,
+          "Refine me, Lord, within this pain"
+        ],
+        [
+          null,
+          "Let judgment cleanse, not just explain."
+        ],
+        [
+          null,
+          "Not to destroy, but to renew,"
+        ],
+        [
+          null,
+          "The holy fire is mercy’s hue."
+        ],
+        [
+          null,
+          "If we are known, then we are tried,"
+        ],
+        [
+          null,
+          "The ones He loves, He sanctifies."
+        ],
+        [
+          null,
+          "Judgment begins in the house of His name,"
+        ],
+        [
+          null,
+          "Not curse, but covenant flame."
+        ],
+        [
+          null,
+          "Every scar is a vow reborn,"
+        ],
+        [
+          null,
+          "Every loss, a field still warm."
+        ],
+        [
+          null,
+          "Judgment begins in the house of His name."
+        ],
+        [
+          null,
+          "And when the embers lose their light,"
+        ],
+        [
+          null,
+          "We’ll stand refined, but not contrite."
+        ],
+        [
+          null,
+          "Still trembling, still the same"
+        ],
+        [
+          null,
+          "Still loved, within the house of His name."
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,169 @@
 {
   "slug": "tongues-of-shinar",
   "title": "Tongues Of Shinar",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Genesis 11",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "tongues-of-shinar.jpg",
+  "audio": "tongues-of-shinar.mp3",
   "spotify": "https://open.spotify.com/track/51fPDTPoU2sMWEGLWpJQvc",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c458e46fbbcd02715befafa7"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the valley where the rivers sleep"
+        ],
+        [
+          null,
+          "We stacked our prayers in bricks and dreams"
+        ],
+        [
+          null,
+          "Climbed the hush between stars and steam"
+        ],
+        [
+          null,
+          "To write our names in skybound seams"
+        ],
+        [
+          null,
+          "Our breath became one burning sound"
+        ],
+        [
+          null,
+          "Each stone a wish, each rung unbound"
+        ],
+        [
+          null,
+          "But heights can hum a jealous hymn"
+        ],
+        [
+          null,
+          "And silence speaks where light grows dim"
+        ],
+        [
+          null,
+          "We built to be remembered, not to see"
+        ],
+        [
+          null,
+          "The cost of one great unity"
+        ],
+        [
+          null,
+          "And all at once the words went wild"
+        ],
+        [
+          null,
+          "Tongues turned to rivers running blind"
+        ],
+        [
+          null,
+          "We sang and no one understood"
+        ],
+        [
+          null,
+          "Like thunder lost in driftwood blood"
+        ],
+        [
+          null,
+          "Our tower cracked beneath the sun—"
+        ],
+        [
+          null,
+          "But oh, the beauty in the undone"
+        ],
+        [
+          null,
+          "We scattered like a rain of seeds"
+        ],
+        [
+          null,
+          "Carried by winds we’d never meet"
+        ],
+        [
+          null,
+          "Language split like mirrored glass"
+        ],
+        [
+          null,
+          "Reflecting all we could surpass"
+        ],
+        [
+          null,
+          "Some call it curse, some call it grace"
+        ],
+        [
+          null,
+          "To speak alone in sacred space"
+        ],
+        [
+          null,
+          "But every tongue still holds the trace"
+        ],
+        [
+          null,
+          "Of Babel’s ash in every phrase"
+        ],
+        [
+          null,
+          "The voice of many makes the flame"
+        ],
+        [
+          null,
+          "The broken word still calls a name"
+        ],
+        [
+          null,
+          "Not ruin, but a world re-spun"
+        ],
+        [
+          null,
+          "Not ending—just the chords begun"
+        ],
+        [
+          null,
+          "And all at once, the tongues were torn"
+        ],
+        [
+          null,
+          "Yet from that storm, new songs were born"
+        ],
+        [
+          null,
+          "We danced in dialects unknown"
+        ],
+        [
+          null,
+          "Still carving meaning out of stone"
+        ],
+        [
+          null,
+          "The tower fell, but not in vain—"
+        ],
+        [
+          null,
+          "We found the stars inside the rain"
+        ],
+        [
+          null,
+          "The sky was never meant to cage"
+        ],
+        [
+          null,
+          "The voice was always meant to change"
+        ],
+        [
+          null,
+          "Scatterlight on every shore—"
+        ],
+        [
+          null,
+          "Still building something evermore"
+        ]
+      ]
+    }
+  ]
 }

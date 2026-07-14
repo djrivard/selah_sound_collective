@@ -1,12 +1,225 @@
 {
   "slug": "rise-like-eagles",
   "title": "Rise Like Eagles",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Isaiah 40",
   "book": "Isaiah",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rise-like-eagles.jpg",
+  "audio": "rise-like-eagles.mp3",
   "spotify": "https://open.spotify.com/track/3vneD8wkmPJh8WAYRC5s9B",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732d4505a466453ca429948776"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro]"
+        ],
+        [
+          null,
+          "In the quiet before the dawn,"
+        ],
+        [
+          null,
+          "A whisper stirs the soul,"
+        ],
+        [
+          null,
+          "A promise of a brand-new day,"
+        ],
+        [
+          null,
+          "Where broken hearts are made whole."
+        ],
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "In the stillness of the waiting,"
+        ],
+        [
+          null,
+          "Under skies of endless blue,"
+        ],
+        [
+          null,
+          "Hope ignites a burning fire,"
+        ],
+        [
+          null,
+          "And dreams begin to break through."
+        ],
+        [
+          null,
+          "Every trial, every sorrow,"
+        ],
+        [
+          null,
+          "Transforms into a guiding light,"
+        ],
+        [
+          null,
+          "As the wind lifts every spirit,"
+        ],
+        [
+          null,
+          "Into the arms of endless flight."
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "When the weight of the world grows heavy,"
+        ],
+        [
+          null,
+          "And shadows dim the day,"
+        ],
+        [
+          null,
+          "Listen to that gentle calling,"
+        ],
+        [
+          null,
+          "That shows you the way."
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "But they who wait for the Lord shall renew their strength;"
+        ],
+        [
+          null,
+          "They shall mount up with wings like eagles;"
+        ],
+        [
+          null,
+          "They shall run and not be weary;"
+        ],
+        [
+          null,
+          "They shall walk and not faint."
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "Step by step, the journey’s calling,"
+        ],
+        [
+          null,
+          "Through valleys deep and high,"
+        ],
+        [
+          null,
+          "Every heartbeat fuels the vision,"
+        ],
+        [
+          null,
+          "Of soaring into the sky."
+        ],
+        [
+          null,
+          "Let the echoes of resilience"
+        ],
+        [
+          null,
+          "Carry you beyond the night,"
+        ],
+        [
+          null,
+          "Embrace the rising radiance,"
+        ],
+        [
+          null,
+          "That turns darkness into light."
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "Lift your eyes above the tempest,"
+        ],
+        [
+          null,
+          "Feel the power deep inside,"
+        ],
+        [
+          null,
+          "With every breath, you’re reborn anew,"
+        ],
+        [
+          null,
+          "On wings of hope you’ll ride."
+        ],
+        [
+          null,
+          "The storms may rage, but you remain,"
+        ],
+        [
+          null,
+          "A soul that will not break,"
+        ],
+        [
+          null,
+          "For in the calm after the chaos,"
+        ],
+        [
+          null,
+          "A new strength you will awake."
+        ],
+        [
+          null,
+          "[Chorus – Reprise]"
+        ],
+        [
+          null,
+          "But they who wait for the Lord shall renew their strength;"
+        ],
+        [
+          null,
+          "They shall mount up with wings like eagles;"
+        ],
+        [
+          null,
+          "They shall run and not be weary;"
+        ],
+        [
+          null,
+          "They shall walk and not faint."
+        ],
+        [
+          null,
+          "[Outro]"
+        ],
+        [
+          null,
+          "So let your spirit rise and soar,"
+        ],
+        [
+          null,
+          "Beyond the limits of despair,"
+        ],
+        [
+          null,
+          "In every step, find the courage,"
+        ],
+        [
+          null,
+          "To spread your wings out there."
+        ]
+      ]
+    }
+  ]
 }

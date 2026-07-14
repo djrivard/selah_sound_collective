@@ -1,12 +1,205 @@
 {
   "slug": "you-are-with-me",
   "title": "You Are With Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 23",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "you-are-with-me.jpg",
+  "audio": "you-are-with-me.mp3",
   "spotify": "https://open.spotify.com/track/4deGLpwPb01mZYr9I9EgY5",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737380a05f54eaa9768720dde9"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1 — Soft]"
+        ],
+        [
+          null,
+          "You are the Shepherd, I will not want"
+        ],
+        [
+          null,
+          "You lead me down to water that is still"
+        ],
+        [
+          null,
+          "You lay me in the green of quiet pastures"
+        ],
+        [
+          null,
+          "You restore the parts of me that time can't heal"
+        ],
+        [
+          null,
+          "[Pre-Chorus — Building]"
+        ],
+        [
+          null,
+          "I don't know the road that lies before me"
+        ],
+        [
+          null,
+          "But I know the hand that holds me as I go"
+        ],
+        [
+          null,
+          "Every shadow starts to soften —"
+        ],
+        [
+          null,
+          "[Chorus — Emotional]"
+        ],
+        [
+          null,
+          "Oh, I walk through the valley of the shadow"
+        ],
+        [
+          null,
+          "And I fear no evil — You are with me"
+        ],
+        [
+          null,
+          "Your rod and staff are a language of mercy"
+        ],
+        [
+          null,
+          "And I fear no evil — You are with me"
+        ],
+        [
+          null,
+          "Oh, You are with me"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "You set a table where my enemies are watching"
+        ],
+        [
+          null,
+          "You anoint my head with oil and with grace"
+        ],
+        [
+          null,
+          "My cup is an ocean always overflowing"
+        ],
+        [
+          null,
+          "Every hunger finds its quiet in this place"
+        ],
+        [
+          null,
+          "[Pre-Chorus — Building]"
+        ],
+        [
+          null,
+          "I don't know what's waiting in the morning"
+        ],
+        [
+          null,
+          "But I know the One who calls me by my name"
+        ],
+        [
+          null,
+          "Every shadow starts to whisper —"
+        ],
+        [
+          null,
+          "[Chorus — Belted]"
+        ],
+        [
+          null,
+          "Oh, I walk through the valley of the shadow"
+        ],
+        [
+          null,
+          "And I fear no evil — You are with me"
+        ],
+        [
+          null,
+          "Your rod and staff are a language of mercy"
+        ],
+        [
+          null,
+          "And I fear no evil — You are with me"
+        ],
+        [
+          null,
+          "Oh, You are with me"
+        ],
+        [
+          null,
+          "[Bridge — Soft, then Building]"
+        ],
+        [
+          null,
+          "Goodness, mercy, walking right behind me"
+        ],
+        [
+          null,
+          "All my days, all my days"
+        ],
+        [
+          null,
+          "And the house of love is holding me, is holding me"
+        ],
+        [
+          null,
+          "The home I've always known"
+        ],
+        [
+          null,
+          "Oh, the home I've always known"
+        ],
+        [
+          null,
+          "[Chorus — Lifted, Full Production]"
+        ],
+        [
+          null,
+          "Oh, I walk through the valley of the shadow"
+        ],
+        [
+          null,
+          "And I fear no evil — You are with me"
+        ],
+        [
+          null,
+          "Though I walk, though I walk through the shadow"
+        ],
+        [
+          null,
+          "I will fear no evil — You are with me"
+        ],
+        [
+          null,
+          "Oh, You are with me"
+        ],
+        [
+          null,
+          "[Outro — Intimate]"
+        ],
+        [
+          null,
+          "Surely goodness, surely mercy"
+        ],
+        [
+          null,
+          "Following me all my days"
+        ],
+        [
+          null,
+          "I will dwell in the house of light"
+        ],
+        [
+          null,
+          "I will dwell in the light of Your grace"
+        ]
+      ]
+    }
+  ]
 }

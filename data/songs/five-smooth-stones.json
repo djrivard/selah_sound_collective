@@ -1,12 +1,277 @@
 {
   "slug": "five-smooth-stones",
   "title": "Five Smooth Stones",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "",
   "book": "1 Samuel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "five-smooth-stones.jpg",
+  "audio": "five-smooth-stones.mp3",
   "spotify": "https://open.spotify.com/track/604GmVjbaWC9qwTixv44cX",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733e7521c1da10520c023b1059"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Valley air, thick with dread"
+        ],
+        [
+          null,
+          "Whispers creep inside my head"
+        ],
+        [
+          null,
+          "Shadow stretched, a mountain tall"
+        ],
+        [
+          null,
+          "Making giants of us all"
+        ],
+        [
+          null,
+          "They count the spears, the glint of steel"
+        ],
+        [
+          null,
+          "Don't know the quiet strength I feel"
+        ],
+        [
+          null,
+          "Just a shepherd, out of place"
+        ],
+        [
+          null,
+          "Doubt etched on every face"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "But the brook sings a different tune"
+        ],
+        [
+          null,
+          "Underneath this pale, cold moon"
+        ],
+        [
+          null,
+          "Washing over fear's design"
+        ],
+        [
+          null,
+          "A steady heart, a faith that's mine"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "This would make the best chorus)"
+        ],
+        [
+          null,
+          "Five smooth stones, in the hollow of my hand"
+        ],
+        [
+          null,
+          "Not by might, but where I stand"
+        ],
+        [
+          null,
+          "Hear the silence, hold your breath"
+        ],
+        [
+          null,
+          "Facing down the face of death"
+        ],
+        [
+          null,
+          "Five smooth stones, a whisper and a prayer"
+        ],
+        [
+          null,
+          "Cutting through the thickened air"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Armor heavy, not my own"
+        ],
+        [
+          null,
+          "This battle's fought with what I've known"
+        ],
+        [
+          null,
+          "The open sky, the flock I lead"
+        ],
+        [
+          null,
+          "Planting an unlikely seed"
+        ],
+        [
+          null,
+          "They see a boy, too small to fight"
+        ],
+        [
+          null,
+          "Don't see the fire, burning bright"
+        ],
+        [
+          null,
+          "This giant roars, a thunderous sound"
+        ],
+        [
+          null,
+          "But my feet are firm on hallowed ground"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "And the wind carries something new"
+        ],
+        [
+          null,
+          "A quiet strength, about to break through"
+        ],
+        [
+          null,
+          "Washing over doubt's dark stain"
+        ],
+        [
+          null,
+          "A steady hand, a loosed refrain"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Five smooth stones, in the hollow of my hand"
+        ],
+        [
+          null,
+          "Not by might, but where I stand"
+        ],
+        [
+          null,
+          "Hear the silence, hold your breath"
+        ],
+        [
+          null,
+          "Facing down the face of death"
+        ],
+        [
+          null,
+          "Five smooth stones, a whisper and a prayer"
+        ],
+        [
+          null,
+          "Cutting through the thickened air"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "One small sling, a single aim"
+        ],
+        [
+          null,
+          "More than muscle, more than name"
+        ],
+        [
+          null,
+          "It's the beat inside, the will to rise"
+        ],
+        [
+          null,
+          "Reflected in these hopeful eyes"
+        ],
+        [
+          null,
+          "The world may laugh, the odds may scream"
+        ],
+        [
+          null,
+          "But I'm living out a bigger dream"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Five smooth stones, in the hollow of my hand"
+        ],
+        [
+          null,
+          "Not by might, but where I stand"
+        ],
+        [
+          null,
+          "Hear the silence, hold your breath"
+        ],
+        [
+          null,
+          "Facing down the face of death"
+        ],
+        [
+          null,
+          "Five smooth stones, a whisper and a prayer"
+        ],
+        [
+          null,
+          "Cutting through the thickened air"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Stone flies true..."
+        ],
+        [
+          null,
+          "Silence falls..."
+        ],
+        [
+          null,
+          "Echoes in the valley walls..."
+        ],
+        [
+          null,
+          "Giant fall..."
+        ],
+        [
+          null,
+          "Giant fall..."
+        ],
+        [
+          null,
+          "Just a whisper... after all."
+        ]
+      ]
+    }
+  ]
 }

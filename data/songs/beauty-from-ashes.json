@@ -1,12 +1,265 @@
 {
   "slug": "beauty-from-ashes",
   "title": "Beauty From Ashes",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Isaiah 61:3",
   "book": "Isaiah",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "beauty-from-ashes.jpg",
+  "audio": "beauty-from-ashes.mp3",
   "spotify": "https://open.spotify.com/track/4jwvgmjUsyUMw0uBG2u6XT",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27370ddf91caf1de832fa21c1f8"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[verse 1]"
+        ],
+        [
+          null,
+          "Ash in the air, I breathe it in slow"
+        ],
+        [
+          null,
+          "Ghost of the fire still under my clothes"
+        ],
+        [
+          null,
+          "I built my grief into towers of smoke"
+        ],
+        [
+          null,
+          "But something inside wouldn’t choke"
+        ],
+        [
+          null,
+          "[guitar swell]"
+        ],
+        [
+          null,
+          "[ambient pulse enters]"
+        ],
+        [
+          null,
+          "[verse 2]"
+        ],
+        [
+          null,
+          "I heard a voice in the ruin and haze"
+        ],
+        [
+          null,
+          "Not loud, not sharp—just a shimmer of grace"
+        ],
+        [
+          null,
+          "It whispered, *“You’re more than what’s burned,”*"
+        ],
+        [
+          null,
+          "And somewhere inside me, something turned"
+        ],
+        [
+          null,
+          "[chorus]"
+        ],
+        [
+          null,
+          "You gave me beauty from ashes"
+        ],
+        [
+          null,
+          "Not loud, not bright—just true"
+        ],
+        [
+          null,
+          "A crown made of silence and sadness,"
+        ],
+        [
+          null,
+          "Now wearing the weight like new"
+        ],
+        [
+          null,
+          "You turned the wreck into refuge"
+        ],
+        [
+          null,
+          "Where I saw only end"
+        ],
+        [
+          null,
+          "You gave me beauty from ashes"
+        ],
+        [
+          null,
+          "And I began again"
+        ],
+        [
+          null,
+          "[instrumental drop — strings rise]"
+        ],
+        [
+          null,
+          "[verse 3]"
+        ],
+        [
+          null,
+          "I held the night like a wound in my palm"
+        ],
+        [
+          null,
+          "Now it bleeds light, slow and calm"
+        ],
+        [
+          null,
+          "The scars don't beg to disappear"
+        ],
+        [
+          null,
+          "They speak of the flames that led me here"
+        ],
+        [
+          null,
+          "[bridge — layered vocal textures]"
+        ],
+        [
+          null,
+          "[spoken/faintly sung]"
+        ],
+        [
+          null,
+          "Ashes fall like holy rain"
+        ],
+        [
+          null,
+          "Covering what I couldn’t explain"
+        ],
+        [
+          null,
+          "But in the black, there bloomed a name—"
+        ],
+        [
+          null,
+          "\"Beloved,\" carved into the flame"
+        ],
+        [
+          null,
+          "[pre-chorus variation]"
+        ],
+        [
+          null,
+          "Still broken, still breathing, still bound to this skin"
+        ],
+        [
+          null,
+          "But there’s gold in the cracks I’ve been living in"
+        ],
+        [
+          null,
+          "[chorus — deeper, more intense]"
+        ],
+        [
+          null,
+          "You gave me beauty from ashes"
+        ],
+        [
+          null,
+          "A whisper louder than pain"
+        ],
+        [
+          null,
+          "Joy that doesn’t erase it"
+        ],
+        [
+          null,
+          "But gives the sorrow a name"
+        ],
+        [
+          null,
+          "You turned my mourning to meaning"
+        ],
+        [
+          null,
+          "Not perfect, but real and wide—"
+        ],
+        [
+          null,
+          "You gave me beauty from ashes,"
+        ],
+        [
+          null,
+          "And I won’t ever hide"
+        ],
+        [
+          null,
+          "[outro — guitar rings, synths dissolve]"
+        ],
+        [
+          null,
+          "[soft vocal]"
+        ],
+        [
+          null,
+          "If I am smoke, then You are the wind"
+        ],
+        [
+          null,
+          "If I am ruin, You move within"
+        ],
+        [
+          null,
+          "Ashes don’t bury, they bloom"
+        ],
+        [
+          null,
+          "And I am proof"
+        ],
+        [
+          null,
+          "[chorus — deeper, more intense]"
+        ],
+        [
+          null,
+          "You gave me beauty from ashes"
+        ],
+        [
+          null,
+          "A whisper louder than pain"
+        ],
+        [
+          null,
+          "Joy that doesn’t erase it"
+        ],
+        [
+          null,
+          "But gives the sorrow a name"
+        ],
+        [
+          null,
+          "You turned my mourning to meaning"
+        ],
+        [
+          null,
+          "Not perfect, but real and wide—"
+        ],
+        [
+          null,
+          "You gave me beauty from ashes,"
+        ],
+        [
+          null,
+          "And I won’t ever hide"
+        ],
+        [
+          null,
+          "Ashes don’t bury, they bloom"
+        ],
+        [
+          null,
+          "And I am proof"
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,225 @@
 {
   "slug": "seven-times",
   "title": "Seven Times",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Proverbs 24:16",
   "book": "Proverbs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "seven-times.jpg",
+  "audio": "seven-times.mp3",
   "spotify": "https://open.spotify.com/track/6m0PItDh3jvWF3SFAucFyA",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cbd304e4d19c2c91008a1755"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "They count your scars, they mark your fall,"
+        ],
+        [
+          null,
+          "But they don’t see you standing tall."
+        ],
+        [
+          null,
+          "The fight is real, the nights are long,"
+        ],
+        [
+          null,
+          "But every bruise becomes a song."
+        ],
+        [
+          null,
+          "You’re not the sum of all your slips,"
+        ],
+        [
+          null,
+          "There’s glory in your fingertips."
+        ],
+        [
+          null,
+          "Each stumble just a stepping stone,"
+        ],
+        [
+          null,
+          "To take the crown and claim your own."
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "Every fall rewrites my name"
+        ],
+        [
+          null,
+          "Grace and grit, not guilt or shame."
+        ],
+        [
+          null,
+          "I don’t stay down, I don’t retreat,"
+        ],
+        [
+          null,
+          "The rhythm starts with a heartbeat."
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "I fall, I rise — seven times and more"
+        ],
+        [
+          null,
+          "Knocked down, but I walk through every door"
+        ],
+        [
+          null,
+          "Grace lifts me every time I break"
+        ],
+        [
+          null,
+          "I bend, I burn, but never shake"
+        ],
+        [
+          null,
+          "‘Cause I was made to rise again"
+        ],
+        [
+          null,
+          "Even stronger than I was then"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I've heard the lies that say I'm done,"
+        ],
+        [
+          null,
+          "But every ending fuels the run."
+        ],
+        [
+          null,
+          "The dust don’t mean you’ve lost the war"
+        ],
+        [
+          null,
+          "It’s just the ground you’ll rise up from."
+        ],
+        [
+          null,
+          "Faith ain’t just for mountaintops,"
+        ],
+        [
+          null,
+          "It’s forged in fire when all else stops."
+        ],
+        [
+          null,
+          "So count me out, I’ll prove you wrong,"
+        ],
+        [
+          null,
+          "My weakness makes me twice as strong."
+        ],
+        [
+          null,
+          "[Verse 3]"
+        ],
+        [
+          null,
+          "And when they see me rise once more,"
+        ],
+        [
+          null,
+          "They’ll find their strength inside the storm."
+        ],
+        [
+          null,
+          "My scars will light a better way,"
+        ],
+        [
+          null,
+          "For those who fall but choose to stay."
+        ],
+        [
+          null,
+          "I rise not just for me alone,"
+        ],
+        [
+          null,
+          "But for the ones still crawling home."
+        ],
+        [
+          null,
+          "Each time I stand, I build a road"
+        ],
+        [
+          null,
+          "A legacy of hope I sowed."
+        ],
+        [
+          null,
+          "[Bridge – Rhythmic and Reflective]"
+        ],
+        [
+          null,
+          "Seven steps to hit the ground,"
+        ],
+        [
+          null,
+          "Eight to rise and shake the sound."
+        ],
+        [
+          null,
+          "Failure isn’t where I stay"
+        ],
+        [
+          null,
+          "It’s the forge that clears the way."
+        ],
+        [
+          null,
+          "[Final Chorus – Full Power]"
+        ],
+        [
+          null,
+          "I fall, I rise — seven times and more"
+        ],
+        [
+          null,
+          "Knocked down, but I walk through every door"
+        ],
+        [
+          null,
+          "Grace lifts me every time I break"
+        ],
+        [
+          null,
+          "I bend, I burn, but never shake"
+        ],
+        [
+          null,
+          "‘Cause I was made to rise again"
+        ],
+        [
+          null,
+          "Even stronger than I was then"
+        ],
+        [
+          null,
+          "Even stronger than I was then…"
+        ]
+      ]
+    }
+  ]
 }

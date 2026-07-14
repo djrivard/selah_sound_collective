@@ -1,12 +1,209 @@
 {
   "slug": "by-faith-we-rise",
   "title": "By Faith We Rise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Hebrews 11",
   "book": "Hebrews",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "by-faith-we-rise.jpg",
+  "audio": "by-faith-we-rise.mp3",
   "spotify": "https://open.spotify.com/track/4Gl8kVZRIlackmpNtVxXB1",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736d270ca0605036cb938e8ae5"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Soft guitar arpeggios]"
+        ],
+        [
+          null,
+          "The wind calls out across the ages"
+        ],
+        [
+          null,
+          "Whispers written in the dust"
+        ],
+        [
+          null,
+          "Footsteps tracing sacred pages"
+        ],
+        [
+          null,
+          "Echoing in love and trust"
+        ],
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "Noah built while skies were clear"
+        ],
+        [
+          null,
+          "Mocked by those who stood so near"
+        ],
+        [
+          null,
+          "Still, the waters rose in time"
+        ],
+        [
+          null,
+          "By faith, he walked, by faith, we climb"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "Abraham, a stranger wandering"
+        ],
+        [
+          null,
+          "Left his home for distant land"
+        ],
+        [
+          null,
+          "Not yet knowing, still responding"
+        ],
+        [
+          null,
+          "Held by promise, held by hand"
+        ],
+        [
+          null,
+          "[Pre-Chorus, Rising intensity]"
+        ],
+        [
+          null,
+          "Every fire, every storm"
+        ],
+        [
+          null,
+          "Still, the promise keeps us warm"
+        ],
+        [
+          null,
+          "[Chorus, Anthemic guitars & layered vocals]"
+        ],
+        [
+          null,
+          "Faith is the substance of hope"
+        ],
+        [
+          null,
+          "The proof of things we’ve yet to see"
+        ],
+        [
+          null,
+          "Carried by the hands of our Creator"
+        ],
+        [
+          null,
+          "Through the trials, we believe"
+        ],
+        [
+          null,
+          "[Verse 3]"
+        ],
+        [
+          null,
+          "Moses stood before the waters"
+        ],
+        [
+          null,
+          "Staff in hand, a heart of trust"
+        ],
+        [
+          null,
+          "Though the sea was dark and raging"
+        ],
+        [
+          null,
+          "Still, the waves would part for us"
+        ],
+        [
+          null,
+          "[Verse 4, New Addition]"
+        ],
+        [
+          null,
+          "Walls fell down as trumpets sounded"
+        ],
+        [
+          null,
+          "Voices lifted, fearless cries"
+        ],
+        [
+          null,
+          "Marching strong in holy silence"
+        ],
+        [
+          null,
+          "By faith, they lived, by faith, we rise"
+        ],
+        [
+          null,
+          "[Bridge, Dramatic shift]"
+        ],
+        [
+          null,
+          "They walked through fire, stood unshaken"
+        ],
+        [
+          null,
+          "Roared with courage, never breaking"
+        ],
+        [
+          null,
+          "Not of this world, but of the Light"
+        ],
+        [
+          null,
+          "By faith, they lived, by faith, we rise"
+        ],
+        [
+          null,
+          "[Chorus, Full band explosion]"
+        ],
+        [
+          null,
+          "Faith is the substance of hope"
+        ],
+        [
+          null,
+          "The proof of things we’ve yet to see"
+        ],
+        [
+          null,
+          "Carried by the hands of our Creator"
+        ],
+        [
+          null,
+          "Through the trials, we believe"
+        ],
+        [
+          null,
+          "[Outro, Fading echo]"
+        ],
+        [
+          null,
+          "Through the trials, we believe..."
+        ],
+        [
+          null,
+          "Through the trials, we believe..."
+        ],
+        [
+          null,
+          "By faith, we rise..."
+        ],
+        [
+          null,
+          "By faith, we rise..."
+        ]
+      ]
+    }
+  ]
 }

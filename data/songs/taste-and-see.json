@@ -1,12 +1,102 @@
 {
   "slug": "taste-and-see",
   "title": "Taste and See...",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Genesis 3",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "taste-and-see.jpg",
+  "audio": "taste-and-see.mp3",
   "spotify": "https://open.spotify.com/track/3SD5HhL4BDPyDZ37lDS3g6",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e91061b54db1b38d1adbc95d"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Taste and See…"
+        ]
+      ]
+    },
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Whispered, atmospheric synths, maybe a simple, haunting piano motif) (Sound of soft wind, maybe distant, distorted birdsong)"
+        ],
+        [
+          null,
+          "Breathe in... breathe out..."
+        ],
+        [
+          null,
+          "Used to walk... no doubt..."
+        ],
+        [
+          null,
+          "Cool of the day... close by..."
+        ],
+        [
+          null,
+          "Under an innocent sky..."
+        ],
+        [
+          null,
+          "Emerald light, dappled on skin No hiding then, where do I begin? Felt Your breath in the breeze, heard Your call Knew nothing of rising, believed nothing could fall Walked in the open, bathed in the trust Before the gleam turned desire to dust"
+        ],
+        [
+          null,
+          "Then a shimmer... a scale in the green A voice smooth as water, a sight unforeseen A question planted, a seed taking hold \"Did He really say?\"... a story unfolds A shadow of maybe, a flicker of why Under the surface, beneath the blue sky"
+        ],
+        [
+          null,
+          "He said, \"Taste and see...\" Eyes open, you'll be Like the gods, finally free... Just taste and see..."
+        ],
+        [
+          null,
+          "The branch hanging heavy, a promise so bright Forbidden perfection, bathed in the light My own reflection, I saw in its gleam A world of knowing, a waking dream One single moment, the choice hanging there Between the listening and the breath of cool air"
+        ],
+        [
+          null,
+          "That whisper... it echoes and calls \"Don't you wanna know... beyond these walls?\" The boundary fading, the promise rings true \"Everything changing, starting with you...\" A future imagined, power unknown Standing right here, but feeling alone..."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Stronger, more resonant, fuller instrumentation but still atmospheric) He said, \"Taste and see...\" Eyes open, you'll be Like the gods, finally free... Just taste and see..."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Music becomes more sparse, vulnerable vocal, focus on the immediate aftermath) Then the colour shifted, the air became cold Suddenly saw what I hadn't been told Naked and fragile, shame flooding through Looked for the shadows, hid from the view Heard Your steps walking... knew the sound... But couldn't look up from the cursed ground Pointed the finger, passed on the sting The hollow echo, the broken wing..."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Perhaps layered with ad-libs, a sense of longing or regret, powerful but still ethereal) He said, \"Taste and see...\" (What did I see?) Eyes open, you'll be (Not like I thought I would be...) Like the gods, finally free... (Is this freedom, really?) Just taste and see... (Oh, taste and see...)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Fades out, synth pads swell and decay, returning to intro elements, whispered vocals) See... see... What's become of me... Gate locked behind... flaming sword bright... Walking away... out of the light... Taste and see... taste and see... The memory... echoes in me..."
+        ]
+      ]
+    }
+  ]
 }

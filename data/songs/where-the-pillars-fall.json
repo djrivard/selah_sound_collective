@@ -1,12 +1,215 @@
 {
   "slug": "where-the-pillars-fall",
   "title": "Where the Pillars Fall",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Samson & Delilah",
   "book": "Judges",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "where-the-pillars-fall.jpg",
+  "audio": "where-the-pillars-fall.mp3",
   "spotify": "https://open.spotify.com/track/0x8WxUx6DnEKdShWrNCS9I",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736ce1641e140dac5bde77e756"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "He was born of vow and firelight,"
+        ],
+        [
+          null,
+          "A storm wrapped in a quiet frame."
+        ],
+        [
+          null,
+          "The lion fell beneath his hands,"
+        ],
+        [
+          null,
+          "Yet love would call him by his name."
+        ],
+        [
+          null,
+          "She came with silks and honeyed words,"
+        ],
+        [
+          null,
+          "A shadow draped in garden skin,"
+        ],
+        [
+          null,
+          "Each touch a thread around his soul,"
+        ],
+        [
+          null,
+          "Each kiss a whisper drawing him in."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "By candle breath and lullaby,"
+        ],
+        [
+          null,
+          "She asked him where his secret lay."
+        ],
+        [
+          null,
+          "He laughed, then spoke, then laughed again"
+        ],
+        [
+          null,
+          "Until the truth slipped out to stay."
+        ],
+        [
+          null,
+          "He slept within her braided arms,"
+        ],
+        [
+          null,
+          "Unknowing she had drawn the line."
+        ],
+        [
+          null,
+          "She called the night, and with one blade,"
+        ],
+        [
+          null,
+          "Unraveled all the strength divine."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "And he fell where the pillars fell,"
+        ],
+        [
+          null,
+          "Eyes hollowed by love's deceit."
+        ],
+        [
+          null,
+          "In the silence she sang him to sleep,"
+        ],
+        [
+          null,
+          "In the silence, he kissed defeat."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "She wept behind the silver door,"
+        ],
+        [
+          null,
+          "Her palms still warm with broken trust."
+        ],
+        [
+          null,
+          "She held the coin, but not his grace"
+        ],
+        [
+          null,
+          "Her name now buried in the dust."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Chains rusted where his glory stood,"
+        ],
+        [
+          null,
+          "Mocked beneath the Philistine sky."
+        ],
+        [
+          null,
+          "But from the dark, he felt again"
+        ],
+        [
+          null,
+          "The winds of God begin to rise."
+        ],
+        [
+          null,
+          "He stood between the ancient stones,"
+        ],
+        [
+          null,
+          "Blind, but clear in spirit's cry."
+        ],
+        [
+          null,
+          "A prayer broke from his shattered lips,"
+        ],
+        [
+          null,
+          "\"Let me die with them, let me die.\""
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "– repeat)"
+        ],
+        [
+          null,
+          "And he fell where the pillars fell,"
+        ],
+        [
+          null,
+          "Eyes hollowed by love's deceit."
+        ],
+        [
+          null,
+          "In the silence she sang him to sleep,"
+        ],
+        [
+          null,
+          "In the silence, he kissed defeat."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "– atmospheric, layered vocals / soft fade)"
+        ],
+        [
+          null,
+          "Braids of fate now lost in dust,"
+        ],
+        [
+          null,
+          "A heart betrayed, a temple crushed."
+        ],
+        [
+          null,
+          "But even ruin has its spark"
+        ],
+        [
+          null,
+          "He loved too much, he burned too hard."
+        ]
+      ]
+    }
+  ]
 }

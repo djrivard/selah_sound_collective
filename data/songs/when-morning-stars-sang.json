@@ -1,12 +1,177 @@
 {
   "slug": "when-morning-stars-sang",
   "title": "When Morning Stars Sang",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Job",
   "book": "Job",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "when-morning-stars-sang.jpg",
+  "audio": "when-morning-stars-sang.mp3",
   "spotify": "https://open.spotify.com/track/65BBjjFSHf9mpQy0iYmW0o",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27303e5bbcd8d859fbda7f59733"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Sparse Piano, Distant Echoes]"
+        ],
+        [
+          null,
+          "[Verse 1, Whispered, Haunting]"
+        ],
+        [
+          null,
+          "The sky was empty, no sound, no spark"
+        ],
+        [
+          null,
+          "Before the light tore into the dark"
+        ],
+        [
+          null,
+          "Oceans were waiting, the air held its breath"
+        ],
+        [
+          null,
+          "Then a voice like thunder spoke life into death"
+        ],
+        [
+          null,
+          "[Pre-Chorus, Creeping Beat, Subtle Build]"
+        ],
+        [
+          null,
+          "Who pulls the tide back? Who tells the trees?"
+        ],
+        [
+          null,
+          "Who draws the map where the stars used to be?"
+        ],
+        [
+          null,
+          "[Chorus, Dark, Hypnotic]"
+        ],
+        [
+          null,
+          "Where were you when I laid the earth’s frame?"
+        ],
+        [
+          null,
+          "When the morning stars sang, but you never came?"
+        ],
+        [
+          null,
+          "Who stretched the line? Who measured the deep?"
+        ],
+        [
+          null,
+          "Who set the waves where your footsteps won’t reach?"
+        ],
+        [
+          null,
+          "[Verse 2, Ghostly, Melancholic]"
+        ],
+        [
+          null,
+          "Mountains don’t answer, the silence is loud"
+        ],
+        [
+          null,
+          "The echoes are speaking, but you’re not around"
+        ],
+        [
+          null,
+          "The weight of the heavens, the dust and the sea"
+        ],
+        [
+          null,
+          "All of it moves, but it’s nothing to Me"
+        ],
+        [
+          null,
+          "[Pre-Chorus, Creeping Beat, Subtle Build]"
+        ],
+        [
+          null,
+          "Who bends the branches? Who steals the sun?"
+        ],
+        [
+          null,
+          "Who lifts the veil when the story is done?"
+        ],
+        [
+          null,
+          "[Chorus, Dark, Hypnotic]"
+        ],
+        [
+          null,
+          "Where were you when I laid the earth’s frame?"
+        ],
+        [
+          null,
+          "When the morning stars sang, but you never came?"
+        ],
+        [
+          null,
+          "Who stretched the line? Who measured the deep?"
+        ],
+        [
+          null,
+          "Who set the waves where your footsteps won’t reach?"
+        ],
+        [
+          null,
+          "[Bridge, Whispered Harmonies, Glitchy Percussion]"
+        ],
+        [
+          null,
+          "Oh, the weight of it all, the silence between"
+        ],
+        [
+          null,
+          "Oh, the hands in the dark, unseen machinery"
+        ],
+        [
+          null,
+          "The world keeps turning, the world keeps turning"
+        ],
+        [
+          null,
+          "But no one’s really free"
+        ],
+        [
+          null,
+          "[Chorus, Final, Stripped-Back, Distorted Vocals]"
+        ],
+        [
+          null,
+          "Where were you when I laid the earth’s frame?"
+        ],
+        [
+          null,
+          "When the morning stars sang, but you never came?"
+        ],
+        [
+          null,
+          "Who stretched the line? Who measured the deep?"
+        ],
+        [
+          null,
+          "Who set the waves where your footsteps won’t reach?"
+        ],
+        [
+          null,
+          "[Outro, Fading, Chopped Vocals]"
+        ],
+        [
+          null,
+          "Still the stars sing, still the waves bow"
+        ],
+        [
+          null,
+          "Still My voice calls, even now..."
+        ]
+      ]
+    }
+  ]
 }

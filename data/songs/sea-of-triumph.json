@@ -1,12 +1,169 @@
 {
   "slug": "sea-of-triumph",
   "title": "Sea of Triumph",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Moses",
   "book": "Exodus",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "sea-of-triumph.jpg",
+  "audio": "sea-of-triumph.mp3",
   "spotify": "https://open.spotify.com/track/5bwAgxnvSg0PzG8i4adAkE",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273787370e082cea37b228d2421"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Atmospheric synths]"
+        ],
+        [
+          null,
+          "[Verse 1, Soft piano chords]"
+        ],
+        [
+          null,
+          "I saw the dawn rise from the depths of fear"
+        ],
+        [
+          null,
+          "Pharaoh’s pride washed in a tide so clear"
+        ],
+        [
+          null,
+          "The chariots sank in watery graves"
+        ],
+        [
+          null,
+          "But we stood tall, the ones He saves"
+        ],
+        [
+          null,
+          "[Pre-Chorus, Building tension]"
+        ],
+        [
+          null,
+          "In the storm He whispered light"
+        ],
+        [
+          null,
+          "Shadow turned to blazing might"
+        ],
+        [
+          null,
+          "[Chorus, Ethereal echo harmonies]"
+        ],
+        [
+          null,
+          "The Lord is my strength, my unshaken song"
+        ],
+        [
+          null,
+          "My rescue in battle, where I belong"
+        ],
+        [
+          null,
+          "He is my God, I will lift His name"
+        ],
+        [
+          null,
+          "My father’s God — forever the same"
+        ],
+        [
+          null,
+          "[Verse 2, Minimal beat returns]"
+        ],
+        [
+          null,
+          "Your breath split the sea, a holy fire"
+        ],
+        [
+          null,
+          "Guided feet through flood and mire"
+        ],
+        [
+          null,
+          "The depths froze still at Your command"
+        ],
+        [
+          null,
+          "And we crossed safely, hand in hand"
+        ],
+        [
+          null,
+          "[Pre-Chorus, Vocal layering]"
+        ],
+        [
+          null,
+          "You reign in mercy, clothed in flame"
+        ],
+        [
+          null,
+          "Nations tremble at Your name"
+        ],
+        [
+          null,
+          "[Chorus, with harmony and vocal layering]"
+        ],
+        [
+          null,
+          "The Lord is my strength, my unshaken song"
+        ],
+        [
+          null,
+          "My rescue in battle, where I belong"
+        ],
+        [
+          null,
+          "He is my God, I will lift His name"
+        ],
+        [
+          null,
+          "My father’s God — forever the same"
+        ],
+        [
+          null,
+          "[Bridge, Slow and haunting]"
+        ],
+        [
+          null,
+          "You planted us in promise ground"
+        ],
+        [
+          null,
+          "Built us up where grace is found"
+        ],
+        [
+          null,
+          "The earth stood still, the sea obeyed"
+        ],
+        [
+          null,
+          "For love that never will be swayed"
+        ],
+        [
+          null,
+          "[Chorus, Grand finale feel with vocal lift]"
+        ],
+        [
+          null,
+          "The Lord is my strength, my unshaken song"
+        ],
+        [
+          null,
+          "My rescue in battle, where I belong"
+        ],
+        [
+          null,
+          "He is my God, I will lift His name"
+        ],
+        [
+          null,
+          "My father’s God — forever the same"
+        ],
+        [
+          null,
+          "[Outro, Whispered vocals, ambient tones]"
+        ]
+      ]
+    }
+  ]
 }

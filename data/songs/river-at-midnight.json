@@ -1,12 +1,145 @@
 {
   "slug": "river-at-midnight",
   "title": "River At Midnight",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Acts 16:25-26",
   "book": "Acts",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "river-at-midnight.jpg",
+  "audio": "river-at-midnight.mp3",
   "spotify": "https://open.spotify.com/track/0cpXsvdUCKQMcqYjD7OTwp",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739d96d728121d2b8c2a08be65"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "The air was heavy with rust and stone"
+        ],
+        [
+          null,
+          "Chains like cold hands gripped the bone"
+        ],
+        [
+          null,
+          "But silence broke in sacred thread"
+        ],
+        [
+          null,
+          "Two voices rising where hope had fled"
+        ],
+        [
+          null,
+          "Walls don't speak, but they can listen"
+        ],
+        [
+          null,
+          "To midnight hymns of the unforgiven"
+        ],
+        [
+          null,
+          "Praise, like water, filled the cell"
+        ],
+        [
+          null,
+          "A whisper lit the gates of hell"
+        ],
+        [
+          null,
+          "We sang 'til the river ran through the dark"
+        ],
+        [
+          null,
+          "'Til the ground split open with a burning spark"
+        ],
+        [
+          null,
+          "Even stone remembers the sound of grace"
+        ],
+        [
+          null,
+          "When chains fall quiet, in their place"
+        ],
+        [
+          null,
+          "We sing, we sing—"
+        ],
+        [
+          null,
+          "The river runs midnight through everything"
+        ],
+        [
+          null,
+          "No torch, no sword, no earthly key"
+        ],
+        [
+          null,
+          "But still the doors swung wild and free"
+        ],
+        [
+          null,
+          "Not for escape, but for belief"
+        ],
+        [
+          null,
+          "That heaven blooms beneath our grief"
+        ],
+        [
+          null,
+          "The deepest pit can hold a choir"
+        ],
+        [
+          null,
+          "If every tear becomes a fire"
+        ],
+        [
+          null,
+          "If silence dares to clap its hands"
+        ],
+        [
+          null,
+          "Then angels dance on prison lands"
+        ],
+        [
+          null,
+          "We sang 'til the river ran through the dark"
+        ],
+        [
+          null,
+          "'Til the ground split open with a burning spark"
+        ],
+        [
+          null,
+          "Even stone remembers the sound of grace"
+        ],
+        [
+          null,
+          "When chains fall quiet, in their place"
+        ],
+        [
+          null,
+          "We sing, we sing—"
+        ],
+        [
+          null,
+          "The river runs midnight through everything"
+        ],
+        [
+          null,
+          "So let the dark be not the end"
+        ],
+        [
+          null,
+          "But the place where praises bend"
+        ],
+        [
+          null,
+          "And if you listen close tonight..."
+        ],
+        [
+          null,
+          "You’ll hear the river, running bright"
+        ]
+      ]
+    }
+  ]
 }

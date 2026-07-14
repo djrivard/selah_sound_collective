@@ -1,12 +1,185 @@
 {
   "slug": "as-for-me-and-my-house",
   "title": "As For Me And My House",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Joshua 24:15",
   "book": "Joshua",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "as-for-me-and-my-house.jpg",
+  "audio": "as-for-me-and-my-house.mp3",
   "spotify": "https://open.spotify.com/track/2rMEDm6IKDhaxn0NxssuAr",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ad228bfbec9bb2a999eb18b1"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro]"
+        ],
+        [
+          null,
+          "[Hushed Verse 1]"
+        ],
+        [
+          null,
+          "Grey light walks across the floor"
+        ],
+        [
+          null,
+          "A slow tide finding the room"
+        ],
+        [
+          null,
+          "I have stood here at this door"
+        ],
+        [
+          null,
+          "With the old names in the gloom"
+        ],
+        [
+          null,
+          "[Building Verse 2]"
+        ],
+        [
+          null,
+          "Behind me runs the river that I crossed"
+        ],
+        [
+          null,
+          "Where my fathers bowed to stone and sand"
+        ],
+        [
+          null,
+          "Gods of Egypt, gods of dust"
+        ],
+        [
+          null,
+          "I lay them down, I lift an empty hand"
+        ],
+        [
+          null,
+          "[Building]"
+        ],
+        [
+          null,
+          "And the morning opens like a door"
+        ],
+        [
+          null,
+          "Asking who, asking who I'm for"
+        ],
+        [
+          null,
+          "[Chorus — soaring]"
+        ],
+        [
+          null,
+          "As for me and my house"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "As for me and my house"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "Let the river take the rest"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "[Hushed Verse 3]"
+        ],
+        [
+          null,
+          "In sincerity and truth"
+        ],
+        [
+          null,
+          "A low lamp in the night"
+        ],
+        [
+          null,
+          "I will teach these quiet rooms"
+        ],
+        [
+          null,
+          "The one name worth the light"
+        ],
+        [
+          null,
+          "[Towering Bridge]"
+        ],
+        [
+          null,
+          "Choose this day"
+        ],
+        [
+          null,
+          "Choose this day"
+        ],
+        [
+          null,
+          "Let the old gods wash away"
+        ],
+        [
+          null,
+          "Choose this day"
+        ],
+        [
+          null,
+          "[Final Chorus — towering]"
+        ],
+        [
+          null,
+          "As for me and my house"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "As for me and my house"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "Let the river take the rest"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "[Whispered Outro]"
+        ],
+        [
+          null,
+          "We will serve"
+        ],
+        [
+          null,
+          "We will serve the Lord"
+        ],
+        [
+          null,
+          "This day"
+        ]
+      ]
+    }
+  ]
 }

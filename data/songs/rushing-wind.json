@@ -1,12 +1,161 @@
 {
   "slug": "rushing-wind",
   "title": "Rushing Wind",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Acts 2",
   "book": "Acts",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rushing-wind.jpg",
+  "audio": "rushing-wind.mp3",
   "spotify": "https://open.spotify.com/track/48SykCEbfMA4BelQjAfUgT",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273621e93997669a22b8ba35627"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "In the silence we waited, hearts like dry ground"
+        ],
+        [
+          null,
+          "Eyes to the heavens, ears to the sound"
+        ],
+        [
+          null,
+          "Of a promise, once spoken, now breathed from the skies"
+        ],
+        [
+          null,
+          "The hush before thunder, the calm before rise"
+        ],
+        [
+          null,
+          "Then came the wind—not of storm, but of birth"
+        ],
+        [
+          null,
+          "A breath not from earth, but beyond all the earth"
+        ],
+        [
+          null,
+          "It filled every chamber, it rattled the stone"
+        ],
+        [
+          null,
+          "Lit fires on shoulders, made strangers feel known"
+        ],
+        [
+          null,
+          "Every tongue found a voice, every fear turned to flame"
+        ],
+        [
+          null,
+          "And the world heard the sound, but none heard it the same"
+        ],
+        [
+          null,
+          "**Like the sound of rushing wind, we rise again"
+        ],
+        [
+          null,
+          "Carried on the breath that woke the flame within"
+        ],
+        [
+          null,
+          "Hearts ignited, spirits wide"
+        ],
+        [
+          null,
+          "We are many, but one fire, one light inside"
+        ],
+        [
+          null,
+          "Like the sound of rushing wind, we won't be still—"
+        ],
+        [
+          null,
+          "Heaven in our lungs, and power in our will**"
+        ],
+        [
+          null,
+          "No wall could contain it, no border divide"
+        ],
+        [
+          null,
+          "The Spirit poured out like the turning of tides"
+        ],
+        [
+          null,
+          "From Jerusalem’s stones to the ends of the land"
+        ],
+        [
+          null,
+          "Love wrote its gospel in every hand"
+        ],
+        [
+          null,
+          "Speak, O breath, through shattered doubt"
+        ],
+        [
+          null,
+          "Rain down wisdom, sing it out"
+        ],
+        [
+          null,
+          "Flames not of ruin, but flames that restore"
+        ],
+        [
+          null,
+          "Burning the closed heart, opening doors"
+        ],
+        [
+          null,
+          "Every silence was shattered, every soul found its name"
+        ],
+        [
+          null,
+          "Every whisper grew louder, till none stayed the same"
+        ],
+        [
+          null,
+          "**Like the sound of rushing wind, we rise again"
+        ],
+        [
+          null,
+          "Carried on the breath that woke the flame within"
+        ],
+        [
+          null,
+          "Hearts ignited, spirits wide"
+        ],
+        [
+          null,
+          "We are many, but one fire, one light inside"
+        ],
+        [
+          null,
+          "Like the sound of rushing wind, we won't be still—"
+        ],
+        [
+          null,
+          "Heaven in our lungs, and power in our will**"
+        ],
+        [
+          null,
+          "We are the echo, the voice set free"
+        ],
+        [
+          null,
+          "The breath of heaven through history"
+        ],
+        [
+          null,
+          "And we burn with a purpose no darkness can dim"
+        ],
+        [
+          null,
+          "Still moved by the sound of that rushing wind"
+        ]
+      ]
+    }
+  ]
 }

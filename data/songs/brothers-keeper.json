@@ -1,12 +1,189 @@
 {
   "slug": "brothers-keeper",
   "title": "Brother's Keeper",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Cain & Abel",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "brothers-keeper.jpg",
+  "audio": "brothers-keeper.mp3",
   "spotify": "https://open.spotify.com/track/6abpg4sBYXmNAIwDC9AlYG",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737cfda14816b9eb9912a74542"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "My mother bore me first, with the helping of the Lord"
+        ],
+        [
+          null,
+          "My brother came up after, a keeper of the fold"
+        ],
+        [
+          null,
+          "I broke the black earth open, I gave it all my years"
+        ],
+        [
+          null,
+          "And I brought the ground its firstfruits, salted with my fears"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "He brought the fat and firstling, and the smoke rose up like silk"
+        ],
+        [
+          null,
+          "And mine lay low and smoldered, would not lift up off the ground"
+        ],
+        [
+          null,
+          "The Lord looked on my brother, turned His face away from me"
+        ],
+        [
+          null,
+          "And I felt the cold thing enter, come and sit down next to me"
+        ],
+        [
+          null,
+          "[Refrain]"
+        ],
+        [
+          null,
+          "And the door stood open wide, and I would not turn"
+        ],
+        [
+          null,
+          "Oh the ground, the ground remembers what it heard"
+        ],
+        [
+          null,
+          "There's a beast that lies in waiting, and it calls you by your name"
+        ],
+        [
+          null,
+          "And I would not, no I would not, master it"
+        ],
+        [
+          null,
+          "[Verse 3]"
+        ],
+        [
+          null,
+          "He said, why has your face fallen, why do you walk so low?"
+        ],
+        [
+          null,
+          "Do well and be uplifted, do ill and meet the foe"
+        ],
+        [
+          null,
+          "For sin is crouched and breathing at the threshold of your heart"
+        ],
+        [
+          null,
+          "Its desire is to have you — but you must rule its part"
+        ],
+        [
+          null,
+          "[Verse 4]"
+        ],
+        [
+          null,
+          "I said come now, my brother, come and walk the field with me"
+        ],
+        [
+          null,
+          "Where the barley bends in silence and there's no one left to see"
+        ],
+        [
+          null,
+          "I will not say what I did there, only that it was done"
+        ],
+        [
+          null,
+          "And the evening took his breathing, and the field lay still as stone"
+        ],
+        [
+          null,
+          "[Refrain]"
+        ],
+        [
+          null,
+          "And the door stood open wide, and I would not turn"
+        ],
+        [
+          null,
+          "Oh the ground, the ground remembers what it heard"
+        ],
+        [
+          null,
+          "There's a beast that lies in waiting, and it calls you by your name"
+        ],
+        [
+          null,
+          "And I would not, no I would not, master it"
+        ],
+        [
+          null,
+          "[Verse 5]"
+        ],
+        [
+          null,
+          "Where is your brother, He asked me, and I said I cannot say"
+        ],
+        [
+          null,
+          "Am I the one who keeps him? Am I his keeper now?"
+        ],
+        [
+          null,
+          "But the blood was crying upward from the mouth of the torn ground"
+        ],
+        [
+          null,
+          "And He set a mark upon me, sent me wandering on down"
+        ],
+        [
+          null,
+          "[Refrain]"
+        ],
+        [
+          null,
+          "And the door stood open wide, and I would not turn"
+        ],
+        [
+          null,
+          "Oh the ground, the ground remembers what it heard"
+        ],
+        [
+          null,
+          "There's a beast that lies in waiting, and it calls you by your name"
+        ],
+        [
+          null,
+          "And I would not, no I would not, master it"
+        ],
+        [
+          null,
+          "[Outro]"
+        ],
+        [
+          null,
+          "East of Eden, east of Eden, where the morning will not come"
+        ],
+        [
+          null,
+          "And I would not, no I would not, master it"
+        ]
+      ]
+    }
+  ]
 }

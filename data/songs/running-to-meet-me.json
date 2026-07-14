@@ -1,12 +1,370 @@
 {
   "slug": "running-to-meet-me",
   "title": "Running To Meet Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Luke 15:11-32",
   "book": "Luke",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "running-to-meet-me.jpg",
+  "audio": "running-to-meet-me.mp3",
   "spotify": "https://open.spotify.com/track/1q8tnRXhuZ2x5IEUARjkl6",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27347201a914c902686dd961793"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Sunrise paints the window gold, got this itch inside my soul"
+        ],
+        [
+          null,
+          "Packed my share, didn't look behind"
+        ],
+        [
+          null,
+          "Thought the future I would find"
+        ],
+        [
+          null,
+          "Was paved with neon, streets alight"
+        ],
+        [
+          null,
+          "Burning bridges, burning bright"
+        ],
+        [
+          null,
+          "Chasing highs under distant stars"
+        ],
+        [
+          null,
+          "Ignoring all the healing scars"
+        ],
+        [
+          null,
+          "Yeah, I chased the wind, a freedom call"
+        ],
+        [
+          null,
+          "Built my world just to watch it fall"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Then the colour faded grey"
+        ],
+        [
+          null,
+          "Empty pockets, darker day"
+        ],
+        [
+          null,
+          "Down with shadows, lost my name"
+        ],
+        [
+          null,
+          "Just a whisper of the shame"
+        ],
+        [
+          null,
+          "Remembered warmth, a table spread"
+        ],
+        [
+          null,
+          "The life I carelessly fled"
+        ],
+        [
+          null,
+          "A broken prayer, a hopeful beat"
+        ],
+        [
+          null,
+          "Started walking, weary feet"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Identified as the most memorable and core message)"
+        ],
+        [
+          null,
+          "And I saw You running, running, running to meet me"
+        ],
+        [
+          null,
+          "Arms flung open wide, love setting me free"
+        ],
+        [
+          null,
+          "Didn't wait for sorry, didn't count the cost"
+        ],
+        [
+          null,
+          "Just Your eyes saying \"Welcome home the lost!\""
+        ],
+        [
+          null,
+          "Running, running, faster than my fear"
+        ],
+        [
+          null,
+          "All that matters now is You are here"
+        ],
+        [
+          null,
+          "Running, running, running to meet me"
+        ],
+        [
+          null,
+          "Found."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Rehearsed the words a thousand times"
+        ],
+        [
+          null,
+          "\"Make me servant,\" hid my crimes"
+        ],
+        [
+          null,
+          "Expected judgment, stony gaze"
+        ],
+        [
+          null,
+          "Lost in failure's winding maze"
+        ],
+        [
+          null,
+          "Saw a figure on the road ahead"
+        ],
+        [
+          null,
+          "Filled my heart with hope and dread"
+        ],
+        [
+          null,
+          "Is that anger? Is that blame?"
+        ],
+        [
+          null,
+          "As You called aloud my name"
+        ],
+        [
+          null,
+          "But closer now, I see the pace"
+        ],
+        [
+          null,
+          "It's not fury, it is grace."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "'Cause the colour's coming back"
+        ],
+        [
+          null,
+          "On this worn and broken track"
+        ],
+        [
+          null,
+          "Down with shadows, found my name"
+        ],
+        [
+          null,
+          "Washed away the burning shame"
+        ],
+        [
+          null,
+          "Remembered love, a promise kept"
+        ],
+        [
+          null,
+          "The weary miles I sadly stepped"
+        ],
+        [
+          null,
+          "Lead to this, this hopeful beat"
+        ],
+        [
+          null,
+          "Faster now, my eager feet"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "And I saw You running, running, running to meet me"
+        ],
+        [
+          null,
+          "Arms flung open wide, love setting me free"
+        ],
+        [
+          null,
+          "Didn't wait for sorry, didn't count the cost"
+        ],
+        [
+          null,
+          "Just Your eyes saying \"Welcome home the lost!\""
+        ],
+        [
+          null,
+          "Running, running, faster than my fear"
+        ],
+        [
+          null,
+          "All that matters now is You are here"
+        ],
+        [
+          null,
+          "Running, running, running to meet me"
+        ],
+        [
+          null,
+          "Found."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Hear the music, feel the ground"
+        ],
+        [
+          null,
+          "Celebration all around"
+        ],
+        [
+          null,
+          "Best robe, a ring, a fatted calf"
+        ],
+        [
+          null,
+          "Someone's brother starts to laugh"
+        ],
+        [
+          null,
+          "But another stands outside the light"
+        ],
+        [
+          null,
+          "Says \"I served you day and night!\""
+        ],
+        [
+          null,
+          "A shadow falls, a moment's pain"
+        ],
+        [
+          null,
+          "Then Your patient love explains"
+        ],
+        [
+          null,
+          "\"He was dead and is alive again, my son,"
+        ],
+        [
+          null,
+          "This party's for the victory won.\""
+        ]
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        [
+          null,
+          "Break - build intensity, emotion, driving rhythm)"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sung with more power and release)"
+        ],
+        [
+          null,
+          "And I saw You running, running, running to meet me!"
+        ],
+        [
+          null,
+          "Arms flung open wide, love setting me free!"
+        ],
+        [
+          null,
+          "Didn't wait for sorry, didn't count the cost!"
+        ],
+        [
+          null,
+          "Just Your eyes saying \"Welcome home the lost!\""
+        ],
+        [
+          null,
+          "Running, running, faster than my fear!"
+        ],
+        [
+          null,
+          "All that matters now is You are here!"
+        ],
+        [
+          null,
+          "Running, running, running to meet me!"
+        ],
+        [
+          null,
+          "Found!"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Running, running... You were running..."
+        ],
+        [
+          null,
+          "Running to meet me..."
+        ],
+        [
+          null,
+          "Was lost... now I'm found..."
+        ],
+        [
+          null,
+          "Was dead... alive again..."
+        ],
+        [
+          null,
+          "Home..."
+        ]
+      ]
+    }
+  ]
 }

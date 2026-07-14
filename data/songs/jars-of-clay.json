@@ -1,12 +1,213 @@
 {
   "slug": "jars-of-clay",
   "title": "Jars of Clay",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "2 Cor.4:7",
   "book": "2 Corinthians",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "jars-of-clay.jpg",
+  "audio": "jars-of-clay.mp3",
   "spotify": "https://open.spotify.com/track/5aYcWXz6xfditnvESq3vzo",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734e1e4027568a7a80da019c0e"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1 – soft ambient intro]"
+        ],
+        [
+          null,
+          "We carry fire in brittle bone"
+        ],
+        [
+          null,
+          "The breath of stars, but not our own"
+        ],
+        [
+          null,
+          "This dust remembers ancient skies"
+        ],
+        [
+          null,
+          "And we are vessels cracked by time"
+        ],
+        [
+          null,
+          "The light leaks out where we are thin"
+        ],
+        [
+          null,
+          "But that's where mercy rushes in"
+        ],
+        [
+          null,
+          "Not by our might, nor strength we claim"
+        ],
+        [
+          null,
+          "But through the fracture, speaks His name"
+        ],
+        [
+          null,
+          "[Pre-Chorus – gentle build with strings]"
+        ],
+        [
+          null,
+          "So let me break, and let me bend"
+        ],
+        [
+          null,
+          "Not the end, just how it mends"
+        ],
+        [
+          null,
+          "[Chorus – layered vocals, haunting repetition]"
+        ],
+        [
+          null,
+          "We are treasures in jars of clay"
+        ],
+        [
+          null,
+          "Shaped by hands that made the day"
+        ],
+        [
+          null,
+          "Though the edges chip away"
+        ],
+        [
+          null,
+          "Glory finds its home in grey"
+        ],
+        [
+          null,
+          "We are treasures in jars of clay"
+        ],
+        [
+          null,
+          "[Verse 2 – deeper strings, atmospheric guitar rise]"
+        ],
+        [
+          null,
+          "I tried to shine with borrowed gold"
+        ],
+        [
+          null,
+          "Built thrones of ego, masks of old"
+        ],
+        [
+          null,
+          "But grace undoes what pride defends"
+        ],
+        [
+          null,
+          "It carves a path that never ends"
+        ],
+        [
+          null,
+          "Each flaw a lantern in the dark"
+        ],
+        [
+          null,
+          "A holy wound, a sacred mark"
+        ],
+        [
+          null,
+          "The cracks become the map I see"
+        ],
+        [
+          null,
+          "To where the light is setting me free"
+        ],
+        [
+          null,
+          "[Pre-Chorus – slight rhythm pulse introduced]"
+        ],
+        [
+          null,
+          "So let me be the lesser flame"
+        ],
+        [
+          null,
+          "That flickers still, in sacred name"
+        ],
+        [
+          null,
+          "[Chorus – fuller arrangement, more harmonic lift]"
+        ],
+        [
+          null,
+          "We are treasures in jars of clay"
+        ],
+        [
+          null,
+          "Worn and weathered, still we stay"
+        ],
+        [
+          null,
+          "What is fading makes a way"
+        ],
+        [
+          null,
+          "For a strength that won’t decay"
+        ],
+        [
+          null,
+          "We are treasures in jars of clay"
+        ],
+        [
+          null,
+          "[Bridge – stripped back to ambient hum and layered whisper-vocals]"
+        ],
+        [
+          null,
+          "Not broken... just bearing"
+        ],
+        [
+          null,
+          "Not flawless... but faring"
+        ],
+        [
+          null,
+          "What is hidden... declaring"
+        ],
+        [
+          null,
+          "Through the fragile, He's preparing"
+        ],
+        [
+          null,
+          "[Chorus – final iteration, swelling strings and ambient crescendo]"
+        ],
+        [
+          null,
+          "We are treasures in jars of clay"
+        ],
+        [
+          null,
+          "Crushed, not cursed—led through dismay"
+        ],
+        [
+          null,
+          "Pressed but never swept away"
+        ],
+        [
+          null,
+          "In the fracture, love will stay"
+        ],
+        [
+          null,
+          "We are treasures in jars of clay"
+        ],
+        [
+          null,
+          "[Outro – fading echoes, minimal guitar]"
+        ],
+        [
+          null,
+          "And through the cracks... we glow..."
+        ]
+      ]
+    }
+  ]
 }

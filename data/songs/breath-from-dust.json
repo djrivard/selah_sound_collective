@@ -1,12 +1,153 @@
 {
   "slug": "breath-from-dust",
   "title": "Breath From Dust",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Ezekiel 37",
   "book": "Ezekiel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "breath-from-dust.jpg",
+  "audio": "breath-from-dust.mp3",
   "spotify": "https://open.spotify.com/track/1WceVBD079fv0EPiWENXlW",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273287e1d2d0d9d71f2deb354cc"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "In a valley shadowed still, silence sings a mournful tune,"
+        ],
+        [
+          null,
+          "Bones scattered like whispered prayers beneath a distant moon."
+        ],
+        [
+          null,
+          "Echoes of lost promises, dust is their disguise,"
+        ],
+        [
+          null,
+          "Yet every silent fragment longs to rise."
+        ],
+        [
+          null,
+          "Hear the wind begin to whisper,"
+        ],
+        [
+          null,
+          "Feel the pulse return, remember,"
+        ],
+        [
+          null,
+          "Hope is breathing in the ember."
+        ],
+        [
+          null,
+          "Speak life, breathe deep, revive these bones,"
+        ],
+        [
+          null,
+          "Let the valley bloom, new flesh on stones,"
+        ],
+        [
+          null,
+          "Awake, arise, you are not alone,"
+        ],
+        [
+          null,
+          "From ashes we rise, finding home."
+        ],
+        [
+          null,
+          "Here in shadows seeds take root, under the ancient sun,"
+        ],
+        [
+          null,
+          "What was lost becomes restored; rebirth has just begun."
+        ],
+        [
+          null,
+          "Fragments gather, bones reconnecting once more,"
+        ],
+        [
+          null,
+          "Beauty in the brokenness, stronger than before."
+        ],
+        [
+          null,
+          "Can you hear that rising thunder?"
+        ],
+        [
+          null,
+          "Life reclaimed in awe and wonder,"
+        ],
+        [
+          null,
+          "Hope awake from silent slumber."
+        ],
+        [
+          null,
+          "Speak life, breathe deep, restore these bones,"
+        ],
+        [
+          null,
+          "Valley blooms anew, reclaiming stones,"
+        ],
+        [
+          null,
+          "Awake, arise, strength fully grown,"
+        ],
+        [
+          null,
+          "Together we rise, never alone."
+        ],
+        [
+          null,
+          "Lift your voice, prophesy,"
+        ],
+        [
+          null,
+          "Let the breath within you fly,"
+        ],
+        [
+          null,
+          "Shatter silence, pierce the gloom,"
+        ],
+        [
+          null,
+          "Life returns, valley in bloom."
+        ],
+        [
+          null,
+          "Speak life, breathe deep, these bones revive,"
+        ],
+        [
+          null,
+          "In radiant bloom, our souls alive,"
+        ],
+        [
+          null,
+          "Arise, awake, in hope we thrive,"
+        ],
+        [
+          null,
+          "Resurrected hearts, we now survive."
+        ],
+        [
+          null,
+          "From silence we rise,"
+        ],
+        [
+          null,
+          "In breath we unite,"
+        ],
+        [
+          null,
+          "Alive, redeemed,"
+        ],
+        [
+          null,
+          "In radiant light."
+        ]
+      ]
+    }
+  ]
 }

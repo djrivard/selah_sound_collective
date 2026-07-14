@@ -1,12 +1,165 @@
 {
   "slug": "with-all-my-might",
   "title": "With All My Might",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "2 Sam.6:14-18",
   "book": "2 Samuel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "with-all-my-might.jpg",
+  "audio": "with-all-my-might.mp3",
   "spotify": "https://open.spotify.com/track/3vgL8egkAQlA9XsrzEQlIB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735426ea69e94907c6a16b2c81"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "The gates are opening, the city waits"
+        ],
+        [
+          null,
+          "Trumpets calling, my spirit shakes"
+        ],
+        [
+          null,
+          "Not for the crown, not for the throne"
+        ],
+        [
+          null,
+          "But for the Presence that makes me whole"
+        ],
+        [
+          null,
+          "Bare feet on ancient stone,"
+        ],
+        [
+          null,
+          "Every step a prayer I own"
+        ],
+        [
+          null,
+          "Garments fall, pride stripped away,"
+        ],
+        [
+          null,
+          "I’m just a soul that longs to praise"
+        ],
+        [
+          null,
+          "Every heartbeat a drum,"
+        ],
+        [
+          null,
+          "Every breath a song of fire"
+        ],
+        [
+          null,
+          "Let the heavens lean low,"
+        ],
+        [
+          null,
+          "As the dance takes me higher"
+        ],
+        [
+          null,
+          "I will dance with all my might, before the Lord, before the light"
+        ],
+        [
+          null,
+          "Every turn, every flight, is surrender wrapped in delight"
+        ],
+        [
+          null,
+          "Undignified, yet made whole,"
+        ],
+        [
+          null,
+          "This holy rhythm shakes my soul"
+        ],
+        [
+          null,
+          "I will dance with all my might, before the Lord tonight"
+        ],
+        [
+          null,
+          "Arks of promise, carried near,"
+        ],
+        [
+          null,
+          "holy thunder fills the air"
+        ],
+        [
+          null,
+          "I lose myself to find Your face,"
+        ],
+        [
+          null,
+          "In the whirlwind of Your grace"
+        ],
+        [
+          null,
+          "Not for glory, not for eyes,"
+        ],
+        [
+          null,
+          "Not for kingdoms built on lies"
+        ],
+        [
+          null,
+          "But for You, Eternal Flame,"
+        ],
+        [
+          null,
+          "I’m unashamed, unashamed"
+        ],
+        [
+          null,
+          "I will dance with all my might, before the Lord, before the light"
+        ],
+        [
+          null,
+          "Every turn, every flight, is surrender wrapped in delight"
+        ],
+        [
+          null,
+          "Undignified, yet made whole,"
+        ],
+        [
+          null,
+          "This holy rhythm shakes my soul"
+        ],
+        [
+          null,
+          "I will dance with all my might, before the Lord tonight"
+        ],
+        [
+          null,
+          "I will dance with all my might, before the Lord, before the light"
+        ],
+        [
+          null,
+          "Every turn, every flight, love is burning, pure and bright"
+        ],
+        [
+          null,
+          "Undignified, yet divine,"
+        ],
+        [
+          null,
+          "This is freedom, this is time"
+        ],
+        [
+          null,
+          "I will dance with all my might, before the Lord tonight"
+        ],
+        [
+          null,
+          "With every step, I come alive…"
+        ],
+        [
+          null,
+          "Before the Lord, I come alive."
+        ]
+      ]
+    }
+  ]
 }

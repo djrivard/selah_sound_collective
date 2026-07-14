@@ -1,12 +1,237 @@
 {
   "slug": "let-it-be-love",
   "title": "Let It Be Love",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "1 John 4:7",
   "book": "1 John",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "let-it-be-love.jpg",
+  "audio": "let-it-be-love.mp3",
   "spotify": "https://open.spotify.com/track/3McAiTcTacd3GwyZ03yhhi",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c283e17855298e1d147e65bd"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "I was lost in the in-between"
+        ],
+        [
+          null,
+          "Half-asleep in a quiet dream"
+        ],
+        [
+          null,
+          "Looking for a feeling I could trust"
+        ],
+        [
+          null,
+          "Then you said my name like a secret"
+        ],
+        [
+          null,
+          "Every doubt faded when you meant it"
+        ],
+        [
+          null,
+          "Now I see what love really was"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "If it’s real, it doesn’t shout"
+        ],
+        [
+          null,
+          "It pulls you in, it pulls you out"
+        ],
+        [
+          null,
+          "[CHORUS]"
+        ],
+        [
+          null,
+          "Let it be love, let it run through us"
+        ],
+        [
+          null,
+          "No fear now, no pressure, no rush"
+        ],
+        [
+          null,
+          "If it’s true, it’s always been You"
+        ],
+        [
+          null,
+          "Every broken part made new"
+        ],
+        [
+          null,
+          "Let it be love, soft but alive"
+        ],
+        [
+          null,
+          "From your heart to mine tonight"
+        ],
+        [
+          null,
+          "This is where it starts"
+        ],
+        [
+          null,
+          "Heart to heart"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I used to think love was fragile"
+        ],
+        [
+          null,
+          "Something fading after a while"
+        ],
+        [
+          null,
+          "Something I’d be scared to lose"
+        ],
+        [
+          null,
+          "But the way you stay in the silence"
+        ],
+        [
+          null,
+          "Feels like truth, feels like guidance"
+        ],
+        [
+          null,
+          "Like the dark finally learned to move"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "If it’s love, it doesn’t hide"
+        ],
+        [
+          null,
+          "It meets you right where you are inside"
+        ],
+        [
+          null,
+          "[CHORUS]"
+        ],
+        [
+          null,
+          "Let it be love, no disguise"
+        ],
+        [
+          null,
+          "No perfect words, just open eyes"
+        ],
+        [
+          null,
+          "If it’s real, I feel it move"
+        ],
+        [
+          null,
+          "Every time I fall to You"
+        ],
+        [
+          null,
+          "Let it be love, slow and deep"
+        ],
+        [
+          null,
+          "Every promise we can keep"
+        ],
+        [
+          null,
+          "This is where I start"
+        ],
+        [
+          null,
+          "Heart to heart"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "Maybe love was never loud"
+        ],
+        [
+          null,
+          "Maybe it was always now"
+        ],
+        [
+          null,
+          "In the quiet, in the close"
+        ],
+        [
+          null,
+          "In the spaces I need You most"
+        ],
+        [
+          null,
+          "[FINAL CHORUS]"
+        ],
+        [
+          null,
+          "Let it be love, let it run through us"
+        ],
+        [
+          null,
+          "No fear now, no pressure, no rush"
+        ],
+        [
+          null,
+          "If it’s true, it’s always been You"
+        ],
+        [
+          null,
+          "Every broken part made new"
+        ],
+        [
+          null,
+          "Let it be love, soft but alive"
+        ],
+        [
+          null,
+          "From your heart to mine tonight"
+        ],
+        [
+          null,
+          "This is where it starts"
+        ],
+        [
+          null,
+          "Heart to heart"
+        ],
+        [
+          null,
+          "[Outro]"
+        ],
+        [
+          null,
+          "Let it be love"
+        ],
+        [
+          null,
+          "Let it be love"
+        ]
+      ]
+    }
+  ]
 }

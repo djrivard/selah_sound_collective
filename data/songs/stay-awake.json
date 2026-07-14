@@ -1,12 +1,265 @@
 {
   "slug": "stay-awake",
   "title": "Stay Awake",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "1Thes.5:3-6",
   "book": "1 Thessalonians",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "stay-awake.jpg",
+  "audio": "stay-awake.mp3",
   "spotify": "https://open.spotify.com/track/5tbYVAZH6p6kIn0uneaqqg",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734ed86ce70c6a7946e9004d83"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "They say the world is safe tonight"
+        ],
+        [
+          null,
+          "Glass towers glowing soft and white"
+        ],
+        [
+          null,
+          "Promises wrapped in neon calm"
+        ],
+        [
+          null,
+          "But underneath, the silence storms"
+        ],
+        [
+          null,
+          "Champagne lies and lullabies"
+        ],
+        [
+          null,
+          "Heavy heads, closed weary eyes"
+        ],
+        [
+          null,
+          "While shadows move without a sound"
+        ],
+        [
+          null,
+          "The truth is burning underground"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "Every whisper says, “Relax, you’re fine”"
+        ],
+        [
+          null,
+          "But peace like that is paper-thin"
+        ],
+        [
+          null,
+          "The clock keeps breathing down our necks"
+        ],
+        [
+          null,
+          "This dark won’t warn us when it ends"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Stay awake, don’t close your eyes"
+        ],
+        [
+          null,
+          "The night breaks in without a sign"
+        ],
+        [
+          null,
+          "They say it’s peace, but it’s a lie"
+        ],
+        [
+          null,
+          "It comes like fire in the quiet sky"
+        ],
+        [
+          null,
+          "Stay awake, don’t fade away"
+        ],
+        [
+          null,
+          "We’re children of the coming day"
+        ],
+        [
+          null,
+          "Not asleep, not numb, not blind"
+        ],
+        [
+          null,
+          "Stay awake—this isn’t the time"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "We’re not made for borrowed dreams"
+        ],
+        [
+          null,
+          "Or drowning in the in-between"
+        ],
+        [
+          null,
+          "You feel it shaking in your chest"
+        ],
+        [
+          null,
+          "A holy unrest, a warning breath"
+        ],
+        [
+          null,
+          "While others drift like fading light"
+        ],
+        [
+          null,
+          "We’re holding onto something bright"
+        ],
+        [
+          null,
+          "There’s more than sleep behind these scars"
+        ],
+        [
+          null,
+          "We were made to see the dark"
+        ],
+        [
+          null,
+          "[Pre-Chorus 2]"
+        ],
+        [
+          null,
+          "If the world goes quiet, hearts seduced"
+        ],
+        [
+          null,
+          "By comfort dressed up as the truth"
+        ],
+        [
+          null,
+          "Then let us be the ones who stand"
+        ],
+        [
+          null,
+          "With burning lamps in open hands"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Stay awake, don’t close your eyes"
+        ],
+        [
+          null,
+          "The night breaks in without a sign"
+        ],
+        [
+          null,
+          "They say it’s peace, but it’s a lie"
+        ],
+        [
+          null,
+          "It comes like fire in the quiet sky"
+        ],
+        [
+          null,
+          "Stay awake, don’t fade away"
+        ],
+        [
+          null,
+          "We’re children of the coming day"
+        ],
+        [
+          null,
+          "Not asleep, not numb, not blind"
+        ],
+        [
+          null,
+          "Stay awake—this isn’t the time"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "We don’t belong to the dark"
+        ],
+        [
+          null,
+          "We don’t belong to the haze"
+        ],
+        [
+          null,
+          "Every heartbeat is a spark"
+        ],
+        [
+          null,
+          "Cutting through the end of days"
+        ],
+        [
+          null,
+          "So when the silence starts to scream"
+        ],
+        [
+          null,
+          "And comfort tries to pull us under"
+        ],
+        [
+          null,
+          "We’ll stand awake between the seams"
+        ],
+        [
+          null,
+          "Wide-eyed in the rolling thunder"
+        ],
+        [
+          null,
+          "[Final Chorus / Outro]"
+        ],
+        [
+          null,
+          "Stay awake, the dawn is near"
+        ],
+        [
+          null,
+          "Even if the night feels endless here"
+        ],
+        [
+          null,
+          "Hold the line, don’t trade your sight"
+        ],
+        [
+          null,
+          "For a false calm dressed as light"
+        ],
+        [
+          null,
+          "Stay awake—remember who you are"
+        ],
+        [
+          null,
+          "You were never meant to sleep through stars"
+        ]
+      ]
+    }
+  ]
 }

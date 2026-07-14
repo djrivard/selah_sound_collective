@@ -1,12 +1,229 @@
 {
   "slug": "hand-i-cant-see",
   "title": "Hand I Can't See",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Proverbs 3:5-6",
   "book": "Proverbs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "hand-i-cant-see.jpg",
+  "audio": "hand-i-cant-see.mp3",
   "spotify": "https://open.spotify.com/track/0zX2NyWW7fhUYJFYhWIEsM",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273351d436c22637940a8924683"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Hand I Can’t See"
+        ],
+        [
+          null,
+          "I drew a roadmap out of fear and habit,"
+        ],
+        [
+          null,
+          "Quiet pencil marks across the grain."
+        ],
+        [
+          null,
+          "But every mile turned into static,"
+        ],
+        [
+          null,
+          "Every hope felt weathered by the rain."
+        ],
+        [
+          null,
+          "The forest gates were cold and hollow,"
+        ],
+        [
+          null,
+          "Branches writing warnings in the air."
+        ],
+        [
+          null,
+          "Then a still, small voice began to follow,"
+        ],
+        [
+          null,
+          "Like a lantern held by hands I couldn’t see were there."
+        ],
+        [
+          null,
+          "And when the night began to press too close,"
+        ],
+        [
+          null,
+          "You spoke the kind of truth that darkness knows."
+        ],
+        [
+          null,
+          "So I trust the Hand I cannot see,"
+        ],
+        [
+          null,
+          "Even when my chest feels tight."
+        ],
+        [
+          null,
+          "You straighten rivers under me,"
+        ],
+        [
+          null,
+          "Clear a path beneath the night."
+        ],
+        [
+          null,
+          "In all my steps, in all my grief,"
+        ],
+        [
+          null,
+          "Your whisper keeps my pulse aligned."
+        ],
+        [
+          null,
+          "I trust the Hand I cannot see"
+        ],
+        [
+          null,
+          "In the winter of my mind."
+        ],
+        [
+          null,
+          "I chased the warmth of old predictions,"
+        ],
+        [
+          null,
+          "thinking fate would meet me where I stood."
+        ],
+        [
+          null,
+          "But the world rewrote its own inscriptions,"
+        ],
+        [
+          null,
+          "and broke me open for my good."
+        ],
+        [
+          null,
+          "Some fears grew roots in broken places,"
+        ],
+        [
+          null,
+          "Some tears carved valleys through my skin."
+        ],
+        [
+          null,
+          "Yet somehow You turned ruins into graces,"
+        ],
+        [
+          null,
+          "Proof that healing always starts within."
+        ],
+        [
+          null,
+          "And when the wind began to blur the trail,"
+        ],
+        [
+          null,
+          "You stilled my breath and taught me not to fail."
+        ],
+        [
+          null,
+          "So I trust the Hand I cannot see,"
+        ],
+        [
+          null,
+          "Even when my chest feels tight."
+        ],
+        [
+          null,
+          "You straighten rivers under me,"
+        ],
+        [
+          null,
+          "Clear a path beneath the night."
+        ],
+        [
+          null,
+          "In all my steps, in all my grief,"
+        ],
+        [
+          null,
+          "Your whisper keeps my pulse aligned."
+        ],
+        [
+          null,
+          "I trust the Hand I cannot see"
+        ],
+        [
+          null,
+          "In the winter of my mind."
+        ],
+        [
+          null,
+          "You take the echoes from the hollow places,"
+        ],
+        [
+          null,
+          "Shape them into songs I never wrote."
+        ],
+        [
+          null,
+          "You lift the frost from all the barren spaces,"
+        ],
+        [
+          null,
+          "Tie hope like thread around my throat."
+        ],
+        [
+          null,
+          "Every broken branch becomes confession,"
+        ],
+        [
+          null,
+          "Every shadow grows a sign"
+        ],
+        [
+          null,
+          "That You’re the quiet, unseen lesson"
+        ],
+        [
+          null,
+          "Turning darkness into spine."
+        ],
+        [
+          null,
+          "So I trust the Hand I cannot see,"
+        ],
+        [
+          null,
+          "Even when the world feels cold."
+        ],
+        [
+          null,
+          "When every road looks lost to me,"
+        ],
+        [
+          null,
+          "You draw a line through dust and soul."
+        ],
+        [
+          null,
+          "In all my days, in all my aching,"
+        ],
+        [
+          null,
+          "Your guidance moves beneath the time."
+        ],
+        [
+          null,
+          "I trust the Hand I cannot see"
+        ],
+        [
+          null,
+          "In the winter of my mind."
+        ]
+      ]
+    }
+  ]
 }

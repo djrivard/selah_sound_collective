@@ -1,12 +1,269 @@
 {
   "slug": "far-above-rubies",
   "title": "Far Above Rubies",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Proverbs 31",
   "book": "Proverbs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "far-above-rubies.jpg",
+  "audio": "far-above-rubies.mp3",
   "spotify": "https://open.spotify.com/track/2PaMTZYFsnSj2rPtmbRY1U",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f8f7d6f2bd881537fafcf00d"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Soft Piano]"
+        ],
+        [
+          null,
+          "She walks in grace, her hands hold light"
+        ],
+        [
+          null,
+          "A heart of gold, a soul so bright"
+        ],
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "She wakes before the sun can rise"
+        ],
+        [
+          null,
+          "Lifting love with weary eyes"
+        ],
+        [
+          null,
+          "With steady hands, she builds our home"
+        ],
+        [
+          null,
+          "No fear, no doubt—she stands alone"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "Strength and honor clothe her days"
+        ],
+        [
+          null,
+          "With wisdom soft as morning haze"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Oh, she is far above rubies,"
+        ],
+        [
+          null,
+          "A crown upon my life"
+        ],
+        [
+          null,
+          "With gentle strength, she moves me,"
+        ],
+        [
+          null,
+          "A faithful heart, my bride"
+        ],
+        [
+          null,
+          "Her laughter sings like rivers"
+        ],
+        [
+          null,
+          "Her kindness lights the way"
+        ],
+        [
+          null,
+          "Oh, she is far above rubies,"
+        ],
+        [
+          null,
+          "And love will never fade"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "She sees beyond the fleeting now"
+        ],
+        [
+          null,
+          "Sows with faith where time allows"
+        ],
+        [
+          null,
+          "She lifts the fallen, mends the torn"
+        ],
+        [
+          null,
+          "A love so deep, so gently worn"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "Her words, a song that calms the storm"
+        ],
+        [
+          null,
+          "Her hands, a refuge, safe and warm"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Oh, she is far above rubies,"
+        ],
+        [
+          null,
+          "A crown upon my life"
+        ],
+        [
+          null,
+          "With gentle strength, she moves me,"
+        ],
+        [
+          null,
+          "A faithful heart, my bride"
+        ],
+        [
+          null,
+          "Her laughter sings like rivers"
+        ],
+        [
+          null,
+          "Her kindness lights the way"
+        ],
+        [
+          null,
+          "Oh, she is far above rubies,"
+        ],
+        [
+          null,
+          "And love will never fade"
+        ],
+        [
+          null,
+          "[Verse 3, Emotional Build]"
+        ],
+        [
+          null,
+          "She walks the path the Lord has traced"
+        ],
+        [
+          null,
+          "With open arms and fearless grace"
+        ],
+        [
+          null,
+          "Through darkest nights, through winds that rise"
+        ],
+        [
+          null,
+          "She holds her faith, she lifts her eyes"
+        ],
+        [
+          null,
+          "[Bridge, Swelling Strings]"
+        ],
+        [
+          null,
+          "Through every trial, through every night"
+        ],
+        [
+          null,
+          "She stands with faith, she walks in light"
+        ],
+        [
+          null,
+          "Her children rise, they call her blessed"
+        ],
+        [
+          null,
+          "Her love outshines the very best"
+        ],
+        [
+          null,
+          "[Final Chorus, Climactic]"
+        ],
+        [
+          null,
+          "Oh, she is far above rubies,"
+        ],
+        [
+          null,
+          "A gift sent from above"
+        ],
+        [
+          null,
+          "With steady hands, she holds me,"
+        ],
+        [
+          null,
+          "Wrapped in eternal love"
+        ],
+        [
+          null,
+          "Her laughter sings like rivers"
+        ],
+        [
+          null,
+          "Her kindness lights the way"
+        ],
+        [
+          null,
+          "Oh, she is far above rubies,"
+        ],
+        [
+          null,
+          "And love will never fade"
+        ],
+        [
+          null,
+          "[Outro, Gentle Piano]"
+        ],
+        [
+          null,
+          "She walks in grace, her hands hold light"
+        ],
+        [
+          null,
+          "A heart of gold, a soul so bright"
+        ],
+        [
+          null,
+          "A faithful heart, my bride, she is mine"
+        ],
+        [
+          null,
+          "She walks in grace, her hands hold light"
+        ],
+        [
+          null,
+          "A heart of gold, a soul so bright"
+        ],
+        [
+          null,
+          "A faithful heart, my bride, she is mine"
+        ]
+      ]
+    }
+  ]
 }

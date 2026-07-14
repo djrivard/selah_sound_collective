@@ -1,12 +1,233 @@
 {
   "slug": "no-more-tears",
   "title": "No More Tears",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Revelation 21",
   "book": "Revelation",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "no-more-tears.jpg",
+  "audio": "no-more-tears.mp3",
   "spotify": "https://open.spotify.com/track/2udzJhHIrnLi2aiIM6RuQK",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273af921f6129ec49472a143b9a"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "First sky flickers out tonight"
+        ],
+        [
+          null,
+          "Old world breathing its last light"
+        ],
+        [
+          null,
+          "Hear the silence where the waves used to break"
+        ],
+        [
+          null,
+          "Just a memory, for goodness sake..."
+        ],
+        [
+          null,
+          "Yeah, just a memory we don't have to retake"
+        ],
+        [
+          null,
+          "Then a whisper, soft and low"
+        ],
+        [
+          null,
+          "Says \"I'm right here, watch it go..."
+        ],
+        [
+          null,
+          "All the static, all the fear...\""
+        ],
+        [
+          null,
+          "Something new is drawing near..."
+        ],
+        [
+          null,
+          "Feel it drawing near"
+        ],
+        [
+          null,
+          "He'll wipe away every tear I've cried"
+        ],
+        [
+          null,
+          "No more death hiding deep inside"
+        ],
+        [
+          null,
+          "No more mourning, no more crying out"
+        ],
+        [
+          null,
+          "No more pain, anymore, no doubt"
+        ],
+        [
+          null,
+          "'Cause the former things have passed away"
+        ],
+        [
+          null,
+          "Passed away... yeah, passed away"
+        ],
+        [
+          null,
+          "Then a new heaven starts to bloom"
+        ],
+        [
+          null,
+          "Washing clean the empty room"
+        ],
+        [
+          null,
+          "A new earth answers soft and deep"
+        ],
+        [
+          null,
+          "Promises the old world couldn't keep..."
+        ],
+        [
+          null,
+          "And the restless ocean falls asleep..."
+        ],
+        [
+          null,
+          "Forever falls asleep..."
+        ],
+        [
+          null,
+          "See the city, coming down"
+        ],
+        [
+          null,
+          "Like a diamond, wears a crown"
+        ],
+        [
+          null,
+          "But it's gentle, soft, and bright"
+        ],
+        [
+          null,
+          "Prepared for us, bathed in light..."
+        ],
+        [
+          null,
+          "Washing over in the purest light"
+        ],
+        [
+          null,
+          "And the whisper turns to sound"
+        ],
+        [
+          null,
+          "Says \"This here is holy ground"
+        ],
+        [
+          null,
+          "My own home, right here with you\""
+        ],
+        [
+          null,
+          "Making everything feel new..."
+        ],
+        [
+          null,
+          "Yeah, everything brand new"
+        ],
+        [
+          null,
+          "He'll wipe away every tear I've cried"
+        ],
+        [
+          null,
+          "No more death hiding deep inside"
+        ],
+        [
+          null,
+          "No more mourning, no more crying out"
+        ],
+        [
+          null,
+          "No more pain, anymore, no doubt"
+        ],
+        [
+          null,
+          "'Cause the former things have passed away"
+        ],
+        [
+          null,
+          "Passed away... yeah, passed away"
+        ],
+        [
+          null,
+          "The dwelling place... right here with us"
+        ],
+        [
+          null,
+          "No more hiding, only trust"
+        ],
+        [
+          null,
+          "He'll be our God, we'll be His own"
+        ],
+        [
+          null,
+          "Never, never be alone..."
+        ],
+        [
+          null,
+          "Seed of hope is fully grown..."
+        ],
+        [
+          null,
+          "He'll wipe away every tear I've cried"
+        ],
+        [
+          null,
+          "No more death hiding deep inside"
+        ],
+        [
+          null,
+          "No more mourning, no more crying out"
+        ],
+        [
+          null,
+          "No more pain, anymore, no doubt"
+        ],
+        [
+          null,
+          "'Cause the former things have passed away"
+        ],
+        [
+          null,
+          "Passed away... yeah, passed away"
+        ],
+        [
+          null,
+          "Passed away..."
+        ],
+        [
+          null,
+          "New heaven... new earth..."
+        ],
+        [
+          null,
+          "No more tears... anymore..."
+        ],
+        [
+          null,
+          "No more pain..."
+        ],
+        [
+          null,
+          "Passed away..."
+        ]
+      ]
+    }
+  ]
 }

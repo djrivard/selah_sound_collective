@@ -1,12 +1,245 @@
 {
   "slug": "damascus-road",
   "title": "Damascus Road",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Acts 9",
   "book": "Acts",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "damascus-road.jpg",
+  "audio": "damascus-road.mp3",
   "spotify": "https://open.spotify.com/track/7f8BJacbDhu0J9x8q30dyH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a7f35eba2eb30d58ec07b12f"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Got the letters, feel the seal"
+        ],
+        [
+          null,
+          "Certainty, so sharp, so real"
+        ],
+        [
+          null,
+          "Thought I knew what God required"
+        ],
+        [
+          null,
+          "Cleansing flame, a holy fire"
+        ],
+        [
+          null,
+          "Every step, a judgment cast"
+        ],
+        [
+          null,
+          "Making sure the heresy won't last"
+        ],
+        [
+          null,
+          "Then the sky just broke in two"
+        ],
+        [
+          null,
+          "Something blinding rushing through"
+        ],
+        [
+          null,
+          "Brighter than a thousand suns"
+        ],
+        [
+          null,
+          "Silenced all my angry guns"
+        ],
+        [
+          null,
+          "Hit the ground before I knew"
+        ],
+        [
+          null,
+          "Me and all my loyal crew"
+        ],
+        [
+          null,
+          "Damascus road, blinding light"
+        ],
+        [
+          null,
+          "Swallowed whole the day and night"
+        ],
+        [
+          null,
+          "Felt the earth, I heard the sound"
+        ],
+        [
+          null,
+          "Voice that shook the solid ground"
+        ],
+        [
+          null,
+          "Just a question, piercing deep"
+        ],
+        [
+          null,
+          "\"Saul, Saul, why persecute Me?\""
+        ],
+        [
+          null,
+          "Cracked the world I used to keep"
+        ],
+        [
+          null,
+          "Empty sockets where sight had been"
+        ],
+        [
+          null,
+          "Led by hands of other men"
+        ],
+        [
+          null,
+          "Phantom light behind the veil"
+        ],
+        [
+          null,
+          "Every breath a silent wail"
+        ],
+        [
+          null,
+          "Three whole days, a shade of grey"
+        ],
+        [
+          null,
+          "Felt the old world fall away"
+        ],
+        [
+          null,
+          "Waiting in the dark alone"
+        ],
+        [
+          null,
+          "For a seed of mercy to be sown"
+        ],
+        [
+          null,
+          "Damascus road, blinding light"
+        ],
+        [
+          null,
+          "Swallowed whole the day and night"
+        ],
+        [
+          null,
+          "Felt the earth, I heard the sound"
+        ],
+        [
+          null,
+          "Voice that shook the solid ground"
+        ],
+        [
+          null,
+          "Just a question, piercing deep"
+        ],
+        [
+          null,
+          "\"Saul, Saul, why persecute Me?\""
+        ],
+        [
+          null,
+          "Cracked the world I used to keep"
+        ],
+        [
+          null,
+          "A stranger's touch, a whispered name"
+        ],
+        [
+          null,
+          "\"Brother Saul,\" extinguished flame"
+        ],
+        [
+          null,
+          "Of the hatred, fear, and pride"
+        ],
+        [
+          null,
+          "Something shifted deep inside"
+        ],
+        [
+          null,
+          "Like dust, like scales, began to fall"
+        ],
+        [
+          null,
+          "Answered to a different call"
+        ],
+        [
+          null,
+          "And the light came flooding through"
+        ],
+        [
+          null,
+          "Everything I saw was new"
+        ],
+        [
+          null,
+          "Everything was new"
+        ],
+        [
+          null,
+          "Damascus road, blinding light"
+        ],
+        [
+          null,
+          "Opened up my inner sight"
+        ],
+        [
+          null,
+          "On the ground, I heard the sound"
+        ],
+        [
+          null,
+          "Love that shook the world around"
+        ],
+        [
+          null,
+          "Not just questions piercing deep"
+        ],
+        [
+          null,
+          "\"You're the one I choose to keep.\""
+        ],
+        [
+          null,
+          "Woke the man I was asleep"
+        ],
+        [
+          null,
+          "Same road dust beneath my feet"
+        ],
+        [
+          null,
+          "But the mission's bittersweet"
+        ],
+        [
+          null,
+          "Carry scars, but carry grace"
+        ],
+        [
+          null,
+          "See the light in every face"
+        ],
+        [
+          null,
+          "From the hunter to the called"
+        ],
+        [
+          null,
+          "By the voice that held me thrall"
+        ],
+        [
+          null,
+          "Jesus... saving Saul... Jesus... after all"
+        ]
+      ]
+    }
+  ]
 }

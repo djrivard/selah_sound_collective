@@ -1,12 +1,229 @@
 {
   "slug": "the-quiet-flame",
   "title": "The Quiet Flame",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Philippians 4:11-13",
   "book": "Philippians",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-quiet-flame.jpg",
+  "audio": "the-quiet-flame.mp3",
   "spotify": "https://open.spotify.com/track/5gmnkxBVEDEz7UAyUU4m65",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27322a6da12ac8bd293d988d549"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "I know the secret"
+        ],
+        [
+          null,
+          "It doesn’t shout"
+        ],
+        [
+          null,
+          "It waits in silence"
+        ],
+        [
+          null,
+          "It weathers doubt"
+        ],
+        [
+          null,
+          "I’ve eaten dust"
+        ],
+        [
+          null,
+          "I've touched the flame"
+        ],
+        [
+          null,
+          "I've had the crown"
+        ],
+        [
+          null,
+          "Then lost the name"
+        ],
+        [
+          null,
+          "But deeper still — beneath the ache"
+        ],
+        [
+          null,
+          "There’s something burning"
+        ],
+        [
+          null,
+          "That doesn’t break"
+        ],
+        [
+          null,
+          "Not by strength I hold"
+        ],
+        [
+          null,
+          "Not by hand or gold"
+        ],
+        [
+          null,
+          "But by something old"
+        ],
+        [
+          null,
+          "Something holy, untold"
+        ],
+        [
+          null,
+          "Through Him who strengthens me"
+        ],
+        [
+          null,
+          "I fall with grace"
+        ],
+        [
+          null,
+          "I fade, then rise unseen"
+        ],
+        [
+          null,
+          "My soul does not erase"
+        ],
+        [
+          null,
+          "Empty hands like open wings"
+        ],
+        [
+          null,
+          "Still bear the weight of sacred things"
+        ],
+        [
+          null,
+          "Through Him who strengthens me"
+        ],
+        [
+          null,
+          "I become, I breathe"
+        ],
+        [
+          null,
+          "[whispered]"
+        ],
+        [
+          null,
+          "When I was hungry,"
+        ],
+        [
+          null,
+          "I found the sky"
+        ],
+        [
+          null,
+          "When I was broken,"
+        ],
+        [
+          null,
+          "I still knew why"
+        ],
+        [
+          null,
+          "The seasons starve"
+        ],
+        [
+          null,
+          "The light withdraws"
+        ],
+        [
+          null,
+          "But even shadows"
+        ],
+        [
+          null,
+          "Obey some cause"
+        ],
+        [
+          null,
+          "There’s wealth in want"
+        ],
+        [
+          null,
+          "A peace in lack"
+        ],
+        [
+          null,
+          "A forward motion"
+        ],
+        [
+          null,
+          "Without a track"
+        ],
+        [
+          null,
+          "Not by fire, not by fight"
+        ],
+        [
+          null,
+          "But by a whisper"
+        ],
+        [
+          null,
+          "In the night"
+        ],
+        [
+          null,
+          "Through Him who strengthens me"
+        ],
+        [
+          null,
+          "I bloom in dust"
+        ],
+        [
+          null,
+          "My ruin sings"
+        ],
+        [
+          null,
+          "It learns to trust"
+        ],
+        [
+          null,
+          "I’ve knelt in prisons, kissed the rain"
+        ],
+        [
+          null,
+          "But I have never bowed in vain"
+        ],
+        [
+          null,
+          "Through Him who strengthens me"
+        ],
+        [
+          null,
+          "I remain"
+        ],
+        [
+          null,
+          "Even now… I rise"
+        ],
+        [
+          null,
+          "Even now… I rise"
+        ],
+        [
+          null,
+          "I know the secret"
+        ],
+        [
+          null,
+          "It doesn’t leave"
+        ],
+        [
+          null,
+          "It lives in quiet"
+        ],
+        [
+          null,
+          "And lets me breathe"
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,325 @@
 {
   "slug": "he-lifts-the-lowly",
   "title": "He Lifts The Lowly",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Luke 1:46-56",
   "book": "Luke",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "he-lifts-the-lowly.jpg",
+  "audio": "he-lifts-the-lowly.mp3",
   "spotify": "https://open.spotify.com/track/6XG1THhjcMwdVhAXt6NIgv",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ec65a1a7a04b9f0b129e1455"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "My soul wakes like morning light"
+        ],
+        [
+          null,
+          "Through the quiet of ordinary things"
+        ],
+        [
+          null,
+          "Not the thunder of crowns or armies"
+        ],
+        [
+          null,
+          "But the whisper the humble hear"
+        ],
+        [
+          null,
+          "I have seen the towers of power"
+        ],
+        [
+          null,
+          "Polished bright with pride and fear"
+        ],
+        [
+          null,
+          "But heaven bends toward the smallest voice"
+        ],
+        [
+          null,
+          "That dares to say You’re near"
+        ],
+        [
+          null,
+          "The world counts strength in iron hands"
+        ],
+        [
+          null,
+          "In victories carved in stone"
+        ],
+        [
+          null,
+          "But the One who shaped the galaxies"
+        ],
+        [
+          null,
+          "Finds glory in the unknown"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "The proud build ladders to the sky"
+        ],
+        [
+          null,
+          "But mercy kneels beside the ground"
+        ],
+        [
+          null,
+          "The empty heart that reaches upward"
+        ],
+        [
+          null,
+          "Is where the greatest grace is found"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "He lifts the lowly from the dust"
+        ],
+        [
+          null,
+          "And fills the empty hands with bread"
+        ],
+        [
+          null,
+          "The proud may stand on golden thrones"
+        ],
+        [
+          null,
+          "But love remembers what they said"
+        ],
+        [
+          null,
+          "He turns the kingdoms upside down"
+        ],
+        [
+          null,
+          "Where mercy writes a different story"
+        ],
+        [
+          null,
+          "The humble rise, the mighty fall"
+        ],
+        [
+          null,
+          "And quiet hearts inherit glory"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I’ve watched the hungry search the night"
+        ],
+        [
+          null,
+          "For a promise stronger than despair"
+        ],
+        [
+          null,
+          "Heaven answered not with thunder"
+        ],
+        [
+          null,
+          "But with hope already there"
+        ],
+        [
+          null,
+          "Not in the palace halls of power"
+        ],
+        [
+          null,
+          "Not where the wealthy voices sing"
+        ],
+        [
+          null,
+          "But in the prayer of trembling people"
+        ],
+        [
+          null,
+          "Who trust a hidden King"
+        ],
+        [
+          null,
+          "History bends in silent ways"
+        ],
+        [
+          null,
+          "The rulers never understand"
+        ],
+        [
+          null,
+          "A kingdom grows from seeds of mercy"
+        ],
+        [
+          null,
+          "Planted in surrendered hands"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "The proud believe the world is theirs"
+        ],
+        [
+          null,
+          "But time will wash their names away"
+        ],
+        [
+          null,
+          "The ones who walk in quiet faith"
+        ],
+        [
+          null,
+          "Will see a brighter day"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "He lifts the lowly from the dust"
+        ],
+        [
+          null,
+          "And fills the empty hands with bread"
+        ],
+        [
+          null,
+          "The proud may stand on golden thrones"
+        ],
+        [
+          null,
+          "But love remembers what they said"
+        ],
+        [
+          null,
+          "He turns the kingdoms upside down"
+        ],
+        [
+          null,
+          "Where mercy writes a different story"
+        ],
+        [
+          null,
+          "The humble rise, the mighty fall"
+        ],
+        [
+          null,
+          "And quiet hearts inherit glory"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "Blessed are the souls who tremble"
+        ],
+        [
+          null,
+          "Not from fear but holy awe"
+        ],
+        [
+          null,
+          "They know the strength of heaven’s kindness"
+        ],
+        [
+          null,
+          "Is deeper than the strongest law"
+        ],
+        [
+          null,
+          "Through every age the promise echoes"
+        ],
+        [
+          null,
+          "Like a river through the years"
+        ],
+        [
+          null,
+          "The God who sees the hidden sorrow"
+        ],
+        [
+          null,
+          "Is the One who dries our tears"
+        ],
+        [
+          null,
+          "[Final Chorus]"
+        ],
+        [
+          null,
+          "He lifts the lowly from the dust"
+        ],
+        [
+          null,
+          "And fills the empty hands with light"
+        ],
+        [
+          null,
+          "The proud may shine for just a moment"
+        ],
+        [
+          null,
+          "But mercy holds the endless night"
+        ],
+        [
+          null,
+          "He turns the kingdoms upside down"
+        ],
+        [
+          null,
+          "Where love becomes the final story"
+        ],
+        [
+          null,
+          "The humble rise, the mighty fall"
+        ],
+        [
+          null,
+          "And quiet hearts inherit glory"
+        ],
+        [
+          null,
+          "[Outro]"
+        ],
+        [
+          null,
+          "My soul sings softly in the morning"
+        ],
+        [
+          null,
+          "Of a kingdom few can see"
+        ],
+        [
+          null,
+          "Where the smallest act of surrender"
+        ],
+        [
+          null,
+          "Is the truest victory"
+        ]
+      ]
+    }
+  ]
 }

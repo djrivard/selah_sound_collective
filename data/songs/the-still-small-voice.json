@@ -1,12 +1,201 @@
 {
   "slug": "the-still-small-voice",
   "title": "The Still Small Voice",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "1 Kings 19:12",
   "book": "1 Kings",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-still-small-voice.jpg",
+  "audio": "the-still-small-voice.mp3",
   "spotify": "https://open.spotify.com/track/7ua6LGZgzsYjIIVlUmLa1l",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d24574c5833cd2d9a92bfd5c"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[verse 1]"
+        ],
+        [
+          null,
+          "The wind broke branches, the earth split stone"
+        ],
+        [
+          null,
+          "The fire lit shadows, but left me alone"
+        ],
+        [
+          null,
+          "I searched through thunder, I begged the flame"
+        ],
+        [
+          null,
+          "But the hush that followed, whispered my name"
+        ],
+        [
+          null,
+          "[pre-chorus]"
+        ],
+        [
+          null,
+          "Not in the quake, not in the blaze"
+        ],
+        [
+          null,
+          "Not in the fury the world displays"
+        ],
+        [
+          null,
+          "But when all the clamor falls into grace"
+        ],
+        [
+          null,
+          "A hush arrives, and takes its place"
+        ],
+        [
+          null,
+          "[chorus]"
+        ],
+        [
+          null,
+          "[instrumental swell, vocals emerge gently]"
+        ],
+        [
+          null,
+          "It's the still small voice that finds me"
+        ],
+        [
+          null,
+          "Soft as silence, deep as night"
+        ],
+        [
+          null,
+          "No roaring sign, no blinding light"
+        ],
+        [
+          null,
+          "But in the quiet, I know what’s right"
+        ],
+        [
+          null,
+          "Yeah, it’s the still small voice that finds me"
+        ],
+        [
+          null,
+          "[verse 2]"
+        ],
+        [
+          null,
+          "I built my altars on noise and speed"
+        ],
+        [
+          null,
+          "Till silence cracked me, just to plant a seed"
+        ],
+        [
+          null,
+          "And in that silence, so sweet, so thin"
+        ],
+        [
+          null,
+          "I felt the breath of love begin"
+        ],
+        [
+          null,
+          "[pre-chorus 2]"
+        ],
+        [
+          null,
+          "Not in the war cries, not in the gold"
+        ],
+        [
+          null,
+          "Not in the tales the prophets told"
+        ],
+        [
+          null,
+          "But in a sigh the soul can’t fake"
+        ],
+        [
+          null,
+          "The hush that heals what life might break"
+        ],
+        [
+          null,
+          "[chorus 2 – evolved]"
+        ],
+        [
+          null,
+          "It’s the still small voice that holds me"
+        ],
+        [
+          null,
+          "Woven in a sacred thread"
+        ],
+        [
+          null,
+          "Through every ache, through words unsaid"
+        ],
+        [
+          null,
+          "It sings in places fear once bled"
+        ],
+        [
+          null,
+          "Yes, it’s the still small voice that holds me"
+        ],
+        [
+          null,
+          "[bridge – instrumental drop, ambient textures rise]"
+        ],
+        [
+          null,
+          "[spoken word / whisper layered under strings]"
+        ],
+        [
+          null,
+          "Not in the noise, not in the need"
+        ],
+        [
+          null,
+          "But in the pause between each beat"
+        ],
+        [
+          null,
+          "Where heaven waits with patient grace"
+        ],
+        [
+          null,
+          "And time dissolves in that soft place"
+        ],
+        [
+          null,
+          "[final chorus – layered vocals, emotional peak]"
+        ],
+        [
+          null,
+          "It’s the still small voice within me"
+        ],
+        [
+          null,
+          "Calling out without a sound"
+        ],
+        [
+          null,
+          "A holy hush that wraps around"
+        ],
+        [
+          null,
+          "And plants my feet on sacred ground"
+        ],
+        [
+          null,
+          "Yes, it’s the still small voice..."
+        ],
+        [
+          null,
+          "The whisper that remains"
+        ]
+      ]
+    }
+  ]
 }

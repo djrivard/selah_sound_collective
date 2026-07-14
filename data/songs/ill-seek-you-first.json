@@ -1,12 +1,253 @@
 {
   "slug": "ill-seek-you-first",
   "title": "I'll Seek You First",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Matt.6:33",
   "book": "Matthew",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "ill-seek-you-first.jpg",
+  "audio": "ill-seek-you-first.mp3",
   "spotify": "https://open.spotify.com/track/3AfYdecRyCFdwgwWkU0Psk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738d16e78c3ef2ad5bbb08eadb"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "I’ll Seek You First"
+        ],
+        [
+          null,
+          "The room is dark, my phone lights up the ceiling"
+        ],
+        [
+          null,
+          "Another night I can’t slow down"
+        ],
+        [
+          null,
+          "I keep rehearsing all the worst-case endings"
+        ],
+        [
+          null,
+          "Like I need them figured out"
+        ],
+        [
+          null,
+          "I’ve been carrying tomorrow on my shoulders"
+        ],
+        [
+          null,
+          "Like it’s mine to save or lose"
+        ],
+        [
+          null,
+          "But every time I try to hold it together"
+        ],
+        [
+          null,
+          "I just feel how little I can do"
+        ],
+        [
+          null,
+          "I don’t know how to stop the spiraling"
+        ],
+        [
+          null,
+          "I don’t know how to make it through"
+        ],
+        [
+          null,
+          "But every time I reach the bottom"
+        ],
+        [
+          null,
+          "I still reach for You"
+        ],
+        [
+          null,
+          "So I’ll seek You first"
+        ],
+        [
+          null,
+          "When I’m tired of the fight"
+        ],
+        [
+          null,
+          "When my faith feels fragile"
+        ],
+        [
+          null,
+          "In the middle of the night"
+        ],
+        [
+          null,
+          "I’ll seek You first"
+        ],
+        [
+          null,
+          "When I don’t know what I need"
+        ],
+        [
+          null,
+          "I won’t worry ’bout tomorrow"
+        ],
+        [
+          null,
+          "You already know what I need"
+        ],
+        [
+          null,
+          "I compare my life to everybody else"
+        ],
+        [
+          null,
+          "Like I’m always falling behind"
+        ],
+        [
+          null,
+          "You dress the fields without a second thought"
+        ],
+        [
+          null,
+          "Still I’m scared You’ll forget mine"
+        ],
+        [
+          null,
+          "Why do I act like love is something"
+        ],
+        [
+          null,
+          "I have to earn to stay alive"
+        ],
+        [
+          null,
+          "If You can hold the weight of heaven"
+        ],
+        [
+          null,
+          "Maybe You can handle mine"
+        ],
+        [
+          null,
+          "I don’t need a perfect answer"
+        ],
+        [
+          null,
+          "I don’t need to see the way"
+        ],
+        [
+          null,
+          "I just need to know I’m not alone"
+        ],
+        [
+          null,
+          "When everything feels gray"
+        ],
+        [
+          null,
+          "So I’ll seek You first"
+        ],
+        [
+          null,
+          "When the silence screams"
+        ],
+        [
+          null,
+          "When my prayers feel empty"
+        ],
+        [
+          null,
+          "And my heart feels weak"
+        ],
+        [
+          null,
+          "I’ll seek You first"
+        ],
+        [
+          null,
+          "When the night won’t leave"
+        ],
+        [
+          null,
+          "I won’t worry ’bout tomorrow"
+        ],
+        [
+          null,
+          "You already know what I need"
+        ],
+        [
+          null,
+          "I let go of the illusion"
+        ],
+        [
+          null,
+          "That I’m ever in control"
+        ],
+        [
+          null,
+          "If You’re steady in the chaos"
+        ],
+        [
+          null,
+          "I don’t have to hold it all"
+        ],
+        [
+          null,
+          "All these things I thought would save me"
+        ],
+        [
+          null,
+          "Never stayed when I was low"
+        ],
+        [
+          null,
+          "If I lose the world around me"
+        ],
+        [
+          null,
+          "I still know where I can go"
+        ],
+        [
+          null,
+          "So I’ll seek You first"
+        ],
+        [
+          null,
+          "Even when I’m numb"
+        ],
+        [
+          null,
+          "If the light feels distant"
+        ],
+        [
+          null,
+          "You’re still where I’m from"
+        ],
+        [
+          null,
+          "I’ll seek You first"
+        ],
+        [
+          null,
+          "Every doubt, every plea"
+        ],
+        [
+          null,
+          "I won’t worry ’bout tomorrow"
+        ],
+        [
+          null,
+          "You already know what I need"
+        ],
+        [
+          null,
+          "You already know"
+        ],
+        [
+          null,
+          "What I need"
+        ]
+      ]
+    }
+  ]
 }

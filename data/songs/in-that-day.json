@@ -1,12 +1,233 @@
 {
   "slug": "in-that-day",
   "title": "In That Day",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Micah 4",
   "book": "Micah",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "in-that-day.jpg",
+  "audio": "in-that-day.mp3",
   "spotify": "https://open.spotify.com/track/1zUOPdL5CdnrtMtAjKheC3",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273856eb4921dad8da040e43484"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "I saw a hill bathed in dawn’s first light,"
+        ],
+        [
+          null,
+          "Where war forgot its name."
+        ],
+        [
+          null,
+          "No flags to burn, no borders drawn,"
+        ],
+        [
+          null,
+          "No echo left of blame."
+        ],
+        [
+          null,
+          "The earth exhaled, and in that breath,"
+        ],
+        [
+          null,
+          "The old knives turned to rust —"
+        ],
+        [
+          null,
+          "They planted trees where walls once stood,"
+        ],
+        [
+          null,
+          "And raised their hope from dust."
+        ],
+        [
+          null,
+          "We’ve walked the fire, we’ve drunk the storm,"
+        ],
+        [
+          null,
+          "Now silence sings again —"
+        ],
+        [
+          null,
+          "A river flows from sacred stone,"
+        ],
+        [
+          null,
+          "And peace begins within."
+        ],
+        [
+          null,
+          "And none shall make us afraid —"
+        ],
+        [
+          null,
+          "Not the night, not the sword, not the grave."
+        ],
+        [
+          null,
+          "Under vine and fig, we lay unarmed,"
+        ],
+        [
+          null,
+          "In the hush of a world remade."
+        ],
+        [
+          null,
+          "And none shall make us afraid —"
+        ],
+        [
+          null,
+          "Not the roar, not the wound, not the flame."
+        ],
+        [
+          null,
+          "From the mountain of peace, we rise and say:"
+        ],
+        [
+          null,
+          "We are home, we are whole, we are brave."
+        ],
+        [
+          null,
+          "Children dance where tanks once crawled,"
+        ],
+        [
+          null,
+          "Their laughter floods the sky."
+        ],
+        [
+          null,
+          "The lion lays beside the lamb,"
+        ],
+        [
+          null,
+          "No blood beneath their cry."
+        ],
+        [
+          null,
+          "The widow sings, the prisoner dreams,"
+        ],
+        [
+          null,
+          "The lost have found their name —"
+        ],
+        [
+          null,
+          "And every tongue in harmony"
+        ],
+        [
+          null,
+          "Now calls the earth reclaimed."
+        ],
+        [
+          null,
+          "The swords we bore, now garden tools —"
+        ],
+        [
+          null,
+          "We cut the soil, not skin."
+        ],
+        [
+          null,
+          "The only scars that heaven keeps"
+        ],
+        [
+          null,
+          "Are the ones that let light in."
+        ],
+        [
+          null,
+          "And none shall make us afraid —"
+        ],
+        [
+          null,
+          "Not the night, not the sword, not the grave."
+        ],
+        [
+          null,
+          "Under vine and fig, we lay unarmed,"
+        ],
+        [
+          null,
+          "In the hush of a world remade."
+        ],
+        [
+          null,
+          "And none shall make us afraid —"
+        ],
+        [
+          null,
+          "Not the past, not the chain, not the shame."
+        ],
+        [
+          null,
+          "From the mountain of peace, we rise and say:"
+        ],
+        [
+          null,
+          "We are found, we are flame, we are grace."
+        ],
+        [
+          null,
+          "Swords into plowshares"
+        ],
+        [
+          null,
+          "Spears into pruning hooks."
+        ],
+        [
+          null,
+          "No more training for war."
+        ],
+        [
+          null,
+          "No more hunger for more."
+        ],
+        [
+          null,
+          "Just the still of enough —"
+        ],
+        [
+          null,
+          "And the heart made pure."
+        ],
+        [
+          null,
+          "And none shall make us afraid —"
+        ],
+        [
+          null,
+          "Not the dark, not the doubt, not the days."
+        ],
+        [
+          null,
+          "Under vine and fig, we lay unarmed,"
+        ],
+        [
+          null,
+          "Where the Prince of Peace still reigns."
+        ],
+        [
+          null,
+          "And none shall make us afraid —"
+        ],
+        [
+          null,
+          "Not the storm, not the sting, not the grave."
+        ],
+        [
+          null,
+          "From the mountain of light, we rise and say:"
+        ],
+        [
+          null,
+          "We are home, we are whole, we are brave."
+        ]
+      ]
+    }
+  ]
 }

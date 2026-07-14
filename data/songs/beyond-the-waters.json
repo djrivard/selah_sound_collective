@@ -1,12 +1,253 @@
 {
   "slug": "beyond-the-waters",
   "title": "Beyond The Waters",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Exodus",
   "book": "Exodus",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "beyond-the-waters.jpg",
+  "audio": "beyond-the-waters.mp3",
   "spotify": "https://open.spotify.com/track/6N3iTisXEwzkPsfYSkg7AH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731d1232ed6e31d32b74ffdc3a"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Intro, Haunting Synths, Distant Echoes]"
+        ],
+        [
+          null,
+          "Winds whisper over burning sand,"
+        ],
+        [
+          null,
+          "Footsteps swallowed by the shifting land."
+        ],
+        [
+          null,
+          "[Verse 1, Ethereal Ambience]"
+        ],
+        [
+          null,
+          "A hand of stone, a shackle tight,"
+        ],
+        [
+          null,
+          "Dreams of freedom buried in the night."
+        ],
+        [
+          null,
+          "The river roared, the blood ran deep,"
+        ],
+        [
+          null,
+          "A voice cried out from the dust and heat."
+        ],
+        [
+          null,
+          "[Pre-Chorus, Layered Vocals, Rising Strings]"
+        ],
+        [
+          null,
+          "A shadow fell, a curse undone,"
+        ],
+        [
+          null,
+          "The sea divides beneath the sun."
+        ],
+        [
+          null,
+          "Through parted waves, through whispered breath,"
+        ],
+        [
+          null,
+          "We walked between the hands of death."
+        ],
+        [
+          null,
+          "[Chorus, Swelling Strings, Melancholic Guitars]"
+        ],
+        [
+          null,
+          "Beyond the waters, past the flame,"
+        ],
+        [
+          null,
+          "We march through sorrow, call His name."
+        ],
+        [
+          null,
+          "The sky is open, the ground is dry,"
+        ],
+        [
+          null,
+          "The promised dawn burns in our eyes."
+        ],
+        [
+          null,
+          "[Verse 2, Haunting Synths, Minimal Percussion]"
+        ],
+        [
+          null,
+          "A desert vast, the hunger sways,"
+        ],
+        [
+          null,
+          "Manna falls like ghostly praise."
+        ],
+        [
+          null,
+          "The voice still speaks in fire and cloud,"
+        ],
+        [
+          null,
+          "A law of light to shape the sound."
+        ],
+        [
+          null,
+          "[Verse 3, Melancholy Guitars, Echoing Vocals]"
+        ],
+        [
+          null,
+          "The weary cried, \"Turn back again!"
+        ],
+        [
+          null,
+          "Was slavery not better than the wind?\""
+        ],
+        [
+          null,
+          "Their hearts grew cold, their voices strained,"
+        ],
+        [
+          null,
+          "But some held on, endured the pain."
+        ],
+        [
+          null,
+          "[Pre-Chorus, Layered Vocals, Rising Strings]"
+        ],
+        [
+          null,
+          "A shadow fell, a curse undone,"
+        ],
+        [
+          null,
+          "The sea divides beneath the sun."
+        ],
+        [
+          null,
+          "Through parted waves, through whispered breath,"
+        ],
+        [
+          null,
+          "We walked between the hands of death."
+        ],
+        [
+          null,
+          "[Chorus, Swelling Strings, Melancholic Guitars]"
+        ],
+        [
+          null,
+          "Beyond the waters, past the flame,"
+        ],
+        [
+          null,
+          "We march through sorrow, call His name."
+        ],
+        [
+          null,
+          "The sky is open, the ground is dry,"
+        ],
+        [
+          null,
+          "The promised dawn burns in our eyes."
+        ],
+        [
+          null,
+          "[Verse 4, Melancholic Tones, Sparse Percussion]"
+        ],
+        [
+          null,
+          "A golden calf, a shattered stone,"
+        ],
+        [
+          null,
+          "The path was lost, we stood alone."
+        ],
+        [
+          null,
+          "Yet through the dust, the water poured,"
+        ],
+        [
+          null,
+          "A voice still called, a promise swore."
+        ],
+        [
+          null,
+          "[Verse 5, Haunting Strings, Ethereal Ambience]"
+        ],
+        [
+          null,
+          "The walls stood tall, the trumpets cried,"
+        ],
+        [
+          null,
+          "A city fell, the past untied."
+        ],
+        [
+          null,
+          "Through battle scars and broken ground,"
+        ],
+        [
+          null,
+          "The land of promise wrapped us round."
+        ],
+        [
+          null,
+          "[Bridge, Breakdown, Echoing Vocals]"
+        ],
+        [
+          null,
+          "The wandering fades, the night resigns,"
+        ],
+        [
+          null,
+          "The morning climbs the hills in fire."
+        ],
+        [
+          null,
+          "Yet even dust will taste the rain,"
+        ],
+        [
+          null,
+          "A promised land beyond the pain."
+        ],
+        [
+          null,
+          "[Instrumental, Swelling Strings, Ethereal Soundscape]"
+        ],
+        [
+          null,
+          "[Finale, Big Finish, Layered Vocals]"
+        ],
+        [
+          null,
+          "Beyond the waters, past the flame,"
+        ],
+        [
+          null,
+          "We march through sorrow, call His name."
+        ],
+        [
+          null,
+          "The sky is open, the ground is dry,"
+        ],
+        [
+          null,
+          "The promised dawn burns in our eyes."
+        ]
+      ]
+    }
+  ]
 }

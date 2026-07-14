@@ -1,12 +1,173 @@
 {
   "slug": "open-wide-the-window",
   "title": "Open Wide The Window",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Dan.6:10-14",
   "book": "Daniel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "open-wide-the-window.jpg",
+  "audio": "open-wide-the-window.mp3",
   "spotify": "https://open.spotify.com/track/1cBd4vanIbxakT6ApruXoB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730ee7cb6d244748dbcd76ebc4"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "A trembling hand upon the frame,"
+        ],
+        [
+          null,
+          "The night is thick, the air is flame."
+        ],
+        [
+          null,
+          "They gather whispers in the street,"
+        ],
+        [
+          null,
+          "But I am stronger on my knees."
+        ],
+        [
+          null,
+          "[pre-chorus - strings swell, vocal layering begins]"
+        ],
+        [
+          null,
+          "Even as the silence tightens,"
+        ],
+        [
+          null,
+          "even as the shadows grow,"
+        ],
+        [
+          null,
+          "Still my heart is lifted skyward,"
+        ],
+        [
+          null,
+          "Still my spirit overflows."
+        ],
+        [
+          null,
+          "[chorus - soaring, layered vocals, full ambience]"
+        ],
+        [
+          null,
+          "Open wide the window, let the wild winds in,"
+        ],
+        [
+          null,
+          "I will not be hidden, I will not give in."
+        ],
+        [
+          null,
+          "Though the world may threaten, though the darkness tries to reign,"
+        ],
+        [
+          null,
+          "I will sing forever, I will glorify His name."
+        ],
+        [
+          null,
+          "[verse 2 - low synth drone, whispered vocals over guitar]"
+        ],
+        [
+          null,
+          "Iron words cannot contain,"
+        ],
+        [
+          null,
+          "What the soul of light proclaims."
+        ],
+        [
+          null,
+          "Every wall becomes a door,"
+        ],
+        [
+          null,
+          "Every chain is ash and more."
+        ],
+        [
+          null,
+          "[verse 3 - new verse, rising guitars and subtle percussion]"
+        ],
+        [
+          null,
+          "The night may howl with bitter breath,"
+        ],
+        [
+          null,
+          "The ground may shake with threats of death."
+        ],
+        [
+          null,
+          "But love is louder than the grave,"
+        ],
+        [
+          null,
+          "A fearless song no storm can take."
+        ],
+        [
+          null,
+          "[bridge - ethereal ambience, beatless, swelling voices]"
+        ],
+        [
+          null,
+          "Lift the veil, reveal the dawn,"
+        ],
+        [
+          null,
+          "My song is endless, it carries on."
+        ],
+        [
+          null,
+          "The lions roar, but I remain,"
+        ],
+        [
+          null,
+          "Held by love that cannot change."
+        ],
+        [
+          null,
+          "[chorus - grand, reverberant, multi-layered voices]"
+        ],
+        [
+          null,
+          "Open wide the window, let the wild winds see,"
+        ],
+        [
+          null,
+          "Faith is fire eternal, burning endlessly."
+        ],
+        [
+          null,
+          "Though the storm surrounds me, though the shadows take their aim,"
+        ],
+        [
+          null,
+          "Still my voice is rising, I will glorify His name."
+        ],
+        [
+          null,
+          "[outro - fading guitar echoes, strings dissolve into silence]"
+        ],
+        [
+          null,
+          "Open wide the window…"
+        ],
+        [
+          null,
+          "Let the wild winds in…"
+        ],
+        [
+          null,
+          "Forever unashamed,"
+        ],
+        [
+          null,
+          "Forever unafraid."
+        ]
+      ]
+    }
+  ]
 }

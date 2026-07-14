@@ -1,12 +1,217 @@
 {
   "slug": "i-stand-by-the-door",
   "title": "I Stand By The Door",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Rev.3:14-22",
   "book": "Revelation",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "i-stand-by-the-door.jpg",
+  "audio": "i-stand-by-the-door.mp3",
   "spotify": "https://open.spotify.com/track/7v51y3nwnistgdClFTpqfT",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ce05acd3abcfe6848f4f227c"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "I Stand At The Door"
+        ],
+        [
+          null,
+          "She walks the aisle where candles die,"
+        ],
+        [
+          null,
+          "A chapel cold beneath the sky."
+        ],
+        [
+          null,
+          "Her prayers are cloth, but stitched with gold,"
+        ],
+        [
+          null,
+          "Not fire — just something bought and sold."
+        ],
+        [
+          null,
+          "She moves in grace, but grace is gone,"
+        ],
+        [
+          null,
+          "She hums the hymns, forgets the song."
+        ],
+        [
+          null,
+          "A bride in name, a heart unsure —"
+        ],
+        [
+          null,
+          "The veil is silk, but not so pure."
+        ],
+        [
+          null,
+          "She holds the mirror — sees no flame."
+        ],
+        [
+          null,
+          "She speaks My name… not quite the same."
+        ],
+        [
+          null,
+          "You are neither cold nor fire,"
+        ],
+        [
+          null,
+          "Not storm, not ice, not heart, not choir."
+        ],
+        [
+          null,
+          "But lukewarm love I can’t defend —"
+        ],
+        [
+          null,
+          "So I stand outside,"
+        ],
+        [
+          null,
+          "Like a long-lost friend."
+        ],
+        [
+          null,
+          "Yes, I stand outside,"
+        ],
+        [
+          null,
+          "At the end."
+        ],
+        [
+          null,
+          "Come now, buy the gold that burns —"
+        ],
+        [
+          null,
+          "Not what rusts or never learns."
+        ],
+        [
+          null,
+          "Take the robe to hide your shame,"
+        ],
+        [
+          null,
+          "Wash your eyes — recall My name."
+        ],
+        [
+          null,
+          "You say you’re rich — but you are bare."
+        ],
+        [
+          null,
+          "You say you see — but nothing’s there."
+        ],
+        [
+          null,
+          "You fill your cup with painted wine,"
+        ],
+        [
+          null,
+          "But thirst returns… every time."
+        ],
+        [
+          null,
+          "You’ve counted gain and missed the door."
+        ],
+        [
+          null,
+          "I’m still here… and nothing more."
+        ],
+        [
+          null,
+          "You are neither cold nor fire,"
+        ],
+        [
+          null,
+          "Not storm, not ice, not heart, not choir."
+        ],
+        [
+          null,
+          "But lukewarm love I can’t defend —"
+        ],
+        [
+          null,
+          "So I stand outside,"
+        ],
+        [
+          null,
+          "Like a long-lost friend."
+        ],
+        [
+          null,
+          "Yes, I stand outside,"
+        ],
+        [
+          null,
+          "At the end."
+        ],
+        [
+          null,
+          "If she opens… I’ll come in."
+        ],
+        [
+          null,
+          "If she listens… we begin."
+        ],
+        [
+          null,
+          "If she loves Me… she will burn,"
+        ],
+        [
+          null,
+          "Like morning light the shadows learn."
+        ],
+        [
+          null,
+          "Let her hear —"
+        ],
+        [
+          null,
+          "The voice she used to yearn."
+        ],
+        [
+          null,
+          "You were neither cold nor fire,"
+        ],
+        [
+          null,
+          "But I set your heart on higher."
+        ],
+        [
+          null,
+          "Now you burn like holy choir —"
+        ],
+        [
+          null,
+          "For I stood outside,"
+        ],
+        [
+          null,
+          "And you opened wide."
+        ],
+        [
+          null,
+          "Yes, I stood outside…"
+        ],
+        [
+          null,
+          "Now I live inside."
+        ],
+        [
+          null,
+          "To she who overcomes…"
+        ],
+        [
+          null,
+          "I will give the Morning Sun."
+        ]
+      ]
+    }
+  ]
 }

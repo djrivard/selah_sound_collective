@@ -1,12 +1,233 @@
 {
   "slug": "beyond-what-i-know",
   "title": "Beyond What I Know",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Prov.1:2-5",
   "book": "Proverbs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "beyond-what-i-know.jpg",
+  "audio": "beyond-what-i-know.mp3",
   "spotify": "https://open.spotify.com/track/1KbzoYEodhqooui90oaCwn",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273906bf24d4c1525f684fcc451"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "I was chasing every whisper in my mind"
+        ],
+        [
+          null,
+          "Every shadow dressed like truth I couldn’t find"
+        ],
+        [
+          null,
+          "Thought I knew the way by maps I drew alone"
+        ],
+        [
+          null,
+          "But every road just led me further from home"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "In the noise, in the doubt, in the endless spinning sky"
+        ],
+        [
+          null,
+          "There’s a voice calling deeper than the why"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "To know wisdom, to feel what is true"
+        ],
+        [
+          null,
+          "To awaken what’s hidden in you"
+        ],
+        [
+          null,
+          "Hear the words, let your spirit arise"
+        ],
+        [
+          null,
+          "See with more than the sight of your eyes"
+        ],
+        [
+          null,
+          "Let the wise grow wiser still"
+        ],
+        [
+          null,
+          "Let your heart learn how to be still"
+        ],
+        [
+          null,
+          "Trust the path you cannot see"
+        ],
+        [
+          null,
+          "There is truth beyond what you believe"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I was leaning on the echoes of my fear"
+        ],
+        [
+          null,
+          "Building walls out of what wasn’t clear"
+        ],
+        [
+          null,
+          "Every answer felt like slipping through my hands"
+        ],
+        [
+          null,
+          "Till I let go and chose not to understand"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "In surrender, in the silence, something starts to break"
+        ],
+        [
+          null,
+          "Not the soul—but the weight we try to make"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "To know wisdom, to feel what is true"
+        ],
+        [
+          null,
+          "To awaken what’s hidden in you"
+        ],
+        [
+          null,
+          "Hear the words, let your spirit arise"
+        ],
+        [
+          null,
+          "See with more than the sight of your eyes"
+        ],
+        [
+          null,
+          "Let the wise grow wiser still"
+        ],
+        [
+          null,
+          "Let your heart learn how to be still"
+        ],
+        [
+          null,
+          "Trust the path you cannot see"
+        ],
+        [
+          null,
+          "There is truth beyond what you believe"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "Not my thoughts, not my fragile design"
+        ],
+        [
+          null,
+          "There’s a higher hand rewriting every line"
+        ],
+        [
+          null,
+          "In the unknown, I am finally found"
+        ],
+        [
+          null,
+          "When I lose control, I stand on sacred ground"
+        ],
+        [
+          null,
+          "[Breakdown – soft, intimate]"
+        ],
+        [
+          null,
+          "Teach me listening, not just knowing"
+        ],
+        [
+          null,
+          "Teach me trusting, not controlling"
+        ],
+        [
+          null,
+          "[Final Chorus – lifted, expansive]"
+        ],
+        [
+          null,
+          "To know wisdom, to feel what is true"
+        ],
+        [
+          null,
+          "To awaken what’s hidden in you"
+        ],
+        [
+          null,
+          "Hear the call that’s been there all along"
+        ],
+        [
+          null,
+          "Even silence is a sacred song"
+        ],
+        [
+          null,
+          "Let the wise grow wiser still"
+        ],
+        [
+          null,
+          "Let surrender shape Your will"
+        ],
+        [
+          null,
+          "I will walk where I can’t see"
+        ],
+        [
+          null,
+          "And trust the truth You speak in me"
+        ],
+        [
+          null,
+          "[Outro]"
+        ],
+        [
+          null,
+          "I release what I thought I knew"
+        ],
+        [
+          null,
+          "And find my way by trusting You"
+        ]
+      ]
+    }
+  ]
 }

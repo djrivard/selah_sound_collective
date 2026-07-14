@@ -1,12 +1,225 @@
 {
   "slug": "a-little-less",
   "title": "A Little Less",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Leah & Rachel",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-little-less.jpg",
+  "audio": "a-little-less.mp3",
   "spotify": "https://open.spotify.com/track/0ic8nz661vgzt7o61q92p0",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27314a69711f4a26b18e9a4257c"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "I caught her eyes again"
+        ],
+        [
+          null,
+          "The kind that never bend"
+        ],
+        [
+          null,
+          "She moves like a flame on glass"
+        ],
+        [
+          null,
+          "And I burn slow, holding back"
+        ],
+        [
+          null,
+          "My smile is trained and clean"
+        ],
+        [
+          null,
+          "But my shadow’s whispering"
+        ],
+        [
+          null,
+          "I keep my voice below"
+        ],
+        [
+          null,
+          "She doesn't even know"
+        ],
+        [
+          null,
+          "Every look she gets, I count"
+        ],
+        [
+          null,
+          "Every time he turns around"
+        ],
+        [
+          null,
+          "I fold my envy like a dress"
+        ],
+        [
+          null,
+          "And wear it with the rest"
+        ],
+        [
+          null,
+          "She got a little more"
+        ],
+        [
+          null,
+          "I got a little less"
+        ],
+        [
+          null,
+          "I built a world alone"
+        ],
+        [
+          null,
+          "And carved it in my chest"
+        ],
+        [
+          null,
+          "She shines in every frame"
+        ],
+        [
+          null,
+          "I blur into the rest"
+        ],
+        [
+          null,
+          "She got a little more"
+        ],
+        [
+          null,
+          "And I became a guess"
+        ],
+        [
+          null,
+          "I held his words like breath"
+        ],
+        [
+          null,
+          "Soft promises and death"
+        ],
+        [
+          null,
+          "She held his hand in light"
+        ],
+        [
+          null,
+          "I held it out of sight"
+        ],
+        [
+          null,
+          "They think I’m made of stone"
+        ],
+        [
+          null,
+          "But I cracked when I was grown"
+        ],
+        [
+          null,
+          "You don’t see broken well"
+        ],
+        [
+          null,
+          "It hides inside a shell"
+        ],
+        [
+          null,
+          "What is love if it divides?"
+        ],
+        [
+          null,
+          "What is worth when it decides?"
+        ],
+        [
+          null,
+          "I’m not her — that’s the crime"
+        ],
+        [
+          null,
+          "But I’ve been here the whole time"
+        ],
+        [
+          null,
+          "She got a little more"
+        ],
+        [
+          null,
+          "I got a little less"
+        ],
+        [
+          null,
+          "But silence taught me grace"
+        ],
+        [
+          null,
+          "In all its loneliness"
+        ],
+        [
+          null,
+          "She glows like summer skin"
+        ],
+        [
+          null,
+          "I’m autumn in a dress"
+        ],
+        [
+          null,
+          "She got a little more"
+        ],
+        [
+          null,
+          "But I survived the rest"
+        ],
+        [
+          null,
+          "Don’t say I’m over it — I’m not"
+        ],
+        [
+          null,
+          "But I don’t beg for what I’ve lost"
+        ],
+        [
+          null,
+          "I let it ache, I let it breathe"
+        ],
+        [
+          null,
+          "There’s peace in what you leave"
+        ],
+        [
+          null,
+          "She got a little more"
+        ],
+        [
+          null,
+          "I got a little less"
+        ],
+        [
+          null,
+          "But now I wear my name"
+        ],
+        [
+          null,
+          "Like armor on my chest"
+        ],
+        [
+          null,
+          "She took the open sun"
+        ],
+        [
+          null,
+          "I made a room from ash"
+        ],
+        [
+          null,
+          "She got a little more..."
+        ],
+        [
+          null,
+          "But I’m not coming last"
+        ]
+      ]
+    }
+  ]
 }

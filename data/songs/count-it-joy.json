@@ -1,12 +1,249 @@
 {
   "slug": "count-it-joy",
   "title": "Count It Joy",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "James 1:2-4",
   "book": "James",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "count-it-joy.jpg",
+  "audio": "count-it-joy.mp3",
   "spotify": "https://open.spotify.com/track/4P1VZogBGkaviYOTX3YLra",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273805a2e4b5111a8995b2f779b"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "The night keeps asking questions"
+        ],
+        [
+          null,
+          "I don’t know how to answer yet"
+        ],
+        [
+          null,
+          "Every step feels like a sentence"
+        ],
+        [
+          null,
+          "Every breath a heavy bet"
+        ],
+        [
+          null,
+          "I didn’t ask for the shaking"
+        ],
+        [
+          null,
+          "Didn’t choose this broken road"
+        ],
+        [
+          null,
+          "But something in the silence"
+        ],
+        [
+          null,
+          "Says I’m not here on my own"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "If the storm is still speaking"
+        ],
+        [
+          null,
+          "Maybe I should listen close"
+        ],
+        [
+          null,
+          "If the weight is still teaching"
+        ],
+        [
+          null,
+          "There’s a strength I haven’t known"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "So I’ll count it joy when it hurts like hell"
+        ],
+        [
+          null,
+          "When the fire’s proof I’m alive, not failed"
+        ],
+        [
+          null,
+          "Every tear is shaping me"
+        ],
+        [
+          null,
+          "Every scar’s a victory"
+        ],
+        [
+          null,
+          "I’ll count it joy in the trial phase"
+        ],
+        [
+          null,
+          "When I’m bending but I don’t break"
+        ],
+        [
+          null,
+          "If it’s building something whole in me"
+        ],
+        [
+          null,
+          "Let it finish what it’s making me"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "Patience feels like dying slowly"
+        ],
+        [
+          null,
+          "Like waiting on the sun to rise"
+        ],
+        [
+          null,
+          "But faith is learning how to breathe"
+        ],
+        [
+          null,
+          "When the answers don’t arrive"
+        ],
+        [
+          null,
+          "I’m not running from the tension"
+        ],
+        [
+          null,
+          "I’m not cutting through the pain"
+        ],
+        [
+          null,
+          "If the cracks are where the light gets in"
+        ],
+        [
+          null,
+          "Then I’ll stand here in the rain"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "I won’t rush the becoming"
+        ],
+        [
+          null,
+          "I won’t curse the in-between"
+        ],
+        [
+          null,
+          "What if this is how I’m learning"
+        ],
+        [
+          null,
+          "What it really means to be free"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "So I’ll count it joy when it hurts like hell"
+        ],
+        [
+          null,
+          "When the fire’s proof I’m alive, not failed"
+        ],
+        [
+          null,
+          "Every tear is shaping me"
+        ],
+        [
+          null,
+          "Every scar’s a victory"
+        ],
+        [
+          null,
+          "I’ll count it joy in the trial phase"
+        ],
+        [
+          null,
+          "When I’m bending but I don’t break"
+        ],
+        [
+          null,
+          "If it’s building something whole in me"
+        ],
+        [
+          null,
+          "Let it finish what it’s making me"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "If I’m unfinished, don’t let me quit"
+        ],
+        [
+          null,
+          "If I’m breaking, make meaning of it"
+        ],
+        [
+          null,
+          "I don’t need easy, I need complete"
+        ],
+        [
+          null,
+          "I don’t need fast, I need real in me"
+        ],
+        [
+          null,
+          "Through the pressure… I’m becoming"
+        ],
+        [
+          null,
+          "Through the pain… I’m still standing"
+        ],
+        [
+          null,
+          "[Final Chorus / Outro]"
+        ],
+        [
+          null,
+          "So I’ll count it joy—yeah, I’ll still believe"
+        ],
+        [
+          null,
+          "What’s testing me is strengthening"
+        ],
+        [
+          null,
+          "When the process is done in me"
+        ],
+        [
+          null,
+          "I’ll be whole… I’ll be free"
+        ]
+      ]
+    }
+  ]
 }

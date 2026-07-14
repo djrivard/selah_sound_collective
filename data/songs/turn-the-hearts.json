@@ -1,12 +1,173 @@
 {
   "slug": "turn-the-hearts",
   "title": "Turn The Hearts",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Malachi 4:1-6",
   "book": "Malachi",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "turn-the-hearts.jpg",
+  "audio": "turn-the-hearts.mp3",
   "spotify": "https://open.spotify.com/track/0qClhmk5b8i9Bo2hff4UcJ",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731f585866c4c5b140746c2029"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "The wind stands still, the sky leans low"
+        ],
+        [
+          null,
+          "A fire waits beneath the snow"
+        ],
+        [
+          null,
+          "We hold our breath in morning’s grip"
+        ],
+        [
+          null,
+          "Before the day begins to tip"
+        ],
+        [
+          null,
+          "I’ve seen the signs in distant fields"
+        ],
+        [
+          null,
+          "Where ashes speak, and silence yields"
+        ],
+        [
+          null,
+          "The earth remembers every name"
+        ],
+        [
+          null,
+          "But only love can clear the flame"
+        ],
+        [
+          null,
+          "The light is rising through the dark"
+        ],
+        [
+          null,
+          "It starts where you still bear the mark"
+        ],
+        [
+          null,
+          "A voice is calling from the edge"
+        ],
+        [
+          null,
+          "To turn, to mend, to make amends"
+        ],
+        [
+          null,
+          "Turn the hearts, turn the hearts"
+        ],
+        [
+          null,
+          "Of fathers to the children, let the broken play their part"
+        ],
+        [
+          null,
+          "Raise the voice, reclaim the spark"
+        ],
+        [
+          null,
+          "Before the fire meets the dark"
+        ],
+        [
+          null,
+          "Turn the hearts, turn the hearts"
+        ],
+        [
+          null,
+          "The prophet stands where time runs thin"
+        ],
+        [
+          null,
+          "A whisper louder than the wind"
+        ],
+        [
+          null,
+          "He speaks of grace, he warns with fire"
+        ],
+        [
+          null,
+          "But always leaves a thread of wire"
+        ],
+        [
+          null,
+          "To walk across from curse to light"
+        ],
+        [
+          null,
+          "To build a bridge from wrong to right"
+        ],
+        [
+          null,
+          "This is the moment, this is the cry"
+        ],
+        [
+          null,
+          "The echo that refuses to die"
+        ],
+        [
+          null,
+          "Turn the hearts, turn the hearts"
+        ],
+        [
+          null,
+          "Of fathers to the children, bring the scattered back to start"
+        ],
+        [
+          null,
+          "Let mercy fall, tear pride apart"
+        ],
+        [
+          null,
+          "Before the flames become too sharp"
+        ],
+        [
+          null,
+          "Turn the hearts, turn the hearts"
+        ],
+        [
+          null,
+          "Oh let the sons remember"
+        ],
+        [
+          null,
+          "Let the daughters rise"
+        ],
+        [
+          null,
+          "Let the elders teach the aching"
+        ],
+        [
+          null,
+          "What the fire purifies"
+        ],
+        [
+          null,
+          "Turn the hearts, turn the hearts"
+        ],
+        [
+          null,
+          "Of fathers to the children, and the children to the flame"
+        ],
+        [
+          null,
+          "Let healing be the legacy, not just the name"
+        ],
+        [
+          null,
+          "We were born to light the dark"
+        ],
+        [
+          null,
+          "So turn the hearts, turn the hearts"
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,233 @@
 {
   "slug": "where-the-sky-broke",
   "title": "Where The Sky Broke",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "2 Samuel 11",
   "book": "2 Samuel",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "where-the-sky-broke.jpg",
+  "audio": "where-the-sky-broke.mp3",
   "spotify": "https://open.spotify.com/track/1Y2t9wfeSIi9kRCcYiD7su",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d05e9df6a13c70735e10d339"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "Above the city, frost on every stone"
+        ],
+        [
+          null,
+          "the rooftops waiting, calling out my wrongs"
+        ],
+        [
+          null,
+          "Her silhouette rose quiet through the cold"
+        ],
+        [
+          null,
+          "and something ancient in my marrow broke"
+        ],
+        [
+          null,
+          "The sky was low, the clouds about to cry"
+        ],
+        [
+          null,
+          "every choice I made became a trembling line"
+        ],
+        [
+          null,
+          "Kings don’t fall; they freeze beneath their breath"
+        ],
+        [
+          null,
+          "trading warmth for shadows, truth for death"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "The wind turned sharp, like it knew my name"
+        ],
+        [
+          null,
+          "I felt the guilt move through me like a blade"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "And the Lord displeased, His silence cracked the air"
+        ],
+        [
+          null,
+          "a winter voice that stripped the branches bare"
+        ],
+        [
+          null,
+          "The rooftops murmured everything I hid"
+        ],
+        [
+          null,
+          "the snow remembers every violent thing I did"
+        ],
+        [
+          null,
+          "And the Lord displeased, His shadow like the sea"
+        ],
+        [
+          null,
+          "pulling at the wreck I tried to keep in me"
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "I washed my hands, but blood refused to go"
+        ],
+        [
+          null,
+          "as if the water knew the violence I’d shown"
+        ],
+        [
+          null,
+          "Her message struck me like an icebound tide"
+        ],
+        [
+          null,
+          "no warmth survived the truth I tried to hide"
+        ],
+        [
+          null,
+          "So I buried him in battle’s blinding white"
+        ],
+        [
+          null,
+          "hoping storms could cover what I stole that night"
+        ],
+        [
+          null,
+          "But even blizzards whisper to the stones"
+        ],
+        [
+          null,
+          "and dig up secrets kings pretend they own"
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "The cold runs deep; it doesn’t let you flee"
+        ],
+        [
+          null,
+          "you can’t outpace the ache of what you used to be"
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "And the Lord displeased, His silence cracked the air"
+        ],
+        [
+          null,
+          "a winter voice that stripped the branches bare"
+        ],
+        [
+          null,
+          "The rooftops murmured everything I hid"
+        ],
+        [
+          null,
+          "the snow remembers every violent thing I did"
+        ],
+        [
+          null,
+          "And the Lord displeased, His shadow like the sea"
+        ],
+        [
+          null,
+          "pulling at the wreck I tried to keep in me"
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "What mercy waits for someone frozen through?"
+        ],
+        [
+          null,
+          "What thaw could rise from everything untrue?"
+        ],
+        [
+          null,
+          "I hear the mountains breathing out my name"
+        ],
+        [
+          null,
+          "as if the earth still trembles at my shame"
+        ],
+        [
+          null,
+          "[Final Chorus]"
+        ],
+        [
+          null,
+          "And the Lord displeased, His whisper turns to wind"
+        ],
+        [
+          null,
+          "it shakes the halls of everything I’ve been"
+        ],
+        [
+          null,
+          "The rooftops echo, hollow, black, and wide"
+        ],
+        [
+          null,
+          "broken glaciers cracking open from inside"
+        ],
+        [
+          null,
+          "And if redemption wants me crawling through the storm"
+        ],
+        [
+          null,
+          "let every icy truth reshape my form"
+        ],
+        [
+          null,
+          "[Outro – pitch-down shadow layer]"
+        ],
+        [
+          null,
+          "the cold remembers"
+        ],
+        [
+          null,
+          "the cold remembers"
+        ],
+        [
+          null,
+          "what I surrendered"
+        ]
+      ]
+    }
+  ]
 }

@@ -1,12 +1,273 @@
 {
   "slug": "quiet-deceiver",
   "title": "Quiet Deceiver",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Jeremiah 17:9",
   "book": "Jeremiah",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "quiet-deceiver.jpg",
+  "audio": "quiet-deceiver.mp3",
   "spotify": "https://open.spotify.com/track/4wy0oiYm0xe4m7RDuoiQ0H",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730b6eb3d16e97f9ddc308f6d8"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "[Verse 1]"
+        ],
+        [
+          null,
+          "There’s a mirror in my chest,"
+        ],
+        [
+          null,
+          "Silvered over with old sins—"
+        ],
+        [
+          null,
+          "Every breath I take reopens"
+        ],
+        [
+          null,
+          "Cracks the light keeps slipping in."
+        ],
+        [
+          null,
+          "I walk corridors within me,"
+        ],
+        [
+          null,
+          "Dust rising at each quiet step,"
+        ],
+        [
+          null,
+          "Finding carvings I don’t claim,"
+        ],
+        [
+          null,
+          "Truths I lost and lies I kept."
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "I’m the witness and the culprit,"
+        ],
+        [
+          null,
+          "I’m the wound and I’m the thread—"
+        ],
+        [
+          null,
+          "My intentions bloom like roses,"
+        ],
+        [
+          null,
+          "But the thorns speak first instead."
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Who can know this heart of mine—"
+        ],
+        [
+          null,
+          "So crooked in its shadowed ways?"
+        ],
+        [
+          null,
+          "You search the hollows, line by line,"
+        ],
+        [
+          null,
+          "You weigh the secrets that I raise."
+        ],
+        [
+          null,
+          "You test the marrow, read the ache,"
+        ],
+        [
+          null,
+          "Judge every harvest that I sow…"
+        ],
+        [
+          null,
+          "For my own heart deceives me first,"
+        ],
+        [
+          null,
+          "And you see deeper than I know."
+        ],
+        [
+          null,
+          "[Verse 2]"
+        ],
+        [
+          null,
+          "Sometimes I feel like I’m noble,"
+        ],
+        [
+          null,
+          "A lantern on a tired shore—"
+        ],
+        [
+          null,
+          "But when I hold the flame up higher,"
+        ],
+        [
+          null,
+          "I see wreckage I ignore."
+        ],
+        [
+          null,
+          "There’s a stranger in my silence,"
+        ],
+        [
+          null,
+          "Wears my face but shifts my past—"
+        ],
+        [
+          null,
+          "Rearranges all my memories,"
+        ],
+        [
+          null,
+          "Turns my mercy into ash."
+        ],
+        [
+          null,
+          "[Pre-Chorus]"
+        ],
+        [
+          null,
+          "So I beg for honest shadows—"
+        ],
+        [
+          null,
+          "Ones that match the shape I cast;"
+        ],
+        [
+          null,
+          "But the heart builds hidden hallways"
+        ],
+        [
+          null,
+          "Echoing motives from the past."
+        ],
+        [
+          null,
+          "[Chorus]"
+        ],
+        [
+          null,
+          "Who can know this heart of mine—"
+        ],
+        [
+          null,
+          "So crooked in its shadowed ways?"
+        ],
+        [
+          null,
+          "You search the hollows, line by line,"
+        ],
+        [
+          null,
+          "You weigh the secrets that I raise."
+        ],
+        [
+          null,
+          "You test the marrow, read the ache,"
+        ],
+        [
+          null,
+          "Judge every harvest that I sow…"
+        ],
+        [
+          null,
+          "For my own heart deceives me first,"
+        ],
+        [
+          null,
+          "And you see deeper than I know."
+        ],
+        [
+          null,
+          "[Bridge]"
+        ],
+        [
+          null,
+          "Strip me down to raw intention,"
+        ],
+        [
+          null,
+          "Write my truth in open flame—"
+        ],
+        [
+          null,
+          "If I rise from all these ashes,"
+        ],
+        [
+          null,
+          "Let me answer to my name."
+        ],
+        [
+          null,
+          "Teach my trembling hands to honor"
+        ],
+        [
+          null,
+          "Every shadow they conceal—"
+        ],
+        [
+          null,
+          "Let the silence bear its witness,"
+        ],
+        [
+          null,
+          "Let the quiet turn me real."
+        ],
+        [
+          null,
+          "[Final Chorus]"
+        ],
+        [
+          null,
+          "Who can know this heart of mine—"
+        ],
+        [
+          null,
+          "Still crooked in its shadowed ways?"
+        ],
+        [
+          null,
+          "You search the hollows, line by line,"
+        ],
+        [
+          null,
+          "Tender in the truth you weigh."
+        ],
+        [
+          null,
+          "You test the marrow, read the ache,"
+        ],
+        [
+          null,
+          "Judge every harvest that I sow…"
+        ],
+        [
+          null,
+          "For my own heart deceives me still,"
+        ],
+        [
+          null,
+          "But you see deeper than I know."
+        ]
+      ]
+    }
+  ]
 }

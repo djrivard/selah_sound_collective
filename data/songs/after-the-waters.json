@@ -1,12 +1,209 @@
 {
   "slug": "after-the-waters",
   "title": "After The Waters",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Genesis 6-9",
   "book": "Genesis",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "after-the-waters.jpg",
+  "audio": "after-the-waters.mp3",
   "spotify": "https://open.spotify.com/track/0p2RAn17ql9swW3XQpC03v",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738c4ba5df8b5e915b230d4b7f"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "[verse 1 – soft, breathy vocal]"
+        ],
+        [
+          null,
+          "The sky cried longer than the sun could wait,"
+        ],
+        [
+          null,
+          "And all the gardens drowned in fate."
+        ],
+        [
+          null,
+          "He said He wished He’d never made"
+        ],
+        [
+          null,
+          "A world that taught the light to fade."
+        ],
+        [
+          null,
+          "I saw the ark like a ghost in bloom,"
+        ],
+        [
+          null,
+          "Floating through a water-colored doom."
+        ],
+        [
+          null,
+          "And even though the end had come,"
+        ],
+        [
+          null,
+          "It sounded like a lullaby, not a gun."
+        ],
+        [
+          null,
+          "[chorus – cinematic strings swell gently, harmonies drift in]"
+        ],
+        [
+          null,
+          "After the flood, we still sang soft—"
+        ],
+        [
+          null,
+          "With salt on our lips and faith half-off."
+        ],
+        [
+          null,
+          "The world was washed, but not erased—"
+        ],
+        [
+          null,
+          "The flood left flowers in its place."
+        ],
+        [
+          null,
+          "The rainbow didn’t promise joy—"
+        ],
+        [
+          null,
+          "It just said “not this again, my boy.”"
+        ],
+        [
+          null,
+          "[verse 2 – bass enters subtly, guitar picks ghostlike motifs]"
+        ],
+        [
+          null,
+          "The animals whispered lullabies,"
+        ],
+        [
+          null,
+          "Noah just stared at the empty skies."
+        ],
+        [
+          null,
+          "And I—I watched the water fall,"
+        ],
+        [
+          null,
+          "Like love that hurts but still recalls."
+        ],
+        [
+          null,
+          "There was no cheer when the boat hit land,"
+        ],
+        [
+          null,
+          "Just quiet dirt and trembling hands."
+        ],
+        [
+          null,
+          "But something new grew in the cracks—"
+        ],
+        [
+          null,
+          "A kind of love that doesn’t look back."
+        ],
+        [
+          null,
+          "[chorus – darker harmony, more layered texture]"
+        ],
+        [
+          null,
+          "After the flood, we kissed the ground,"
+        ],
+        [
+          null,
+          "Grateful just to hear a sound."
+        ],
+        [
+          null,
+          "The sky stitched color from the grey—"
+        ],
+        [
+          null,
+          "But that doesn’t mean the hurt went away."
+        ],
+        [
+          null,
+          "The rainbow didn’t heal the past—"
+        ],
+        [
+          null,
+          "It just said, “child, not this time—at last.”"
+        ],
+        [
+          null,
+          "[bridge – stripped down to piano and falsetto]"
+        ],
+        [
+          null,
+          "God cried first…"
+        ],
+        [
+          null,
+          "And the rain was His curse."
+        ],
+        [
+          null,
+          "But mercy isn’t loud,"
+        ],
+        [
+          null,
+          "It walks barefoot through the dirt."
+        ],
+        [
+          null,
+          "[final chorus – lush strings, layered harmonies, ghostly echo]"
+        ],
+        [
+          null,
+          "After the flood, the silence grew—"
+        ],
+        [
+          null,
+          "And in that stillness, something true."
+        ],
+        [
+          null,
+          "He could’ve ended everything…"
+        ],
+        [
+          null,
+          "But instead He left a song to sing."
+        ],
+        [
+          null,
+          "The rainbow was a vow in disguise—"
+        ],
+        [
+          null,
+          "Not to forget us,"
+        ],
+        [
+          null,
+          "But to baptize."
+        ],
+        [
+          null,
+          "[outro – fading piano, wind chimes, whisper vocal]"
+        ],
+        [
+          null,
+          "…The flood left flowers…"
+        ],
+        [
+          null,
+          "And they still bloom in my spine."
+        ]
+      ]
+    }
+  ]
 }

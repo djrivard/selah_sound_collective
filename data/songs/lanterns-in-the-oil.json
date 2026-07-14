@@ -1,12 +1,133 @@
 {
   "slug": "lanterns-in-the-oil",
   "title": "Lanterns In The Oil",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Matthew 25",
   "book": "Matthew",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "lanterns-in-the-oil.jpg",
+  "audio": "lanterns-in-the-oil.mp3",
   "spotify": "https://open.spotify.com/track/1p5ZusPZOdNunSLKyy9Jwc",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e2f0b5e6fa6c3f1e34838753"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Silver breath of night drapes the earth in sleep,"
+        ],
+        [
+          null,
+          "we wait by the road where the shadows keep."
+        ],
+        [
+          null,
+          "Ten voices hushed, oil cradled in jars,"
+        ],
+        [
+          null,
+          "eyes fixed on a sky scattered deep with stars."
+        ],
+        [
+          null,
+          "The hour is late, but the fire won’t fade,"
+        ],
+        [
+          null,
+          "oil in our hands for the dawn You’ve made."
+        ],
+        [
+          null,
+          "Lanterns in the oil, burning through the dark,"
+        ],
+        [
+          null,
+          "holding back the night with a single spark."
+        ],
+        [
+          null,
+          "When the midnight cry breaks the silence wide,"
+        ],
+        [
+          null,
+          "we will rise with light at the Bridegroom’s side."
+        ],
+        [
+          null,
+          "Footsteps tremble on the edge of the air,"
+        ],
+        [
+          null,
+          "time folds in close — the arrival is near."
+        ],
+        [
+          null,
+          "Those who have oil will not fear the door,"
+        ],
+        [
+          null,
+          "for the light they tend is the love they store."
+        ],
+        [
+          null,
+          "The hour is late, but the fire won’t fade,"
+        ],
+        [
+          null,
+          "oil in our hands for the dawn You’ve made."
+        ],
+        [
+          null,
+          "Lanterns in the oil, burning through the dark,"
+        ],
+        [
+          null,
+          "holding back the night with a single spark."
+        ],
+        [
+          null,
+          "When the midnight cry breaks the silence wide,"
+        ],
+        [
+          null,
+          "we will rise with light at the Bridegroom’s side."
+        ],
+        [
+          null,
+          "Don’t let the flame drown in the sleep of the world,"
+        ],
+        [
+          null,
+          "for the door will close when the story’s unfurled."
+        ],
+        [
+          null,
+          "Keep watch, keep breath, keep the oil and the fire,"
+        ],
+        [
+          null,
+          "for the cry will come like a storm through the choir."
+        ],
+        [
+          null,
+          "Lanterns in the oil, burning through the dark,"
+        ],
+        [
+          null,
+          "holding back the night with a single spark."
+        ],
+        [
+          null,
+          "And the midnight cry shakes the sleeping earth,"
+        ],
+        [
+          null,
+          "we will rise with light to the feast of worth."
+        ],
+        [
+          null,
+          "Lanterns in the oil... we are ready, we are ready."
+        ]
+      ]
+    }
+  ]
 }
