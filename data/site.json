@@ -57,5 +57,12 @@
       "name": "Substack",
       "url": "https://selahsoundcollective.substack.com/"
     }
-  ]
+  ],
+  "artistLinks": {
+    "spotify": "https://open.spotify.com/artist/2xjXhkkrAiwV2uXv5Nd1v6",
+    "applemusic": "https://music.apple.com/ca/artist/selah-sound-collective/1789893200",
+    "youtube": "https://www.youtube.com/@SelahSoundCollective",
+    "deezer": "https://www.deezer.com/en/artist/296145761",
+    "amazonmusic": "https://amazon.com/music/player/artists/B0DRWFYRR3/selah-sound-collective"
+  }
 }

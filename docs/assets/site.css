@@ -274,3 +274,12 @@
 .book-row.open{display:flex;animation:rowIn .35s cubic-bezier(.2,.8,.2,1)}
 @keyframes rowIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
 .chip-book{font-size:.58rem;padding:6px 13px}
+
+/* "Find this on all platforms" row under the Spotify button */
+.other-plat{margin-top:20px;text-align:center}
+.other-lab{display:block;font-family:'Outfit',sans-serif;letter-spacing:.2em;text-transform:uppercase;font-size:.56rem;color:var(--gold-dim);margin-bottom:11px}
+.oplat-row{display:inline-flex;gap:12px;align-items:center;justify-content:center;flex-wrap:wrap}
+.oplat{width:40px;height:40px;display:grid;place-items:center;border:1px solid rgba(201,164,70,.28);border-radius:50%;transition:all .28s cubic-bezier(.2,.8,.2,1)}
+.oplat svg{width:17px;height:17px;fill:var(--cream-d);transition:fill .28s}
+.oplat:hover{border-color:var(--gold);background:rgba(201,164,70,.12);transform:translateY(-2px)}
+.oplat:hover svg{fill:var(--gold-br)}

@@ -180,6 +180,18 @@ def render_song(site, song, root="../"):
                   f'title="Listen on Spotify" aria-label="Listen on Spotify"><svg viewBox="0 0 24 24">'
                   f'<path d="{SPOTIFY}"/></svg></a>') if spotify else ""
 
+    # "Find this on all other platforms" — artist-profile links (Spotify omitted; it has its own button)
+    icons = json.loads((DATA / "icons.json").read_text())
+    plat_names = {"applemusic": "Apple Music", "youtube": "YouTube", "deezer": "Deezer", "amazonmusic": "Amazon Music"}
+    other = ""
+    for pid, label in plat_names.items():
+        url = site.get("artistLinks", {}).get(pid)
+        if url:
+            other += (f'<a class="oplat" href="{esc(url)}" target="_blank" rel="noopener" title="{esc(label)}" '
+                      f'aria-label="{esc(label)}"><svg viewBox="0 0 24 24"><path d="{icons.get(pid,"")}"/></svg></a>')
+    other_row = (f'<div class="other-plat"><span class="other-lab">Find this on all platforms</span>'
+                 f'<div class="oplat-row">{other}</div></div>') if other else ""
+
     body = f"""<body>
 {nav(site, root, "songs")}
 <header class="hero">
@@ -221,6 +233,7 @@ def render_song(site, song, root="../"):
     <button class="btn btn-play" id="ctaPlay"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg><span id="ctaText">Play the Song</span></button>
     {spotify_cta}
   </div>
+  {other_row}
   <div class="share">
     <span class="lab">Share this song</span>
     <div class="share-icons">
