@@ -3,7 +3,7 @@
   "tagline": "Scripture, set to modern music.",
   "description": "Original modern songs drawn from the stories and psalms of Scripture, by Selah Sound Collective.",
   "baseUrl": "https://selahsoundcollective.com",
-  "ogImage": "assets/og-default.jpg",
+  "ogImage": "assets/hero.jpg",
   "contactFormEndpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID",
   "contactEmail": "hello@selahsoundcollective.com",
   "donateUrl": "https://buy.stripe.com/REPLACE_WITH_YOUR_LINK",
@@ -13,5 +13,49 @@
     "$15",
     "$50"
   ],
-  "spotifyArtist": ""
+  "spotifyArtist": "",
+  "platforms": [
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "url": "https://open.spotify.com/artist/2xjXhkkrAiwV2uXv5Nd1v6?si=Z0JrSR-ATNGSwxU99HhZnw"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@SelahSoundCollective"
+    },
+    {
+      "id": "applemusic",
+      "name": "Apple Music",
+      "url": "https://music.apple.com/ca/artist/selah-sound-collective/1789893200"
+    },
+    {
+      "id": "deezer",
+      "name": "Deezer",
+      "url": "https://www.deezer.com/en/artist/296145761"
+    },
+    {
+      "id": "amazonmusic",
+      "name": "Amazon Music",
+      "url": "https://amazon.com/music/player/artists/B0DRWFYRR3/selah-sound-collective?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_1B3DhCyKR0E7ulhbEomcrUOlx"
+    }
+  ],
+  "socials": [
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/selahsoundcollective"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/selah.soundcollective"
+    },
+    {
+      "id": "substack",
+      "name": "Substack",
+      "url": "https://selahsoundcollective.substack.com/"
+    }
+  ]
 }

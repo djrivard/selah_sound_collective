@@ -79,7 +79,8 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
 
 
 def nav(site, root, active=""):
-    items = [("Songs", "index.html", "songs"), ("About", "about.html", "about"),
+    items = [("Songs", "index.html", "songs"), ("Listen", "listen.html", "listen"),
+             ("About", "about.html", "about"),
              ("Contact", "contact.html", "contact"), ("Support", "support.html", "support")]
     links = "".join(
         f'<a href="{root}{href}"{" class=\"active\"" if active==key else ""}>{label}</a>'
@@ -92,7 +93,7 @@ def nav(site, root, active=""):
 
 
 def footer(site, root):
-    items = [("Songs", "index.html"), ("About", "about.html"),
+    items = [("Songs", "index.html"), ("Listen", "listen.html"), ("About", "about.html"),
              ("Contact", "contact.html"), ("Support", "support.html")]
     links = "".join(f'<a href="{root}{href}">{label}</a>' for label, href in items)
     return (f'<footer class="site-footer">'
@@ -241,14 +242,33 @@ def render_song(site, song, root="../"):
     return h + body
 
 
+OT_BOOKS = ["Genesis","Exodus","Leviticus","Numbers","Deuteronomy","Joshua","Judges","Ruth",
+            "1 Samuel","2 Samuel","1 Kings","2 Kings","1 Chronicles","2 Chronicles","Ezra",
+            "Nehemiah","Esther","Job","Psalms","Proverbs","Ecclesiastes","Song of Solomon",
+            "Isaiah","Jeremiah","Lamentations","Ezekiel","Daniel","Hosea","Joel","Amos",
+            "Obadiah","Jonah","Micah","Nahum","Habakkuk","Zephaniah","Haggai","Zechariah","Malachi"]
+NT_BOOKS = ["Matthew","Mark","Luke","John","Acts","Romans","1 Corinthians","2 Corinthians",
+            "Galatians","Ephesians","Philippians","Colossians","1 Thessalonians","2 Thessalonians",
+            "1 Timothy","2 Timothy","Titus","Philemon","Hebrews","James","1 Peter","2 Peter",
+            "1 John","2 John","3 John","Jude","Revelation"]
+
+
 def render_library(site, songs, root=""):
     base = site.get("baseUrl", "").rstrip("/")
     canonical = f"{base}/index.html" if base else None
     h = head(site, f'{site["siteName"]} \u2014 Songs', site.get("description", ""), root,
              canonical=canonical)
-    books = sorted({s.get("book", "") for s in songs if s.get("book")})
-    chips = '<button class="chip on" data-book="all">All</button>' + "".join(
-        f'<button class="chip" data-book="{esc(b)}">{esc(b)}</button>' for b in books)
+    books = {s.get("book", "") for s in songs if s.get("book")}
+    groups = [("Old Testament", [b for b in OT_BOOKS if b in books]),
+              ("New Testament", [b for b in NT_BOOKS if b in books]),
+              ("Other Songs", sorted(books - set(OT_BOOKS) - set(NT_BOOKS)))]
+    group_html = ""
+    for label, bs in groups:
+        if not bs:
+            continue
+        chips = "".join(f'<button class="chip" data-book="{esc(b)}">{esc(b)}</button>' for b in bs)
+        group_html += (f'<div class="chip-group"><span class="group-label">{esc(label)}</span>'
+                       f'<div class="chips">{chips}</div></div>')
 
     cards = []
     for s in songs:
@@ -271,18 +291,21 @@ def render_library(site, songs, root=""):
     body = f"""<body>
 <div class="page-bg"></div>
 {nav(site, root, "songs")}
-<main class="page">
+<section class="home-hero">
+  <img src="{root}assets/hero.jpg" alt="{esc(site["siteName"])} \u2014 {esc(site.get("tagline",""))}">
+  <div class="home-hero__fade"></div>
+</section>
+<main class="page page--after-hero">
   <div class="page-head">
-    <img class="crest" src="{root}assets/emblem.png" alt="{esc(site["siteName"])}" width="82" height="82">
     <div class="eyebrow">The Catalog</div>
     <h1>Songs</h1>
-    <p class="lede">{esc(site.get("tagline",""))}</p>
     <div class="rule"></div>
   </div>
   <div class="filterbar">
     <input class="lib-search" id="libSearch" type="search" placeholder="Search songs&hellip;" aria-label="Search songs">
-    <div class="chips">{chips}</div>
+    <button class="chip on" data-book="all">All Songs</button>
   </div>
+  <div class="chip-groups">{group_html}</div>
   <div class="lib-grid" id="libGrid">
     {"".join(cards)}
   </div>
@@ -292,6 +315,35 @@ def render_library(site, songs, root=""):
 <script src="{root}assets/site.js"></script>
 </body></html>"""
     return h + body
+
+
+def render_listen(site, root=""):
+    icons = json.loads((DATA / "icons.json").read_text())
+
+    def cards(items):
+        out = ""
+        for it in items:
+            path = icons.get(it["id"], "")
+            out += (f'<a class="plat" href="{esc(it["url"])}" target="_blank" rel="noopener">'
+                    f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="{path}"/></svg>'
+                    f'<span>{esc(it["name"])}</span></a>')
+        return out
+
+    inner = f"""<div class="listen-page">
+    <div class="plat-sec">
+      <h2 class="plat-h">Stream the Songs</h2>
+      <p class="plat-lede">Every Selah Sound Collective song, on the platform you already use \u2014 follow us there and new releases will find you.</p>
+      <div class="plat-grid">{cards(site.get("platforms", []))}</div>
+    </div>
+    <div class="plat-sec">
+      <h2 class="plat-h">Follow Along</h2>
+      <p class="plat-lede">Behind the songs \u2014 new releases, the stories in the Scriptures, and what\u2019s coming next.</p>
+      <div class="plat-grid">{cards(site.get("socials", []))}</div>
+    </div>
+    </div>"""
+    return content_page(site, root, "listen", "Everywhere the Music Lives", "Listen &amp; Follow",
+                        "Stream, follow, and share \u2014 wherever you listen.",
+                        inner, "listen.html")
 
 
 def content_page(site, root, active, eyebrow, title, lede, inner_html, canonical_name):
@@ -386,6 +438,7 @@ def main():
         "/*\n  X-Content-Type-Options: nosniff\n")
 
     (OUT / "index.html").write_text(render_library(site, songs, root=""))
+    (OUT / "listen.html").write_text(render_listen(site, root=""))
     (OUT / "about.html").write_text(render_about(site, root=""))
     (OUT / "contact.html").write_text(render_contact(site, root=""))
     (OUT / "support.html").write_text(render_support(site, root=""))
