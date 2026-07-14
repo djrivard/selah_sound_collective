@@ -1,4 +1,4 @@
-/* Selah Sound Collective — site shell behaviour (nav + library filter) */
+/* Selah Sound Collective — site shell behaviour (nav + two-tier library filter) */
 (function () {
   var t = document.getElementById('navToggle');
   var links = document.getElementById('navLinks');
@@ -8,29 +8,55 @@
   if (!grid) return;
   var cards = [].slice.call(grid.querySelectorAll('[data-title]'));
   var search = document.getElementById('libSearch');
-  var chips = [].slice.call(document.querySelectorAll('.chip'));
+  var groupChips = [].slice.call(document.querySelectorAll('.chip[data-group]'));
+  var bookRows = [].slice.call(document.querySelectorAll('.book-row'));
   var empty = document.getElementById('libEmpty');
-  var book = 'all';
+  var group = 'all', book = null;
 
   function apply() {
     var q = (search && search.value || '').trim().toLowerCase();
     var shown = 0;
     cards.forEach(function (c) {
-      var okBook = book === 'all' || c.getAttribute('data-book') === book;
+      var okGroup = group === 'all' || c.getAttribute('data-group') === group;
+      var okBook = !book || c.getAttribute('data-book') === book;
       var okText = !q || c.getAttribute('data-title').toLowerCase().indexOf(q) !== -1;
-      var show = okBook && okText;
+      var show = okGroup && okBook && okText;
       c.style.display = show ? '' : 'none';
       if (show) shown++;
     });
     if (empty) empty.style.display = shown ? 'none' : 'block';
   }
-  if (search) search.addEventListener('input', apply);
-  chips.forEach(function (ch) {
-    ch.addEventListener('click', function () {
-      chips.forEach(function (x) { x.classList.remove('on'); });
-      ch.classList.add('on');
-      book = ch.getAttribute('data-book');
-      apply();
+
+  function setGroup(g) {
+    group = g; book = null;
+    groupChips.forEach(function (x) { x.classList.toggle('on', x.getAttribute('data-group') === g); });
+    bookRows.forEach(function (r) {
+      var open = r.getAttribute('data-row') === g;
+      r.classList.toggle('open', open);
+      if (!open) [].forEach.call(r.querySelectorAll('.chip-book'), function (b) { b.classList.remove('on'); });
+    });
+    apply();
+  }
+
+  groupChips.forEach(function (ch) {
+    ch.addEventListener('click', function () { setGroup(ch.getAttribute('data-group')); });
+  });
+
+  bookRows.forEach(function (r) {
+    [].forEach.call(r.querySelectorAll('.chip-book'), function (b) {
+      b.addEventListener('click', function () {
+        var name = b.getAttribute('data-book');
+        if (book === name) {          // tap again to clear back to the whole testament
+          book = null; b.classList.remove('on');
+        } else {
+          book = name;
+          [].forEach.call(r.querySelectorAll('.chip-book'), function (x) { x.classList.remove('on'); });
+          b.classList.add('on');
+        }
+        apply();
+      });
     });
   });
+
+  if (search) search.addEventListener('input', apply);
 })();

@@ -136,12 +136,12 @@
 /* ============================================================
    SITE SHELL — nav, library, content pages, forms, footer
    ============================================================ */
-.nav{position:absolute;top:0;left:0;right:0;z-index:30}
+.nav{position:absolute;top:0;left:0;right:0;z-index:30;background:linear-gradient(180deg,rgba(20,16,12,.82) 0%,rgba(20,16,12,.45) 62%,rgba(20,16,12,0) 100%)}
 .nav-wrap{max-width:var(--maxw);margin:0 auto;padding:13px clamp(16px,4vw,28px);display:flex;align-items:center;justify-content:space-between;gap:16px}
 .brand{font-family:'Gloock',serif;color:var(--cream);font-size:1.02rem;letter-spacing:.01em;text-decoration:none;text-shadow:0 1px 14px rgba(0,0,0,.5)}
 .brand:hover{color:#fff}
 .nav-links{display:flex;gap:26px}
-.nav-links a{font-family:'Outfit',sans-serif;font-weight:500;letter-spacing:.14em;text-transform:uppercase;font-size:.66rem;color:var(--cream-d);text-decoration:none;transition:color .25s;text-shadow:0 1px 12px rgba(0,0,0,.5)}
+.nav-links a{font-family:'Outfit',sans-serif;font-weight:600;letter-spacing:.14em;text-transform:uppercase;font-size:.68rem;color:var(--cream);text-decoration:none;transition:color .25s;text-shadow:0 1px 12px rgba(0,0,0,.5)}
 .nav-links a:hover,.nav-links a.active{color:var(--gold-br)}
 .nav-toggle{display:none;background:none;border:0;color:var(--cream);font-size:1.4rem;cursor:pointer;line-height:1}
 @media(max-width:680px){
@@ -228,19 +228,24 @@
 @media(max-width:680px){ .brand span{font-size:.94rem} .brand-mark{height:30px;width:30px} }
 
 /* full logo lockup in nav */
-.brand-logo{height:36px;width:auto;display:block;filter:drop-shadow(0 2px 10px rgba(0,0,0,.5))}
-@media(max-width:680px){ .brand-logo{height:30px} }
+.brand-logo{height:26px;width:auto;display:block;filter:drop-shadow(0 2px 10px rgba(0,0,0,.5))}
+@media(max-width:680px){ .brand-logo{height:22px} }
 
 /* full logo in footer */
 .foot-logo{height:72px;width:auto;display:block;margin:0 auto 16px;filter:drop-shadow(0 2px 12px rgba(0,0,0,.5))}
 @media(max-width:680px){ .foot-logo{height:60px} }
 
 /* ---------- HOME HERO ---------- */
-.home-hero{position:relative;width:100%;overflow:hidden;background:var(--ink)}
-.home-hero img{display:block;width:100%;height:auto;max-height:72vh;object-fit:cover;object-position:center 32%}
-.home-hero__fade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(24,20,16,.42) 0%,rgba(24,20,16,0) 26%,rgba(24,20,16,0) 55%,var(--ink) 98%)}
-.page--after-hero{padding-top:clamp(26px,4vw,44px);min-height:auto}
-@media(max-width:680px){ .home-hero img{min-height:230px} }
+.home-hero{position:relative;max-width:1080px;margin:0 auto;padding:clamp(86px,12vh,110px) clamp(16px,4vw,28px) 0}
+.home-hero .frame{position:relative;overflow:hidden;border:1.5px solid rgba(201,164,70,.45);box-shadow:0 30px 80px rgba(0,0,0,.55)}
+.home-hero img{display:block;width:100%;height:auto}
+.home-hero__fade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(24,20,16,.22) 0%,rgba(24,20,16,0) 30%,rgba(24,20,16,0) 78%,rgba(24,20,16,.5) 100%);pointer-events:none}
+.home-hero .tick{position:absolute;width:26px;height:26px;border-color:var(--gold);border-style:solid;z-index:2}
+.home-hero .tl{top:-2px;left:-2px;border-width:2px 0 0 2px}
+.home-hero .tr{top:-2px;right:-2px;border-width:2px 2px 0 0}
+.home-hero .bl{bottom:-2px;left:-2px;border-width:0 0 2px 2px}
+.home-hero .br{bottom:-2px;right:-2px;border-width:0 2px 2px 0}
+.page--after-hero{padding-top:clamp(30px,5vw,52px);min-height:auto}
 
 /* ---------- CHIP GROUPS (Testaments) ---------- */
 .filterbar{margin-bottom:18px}
@@ -262,3 +267,10 @@
 .plat svg{width:22px;height:22px;fill:var(--gold-br);flex:none;transition:fill .28s}
 .plat:hover{transform:translateY(-3px);border-color:var(--gold);background:rgba(201,164,70,.12);box-shadow:0 12px 30px rgba(0,0,0,.35)}
 @media(max-width:560px){ .plat{min-width:calc(50% - 7px)} }
+
+/* two-tier book rows */
+.book-rows{display:flex;flex-direction:column;align-items:center;margin-bottom:clamp(28px,5vw,46px)}
+.book-row{display:none;flex-wrap:wrap;gap:8px;justify-content:center;padding-top:2px}
+.book-row.open{display:flex;animation:rowIn .35s cubic-bezier(.2,.8,.2,1)}
+@keyframes rowIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+.chip-book{font-size:.58rem;padding:6px 13px}

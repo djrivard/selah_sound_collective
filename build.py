@@ -259,16 +259,23 @@ def render_library(site, songs, root=""):
     h = head(site, f'{site["siteName"]} \u2014 Songs', site.get("description", ""), root,
              canonical=canonical)
     books = {s.get("book", "") for s in songs if s.get("book")}
-    groups = [("Old Testament", [b for b in OT_BOOKS if b in books]),
-              ("New Testament", [b for b in NT_BOOKS if b in books]),
-              ("Other Songs", sorted(books - set(OT_BOOKS) - set(NT_BOOKS)))]
-    group_html = ""
-    for label, bs in groups:
+
+    def group_of(book):
+        if book in OT_BOOKS: return "ot"
+        if book in NT_BOOKS: return "nt"
+        return "other"
+
+    groups = [("ot", "Old Testament", [b for b in OT_BOOKS if b in books]),
+              ("nt", "New Testament", [b for b in NT_BOOKS if b in books]),
+              ("other", "Other Songs", sorted(books - set(OT_BOOKS) - set(NT_BOOKS)))]
+    group_chips = '<button class="chip on" data-group="all">All Songs</button>'
+    book_rows = ""
+    for gid, label, bs in groups:
         if not bs:
             continue
-        chips = "".join(f'<button class="chip" data-book="{esc(b)}">{esc(b)}</button>' for b in bs)
-        group_html += (f'<div class="chip-group"><span class="group-label">{esc(label)}</span>'
-                       f'<div class="chips">{chips}</div></div>')
+        group_chips += f'<button class="chip" data-group="{gid}">{esc(label)}</button>'
+        row = "".join(f'<button class="chip chip-book" data-book="{esc(b)}">{esc(b)}</button>' for b in bs)
+        book_rows += f'<div class="book-row" data-row="{gid}">{row}</div>'
 
     cards = []
     for s in songs:
@@ -282,7 +289,8 @@ def render_library(site, songs, root=""):
                  + '</div>'
                  f'<div class="card-meta"><div class="card-title">{esc(s["title"])}</div>'
                  f'<div class="card-scrip">{esc(s.get("scripture",""))}</div></div>')
-        attrs = f'data-title="{esc(s["title"])}" data-book="{esc(s.get("book",""))}"'
+        attrs = (f'data-title="{esc(s["title"])}" data-book="{esc(s.get("book",""))}" '
+                 f'data-group="{group_of(s.get("book",""))}"')
         if soon:
             cards.append(f'<div class="song-card soon" {attrs}>{inner}</div>')
         else:
@@ -292,8 +300,11 @@ def render_library(site, songs, root=""):
 <div class="page-bg"></div>
 {nav(site, root, "songs")}
 <section class="home-hero">
-  <img src="{root}assets/hero.jpg" alt="{esc(site["siteName"])} \u2014 {esc(site.get("tagline",""))}">
-  <div class="home-hero__fade"></div>
+  <div class="frame">
+    <img src="{root}assets/hero.jpg" alt="{esc(site["siteName"])} \u2014 {esc(site.get("tagline",""))}">
+    <div class="home-hero__fade"></div>
+    <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
+  </div>
 </section>
 <main class="page page--after-hero">
   <div class="page-head">
@@ -303,9 +314,9 @@ def render_library(site, songs, root=""):
   </div>
   <div class="filterbar">
     <input class="lib-search" id="libSearch" type="search" placeholder="Search songs&hellip;" aria-label="Search songs">
-    <button class="chip on" data-book="all">All Songs</button>
+    <div class="chips">{group_chips}</div>
   </div>
-  <div class="chip-groups">{group_html}</div>
+  <div class="book-rows" id="bookRows">{book_rows}</div>
   <div class="lib-grid" id="libGrid">
     {"".join(cards)}
   </div>
