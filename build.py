@@ -85,9 +85,8 @@ def nav(site, root, active=""):
         f'<a href="{root}{href}"{" class=\"active\"" if active==key else ""}>{label}</a>'
         for label, href, key in items)
     return (f'<header class="nav"><div class="nav-wrap">'
-            f'<a class="brand" href="{root}index.html">'
-            f'<img class="brand-mark" src="{root}assets/emblem.png" alt="" width="34" height="34">'
-            f'<span>{esc(site["siteName"])}</span></a>'
+            f'<a class="brand" href="{root}index.html" aria-label="{esc(site["siteName"])} home">'
+            f'<img class="brand-logo" src="{root}assets/logo-full.png" alt="{esc(site["siteName"])}"></a>'
             f'<button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>'
             f'<nav class="nav-links" id="navLinks">{links}</nav></div></header>')
 
@@ -97,8 +96,8 @@ def footer(site, root):
              ("Contact", "contact.html"), ("Support", "support.html")]
     links = "".join(f'<a href="{root}{href}">{label}</a>' for label, href in items)
     return (f'<footer class="site-footer">'
-            f'<img class="foot-mark" src="{root}assets/emblem.png" alt="" width="46" height="46">'
-            f'<a class="brand" href="{root}index.html"><span>{esc(site["siteName"])}</span></a>'
+            f'<a class="brand" href="{root}index.html" aria-label="{esc(site["siteName"])} home">'
+            f'<img class="foot-logo" src="{root}assets/logo-full.png" alt="{esc(site["siteName"])}"></a>'
             f'<div class="foot-links">{links}</div>'
             f'<div class="foot-note">{esc(site.get("tagline",""))}</div></footer>')
 
@@ -321,7 +320,7 @@ def render_about(site, root=""):
     inner = """<div class="prose">
     <p>Selah Sound Collective began with a simple conviction: that the oldest stories still have the power to move us, and that music is one of the truest ways to carry them. Each song here takes a passage of Scripture &mdash; a vow, a psalm, a moment of deliverance &mdash; and gives it a melody you can sit inside.</p>
     <p class="scripture">&ldquo;Speak to one another with psalms, hymns, and songs from the Spirit.&rdquo;</p>
-    <p>These are cinematic settings: soft pianos that swell into something grand, voices that carry the weight of the words. They&rsquo;re made to be listened to slowly &mdash; with the lyrics in front of you, and the story unfolding line by line.</p>
+    <p>These are modern settings: soft pianos that swell into something grand, voices that carry the weight of the words. They&rsquo;re made to be listened to slowly &mdash; with the lyrics in front of you, and the story unfolding line by line.</p>
     <p>Thank you for listening, and for sharing them with the people you love.</p>
     </div>"""
     return content_page(site, root, "about", "The Project", "About", site.get("tagline", ""), inner, "about.html")
