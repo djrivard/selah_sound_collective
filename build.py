@@ -352,7 +352,7 @@ def render_listen(site, root=""):
       <div class="plat-grid">{cards(site.get("socials", []))}</div>
     </div>
     </div>"""
-    return content_page(site, root, "listen", "Everywhere the Music Lives", "Listen &amp; Follow",
+    return content_page(site, root, "listen", "Everywhere the Music Lives", "Listen & Follow",
                         "Stream, follow, and share \u2014 wherever you listen.",
                         inner, "listen.html")
 
