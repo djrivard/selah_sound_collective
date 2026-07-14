@@ -11,7 +11,10 @@
   var groupChips = [].slice.call(document.querySelectorAll('.chip[data-group]'));
   var bookRows = [].slice.call(document.querySelectorAll('.book-row'));
   var empty = document.getElementById('libEmpty');
+  var hideBtn = document.getElementById('hideSoon');
   var group = 'all', book = null;
+  var hideSoon = false;
+  try { hideSoon = localStorage.getItem('selahHideSoon') === '1'; } catch (e) {}
 
   function apply() {
     var q = (search && search.value || '').trim().toLowerCase();
@@ -20,12 +23,24 @@
       var okGroup = group === 'all' || c.getAttribute('data-group') === group;
       var okBook = !book || c.getAttribute('data-book') === book;
       var okText = !q || c.getAttribute('data-title').toLowerCase().indexOf(q) !== -1;
-      var show = okGroup && okBook && okText;
+      var okSoon = !hideSoon || !c.classList.contains('soon');
+      var show = okGroup && okBook && okText && okSoon;
       c.style.display = show ? '' : 'none';
       if (show) shown++;
     });
     if (empty) empty.style.display = shown ? 'none' : 'block';
+    if (hideBtn) {
+      hideBtn.classList.toggle('on', hideSoon);
+      hideBtn.setAttribute('aria-pressed', hideSoon ? 'true' : 'false');
+      hideBtn.textContent = hideSoon ? 'Showing playable only' : 'Hide coming soon';
+    }
   }
+
+  if (hideBtn) hideBtn.addEventListener('click', function () {
+    hideSoon = !hideSoon;
+    try { localStorage.setItem('selahHideSoon', hideSoon ? '1' : '0'); } catch (e) {}
+    apply();
+  });
 
   function setGroup(g) {
     group = g; book = null;
@@ -59,4 +74,5 @@
   });
 
   if (search) search.addEventListener('input', apply);
+  apply();
 })();

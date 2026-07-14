@@ -307,17 +307,26 @@ def render_library(site, songs, root=""):
     for s in songs:
         soon = s.get("status") != "published"
         cover = s.get("cover", "_coming-soon.jpg")
-        inner = (f'<div class="card-cover">'
-                 f'<img class="card-img" src="{vurl(root, "covers/" + cover)}" alt="{esc(s["title"])} cover" loading="lazy">'
-                 f'<div class="scrim"></div>'
-                 + ('<span class="badge">Coming soon</span>' if soon else
-                    '<span class="play-dot"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>')
-                 + '</div>'
+        cover_url = s.get("coverUrl", "")
+        img_src = esc(cover_url) if cover_url else vurl(root, "covers/" + cover)
+        has_art = bool(cover_url) or not soon
+        dot = ('<span class="play-dot"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>'
+               if not soon else
+               (f'<span class="play-dot sp"><svg viewBox="0 0 24 24"><path d="{SPOTIFY}"/></svg></span>'
+                if s.get("spotify") else ""))
+        badge = '<span class="badge">Coming soon</span>' if soon else ""
+        sp_hint = ('<div class="card-sp"><svg viewBox="0 0 24 24"><path d="' + SPOTIFY + '"/></svg> Listen on Spotify</div>'
+                   if soon and s.get("spotify") else "")
+        inner = (f'<div class="card-cover{"" if has_art else " noart"}">'
+                 f'<img class="card-img" src="{img_src}" alt="{esc(s["title"])} cover" loading="lazy">'
+                 f'<div class="scrim"></div>{badge}{dot}</div>'
                  f'<div class="card-meta"><div class="card-title">{esc(s["title"])}</div>'
-                 f'<div class="card-scrip">{esc(s.get("scripture",""))}</div></div>')
+                 f'<div class="card-scrip">{esc(s.get("scripture",""))}</div>{sp_hint}</div>')
         attrs = (f'data-title="{esc(s["title"])}" data-book="{esc(s.get("book",""))}" '
                  f'data-group="{group_of(s.get("book",""))}"')
-        if soon:
+        if soon and s.get("spotify"):
+            cards.append(f'<a class="song-card soon" href="{esc(s["spotify"])}" target="_blank" rel="noopener" {attrs}>{inner}</a>')
+        elif soon:
             cards.append(f'<div class="song-card soon" {attrs}>{inner}</div>')
         else:
             cards.append(f'<a class="song-card" href="{root}songs/{esc(s["slug"])}.html" {attrs}>{inner}</a>')
@@ -341,6 +350,7 @@ def render_library(site, songs, root=""):
   <div class="filterbar">
     <input class="lib-search" id="libSearch" type="search" placeholder="Search songs&hellip;" aria-label="Search songs">
     <div class="chips">{group_chips}</div>
+    <button class="chip toggle" id="hideSoon" aria-pressed="false">Hide coming soon</button>
   </div>
   <div class="book-rows" id="bookRows">{book_rows}</div>
   <div class="lib-grid" id="libGrid">

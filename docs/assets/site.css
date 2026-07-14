@@ -283,3 +283,15 @@
 .oplat svg{width:17px;height:17px;fill:var(--cream-d);transition:fill .28s}
 .oplat:hover{border-color:var(--gold);background:rgba(201,164,70,.12);transform:translateY(-2px)}
 .oplat:hover svg{fill:var(--gold-br)}
+
+/* hide-coming-soon toggle + spotify-linked soon cards */
+.chip.toggle{border-style:dashed}
+.chip.toggle.on{border-style:solid}
+.song-card.soon .card-cover{filter:saturate(.82) brightness(.86)}
+.song-card.soon:hover .card-cover{filter:none;border-color:var(--gold)}
+.song-card.soon .card-title{color:var(--cream-d)}
+.card-cover.noart{filter:grayscale(.3) brightness(.7)}
+.play-dot.sp svg{margin-left:0;fill:#1DB954}
+.card-sp{display:inline-flex;align-items:center;gap:6px;font-family:'Outfit',sans-serif;font-weight:600;letter-spacing:.12em;text-transform:uppercase;font-size:.54rem;color:var(--gold-dim);margin-top:7px;transition:color .25s}
+.card-sp svg{width:12px;height:12px;fill:#1DB954;flex:none}
+.song-card.soon:hover .card-sp{color:var(--gold-br)}
