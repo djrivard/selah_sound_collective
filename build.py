@@ -24,6 +24,8 @@ def vurl(root, rel):
     so browser/CDN caches can never serve a stale stylesheet, script, cover, or image."""
     if rel not in _VER:
         f = SRC / rel
+        if not f.exists():
+            f = OUT / rel          # audio may exist only in the built site
         _VER[rel] = hashlib.sha1(f.read_bytes()).hexdigest()[:8] if f.exists() else "0"
     return f"{root}{rel}?v={_VER[rel]}"
 
@@ -516,13 +518,21 @@ def main():
     songs = [json.loads(p.read_text()) for p in sorted((DATA / "songs").glob("*.json"))]
     songs.sort(key=canon_key)
 
+    # Rebuild docs/ — but never destroy audio we cannot regenerate. The mp3s are
+    # large, so a clone of this repo may carry them only in docs/audio (src/audio
+    # is optional). Wiping docs/ blindly would delete the only copy.
+    src_audio = SRC / "audio"
+    have_src_audio = src_audio.is_dir() and any(src_audio.glob("*.mp3"))
     if OUT.exists():
-        shutil.rmtree(OUT)
-    (OUT / "songs").mkdir(parents=True)
+        for child in OUT.iterdir():
+            if child.name == "audio" and not have_src_audio:
+                continue                       # keep the only copy of the music
+            shutil.rmtree(child) if child.is_dir() else child.unlink()
+    (OUT / "songs").mkdir(parents=True, exist_ok=True)
     shutil.copytree(SRC / "assets", OUT / "assets")
     shutil.copytree(SRC / "covers", OUT / "covers")
-    if (SRC / "audio").exists():
-        shutil.copytree(SRC / "audio", OUT / "audio")
+    if have_src_audio:
+        shutil.copytree(src_audio, OUT / "audio", dirs_exist_ok=True)
 
     # Cloudflare Pages: long-cache immutable media, short-cache pages
     (OUT / "_headers").write_text(
