@@ -9,17 +9,12 @@
   "spotify": "https://open.spotify.com/track/02C0v5ozPlpiXDoWgFmvou",
   "sections": [
     {
-      "label": "Intro",
+      "label": "Lyrics",
       "lines": [
         [
           null,
           "Generate a soft, subtle track with smooth transitions."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
-      "lines": [
+        ],
         [
           null,
           "As the mountains rise around Zion’s hill,"
@@ -35,12 +30,7 @@
         [
           null,
           "In His love, we find our climb."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Those who trust in the Lord cannot be moved,"
@@ -56,12 +46,7 @@
         [
           null,
           "Safe in the shadows of grace, steadfast and bold."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "The wicked may reign, but not for long,"
@@ -77,12 +62,7 @@
         [
           null,
           "His righteousness never departs."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Those who trust in the Lord cannot be moved,"
@@ -98,12 +78,7 @@
         [
           null,
           "Safe in the shadows of grace, steadfast and bold."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Oh, guide us, Lord, to walk upright,"
@@ -119,12 +94,7 @@
         [
           null,
           "A mercy that will never cease."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Those who trust in the Lord cannot be moved,"
@@ -142,18 +112,10 @@
           "Safe in the shadows of grace, steadfast and bold."
         ]
       ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
-        [
-          null,
-          "(Avoid excessive brightness or reverb effects.)"
-        ]
-      ]
     }
   ],
   "epigraph": "They that trust in the LORD shall be as mount Zion",
   "epigraphRef": "Psalm 125:1",
-  "lyricEyebrow": "From the Psalms"
+  "lyricEyebrow": "From the Psalms",
+  "styleNote": "Gentle Acoustic Guitar · Steady Bassline Grows · Repeat With Crescendo"
 }

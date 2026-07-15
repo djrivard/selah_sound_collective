@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/0LNGutZCXq6Kw7yJUSVFzn",
   "sections": [
     {
-      "label": "Intro",
+      "label": "Lyrics",
       "lines": [
-        [
-          null,
-          "(Avoid excessive brightness or reverb effects.)"
-        ],
         [
           null,
           "Oh, the stars sing tonight,"
@@ -30,12 +26,7 @@
         [
           null,
           "To heal, to love, to rise."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
-      "lines": [
+        ],
         [
           null,
           "The shattered hearts, He binds them whole,"
@@ -51,12 +42,7 @@
         [
           null,
           "Dawns of mercy, lead the day."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "He counts each star, He calls their names,"
@@ -72,12 +58,7 @@
         [
           null,
           "A boundless force, a holy flame."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Sing it loud, let the world hear,"
@@ -93,12 +74,7 @@
         [
           null,
           "A love so vast, the universe knows."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "The winds obey, the oceans sway,"
@@ -114,12 +90,7 @@
         [
           null,
           "A song of hope forevermore."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Oh, lift your voice, feel the light,"
@@ -135,12 +106,7 @@
         [
           null,
           "Dance to the rhythm of resolve."
-        ]
-      ]
-    },
-    {
-      "label": "Final Chorus",
-      "lines": [
+        ],
         [
           null,
           "Sing it loud, let the world hear,"
@@ -156,12 +122,7 @@
         [
           null,
           "A love so vast, the universe knows."
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "Oh, the stars sing tonight,"
@@ -183,5 +144,6 @@
   ],
   "epigraph": "He healeth the broken in heart",
   "epigraphRef": "Psalm 147:3",
-  "lyricEyebrow": "From the Psalms"
+  "lyricEyebrow": "From the Psalms",
+  "styleNote": "Dance-Pop Beat · Anthemic Melody · Layered Harmonies"
 }

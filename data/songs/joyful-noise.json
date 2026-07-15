@@ -9,16 +9,7 @@
   "spotify": "https://open.spotify.com/track/0QmofDfi8okM1Mruf0vuTS",
   "sections": [
     {
-      "label": "Intro",
-      "lines": [
-        [
-          null,
-          "(Avoid excessive brightness or reverb effects)"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -35,12 +26,7 @@
         [
           null,
           "Our hearts uplifted, our voices raised."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Know that the Lord is our mighty King,"
@@ -56,12 +42,7 @@
         [
           null,
           "Forever loved, His word we keep."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "Enter His gates with thanksgiving, true,"
@@ -77,12 +58,7 @@
         [
           null,
           "For endless mercy fills our days."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "For the Lord is good, His love remains,"
@@ -90,12 +66,7 @@
         [
           null,
           "Through all the ages, His truth sustains."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Know that the Lord is our mighty King,"
@@ -111,12 +82,7 @@
         [
           null,
           "Forever loved, His word we keep."
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "Shout with joy to the Lord above,"
@@ -124,15 +90,12 @@
         [
           null,
           "Sing His truth and endless love."
-        ],
-        [
-          null,
-          "(Avoid sharp transients and overemphasized harmonics)"
         ]
       ]
     }
   ],
   "epigraph": "Make a joyful noise unto the LORD",
   "epigraphRef": "Psalm 100:1",
-  "lyricEyebrow": "From the Psalms"
+  "lyricEyebrow": "From the Psalms",
+  "styleNote": "String Guitar And Clarinet · Darbuka Rhythms Grow Steady · All Voices Join Together"
 }

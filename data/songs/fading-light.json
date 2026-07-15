@@ -9,16 +9,7 @@
   "spotify": "https://open.spotify.com/track/7s8ml1FWbH2lwEhQb7sVds",
   "sections": [
     {
-      "label": "Intro",
-      "lines": [
-        [
-          null,
-          "(Avoid excessive brightness or reverb effects.)"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -35,12 +26,7 @@
         [
           null,
           "To the depths of sorrow, I’ve returned."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Why have You hidden, why am I lost?"
@@ -48,12 +34,7 @@
         [
           null,
           "Each step I take, it bears a cost."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Your silence deafens, no solace found,"
@@ -69,12 +50,7 @@
         [
           null,
           "My prayers dissolve with the fading light."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "I am adrift in an endless sea,"
@@ -90,12 +66,7 @@
         [
           null,
           "To the void where Your voice won’t call."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Why have You hidden, why am I lost?"
@@ -103,12 +74,7 @@
         [
           null,
           "Each step I take, it bears a cost."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Your silence deafens, no solace found,"
@@ -124,12 +90,7 @@
         [
           null,
           "My prayers dissolve with the fading light."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "From the womb to the grave, my song is pain,"
@@ -145,12 +106,7 @@
         [
           null,
           "A whisper of hope to light my way."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Your silence deafens, no solace found,"
@@ -168,18 +124,10 @@
           "My prayers dissolve with the fading light."
         ]
       ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
-        [
-          null,
-          "(Focus on midrange and bass frequencies for a mellow sound.)"
-        ]
-      ]
     }
   ],
   "epigraph": "I have cried day and night before thee",
   "epigraphRef": "Psalm 88:1",
-  "lyricEyebrow": "From the Psalms"
+  "lyricEyebrow": "From the Psalms",
+  "styleNote": "Pulsing Low Bass · Heavy Strings · And Somber Harmonies"
 }

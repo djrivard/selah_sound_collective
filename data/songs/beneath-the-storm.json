@@ -9,17 +9,12 @@
   "spotify": "https://open.spotify.com/track/2gh41iNDlTVUrPKOsyCy7Z",
   "sections": [
     {
-      "label": "Spoken",
+      "label": "Lyrics",
       "lines": [
         [
           null,
           "Shield me, O Light, from the weight of the dark."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
-      "lines": [
+        ],
         [
           null,
           "They rise with venom, their hearts unclean,"
@@ -35,12 +30,7 @@
         [
           null,
           "But You are the strength that answers the call."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Hold not their flame against me,"
@@ -48,12 +38,7 @@
         [
           null,
           "Let their snares be their chains."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Lift me higher, above the flood,"
@@ -69,12 +54,7 @@
         [
           null,
           "With every cry, turn shadow to light."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "Their lies like arrows pierce the air,"
@@ -90,12 +70,7 @@
         [
           null,
           "The spark of justice, the storm it knows."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Turn their venom to dust,"
@@ -103,12 +78,7 @@
         [
           null,
           "Break the fangs of deceit."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Lift me higher, above the flood,"
@@ -124,21 +94,7 @@
         [
           null,
           "With every cry, turn shadow to light."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
-        [
-          null,
-          "(**electric guitar solo over cinematic progression**)"
-        ]
-      ]
-    },
-    {
-      "label": "Spoken",
-      "lines": [
+        ],
         [
           null,
           "Shields surround me; their flames now cold."
@@ -152,5 +108,6 @@
   ],
   "epigraph": "that they rise not up again",
   "epigraphRef": "Psalm 140:10",
-  "lyricEyebrow": "From the Psalms"
+  "lyricEyebrow": "From the Psalms",
+  "styleNote": "A Distant Drum Pulse · The Rhythm Accelerates · Intensified Layering"
 }

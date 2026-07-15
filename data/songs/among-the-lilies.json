@@ -9,16 +9,7 @@
   "spotify": "https://open.spotify.com/track/6icNzauhH8YZqISyfNH74j",
   "sections": [
     {
-      "label": "Intro",
-      "lines": [
-        [
-          null,
-          "(A quiet longing, whispered in the dawn...)"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -35,12 +26,7 @@
         [
           null,
           "I long for his love, nothing less."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Among the lilies, where fragrance sways,"
@@ -56,12 +42,7 @@
         [
           null,
           "Oh, love, return, bring back the light."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "**I am my beloved’s, he is mine,**"
@@ -77,12 +58,7 @@
         [
           null,
           "**For in his arms, my heart is home.**"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "Fair as the moon, bright as the sun,"
@@ -98,12 +74,7 @@
         [
           null,
           "Yet only for me was he made."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "He calls me forth, he speaks my name,"
@@ -119,12 +90,7 @@
         [
           null,
           "Boundless, fierce, eternally."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "**I am my beloved’s, he is mine,**"
@@ -140,12 +106,7 @@
         [
           null,
           "**For in his arms, my heart is home.**"
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Not all the kings, nor all the thrones,"
@@ -161,12 +122,7 @@
         [
           null,
           "Could drown the fire that burns in me."
-        ]
-      ]
-    },
-    {
-      "label": "Final Chorus",
-      "lines": [
+        ],
         [
           null,
           "**I am my beloved’s, he is mine,**"
@@ -182,12 +138,7 @@
         [
           null,
           "**His love will hold, forever warm.**"
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "(Among the lilies... love remains...)"
@@ -197,5 +148,6 @@
   ],
   "epigraph": "he feedeth among the lilies",
   "epigraphRef": "Song of Songs 6:3",
-  "lyricEyebrow": "From the Book of Song of Songs"
+  "lyricEyebrow": "From the Book of Song of Songs",
+  "styleNote": "Gentle Strings Swelling · Subtle Percussion Enters · Longing Intensifies"
 }

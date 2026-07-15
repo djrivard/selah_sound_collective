@@ -9,7 +9,7 @@
   "spotify": "https://open.spotify.com/track/1wK8tAXUGtlROPCf3vidO0",
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -22,35 +22,6 @@
         [
           null,
           "after dark (no escape, no release)"
-        ],
-        [
-          null,
-          "[Pre-Chorus] not for what i've done they seek my blood tonight nowhere left to run as stars fade from sight"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        [
-          null,
-          "rise up and find me in this grace your"
-        ],
-        [
-          null,
-          "light bleeds through the night."
-        ],
-        [
-          null,
-          "Let them come to take this place you are"
-        ],
-        [
-          null,
-          "my fortress you are my might (you're"
-        ],
-        [
-          null,
-          "all i need to survive)"
         ]
       ]
     },
@@ -59,17 +30,16 @@
       "lines": [
         [
           null,
-          "in this empty room i wait for morning"
+          "not for what i've done they seek"
         ],
         [
           null,
-          "light darkness closing soon but you're by my side"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+          "my blood tonight nowhere left to run"
+        ],
+        [
+          null,
+          "as stars fade from sight"
+        ],
         [
           null,
           "rise up and find me in this grace your"
@@ -89,21 +59,51 @@
         [
           null,
           "all i need to survive)"
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
-          "(whispered/spoken) i'll sing your power when dawn breaks through shadows of the night let truth reveal what darkness takes in your love i'll survive"
-        ]
-      ]
-    },
-    {
-      "label": "Final Chorus",
-      "lines": [
+          "in this empty room i wait for morning"
+        ],
+        [
+          null,
+          "light darkness closing soon but you're by my side"
+        ],
+        [
+          null,
+          "rise up and find me in this grace your"
+        ],
+        [
+          null,
+          "light bleeds through the night."
+        ],
+        [
+          null,
+          "Let them come to take this place you are"
+        ],
+        [
+          null,
+          "my fortress you are my might (you're"
+        ],
+        [
+          null,
+          "all i need to survive)"
+        ],
+        [
+          null,
+          "(whispered/spoken) i'll sing your power"
+        ],
+        [
+          null,
+          "when dawn breaks through shadows of"
+        ],
+        [
+          null,
+          "the night let truth reveal"
+        ],
+        [
+          null,
+          "what darkness takes in your love i'll survive"
+        ],
         [
           null,
           "rise up and find me in this grace your light bleeds"

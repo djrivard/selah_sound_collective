@@ -9,7 +9,7 @@
   "spotify": "https://open.spotify.com/track/5PxQuafFqEzozQw48ngzAH",
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -30,12 +30,7 @@
         [
           null,
           "My foundation will endure"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "You are my rock, my salvation"
@@ -55,12 +50,7 @@
         [
           null,
           "In You alone peace is found"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "Why do they plot and scheme?"
@@ -76,12 +66,7 @@
         [
           null,
           "Their power cannot persist"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "You are my rock, my salvation"
@@ -101,12 +86,7 @@
         [
           null,
           "In You alone peace is found"
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Pour out your heart like water"
@@ -122,12 +102,7 @@
         [
           null,
           "Finds mercy in this place"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 3",
-      "lines": [
+        ],
         [
           null,
           "All glory belongs to You Your strength forever true"
@@ -139,12 +114,7 @@
         [
           null,
           "Your mercy makes all things right"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "You are my rock, my salvation"
@@ -164,10 +134,15 @@
         [
           null,
           "In You alone peace is found"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
-          "[Outro] In silence I find my rest My soul is finally blessed"
+          "In silence I find my rest My soul is finally blessed"
         ]
       ]
     }
