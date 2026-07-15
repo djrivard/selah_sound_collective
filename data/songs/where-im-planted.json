@@ -1,12 +1,173 @@
 {
   "slug": "where-im-planted",
   "title": "Where I'm Planted",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 1",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "where-im-planted.jpg",
   "spotify": "https://open.spotify.com/track/3UfokGrKafO51LiW43EHXk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e6edaa5612e8eb291e3a0fc8"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Like a tree by living waters"
+        ],
+        [
+          null,
+          "Drinking deep from wisdom's streams"
+        ],
+        [
+          null,
+          "Stands the one whose heart seeks higher"
+        ],
+        [
+          null,
+          "Than the world of fleeting dreams"
+        ],
+        [
+          null,
+          "Their leaves stay green through scorching summer"
+        ],
+        [
+          null,
+          "Bearing fruit in season's time"
+        ],
+        [
+          null,
+          "While autumn winds shake empty branches"
+        ],
+        [
+          null,
+          "This tree continues to climb"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Blessed is the soul that walks in truth"
+        ],
+        [
+          null,
+          "Far from shadows where deceivers dwell"
+        ],
+        [
+          null,
+          "Planted by the river, growing strong and tall"
+        ],
+        [
+          null,
+          "Drawing life from heaven's well"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Not so those who chase the darkness"
+        ],
+        [
+          null,
+          "Like chaff scattered in the wind"
+        ],
+        [
+          null,
+          "No roots to hold when storms are raging"
+        ],
+        [
+          null,
+          "No shelter there to tend"
+        ],
+        [
+          null,
+          "But those who meditate on goodness"
+        ],
+        [
+          null,
+          "Day and night in heaven's law"
+        ],
+        [
+          null,
+          "Find strength beyond their understanding"
+        ],
+        [
+          null,
+          "And peace forevermore"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Two paths diverge before us"
+        ],
+        [
+          null,
+          "One leads to life divine"
+        ],
+        [
+          null,
+          "Choose wisely where you journey"
+        ],
+        [
+          null,
+          "Let truth your heart define"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Blessed is the soul that walks in truth"
+        ],
+        [
+          null,
+          "Far from shadows where deceivers dwell"
+        ],
+        [
+          null,
+          "Planted by the river, growing strong and tall"
+        ],
+        [
+          null,
+          "Drawing life from heaven's well"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "For the Lord watches over righteous paths"
+        ],
+        [
+          null,
+          "While dark roads fade away"
+        ],
+        [
+          null,
+          "Like a tree by living waters"
+        ],
+        [
+          null,
+          "We choose to grow each day"
+        ]
+      ]
+    }
+  ],
+  "audio": "where-im-planted.mp3",
+  "epigraph": "And he shall be like a tree planted by the rivers of water",
+  "epigraphRef": "Psalm 1:3",
+  "lyricEyebrow": "From the Psalms"
 }

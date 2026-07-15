@@ -1,12 +1,225 @@
 {
   "slug": "he-reigns-alone",
   "title": "He Reigns Alone",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 2",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "he-reigns-alone.jpg",
   "spotify": "https://open.spotify.com/track/77RNwHTcYmOXGUgEW704FK",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736405c5aaddf12331d6082b1e"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Why do nations storm and rage"
+        ],
+        [
+          null,
+          "Like waves against the shore?"
+        ],
+        [
+          null,
+          "Their kings and rulers plot in vain"
+        ],
+        [
+          null,
+          "Against heaven's golden door"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From His throne above the stars"
+        ],
+        [
+          null,
+          "The Lord looks down and laughs"
+        ],
+        [
+          null,
+          "Their schemes are dust upon the wind"
+        ],
+        [
+          null,
+          "Their pride like broken staffs"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Find your refuge in His grace"
+        ],
+        [
+          null,
+          "Your fortress in His might"
+        ],
+        [
+          null,
+          "For those who trust His holy name"
+        ],
+        [
+          null,
+          "Will walk in endless light"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "\"I've placed My King upon the hill"
+        ],
+        [
+          null,
+          "Of Zion, sacred ground"
+        ],
+        [
+          null,
+          "My Son, today I give to you"
+        ],
+        [
+          null,
+          "The nations as your crown"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Ask of Me, and I will give"
+        ],
+        [
+          null,
+          "The earth into your hand"
+        ],
+        [
+          null,
+          "From sea to sea, from shore to shore"
+        ],
+        [
+          null,
+          "You'll rule through every land\""
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Find your refuge in His grace"
+        ],
+        [
+          null,
+          "Your fortress in His might"
+        ],
+        [
+          null,
+          "For those who trust His holy name"
+        ],
+        [
+          null,
+          "Will walk in endless light"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        [
+          null,
+          "Be wise now, kings of mortal realm"
+        ],
+        [
+          null,
+          "Take wisdom's gentle rod"
+        ],
+        [
+          null,
+          "Serve with joy and reverent fear"
+        ],
+        [
+          null,
+          "The sovereign hand of God"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 6",
+      "lines": [
+        [
+          null,
+          "Blessed are all who find their peace"
+        ],
+        [
+          null,
+          "Beneath His sheltering wings"
+        ],
+        [
+          null,
+          "When fury burns like morning sun"
+        ],
+        [
+          null,
+          "He guards the soul that sings"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Mountains bow and oceans kneel"
+        ],
+        [
+          null,
+          "Before His mighty throne"
+        ],
+        [
+          null,
+          "Nations rise and nations fall"
+        ],
+        [
+          null,
+          "But He reigns, He reigns alone"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Find your refuge in His grace"
+        ],
+        [
+          null,
+          "Your fortress in His might"
+        ],
+        [
+          null,
+          "For those who trust His holy name"
+        ],
+        [
+          null,
+          "Will walk in endless light"
+        ]
+      ]
+    }
+  ],
+  "audio": "he-reigns-alone.mp3",
+  "epigraph": "The kings of the earth set themselves",
+  "epigraphRef": "Psalm 2:2",
+  "lyricEyebrow": "From the Psalms"
 }

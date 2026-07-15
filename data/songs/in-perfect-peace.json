@@ -1,12 +1,183 @@
 {
   "slug": "in-perfect-peace",
   "title": "In Perfect Peace",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 4",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "in-perfect-peace.jpg",
   "spotify": "https://open.spotify.com/track/5gAS9YPUC3jHQsv5G1C3td",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f31f2c608c08307cb2d03047"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the silence of my questioning"
+        ],
+        [
+          null,
+          "When doubt clouds my way"
+        ],
+        [
+          null,
+          "You are the light that answers me"
+        ],
+        [
+          null,
+          "In the fading of the day"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "How long will shadows blind your hearts?"
+        ],
+        [
+          null,
+          "How long chase empty dreams?"
+        ],
+        [
+          null,
+          "While truth stands waiting at your door"
+        ],
+        [
+          null,
+          "Nothing is as it seems"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In perfect peace, I'll rest my head"
+        ],
+        [
+          null,
+          "Though storms may rage outside"
+        ],
+        [
+          null,
+          "For you alone can make me dwell"
+        ],
+        [
+          null,
+          "In safety, where you guide"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Know that grace has set apart"
+        ],
+        [
+          null,
+          "Those who seek the light"
+        ],
+        [
+          null,
+          "In my distress, I call your name"
+        ],
+        [
+          null,
+          "You guard me through the night"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Though others chase their fortunes wild"
+        ],
+        [
+          null,
+          "Seeking gold and fame"
+        ],
+        [
+          null,
+          "Let your face shine upon my path"
+        ],
+        [
+          null,
+          "I'll praise your holy name"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In perfect peace, I'll rest my head"
+        ],
+        [
+          null,
+          "Though storms may rage outside"
+        ],
+        [
+          null,
+          "For you alone can make me dwell"
+        ],
+        [
+          null,
+          "In safety, where you guide"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        [
+          null,
+          "More than autumn's harvest gold"
+        ],
+        [
+          null,
+          "More than spring's sweet wine"
+        ],
+        [
+          null,
+          "My heart is full of quiet joy"
+        ],
+        [
+          null,
+          "Knowing peace divine"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "So I will lay me down to sleep"
+        ],
+        [
+          null,
+          "In your unfailing care"
+        ],
+        [
+          null,
+          "For in the darkness or the light"
+        ],
+        [
+          null,
+          "I know that you are there"
+        ]
+      ]
+    }
+  ],
+  "audio": "in-perfect-peace.mp3",
+  "epigraph": "only makest me dwell in safety",
+  "epigraphRef": "Psalm 4:8",
+  "lyricEyebrow": "From the Psalms"
 }
