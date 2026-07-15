@@ -1,12 +1,149 @@
 {
   "slug": "the-perfect-one",
   "title": "The Perfect One",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 50",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-perfect-one.jpg",
+  "audio": "the-perfect-one.mp3",
   "spotify": "https://open.spotify.com/track/4Kfgjr0pfuSkLfFNAll76p",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273128c1fca5b20233a61130ee1"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From the rising of the sun"
+        ],
+        [
+          null,
+          "To where evening shadows run"
+        ],
+        [
+          null,
+          "The Perfect One speaks His decree"
+        ],
+        [
+          null,
+          "Calling earth from sea to sea"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Fire goes before His face"
+        ],
+        [
+          null,
+          "Thunder echoes through all space"
+        ],
+        [
+          null,
+          "Listen, O my people, hear"
+        ],
+        [
+          null,
+          "For I am God, your God draws near"
+        ],
+        [
+          null,
+          "(Your God draws near)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Not for sacrifices made"
+        ],
+        [
+          null,
+          "Not for offerings displayed"
+        ],
+        [
+          null,
+          "Every creature wild and tame"
+        ],
+        [
+          null,
+          "Already whispers forth my name"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "What good are empty words and deeds?"
+        ],
+        [
+          null,
+          "When mercy is your greatest need"
+        ],
+        [
+          null,
+          "Remember who I am to you"
+        ],
+        [
+          null,
+          "Remember all I've brought you through"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Call upon me in the storm"
+        ],
+        [
+          null,
+          "When darkness takes its final form"
+        ],
+        [
+          null,
+          "I'll deliver you from night"
+        ],
+        [
+          null,
+          "And you will shine forth my light"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Fire goes before His face"
+        ],
+        [
+          null,
+          "Thunder echoes through all space"
+        ],
+        [
+          null,
+          "Listen, O my people, hear"
+        ],
+        [
+          null,
+          "For I am God, your God draws near"
+        ],
+        [
+          null,
+          "(Your God is here)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and called the earth from the rising of the sun unto the going down thereof",
+  "epigraphRef": "Psalm 50:1",
+  "lyricEyebrow": "From the Psalms"
 }

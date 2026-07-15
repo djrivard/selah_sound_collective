@@ -1,12 +1,214 @@
 {
   "slug": "my-times-are-yours",
   "title": "My Times Are Yours",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 31",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "my-times-are-yours.jpg",
+  "audio": "my-times-are-yours.mp3",
   "spotify": "https://open.spotify.com/track/04tQbxCCh10QjaGMrNxPuo",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733fd62513d1b4dd4fda56da1f"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In You I seek my refuge, Lord"
+        ],
+        [
+          null,
+          "Let shame not be my end"
+        ],
+        [
+          null,
+          "Like fortress walls and mighty towers"
+        ],
+        [
+          null,
+          "Your justice shall defend"
+        ],
+        [
+          null,
+          "My spirit fades, my bones grow weak"
+        ],
+        [
+          null,
+          "From all these years of grief"
+        ],
+        [
+          null,
+          "But still I trust Your steady hand"
+        ],
+        [
+          null,
+          "To grant my soul relief"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Into Your hands I place my life"
+        ],
+        [
+          null,
+          "My times are Yours to hold"
+        ],
+        [
+          null,
+          "Though storms may rage and shadows fall"
+        ],
+        [
+          null,
+          "Your mercy will unfold"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "My eyes are dim from endless tears"
+        ],
+        [
+          null,
+          "My strength has slipped away"
+        ],
+        [
+          null,
+          "While whispers spread like poison here"
+        ],
+        [
+          null,
+          "And fear fills every day"
+        ],
+        [
+          null,
+          "Cast out like some forgotten soul"
+        ],
+        [
+          null,
+          "A vessel cracked and worn"
+        ],
+        [
+          null,
+          "Yet in Your love I'll find my peace"
+        ],
+        [
+          null,
+          "When hope seems torn"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Into Your hands I place my life"
+        ],
+        [
+          null,
+          "My times are Yours to hold"
+        ],
+        [
+          null,
+          "Though storms may rage and shadows fall"
+        ],
+        [
+          null,
+          "Your mercy will unfold"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "They plot against me in the dark"
+        ],
+        [
+          null,
+          "Their schemes like circling prey"
+        ],
+        [
+          null,
+          "But I declare: \"You are my God!\""
+        ],
+        [
+          null,
+          "Your love lights up my way"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let those who mock the righteous fall"
+        ],
+        [
+          null,
+          "Into their own deceit"
+        ],
+        [
+          null,
+          "While those who seek Your shelter, Lord"
+        ],
+        [
+          null,
+          "Find grace within defeat"
+        ],
+        [
+          null,
+          "Your goodness knows no earthly bounds"
+        ],
+        [
+          null,
+          "For those who fear Your name"
+        ],
+        [
+          null,
+          "In secret places You will hide"
+        ],
+        [
+          null,
+          "The hearts You claim"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Into Your hands I place my life"
+        ],
+        [
+          null,
+          "My times are Yours to hold"
+        ],
+        [
+          null,
+          "Though storms may rage and shadows fall"
+        ],
+        [
+          null,
+          "Your mercy will unfold"
+        ],
+        [
+          null,
+          "Your mercy will unfold"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "For my life is spent with grief",
+  "epigraphRef": "Psalm 31:10",
+  "lyricEyebrow": "From the Psalms"
 }

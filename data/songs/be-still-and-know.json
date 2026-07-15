@@ -1,12 +1,185 @@
 {
   "slug": "be-still-and-know",
   "title": "Be Still And Know",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 46",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "be-still-and-know.jpg",
+  "audio": "be-still-and-know.mp3",
   "spotify": "https://open.spotify.com/track/7f2xWfA7OCeqc5DsG30REB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b5d72cf17a9f7a14fde85c79"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the storm, in the quake"
+        ],
+        [
+          null,
+          "When foundations start to break"
+        ],
+        [
+          null,
+          "You're our shelter through it all"
+        ],
+        [
+          null,
+          "Our refuge when we call"
+        ],
+        [
+          null,
+          "When darkness surrounds our way"
+        ],
+        [
+          null,
+          "You're the light that makes us brave"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "The rivers of mercy flow sweet"
+        ],
+        [
+          null,
+          "Through Your city, through these streets"
+        ],
+        [
+          null,
+          "Making glad the hearts who dwell"
+        ],
+        [
+          null,
+          "In Your presence, all is well"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Be still and know that I am God"
+        ],
+        [
+          null,
+          "Let your weapons fall, let your fears dissolve"
+        ],
+        [
+          null,
+          "Be still and know that I am God"
+        ],
+        [
+          null,
+          "Nations bow and kingdoms fall"
+        ],
+        [
+          null,
+          "But I remain through it all"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Though the mountains shake and slide"
+        ],
+        [
+          null,
+          "Into depths of raging tides"
+        ],
+        [
+          null,
+          "Though the waters roar and foam"
+        ],
+        [
+          null,
+          "You remain our steady home"
+        ],
+        [
+          null,
+          "Your voice melts the frozen ground"
+        ],
+        [
+          null,
+          "Earth transforms at just the sound"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The Lord of Hosts stands with us now"
+        ],
+        [
+          null,
+          "The God of Jacob, our fortress proud"
+        ],
+        [
+          null,
+          "No morning dawns without Your grace"
+        ],
+        [
+          null,
+          "No battle ends without Your face"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Be still and know that I am God"
+        ],
+        [
+          null,
+          "Let your weapons fall, let your fears dissolve"
+        ],
+        [
+          null,
+          "Be still and know that I am God"
+        ],
+        [
+          null,
+          "Nations bow and kingdoms fall"
+        ],
+        [
+          null,
+          "But I remain through it all"
+        ],
+        [
+          null,
+          "Be still, be still"
+        ],
+        [
+          null,
+          "And know that I am God"
+        ],
+        [
+          null,
+          "Be still, be still"
+        ],
+        [
+          null,
+          "And watch My glory unfold"
+        ],
+        [
+          null,
+          "(Be still...)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and know that I am God",
+  "epigraphRef": "Psalm 46:10",
+  "lyricEyebrow": "From the Psalms"
 }

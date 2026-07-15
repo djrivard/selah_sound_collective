@@ -1,12 +1,263 @@
 {
   "slug": "city-of-our-god",
   "title": "City Of Our God",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 48",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "city-of-our-god.jpg",
+  "audio": "city-of-our-god.mp3",
   "spotify": "https://open.spotify.com/track/2yGd1vzQfbg2TPwnQ8GZd5",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c2f55dc0cfbfff28fee9f8c1"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the city of our God"
+        ],
+        [
+          null,
+          "Where His holy mountain stands"
+        ],
+        [
+          null,
+          "Glory shines from dawn to dusk"
+        ],
+        [
+          null,
+          "Over all these promised lands"
+        ],
+        [
+          null,
+          "Ancient walls and towers rise"
+        ],
+        [
+          null,
+          "Testament to Heaven's might"
+        ],
+        [
+          null,
+          "Here our fathers stood in awe"
+        ],
+        [
+          null,
+          "Of His presence day and night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Great is the Lord, mighty and true"
+        ],
+        [
+          null,
+          "In the city where His praises ring"
+        ],
+        [
+          null,
+          "From Zion's heights to morning dew"
+        ],
+        [
+          null,
+          "Great is our God, forever King"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Kings assembled at her gates"
+        ],
+        [
+          null,
+          "Trembled at the sight they saw"
+        ],
+        [
+          null,
+          "Fled in wonder and dismay"
+        ],
+        [
+          null,
+          "From His power and His law"
+        ],
+        [
+          null,
+          "For no earthly force compares"
+        ],
+        [
+          null,
+          "To our fortress and our shield"
+        ],
+        [
+          null,
+          "In His temple we have known"
+        ],
+        [
+          null,
+          "All the grace that love can yield"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Great is the Lord, mighty and true"
+        ],
+        [
+          null,
+          "In the city where His praises ring"
+        ],
+        [
+          null,
+          "From Zion's heights to morning dew"
+        ],
+        [
+          null,
+          "Great is our God, forever King"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Walk around these ancient walls"
+        ],
+        [
+          null,
+          "Count the towers standing tall"
+        ],
+        [
+          null,
+          "Tell the generations yet to come"
+        ],
+        [
+          null,
+          "How His mercy saved us all"
+        ],
+        [
+          null,
+          "How His mercy saved us all"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let the mountains rise in joy"
+        ],
+        [
+          null,
+          "Let the people celebrate"
+        ],
+        [
+          null,
+          "For our God will guide us home"
+        ],
+        [
+          null,
+          "Past the final golden gate"
+        ],
+        [
+          null,
+          "Through the ages He remains"
+        ],
+        [
+          null,
+          "Faithful to His holy throne"
+        ],
+        [
+          null,
+          "In His city we proclaim"
+        ],
+        [
+          null,
+          "Love that makes His glory known"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Great is the Lord, mighty and true"
+        ],
+        [
+          null,
+          "In the city where His praises ring"
+        ],
+        [
+          null,
+          "From Zion's heights to morning dew"
+        ],
+        [
+          null,
+          "Great is our God, forever King"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Great is the Lord"
+        ],
+        [
+          null,
+          "Forever King"
+        ],
+        [
+          null,
+          "His praise will ring"
+        ],
+        [
+          null,
+          "For endless days"
+        ],
+        [
+          null,
+          "---"
+        ],
+        [
+          null,
+          "Suggested Titles:"
+        ],
+        [
+          null,
+          "1. \"Great Is the Lord (City of Our God)\""
+        ],
+        [
+          null,
+          "2. \"Zion's Song\""
+        ],
+        [
+          null,
+          "3. \"Forever King\""
+        ],
+        [
+          null,
+          "4. \"The City of Grace\""
+        ],
+        [
+          null,
+          "5. \"Ancient Walls\""
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and greatly to be praised in the city of our God",
+  "epigraphRef": "Psalm 48:1",
+  "lyricEyebrow": "From the Psalms"
 }

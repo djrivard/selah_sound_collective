@@ -1,12 +1,194 @@
 {
   "slug": "heart-of-a-king",
   "title": "Heart Of A King",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 45",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "heart-of-a-king.jpg",
+  "audio": "heart-of-a-king.mp3",
   "spotify": "https://open.spotify.com/track/7zVo2UPfu93IrqTgouf0rB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27352f971ea5eabd40657905b00"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Words overflow like rivers from my heart"
+        ],
+        [
+          null,
+          "A story of the King, where do I start?"
+        ],
+        [
+          null,
+          "My tongue becomes the writer's ready pen"
+        ],
+        [
+          null,
+          "To speak of grace and glory once again"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "More beautiful than all the sons of men"
+        ],
+        [
+          null,
+          "Grace flows from lips that speak again and again"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Ride on in splendor, mighty One"
+        ],
+        [
+          null,
+          "Truth and mercy lead You on"
+        ],
+        [
+          null,
+          "Gird Your sword upon Your thigh"
+        ],
+        [
+          null,
+          "Justice reigns, Your arrow flies"
+        ],
+        [
+          null,
+          "Your throne endures through endless days"
+        ],
+        [
+          null,
+          "Kingdom built on righteous ways"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Your robes are fragrant with sweet mystery"
+        ],
+        [
+          null,
+          "Myrrh, aloes, cassia from ivory"
+        ],
+        [
+          null,
+          "From palaces where strings make melody"
+        ],
+        [
+          null,
+          "Daughters of kings stand in their majesty"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let beauty fade and glory pass away"
+        ],
+        [
+          null,
+          "But righteousness will triumph come what may"
+        ],
+        [
+          null,
+          "The ancient words still echo through the years"
+        ],
+        [
+          null,
+          "A love that conquers all our doubts and fears"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Ride on in splendor, mighty One"
+        ],
+        [
+          null,
+          "Truth and mercy lead You on"
+        ],
+        [
+          null,
+          "Gird Your sword upon Your thigh"
+        ],
+        [
+          null,
+          "Justice reigns, Your arrow flies"
+        ],
+        [
+          null,
+          "Your throne endures through endless days"
+        ],
+        [
+          null,
+          "Kingdom built on righteous ways"
+        ],
+        [
+          null,
+          "Through generations we will speak Your name"
+        ],
+        [
+          null,
+          "Your memory carried on through endless fame"
+        ],
+        [
+          null,
+          "The nations rise to bless You as their King"
+        ],
+        [
+          null,
+          "While heaven and earth forever praise and sing"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Ride on in splendor, mighty One"
+        ],
+        [
+          null,
+          "Truth and mercy lead You on"
+        ],
+        [
+          null,
+          "Gird Your sword upon Your thigh"
+        ],
+        [
+          null,
+          "Justice reigns, Your arrow flies"
+        ],
+        [
+          null,
+          "Your throne endures through endless days"
+        ],
+        [
+          null,
+          "Kingdom built on righteous ways"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "my tongue is the pen of a ready writer",
+  "epigraphRef": "Psalm 45:1",
+  "lyricEyebrow": "From the Psalms"
 }

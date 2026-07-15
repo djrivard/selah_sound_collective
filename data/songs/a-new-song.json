@@ -1,12 +1,226 @@
 {
   "slug": "a-new-song",
   "title": "A New Song",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 40",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-new-song.jpg",
+  "audio": "a-new-song.mp3",
   "spotify": "https://open.spotify.com/track/4pXZ4U6sIlz5nxhsASLxKk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273bcbfdaa47359b3b16dcc6b96"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the depths of darkness I waited"
+        ],
+        [
+          null,
+          "Patient through the longest night"
+        ],
+        [
+          null,
+          "Until Your hand reached down and saved me"
+        ],
+        [
+          null,
+          "Lifted me into the light"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From the pit of mud and mire"
+        ],
+        [
+          null,
+          "To solid ground beneath my feet"
+        ],
+        [
+          null,
+          "Now a new song fills my spirit"
+        ],
+        [
+          null,
+          "And my heart has found its beat"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You've given me a song to sing"
+        ],
+        [
+          null,
+          "A testimony of Your grace"
+        ],
+        [
+          null,
+          "My lips will tell Your wondrous deeds"
+        ],
+        [
+          null,
+          "Until I see Your face"
+        ],
+        [
+          null,
+          "Your love has made me whole again"
+        ],
+        [
+          null,
+          "Your mercy sets me free"
+        ],
+        [
+          null,
+          "I'll sing Your praise with every breath"
+        ],
+        [
+          null,
+          "For all eternity"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "More than offerings and sacrifices"
+        ],
+        [
+          null,
+          "You desire a faithful heart"
+        ],
+        [
+          null,
+          "Write Your truth upon my spirit"
+        ],
+        [
+          null,
+          "Let Your love never depart"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Though troubles surround me"
+        ],
+        [
+          null,
+          "Your presence sustains"
+        ],
+        [
+          null,
+          "Your faithfulness guides me"
+        ],
+        [
+          null,
+          "Your promise remains"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You've given me a song to sing"
+        ],
+        [
+          null,
+          "A testimony of Your grace"
+        ],
+        [
+          null,
+          "My lips will tell Your wondrous deeds"
+        ],
+        [
+          null,
+          "Until I see Your face"
+        ],
+        [
+          null,
+          "Your love has made me whole again"
+        ],
+        [
+          null,
+          "Your mercy sets me free"
+        ],
+        [
+          null,
+          "I'll sing Your praise with every breath"
+        ],
+        [
+          null,
+          "For all eternity"
+        ],
+        [
+          null,
+          "Poor and needy, still You seek me"
+        ],
+        [
+          null,
+          "Your thoughts toward me cannot cease"
+        ],
+        [
+          null,
+          "In Your timing, in Your wisdom"
+        ],
+        [
+          null,
+          "You will bring me perfect peace"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You've given me a song to sing"
+        ],
+        [
+          null,
+          "A testimony of Your grace"
+        ],
+        [
+          null,
+          "My lips will tell Your wondrous deeds"
+        ],
+        [
+          null,
+          "Until I see Your face"
+        ],
+        [
+          null,
+          "Your love has made me whole again"
+        ],
+        [
+          null,
+          "Your mercy sets me free"
+        ],
+        [
+          null,
+          "I'll sing Your praise with every breath"
+        ],
+        [
+          null,
+          "For all eternity"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "And he hath put a new song in my mouth",
+  "epigraphRef": "Psalm 40:3",
+  "lyricEyebrow": "From the Psalms"
 }

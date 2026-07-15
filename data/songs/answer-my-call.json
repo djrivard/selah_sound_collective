@@ -1,12 +1,178 @@
 {
   "slug": "answer-my-call",
   "title": "Answer My Call",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 20",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "answer-my-call.jpg",
+  "audio": "answer-my-call.mp3",
   "spotify": "https://open.spotify.com/track/6vn5OsgkUHmhDPoJVZIbSf",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731f192b7d3b67eee3d59651bc"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When darkness falls and troubles rise"
+        ],
+        [
+          null,
+          "May heaven hear your desperate cries"
+        ],
+        [
+          null,
+          "From sacred halls, may help descend"
+        ],
+        [
+          null,
+          "And strength from Zion be your friend"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Every prayer that leaves your lips"
+        ],
+        [
+          null,
+          "Every offering from fingertips"
+        ],
+        [
+          null,
+          "May they rise like morning light"
+        ],
+        [
+          null,
+          "Remembered in the holy height"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "May God answer when you call"
+        ],
+        [
+          null,
+          "Raise you up each time you fall"
+        ],
+        [
+          null,
+          "Like a banner in the wind"
+        ],
+        [
+          null,
+          "Let His name protect and win"
+        ],
+        [
+          null,
+          "We will rise, we will stand"
+        ],
+        [
+          null,
+          "In the power of His hand"
+        ],
+        [
+          null,
+          "(We will rise, we will stand"
+        ],
+        [
+          null,
+          "In the power of His hand)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Some trust in chariots made of steel"
+        ],
+        [
+          null,
+          "Some count on weapons they can feel"
+        ],
+        [
+          null,
+          "But we will trust a higher name"
+        ],
+        [
+          null,
+          "Above all powers that earth can claim"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Now I know with certainty"
+        ],
+        [
+          null,
+          "Victory flows from sovereignty"
+        ],
+        [
+          null,
+          "Every plea for help we raise"
+        ],
+        [
+          null,
+          "Returns as glory, turns to praise"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "May God answer when you call"
+        ],
+        [
+          null,
+          "Raise you up each time you fall"
+        ],
+        [
+          null,
+          "Like a banner in the wind"
+        ],
+        [
+          null,
+          "Let His name protect and win"
+        ],
+        [
+          null,
+          "We will rise, we will stand"
+        ],
+        [
+          null,
+          "In the power of His hand"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "O Lord, deliver when we cry"
+        ],
+        [
+          null,
+          "O King, answer from on high"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "he will hear him from his holy heaven with the saving strength of his right",
+  "epigraphRef": "Psalm 20:6",
+  "lyricEyebrow": "From the Psalms"
 }

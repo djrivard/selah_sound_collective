@@ -1,12 +1,179 @@
 {
   "slug": "my-rock",
   "title": "My Rock",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 28",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "my-rock.jpg",
+  "audio": "my-rock.mp3",
   "spotify": "https://open.spotify.com/track/5eLuLTSYX95L0aImeTeLzc",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731b2c66170d71de337318fc2f"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "To you I call, my steadfast stone"
+        ],
+        [
+          null,
+          "Don't turn away and leave me alone"
+        ],
+        [
+          null,
+          "In silence deep as ancient graves"
+        ],
+        [
+          null,
+          "Hear my voice, my soul to save"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "With lifted hands toward your holy place"
+        ],
+        [
+          null,
+          "I plead for mercy, seek your face"
+        ],
+        [
+          null,
+          "Don't count me with the wicked ones"
+        ],
+        [
+          null,
+          "Who speak of peace but harbor storms"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord, my strength, my shield divine"
+        ],
+        [
+          null,
+          "In Him I trust, His light will shine"
+        ],
+        [
+          null,
+          "My heart leaps up with joyful song"
+        ],
+        [
+          null,
+          "My help forever, my shield strong"
+        ],
+        [
+          null,
+          "(My help forever, my shield strong)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "According to their evil ways"
+        ],
+        [
+          null,
+          "Let justice flow through darkened days"
+        ],
+        [
+          null,
+          "They scorn the works of mighty hands"
+        ],
+        [
+          null,
+          "Their castles built on shifting sands"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Blessed be the Lord who heard my plea"
+        ],
+        [
+          null,
+          "His strength flows down and sets me free"
+        ],
+        [
+          null,
+          "Defender of the anointed one"
+        ],
+        [
+          null,
+          "Until the final day is done"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Save your people, bless your own"
+        ],
+        [
+          null,
+          "Shepherd them through paths unknown"
+        ],
+        [
+          null,
+          "Lift them up through endless days"
+        ],
+        [
+          null,
+          "'Til every voice rings out with praise"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord, my strength, my shield divine"
+        ],
+        [
+          null,
+          "In Him I trust, His light will shine"
+        ],
+        [
+          null,
+          "My heart leaps up with joyful song"
+        ],
+        [
+          null,
+          "My help forever, my shield strong"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "My strength, my shield divine"
+        ],
+        [
+          null,
+          "In You I trust, Your light will shine"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "The LORD is my strength and my shield",
+  "epigraphRef": "Psalm 28:7",
+  "lyricEyebrow": "From the Psalms"
 }

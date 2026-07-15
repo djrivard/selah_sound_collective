@@ -1,12 +1,154 @@
 {
   "slug": "crown-of-glory",
   "title": "Crown of Glory",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 21",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "crown-of-glory.jpg",
+  "audio": "crown-of-glory.mp3",
   "spotify": "https://open.spotify.com/track/1UGmv06x6KvJthDEyh6a7W",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733106d53b716e99185f0d51a7"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In Your strength, O Lord, I stand"
+        ],
+        [
+          null,
+          "Victory flows from Your mighty hand"
+        ],
+        [
+          null,
+          "Every prayer You've heard me pray"
+        ],
+        [
+          null,
+          "Your blessings crown me day by day"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You place a crown of purest gold"
+        ],
+        [
+          null,
+          "Your love and grace, more wealth than I can hold"
+        ],
+        [
+          null,
+          "Forever blessed, forever more"
+        ],
+        [
+          null,
+          "Your presence is what I live for"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Through the fire, through the flame"
+        ],
+        [
+          null,
+          "Your faithful love remains the same"
+        ],
+        [
+          null,
+          "My enemies may rise and fall"
+        ],
+        [
+          null,
+          "But Your glory towers over all"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Your light shines bright"
+        ],
+        [
+          null,
+          "Your power burns like flame"
+        ],
+        [
+          null,
+          "All creation trembles"
+        ],
+        [
+          null,
+          "At the mention of Your name"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Generations yet to come"
+        ],
+        [
+          null,
+          "Will hear the victories You have won"
+        ],
+        [
+          null,
+          "Your mercy reaches to the sky"
+        ],
+        [
+          null,
+          "Your justice makes the darkness fly"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You place a crown of purest gold"
+        ],
+        [
+          null,
+          "Your love and grace, more wealth than I can hold"
+        ],
+        [
+          null,
+          "Forever blessed, forever more"
+        ],
+        [
+          null,
+          "Your presence is what I live for"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "We lift our voices high to praise"
+        ],
+        [
+          null,
+          "Your majesty through endless days"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "thou settest a crown of pure gold on his head",
+  "epigraphRef": "Psalm 21:3",
+  "lyricEyebrow": "From the Psalms"
 }

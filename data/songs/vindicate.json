@@ -1,12 +1,144 @@
 {
   "slug": "vindicate",
   "title": "Vindicate",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 43",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "vindicate.jpg",
+  "audio": "vindicate.mp3",
   "spotify": "https://open.spotify.com/track/7KOEZ8CYaTxA20vjaCYzRT",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e06d1f72245e58ef3054cc92"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Judge my cause, O Light Divine"
+        ],
+        [
+          null,
+          "In this darkness, make me shine"
+        ],
+        [
+          null,
+          "Through the storms of doubt and pain"
+        ],
+        [
+          null,
+          "Let Your truth remain"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Send Your light to guide my way"
+        ],
+        [
+          null,
+          "Through the shadows of today"
+        ],
+        [
+          null,
+          "To Your holy mountain high"
+        ],
+        [
+          null,
+          "Where Your presence lies"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lead me to Your altar, Lord"
+        ],
+        [
+          null,
+          "Where my joy finds restoration"
+        ],
+        [
+          null,
+          "Let me praise You with my song"
+        ],
+        [
+          null,
+          "Till my spirit finds its home"
+        ],
+        [
+          null,
+          "In Your holy habitation"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Why so downcast, O my soul?"
+        ],
+        [
+          null,
+          "Why this turmoil deep within?"
+        ],
+        [
+          null,
+          "Put your hope in God alone"
+        ],
+        [
+          null,
+          "He will lift you up again"
+        ],
+        [
+          null,
+          "I will praise You through the night"
+        ],
+        [
+          null,
+          "Till the morning brings its light"
+        ],
+        [
+          null,
+          "You're my fortress, You're my strength"
+        ],
+        [
+          null,
+          "My deliverance"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lead me to Your altar, Lord"
+        ],
+        [
+          null,
+          "Where my joy finds restoration"
+        ],
+        [
+          null,
+          "Let me praise You with my song"
+        ],
+        [
+          null,
+          "Till my spirit finds its home"
+        ],
+        [
+          null,
+          "In Your holy habitation"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "O send out thy light and thy truth",
+  "epigraphRef": "Psalm 43:3",
+  "lyricEyebrow": "From the Psalms"
 }

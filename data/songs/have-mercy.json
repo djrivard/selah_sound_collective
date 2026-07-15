@@ -1,12 +1,157 @@
 {
   "slug": "have-mercy",
   "title": "Have Mercy",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 6",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "have-mercy.jpg",
+  "audio": "have-mercy.mp3",
   "spotify": "https://open.spotify.com/track/0xHhc5ZtRTyCNYwhOYc6pF",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733ab826ba946cb1fa7f003a55"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Don't let your anger burn against me, Lord"
+        ],
+        [
+          null,
+          "My bones are weary, my spirit worn"
+        ],
+        [
+          null,
+          "How long must I wrestle with this pain?"
+        ],
+        [
+          null,
+          "Turn your face to me once more"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Have mercy, have mercy"
+        ],
+        [
+          null,
+          "My soul is in deep distress"
+        ],
+        [
+          null,
+          "Return to me, deliver me"
+        ],
+        [
+          null,
+          "Through your unfailing tenderness"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "In death there are no memories of you"
+        ],
+        [
+          null,
+          "No praise rises from the silent grave"
+        ],
+        [
+          null,
+          "My bed is soaked with midnight tears"
+        ],
+        [
+          null,
+          "Each night, your presence I crave"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "My eyes grow dim with sorrow"
+        ],
+        [
+          null,
+          "Weakness floods my frame"
+        ],
+        [
+          null,
+          "But through the darkest valley"
+        ],
+        [
+          null,
+          "I still call upon your name"
+        ],
+        [
+          null,
+          "Yet in this moment, hope breaks through"
+        ],
+        [
+          null,
+          "For you have heard my weeping prayer"
+        ],
+        [
+          null,
+          "My enemies will turn and flee"
+        ],
+        [
+          null,
+          "When they see that you are there"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Have mercy, have mercy"
+        ],
+        [
+          null,
+          "My soul is in deep distress"
+        ],
+        [
+          null,
+          "Return to me, deliver me"
+        ],
+        [
+          null,
+          "Through your unfailing tenderness"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "The Lord has heard my cry"
+        ],
+        [
+          null,
+          "The Lord receives my prayer"
+        ],
+        [
+          null,
+          "The Lord has heard my cry"
+        ],
+        [
+          null,
+          "And I know that He is there"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "for my bones are vexed",
+  "epigraphRef": "Psalm 6:2",
+  "lyricEyebrow": "From the Psalms"
 }

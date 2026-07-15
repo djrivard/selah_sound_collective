@@ -1,12 +1,199 @@
 {
   "slug": "rich-mans-folly",
   "title": "Rich Man's Folly",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 49",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rich-mans-folly.jpg",
+  "audio": "rich-mans-folly.mp3",
   "spotify": "https://open.spotify.com/track/73BTS4rXwtHI3MtwVMKtUe",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d92b97d7ecb8ab0900f7eac5"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Listen close, all people of the earth"
+        ],
+        [
+          null,
+          "From kings to common folk, hear this truth"
+        ],
+        [
+          null,
+          "No fortune can purchase one more breath"
+        ],
+        [
+          null,
+          "When death comes calling, gold has no use"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Money can't buy tomorrow"
+        ],
+        [
+          null,
+          "Riches fade like morning frost"
+        ],
+        [
+          null,
+          "All the wealth this world can offer"
+        ],
+        [
+          null,
+          "Can't redeem a single soul that's lost"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "See the proud ones building mighty towers"
+        ],
+        [
+          null,
+          "Their names inscribed on marble walls"
+        ],
+        [
+          null,
+          "But their glory's just a fading flower"
+        ],
+        [
+          null,
+          "Time will claim it, watch it fall"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Money can't buy tomorrow"
+        ],
+        [
+          null,
+          "Riches fade like morning frost"
+        ],
+        [
+          null,
+          "All the wealth this world can offer"
+        ],
+        [
+          null,
+          "Can't redeem a single soul that's lost"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The wise and foolish share one fate"
+        ],
+        [
+          null,
+          "The grave accepts no golden key"
+        ],
+        [
+          null,
+          "But hope remains beyond death's gate"
+        ],
+        [
+          null,
+          "For those whose treasure God will keep"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "So don't lose heart when others rise"
+        ],
+        [
+          null,
+          "Their mansions gleaming in the sun"
+        ],
+        [
+          null,
+          "Like shadows in the evening sky"
+        ],
+        [
+          null,
+          "They'll fade when day is done"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Money can't buy tomorrow"
+        ],
+        [
+          null,
+          "Riches fade like morning frost"
+        ],
+        [
+          null,
+          "All the wealth this world can offer"
+        ],
+        [
+          null,
+          "Can't redeem a single soul that's lost"
+        ],
+        [
+          null,
+          "Place your trust in what endures"
+        ],
+        [
+          null,
+          "Beyond the markets' rise and fall"
+        ],
+        [
+          null,
+          "For only love and truth are sure"
+        ],
+        [
+          null,
+          "When time has claimed it all"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Money can't buy tomorrow"
+        ],
+        [
+          null,
+          "Riches fade like morning frost"
+        ],
+        [
+          null,
+          "All the wealth this world can offer"
+        ],
+        [
+          null,
+          "Can't redeem a single soul that's lost"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and boast themselves in the multitude of their riches",
+  "epigraphRef": "Psalm 49:6",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,258 @@
 {
   "slug": "where-are-you-my-shelter",
   "title": "Where Are You, My Shelter",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 42",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "where-are-you-my-shelter.jpg",
+  "audio": "where-are-you-my-shelter.mp3",
   "spotify": "https://open.spotify.com/track/5daMwsK4O4RGWY5ovvOgJU",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b0144a0e20318087990396fe"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Like a deer in desert places"
+        ],
+        [
+          null,
+          "Searching for a stream to drink"
+        ],
+        [
+          null,
+          "So my soul, through barren spaces"
+        ],
+        [
+          null,
+          "Longs for You, begins to sink"
+        ],
+        [
+          null,
+          "Days and nights of endless yearning"
+        ],
+        [
+          null,
+          "Through the shadows, through the pain"
+        ],
+        [
+          null,
+          "To Your waters I keep turning"
+        ],
+        [
+          null,
+          "Till my spirit's whole again"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are You, my God, my Shelter?"
+        ],
+        [
+          null,
+          "When will I behold Your face?"
+        ],
+        [
+          null,
+          "Though the storms around me swelter"
+        ],
+        [
+          null,
+          "I'll remember days of grace"
+        ],
+        [
+          null,
+          "Deep calls out to deep within me"
+        ],
+        [
+          null,
+          "Waves of mercy wash me clean"
+        ],
+        [
+          null,
+          "Till Your living waters find me"
+        ],
+        [
+          null,
+          "Till Your presence sets me free"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Memories of celebration"
+        ],
+        [
+          null,
+          "Echo through an empty hall"
+        ],
+        [
+          null,
+          "Now I face my desolation"
+        ],
+        [
+          null,
+          "While the cynics mock and call"
+        ],
+        [
+          null,
+          "\"Where's your God in all this sorrow?"
+        ],
+        [
+          null,
+          "Where's your hope in darkest night?\""
+        ],
+        [
+          null,
+          "Still I know there's hope tomorrow"
+        ],
+        [
+          null,
+          "Dawn will pierce the fading light"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are You, my God, my Shelter?"
+        ],
+        [
+          null,
+          "When will I behold Your face?"
+        ],
+        [
+          null,
+          "Though the storms around me swelter"
+        ],
+        [
+          null,
+          "I'll remember days of grace"
+        ],
+        [
+          null,
+          "Deep calls out to deep within me"
+        ],
+        [
+          null,
+          "Waves of mercy wash me clean"
+        ],
+        [
+          null,
+          "Till Your living waters find me"
+        ],
+        [
+          null,
+          "Till Your presence sets me free"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Why so downcast, oh my spirit?"
+        ],
+        [
+          null,
+          "Why this tumult deep within?"
+        ],
+        [
+          null,
+          "Put your hope in God and hear it"
+        ],
+        [
+          null,
+          "Love's refrain through all this din"
+        ],
+        [
+          null,
+          "Though the mountains shake and crumble"
+        ],
+        [
+          null,
+          "Though the waters rage and roar"
+        ],
+        [
+          null,
+          "I will praise You, stay here humble"
+        ],
+        [
+          null,
+          "Till I reach Your distant shore"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are You, my God, my Shelter?"
+        ],
+        [
+          null,
+          "When will I behold Your face?"
+        ],
+        [
+          null,
+          "Though the storms around me swelter"
+        ],
+        [
+          null,
+          "I'll remember days of grace"
+        ],
+        [
+          null,
+          "Deep calls out to deep within me"
+        ],
+        [
+          null,
+          "Waves of mercy wash me clean"
+        ],
+        [
+          null,
+          "Till Your living waters find me"
+        ],
+        [
+          null,
+          "Till Your presence sets me free"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Hope in God, my soul's salvation"
+        ],
+        [
+          null,
+          "Dawn will break, and night will cease"
+        ],
+        [
+          null,
+          "All these waves of tribulation"
+        ],
+        [
+          null,
+          "Lead me to Your perfect peace"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "my soul is cast down within me",
+  "epigraphRef": "Psalm 42:6",
+  "lyricEyebrow": "From the Psalms"
 }

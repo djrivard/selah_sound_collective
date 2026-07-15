@@ -1,12 +1,208 @@
 {
   "slug": "fools-in-their-fury",
   "title": "Fools In Their Fury",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 14",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "fools-in-their-fury.jpg",
+  "audio": "fools-in-their-fury.mp3",
   "spotify": "https://open.spotify.com/track/6KTE7QtFvqkkAfbWOsAbeY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730d2d5c1ab0f89c4e59b59583"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "(A Modern Psalm of Rage)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "They swagger through steel canyons, proud and blind"
+        ],
+        [
+          null,
+          "Declaring with their sneers, \"No God dwells here\""
+        ],
+        [
+          null,
+          "Their hearts are wastelands, minds to darkness resigned"
+        ],
+        [
+          null,
+          "While corruption flows like poison through their veins"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let them tremble before Your throne"
+        ],
+        [
+          null,
+          "When their temples turn to dust and stone"
+        ],
+        [
+          null,
+          "Justice breaks like thunder from above"
+        ],
+        [
+          null,
+          "While the faithful shelter in Your love"
+        ],
+        [
+          null,
+          "In Your love"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Look down, O Lord, from heaven's burning height"
+        ],
+        [
+          null,
+          "Upon these children who have lost their way"
+        ],
+        [
+          null,
+          "Their souls are rotted down to brittle bone"
+        ],
+        [
+          null,
+          "Their wisdom turned to ash and blown away"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let them tremble before Your throne"
+        ],
+        [
+          null,
+          "When their temples turn to dust and stone"
+        ],
+        [
+          null,
+          "Justice breaks like thunder from above"
+        ],
+        [
+          null,
+          "While the faithful shelter in Your love"
+        ],
+        [
+          null,
+          "In Your love"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Their throats are graves that swallow hope and light"
+        ],
+        [
+          null,
+          "Their tongues drip honey laced with deadly spite"
+        ],
+        [
+          null,
+          "They rush to shed the blood of righteous men"
+        ],
+        [
+          null,
+          "While peace remains a stranger to their gates"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "But terror waits where they least expect to find"
+        ],
+        [
+          null,
+          "When judgment rains like fire from the sky"
+        ],
+        [
+          null,
+          "The fortress of their pride will fall behind"
+        ],
+        [
+          null,
+          "While those they mocked are lifted up on high"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Let them tremble before Your throne"
+        ],
+        [
+          null,
+          "When their temples turn to dust and stone"
+        ],
+        [
+          null,
+          "Justice breaks like thunder from above"
+        ],
+        [
+          null,
+          "While the faithful shelter in Your love"
+        ],
+        [
+          null,
+          "In Your love"
+        ],
+        [
+          null,
+          "(In Your love)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "O Lord, bring salvation from Your holy height"
+        ],
+        [
+          null,
+          "Let righteousness consume them like a flame"
+        ],
+        [
+          null,
+          "Till darkness yields before Your searing light"
+        ],
+        [
+          null,
+          "And every tongue confesses Your great name"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "The fool hath said in his heart",
+  "epigraphRef": "Psalm 14:1",
+  "lyricEyebrow": "From the Psalms"
 }

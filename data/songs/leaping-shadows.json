@@ -1,12 +1,141 @@
 {
   "slug": "leaping-shadows",
   "title": "Leaping Shadows",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 23",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "leaping-shadows.jpg",
+  "audio": "leaping-shadows.mp3",
   "spotify": "https://open.spotify.com/track/54RUzi71DKsnemj8kFM3Qp",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739ef7f1d5100d3cfdc194c6ef"
+  "sections": [
+    {
+      "label": "Verse",
+      "lines": [
+        [
+          null,
+          "The Lord's my shepherd by my side"
+        ],
+        [
+          null,
+          "In green meadows I will glide"
+        ],
+        [
+          null,
+          "He leads me down by waters calm"
+        ],
+        [
+          null,
+          "Restores my soul with gentle palm"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Yea though I walk through shadowed vale"
+        ],
+        [
+          null,
+          "With no fear I will not fail"
+        ],
+        [
+          null,
+          "For you are with me rod and staff"
+        ],
+        [
+          null,
+          "In your embrace I find my path"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Surely goodness love unfurls"
+        ],
+        [
+          null,
+          "Runs like rivers through my world"
+        ],
+        [
+          null,
+          "In your house I find my home"
+        ],
+        [
+          null,
+          "In your arms I'm not alone"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Tables set before my foes"
+        ],
+        [
+          null,
+          "In your grace my spirit grows"
+        ],
+        [
+          null,
+          "Bountiful my cup o'erflows"
+        ],
+        [
+          null,
+          "Blessings rain down like a rose"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "In fields of gold where sunlight splay"
+        ],
+        [
+          null,
+          "I'll walk with you both night and day"
+        ],
+        [
+          null,
+          "Forever in your loving care"
+        ],
+        [
+          null,
+          "In joy and peace beyond compare"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Surely goodness love unfurls"
+        ],
+        [
+          null,
+          "Runs like rivers through my world"
+        ],
+        [
+          null,
+          "In your house I find my home"
+        ],
+        [
+          null,
+          "In your arms I'm not alone"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "though I walk through the valley of the shadow of death",
+  "epigraphRef": "Psalm 23:4",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,194 @@
 {
   "slug": "how-long-until-dawn",
   "title": "How Long Until Dawn",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 13",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "how-long-until-dawn.jpg",
+  "audio": "how-long-until-dawn.mp3",
   "spotify": "https://open.spotify.com/track/4STsscGcbi0ZR1MdHmEbfw",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273529290a2a447781aff18f10c"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "How long must I wrestle with silence?"
+        ],
+        [
+          null,
+          "These echoes of emptiness ring"
+        ],
+        [
+          null,
+          "My heart bears the weight of your absence"
+        ],
+        [
+          null,
+          "While shadows keep lengthening"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I'll trust in your unfailing love"
+        ],
+        [
+          null,
+          "Though the night seems endless above"
+        ],
+        [
+          null,
+          "Dawn will break, I know you're near"
+        ],
+        [
+          null,
+          "Even when you feel so far"
+        ],
+        [
+          null,
+          "I'll keep singing to the stars"
+        ],
+        [
+          null,
+          "'Til morning light appears"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Are you testing the depths of my patience?"
+        ],
+        [
+          null,
+          "Or teaching me ways I should grow?"
+        ],
+        [
+          null,
+          "My strength fades like mist in the morning"
+        ],
+        [
+          null,
+          "While your presence feels so low"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I'll trust in your unfailing love"
+        ],
+        [
+          null,
+          "Though the night seems endless above"
+        ],
+        [
+          null,
+          "Dawn will break, I know you're near"
+        ],
+        [
+          null,
+          "Even when you feel so far"
+        ],
+        [
+          null,
+          "I'll keep singing to the stars"
+        ],
+        [
+          null,
+          "'Til morning light appears"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Deep in my soul burns a memory"
+        ],
+        [
+          null,
+          "Of mercies that never run dry"
+        ],
+        [
+          null,
+          "Though tears may still blur my vision"
+        ],
+        [
+          null,
+          "Your love is my constant reply"
+        ],
+        [
+          null,
+          "Your faithfulness spans generations"
+        ],
+        [
+          null,
+          "Your love is the dawn's gentle light"
+        ],
+        [
+          null,
+          "In the midst of my doubt and my questions"
+        ],
+        [
+          null,
+          "I choose to trust in your might"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I'll trust in your unfailing love"
+        ],
+        [
+          null,
+          "Though the night seems endless above"
+        ],
+        [
+          null,
+          "Dawn will break, I know you're near"
+        ],
+        [
+          null,
+          "Even when you feel so far"
+        ],
+        [
+          null,
+          "I'll keep singing to the stars"
+        ],
+        [
+          null,
+          "'Til morning light appears"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "'Til morning light appears"
+        ],
+        [
+          null,
+          "I know you're near"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "having sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+  "epigraphRef": "Psalm 13:2",
+  "lyricEyebrow": "From the Psalms"
 }

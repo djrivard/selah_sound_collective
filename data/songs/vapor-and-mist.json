@@ -1,12 +1,157 @@
 {
   "slug": "vapor-and-mist",
   "title": "Vapor and Mist",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 39",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "vapor-and-mist.jpg",
+  "audio": "vapor-and-mist.mp3",
   "spotify": "https://open.spotify.com/track/7kjYeVJbQCgyl0tCEVQfzB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273dc449cacedd8529b7b99d74c"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In silence I wrestle with words unsaid"
+        ],
+        [
+          null,
+          "While flames of frustration burn in my head"
+        ],
+        [
+          null,
+          "I set a guard before my tongue"
+        ],
+        [
+          null,
+          "But still these thoughts won't leave me, they've just begun"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Show me my days like shadows that fade"
+        ],
+        [
+          null,
+          "Help me to see how brief we're made"
+        ],
+        [
+          null,
+          "All our pride like morning frost"
+        ],
+        [
+          null,
+          "In the heat of day, so quickly lost"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(I cry out)"
+        ],
+        [
+          null,
+          "My hope is in You alone"
+        ],
+        [
+          null,
+          "This fragile breath, these bones"
+        ],
+        [
+          null,
+          "A whisper in the infinite"
+        ],
+        [
+          null,
+          "A pilgrim passing through"
+        ],
+        [
+          null,
+          "My hope is in You"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Every treasure we chase is vapor and mist"
+        ],
+        [
+          null,
+          "Our anxious hearts chase what won't persist"
+        ],
+        [
+          null,
+          "Like phantoms dancing in the night"
+        ],
+        [
+          null,
+          "We build our kingdoms out of candlelight"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Hear my prayer, hear my cry"
+        ],
+        [
+          null,
+          "Don't turn away as tears fall from my eyes"
+        ],
+        [
+          null,
+          "I'm just a stranger here below"
+        ],
+        [
+          null,
+          "Like all my fathers were before"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "My hope is in You alone"
+        ],
+        [
+          null,
+          "This fragile breath, these bones"
+        ],
+        [
+          null,
+          "A whisper in the infinite"
+        ],
+        [
+          null,
+          "A pilgrim passing through"
+        ],
+        [
+          null,
+          "My hope is in You"
+        ],
+        [
+          null,
+          "(My hope is in You)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "while the wicked is before me",
+  "epigraphRef": "Psalm 39:1",
+  "lyricEyebrow": "From the Psalms"
 }

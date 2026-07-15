@@ -1,12 +1,185 @@
 {
   "slug": "rest-in-stillness",
   "title": "Rest In Stillness",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 37",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rest-in-stillness.jpg",
+  "audio": "rest-in-stillness.mp3",
   "spotify": "https://open.spotify.com/track/0YVajDcdKcOpfukYv9o6PR",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ca4ebcd6440a4dc26415a3eb"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Spoken) \"Rest in the quiet... find your peace.\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Do not envy the fleeting, their treasures will fade,"
+        ],
+        [
+          null,
+          "Like grass that withers, in shadows, they’re laid."
+        ],
+        [
+          null,
+          "Trust in the stillness, the unseen will rise,"
+        ],
+        [
+          null,
+          "The meek will inherit, under starlit skies."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Be still, hold fast, the storm will wane,"
+        ],
+        [
+          null,
+          "Delight in the truth, through joy or pain."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rest in the arms of time,"
+        ],
+        [
+          null,
+          "The righteous glow, the stars align."
+        ],
+        [
+          null,
+          "Fret no more, the dark gives way,"
+        ],
+        [
+          null,
+          "To endless dawn, a brighter day."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Evil may prosper, for a fleeting hour,"
+        ],
+        [
+          null,
+          "But justice looms with quiet power."
+        ],
+        [
+          null,
+          "Step in the light, let go of fear,"
+        ],
+        [
+          null,
+          "The pure in heart, their path is clear."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Be still, hold fast, the storm will wane,"
+        ],
+        [
+          null,
+          "Delight in the truth, through joy or pain."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rest in the arms of time,"
+        ],
+        [
+          null,
+          "The righteous glow, the stars align."
+        ],
+        [
+          null,
+          "Fret no more, the dark gives way,"
+        ],
+        [
+          null,
+          "To endless dawn, a brighter day."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Even in shadows, their schemes will fail,"
+        ],
+        [
+          null,
+          "The righteous endure where others pale."
+        ],
+        [
+          null,
+          "Look to the heavens, the promise remains,"
+        ],
+        [
+          null,
+          "A fire within, untamed by chains."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Rest in the arms of time,"
+        ],
+        [
+          null,
+          "The righteous glow, the stars align."
+        ],
+        [
+          null,
+          "Fret no more, the dark gives way,"
+        ],
+        [
+          null,
+          "To endless dawn, a brighter day."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(Spoken) \"Through stillness, we rise...\""
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Rest in the LORD",
+  "epigraphRef": "Psalm 37:7",
+  "lyricEyebrow": "From the Psalms"
 }

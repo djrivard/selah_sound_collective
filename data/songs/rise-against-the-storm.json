@@ -1,12 +1,201 @@
 {
   "slug": "rise-against-the-storm",
   "title": "Rise Against The Storm",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 35",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rise-against-the-storm.jpg",
+  "audio": "rise-against-the-storm.mp3",
   "spotify": "https://open.spotify.com/track/5CUzCI9DCKE7v1glNJdJWn",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731ca7d154c94c81abacb9592e"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Hear my cry, O defender divine,"
+        ],
+        [
+          null,
+          "Shield my soul, let Your justice shine."
+        ],
+        [
+          null,
+          "From shadows deep, Your hand extends,"
+        ],
+        [
+          null,
+          "To lift the broken, to make amends."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Enemies circle, their swords unsheathe,"
+        ],
+        [
+          null,
+          "Spiteful whispers, they plot and seethe."
+        ],
+        [
+          null,
+          "Yet in the valley, I stand unbowed,"
+        ],
+        [
+          null,
+          "For in Your truth, I am avowed."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Let arrows of light strike down deceit,"
+        ],
+        [
+          null,
+          "Let truth and mercy take their seat."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise, rise, O shield of might!"
+        ],
+        [
+          null,
+          "Defend the just through darkest night."
+        ],
+        [
+          null,
+          "A righteous flame, eternal and bright,"
+        ],
+        [
+          null,
+          "Rise, O shield of might, rise!"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They dig a pit, they set their snare,"
+        ],
+        [
+          null,
+          "But justice turns, for You are fair."
+        ],
+        [
+          null,
+          "Their nets entangle their wicked ways,"
+        ],
+        [
+          null,
+          "While truth ascends and crowns our days."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let the righteous sing, let their voices soar,"
+        ],
+        [
+          null,
+          "Like a lion’s roar on freedom's shore."
+        ],
+        [
+          null,
+          "O my soul, rejoice, for the battle's won,"
+        ],
+        [
+          null,
+          "Justice flows like rivers run!"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise, rise, O shield of might!"
+        ],
+        [
+          null,
+          "Defend the just through darkest night."
+        ],
+        [
+          null,
+          "A righteous flame, eternal and bright,"
+        ],
+        [
+          null,
+          "Rise, O shield of might, rise!"
+        ]
+      ]
+    },
+    {
+      "label": "Breakdown",
+      "lines": [
+        [
+          null,
+          "In stillness I wait, my hope secure,"
+        ],
+        [
+          null,
+          "Your promises faithful, strong, and pure."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Rise, rise, O shield of might!"
+        ],
+        [
+          null,
+          "Defend the just through darkest night."
+        ],
+        [
+          null,
+          "A righteous flame, eternal and bright,"
+        ],
+        [
+          null,
+          "Rise, O shield of might, rise!"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From shadows deep, Your hand extends,"
+        ],
+        [
+          null,
+          "To lift the broken, to make amends."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and stop the way against them that persecute me",
+  "epigraphRef": "Psalm 35:3",
+  "lyricEyebrow": "From the Psalms"
 }

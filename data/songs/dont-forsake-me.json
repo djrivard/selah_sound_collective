@@ -1,12 +1,171 @@
 {
   "slug": "dont-forsake-me",
   "title": "Don't Forsake Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 38",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "dont-forsake-me.jpg",
+  "audio": "dont-forsake-me.mp3",
   "spotify": "https://open.spotify.com/track/6EM7zgD817El6TmQzdLznl",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c9de75fee59d7032a3c3868a"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Beneath the weight of my mistakes"
+        ],
+        [
+          null,
+          "My spirit bends but never breaks"
+        ],
+        [
+          null,
+          "The arrows of my shame pierce deep"
+        ],
+        [
+          null,
+          "While in the darkness here I weep"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "But even as I stumble now"
+        ],
+        [
+          null,
+          "Before Your throne I humbly bow"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lord, don't forsake me in my pain"
+        ],
+        [
+          null,
+          "When strength has left, let hope remain"
+        ],
+        [
+          null,
+          "Though friends stand distant, You are near"
+        ],
+        [
+          null,
+          "Your mercy draws me through my fear"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "My wounds are open to the bone"
+        ],
+        [
+          null,
+          "My guilt leaves me to walk alone"
+        ],
+        [
+          null,
+          "Those who once loved me turn away"
+        ],
+        [
+          null,
+          "While others plot throughout the day"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "But even as I stumble now"
+        ],
+        [
+          null,
+          "Before Your throne I humbly bow"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lord, don't forsake me in my pain"
+        ],
+        [
+          null,
+          "When strength has left, let hope remain"
+        ],
+        [
+          null,
+          "Though friends stand distant, You are near"
+        ],
+        [
+          null,
+          "Your mercy draws me through my fear"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "I confess my every sin"
+        ],
+        [
+          null,
+          "Let Your healing now begin"
+        ],
+        [
+          null,
+          "Though darkness claims the evening sky"
+        ],
+        [
+          null,
+          "Your light will break as morning nears"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Lord, don't forsake me in my pain"
+        ],
+        [
+          null,
+          "When strength has left, let hope remain"
+        ],
+        [
+          null,
+          "Though friends stand distant, You are near"
+        ],
+        [
+          null,
+          "Your mercy draws me through my fear"
+        ],
+        [
+          null,
+          "Your love will conquer every fear"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Forsake me not",
+  "epigraphRef": "Psalm 38:21",
+  "lyricEyebrow": "From the Psalms"
 }

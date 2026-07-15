@@ -1,12 +1,216 @@
 {
   "slug": "still-i-remember",
   "title": "Still I Remember",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 22",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "still-i-remember.jpg",
+  "audio": "still-i-remember.mp3",
   "spotify": "https://open.spotify.com/track/1D0xc9hZQp4yYDZobbqzYL",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273efde7211fa8d72ae323535fa"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "My God, my God, why have you gone?"
+        ],
+        [
+          null,
+          "Why do you stay so far from me?"
+        ],
+        [
+          null,
+          "My cries echo through endless dawn"
+        ],
+        [
+          null,
+          "But silence is all I can see"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "By day I call, but you don't speak"
+        ],
+        [
+          null,
+          "By night my soul finds no relief"
+        ],
+        [
+          null,
+          "While others rest, I lie awake"
+        ],
+        [
+          null,
+          "Drowning in oceans of grief"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are you now when darkness falls?"
+        ],
+        [
+          null,
+          "When hope dissolves like morning dew"
+        ],
+        [
+          null,
+          "They mock me as I scale these walls"
+        ],
+        [
+          null,
+          "Still I remember - I belong to you"
+        ],
+        [
+          null,
+          "Still I remember - I belong to you"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "They circle like lions in wait"
+        ],
+        [
+          null,
+          "Their words pierce deeper than thorns"
+        ],
+        [
+          null,
+          "\"Let God save him,\" they mock my fate"
+        ],
+        [
+          null,
+          "As my spirit lies tattered and torn"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "My strength pours out like water spilled"
+        ],
+        [
+          null,
+          "My bones are broken, my heart exposed"
+        ],
+        [
+          null,
+          "Yet from the womb, your love has filled"
+        ],
+        [
+          null,
+          "Every breath that I've ever known"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are you now when darkness falls?"
+        ],
+        [
+          null,
+          "When hope dissolves like morning dew"
+        ],
+        [
+          null,
+          "They mock me as I scale these walls"
+        ],
+        [
+          null,
+          "Still I remember - I belong to you"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "But you haven't turned away"
+        ],
+        [
+          null,
+          "You hear the whisper of my pain"
+        ],
+        [
+          null,
+          "Through the darkness breaks the day"
+        ],
+        [
+          null,
+          "Your love remains, your love remains"
+        ],
+        [
+          null,
+          "Let future generations know"
+        ],
+        [
+          null,
+          "The story of your faithful hand"
+        ],
+        [
+          null,
+          "From dust to glory, high to low"
+        ],
+        [
+          null,
+          "Your mercy makes the broken stand"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are you now when darkness falls?"
+        ],
+        [
+          null,
+          "When hope dissolves like morning dew"
+        ],
+        [
+          null,
+          "They mock me as I scale these walls"
+        ],
+        [
+          null,
+          "Still I remember - I belong to you"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Still I remember - I belong to you"
+        ],
+        [
+          null,
+          "I belong to you"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "All the ends of the world shall remember and turn unto the LORD",
+  "epigraphRef": "Psalm 22:27",
+  "lyricEyebrow": "From the Psalms"
 }

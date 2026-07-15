@@ -1,12 +1,138 @@
 {
   "slug": "taste-and-see-psalm-34",
   "title": "Taste And See",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 34",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "taste-and-see-psalm-34.jpg",
+  "audio": "taste-and-see-psalm-34.mp3",
   "spotify": "https://open.spotify.com/track/4b7Ys1bmeJAxgZeZpOMgsV",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732ba983152bc64db64574e184"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Spoken softly) \"Come, all who seek shelter, and hear the song of the redeemed.\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I will bless the Lord at all times,"
+        ],
+        [
+          null,
+          "His praise shall be my breath, my rhyme."
+        ],
+        [
+          null,
+          "My soul shall boast, my heart rejoice,"
+        ],
+        [
+          null,
+          "Come magnify Him, lift your voice."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Taste and see that the Lord is good,"
+        ],
+        [
+          null,
+          "A refuge strong, where grace has stood."
+        ],
+        [
+          null,
+          "Fear not, for He delivers all,"
+        ],
+        [
+          null,
+          "The broken hearts, He will enthrall."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The righteous cry, and He will hear,"
+        ],
+        [
+          null,
+          "He draws us close, His love sincere."
+        ],
+        [
+          null,
+          "The angel camps, the heavens guard,"
+        ],
+        [
+          null,
+          "He saves the weary, mends the scarred."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Come, children, gather, learn His ways,"
+        ],
+        [
+          null,
+          "Walk in His light through all your days."
+        ],
+        [
+          null,
+          "Turn from evil, do what’s right,"
+        ],
+        [
+          null,
+          "His eyes watch over, day and night."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Taste and see that the Lord is good,"
+        ],
+        [
+          null,
+          "A refuge strong, where grace has stood."
+        ],
+        [
+          null,
+          "Fear not, for He delivers all,"
+        ],
+        [
+          null,
+          "The broken hearts, He will enthrall."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(Spoken softly) \"Blessed are those who find their refuge in Him.\""
+        ]
+      ]
+    }
+  ],
+  "epigraph": "O taste and see that the LORD is good",
+  "epigraphRef": "Psalm 34:8",
+  "lyricEyebrow": "From the Psalms"
 }

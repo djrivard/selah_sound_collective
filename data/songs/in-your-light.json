@@ -1,12 +1,159 @@
 {
   "slug": "in-your-light",
   "title": "In Your Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 36",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "in-your-light.jpg",
+  "audio": "in-your-light.mp3",
   "spotify": "https://open.spotify.com/track/739R0tvUuElNyjfveeZtp2",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733dd760b73a6460b7e49acb98"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "In the depths, a love unspoken,"
+        ],
+        [
+          null,
+          "Mountains quake where words are broken."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Your mercy reaches to the skies,"
+        ],
+        [
+          null,
+          "A boundless truth that never dies."
+        ],
+        [
+          null,
+          "Like rivers flowing, crystal clear,"
+        ],
+        [
+          null,
+          "Your justice calms each trembling fear."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, shadowed hearts, lift your gaze,"
+        ],
+        [
+          null,
+          "Feel the warmth of endless days."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In Your light, we see the dawn,"
+        ],
+        [
+          null,
+          "The darkest night, forever gone."
+        ],
+        [
+          null,
+          "Through love unbound, we rise and sing,"
+        ],
+        [
+          null,
+          "Eternal life in everything."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Beneath Your wings, the weary hide,"
+        ],
+        [
+          null,
+          "Through storms of doubt, You’re still the guide."
+        ],
+        [
+          null,
+          "Your feast of joy, a table spread,"
+        ],
+        [
+          null,
+          "Where living waters keep us fed."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, fountain of the purest grace,"
+        ],
+        [
+          null,
+          "Each soul renewed, no time, no space."
+        ],
+        [
+          null,
+          "A refuge strong, a love complete,"
+        ],
+        [
+          null,
+          "Where every broken heart will meet."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In Your light, we see the dawn,"
+        ],
+        [
+          null,
+          "The darkest night, forever gone."
+        ],
+        [
+          null,
+          "Through love unbound, we rise and sing,"
+        ],
+        [
+          null,
+          "Eternal life in everything."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "In the silence, whispers stay,"
+        ],
+        [
+          null,
+          "Guiding us to endless day."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "in thy light shall we see light",
+  "epigraphRef": "Psalm 36:9",
+  "lyricEyebrow": "From the Psalms"
 }

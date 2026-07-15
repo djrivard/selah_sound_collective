@@ -1,12 +1,169 @@
 {
   "slug": "let-the-king-of-glory-in",
   "title": "Let the King of Glory In",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 24",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "let-the-king-of-glory-in.jpg",
+  "audio": "let-the-king-of-glory-in.mp3",
   "spotify": "https://open.spotify.com/track/4SC9k17u8NMYDdoTQvv3Zz",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730d3b4d51b11681cf38d0a709"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From distant stars to ocean deep"
+        ],
+        [
+          null,
+          "Every treasure Earth may keep"
+        ],
+        [
+          null,
+          "Mountains high and valleys low"
+        ],
+        [
+          null,
+          "All belong to God, we know"
+        ],
+        [
+          null,
+          "Every heartbeat, every soul"
+        ],
+        [
+          null,
+          "Under heaven's great control"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Who can climb the holy hill?"
+        ],
+        [
+          null,
+          "Whose heart is pure, whose hands are clean?"
+        ],
+        [
+          null,
+          "Let the King of Glory in"
+        ],
+        [
+          null,
+          "Ancient gates, rise up and sing"
+        ],
+        [
+          null,
+          "(Let the King of Glory in)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Truth-seekers walking in the light"
+        ],
+        [
+          null,
+          "Hearts transparent in His sight"
+        ],
+        [
+          null,
+          "Blessed are those who seek His face"
+        ],
+        [
+          null,
+          "Standing firm in holy space"
+        ],
+        [
+          null,
+          "Justice flows from heaven's throne"
+        ],
+        [
+          null,
+          "Mercy makes His presence known"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Who can climb the holy hill?"
+        ],
+        [
+          null,
+          "Whose heart is pure, whose hands are clean?"
+        ],
+        [
+          null,
+          "Let the King of Glory in"
+        ],
+        [
+          null,
+          "Ancient gates, rise up and sing"
+        ],
+        [
+          null,
+          "(Let the King of Glory in)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Who is this King of Glory bright?"
+        ],
+        [
+          null,
+          "Lord of hosts and endless might"
+        ],
+        [
+          null,
+          "Standing at the gates of time"
+        ],
+        [
+          null,
+          "Calling all of humankind"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Who can climb the holy hill?"
+        ],
+        [
+          null,
+          "Whose heart is pure, whose hands are clean?"
+        ],
+        [
+          null,
+          "Let the King of Glory in"
+        ],
+        [
+          null,
+          "Ancient gates, rise up and sing"
+        ],
+        [
+          null,
+          "(All belongs to Him)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and the King of glory shall come in",
+  "epigraphRef": "Psalm 24:7",
+  "lyricEyebrow": "From the Psalms"
 }

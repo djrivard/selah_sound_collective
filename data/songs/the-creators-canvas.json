@@ -1,12 +1,162 @@
 {
   "slug": "the-creators-canvas",
   "title": "The Creator's Canvas",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 33",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-creators-canvas.jpg",
+  "audio": "the-creators-canvas.mp3",
   "spotify": "https://open.spotify.com/track/52IJStGhUZIuiLrAVheVjS",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273135e187510fd73235e8d6194"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "From the edges of the sky, let joy arise,"
+        ],
+        [
+          null,
+          "Sing to the One who paints the morning skies,"
+        ],
+        [
+          null,
+          "In melodies of stars, our voices unite,"
+        ],
+        [
+          null,
+          "Praise in the rhythm of eternal light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "He crafts the heavens with whispers and dreams,"
+        ],
+        [
+          null,
+          "Calls the oceans, molds the streams."
+        ],
+        [
+          null,
+          "Mountains bow, the forests sway,"
+        ],
+        [
+          null,
+          "All of creation knows His way."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "From east to west, the earth proclaims,"
+        ],
+        [
+          null,
+          "A boundless love that has no name."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift your voice, let it soar,"
+        ],
+        [
+          null,
+          "Sing the song of forevermore!"
+        ],
+        [
+          null,
+          "With every breath, a love displayed,"
+        ],
+        [
+          null,
+          "The dance of life, the music He made."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "His word, a flame, unyielding, pure,"
+        ],
+        [
+          null,
+          "A fortress strong, steadfast and sure."
+        ],
+        [
+          null,
+          "He shatters chains, He lifts the poor,"
+        ],
+        [
+          null,
+          "His mercy floods through every door."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Who can stand against His might?"
+        ],
+        [
+          null,
+          "The stars align to crown His light."
+        ],
+        [
+          null,
+          "Grace descends, a quiet rain,"
+        ],
+        [
+          null,
+          "Washing away all fear and pain."
+        ],
+        [
+          null,
+          "Lift your voice, let it soar,"
+        ],
+        [
+          null,
+          "Sing the song of forevermore!"
+        ],
+        [
+          null,
+          "With every breath, a love displayed,"
+        ],
+        [
+          null,
+          "The dance of life, the music He made."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From the edges of the sky, let joy arise,"
+        ],
+        [
+          null,
+          "Praise in the rhythm of eternal light."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "sing unto him with the psaltery and an instrument of ten strings",
+  "epigraphRef": "Psalm 33:2",
+  "lyricEyebrow": "From the Psalms"
 }

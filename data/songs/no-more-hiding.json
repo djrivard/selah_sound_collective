@@ -1,12 +1,150 @@
 {
   "slug": "no-more-hiding",
   "title": "No More Hiding",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 32",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "no-more-hiding.jpg",
+  "audio": "no-more-hiding.mp3",
   "spotify": "https://open.spotify.com/track/3T00WJyzGcMNbFxqmocNsh",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739ce6d3e32b849c47c35d6340"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In silence I carried my burden alone"
+        ],
+        [
+          null,
+          "The weight of my secrets turned my heart into stone"
+        ],
+        [
+          null,
+          "But when I finally opened my soul to the light"
+        ],
+        [
+          null,
+          "You washed away darkness and made everything right"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my shelter, my refuge in storms"
+        ],
+        [
+          null,
+          "When waves crash around me, Your love keeps me warm"
+        ],
+        [
+          null,
+          "In You I find freedom, my spirit renewed"
+        ],
+        [
+          null,
+          "No shame, no hiding, just grace flowing through"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Like rivers of mercy flowing down from above"
+        ],
+        [
+          null,
+          "You covered my failings with infinite love"
+        ],
+        [
+          null,
+          "No longer condemned by the things I had done"
+        ],
+        [
+          null,
+          "In Your arms of forgiveness, a new life has begun"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Teaching me wisdom"
+        ],
+        [
+          null,
+          "Guiding my way"
+        ],
+        [
+          null,
+          "Your hand upon me"
+        ],
+        [
+          null,
+          "Each step, every day"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Now I sing with joy from a heart that is free"
+        ],
+        [
+          null,
+          "Celebrating the love that has rescued me"
+        ],
+        [
+          null,
+          "Among all the faithful, I'll lift up my voice"
+        ],
+        [
+          null,
+          "In Your endless mercy, I'll forever rejoice"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my shelter, my refuge in storms"
+        ],
+        [
+          null,
+          "When waves crash around me, Your love keeps me warm"
+        ],
+        [
+          null,
+          "In You I find freedom, my spirit renewed"
+        ],
+        [
+          null,
+          "No shame, no hiding, just grace flowing through"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "In Your perfect love, I am home"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Thou art my hiding place",
+  "epigraphRef": "Psalm 32:7",
+  "lyricEyebrow": "From the Psalms"
 }

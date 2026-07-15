@@ -1,12 +1,141 @@
 {
   "slug": "who-may-dwell",
   "title": "Who May Dwell",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 15",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "who-may-dwell.jpg",
+  "audio": "who-may-dwell.mp3",
   "spotify": "https://open.spotify.com/track/3vDI9AozSqthHAFVld3hlE",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27383d240caca76d28c285bbf90"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Who may climb the sacred height?"
+        ],
+        [
+          null,
+          "Whose heart can dwell in perfect light?"
+        ],
+        [
+          null,
+          "One whose path stays true and clear"
+        ],
+        [
+          null,
+          "Walking forward without fear"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Truth flows gentle from their tongue"
+        ],
+        [
+          null,
+          "No whispered lies have ever sprung"
+        ],
+        [
+          null,
+          "Standing guard at wisdom's gate"
+        ],
+        [
+          null,
+          "Their neighbor's honor they create"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In righteousness we find our way"
+        ],
+        [
+          null,
+          "Through darkest night and brightest day"
+        ],
+        [
+          null,
+          "With clean hands and a humble heart"
+        ],
+        [
+          null,
+          "We'll never from Your presence part"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "When they speak, their word remains"
+        ],
+        [
+          null,
+          "Through sunshine bright or stormy rains"
+        ],
+        [
+          null,
+          "No silver earned through others' pain"
+        ],
+        [
+          null,
+          "No profit from ill-gotten gain"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The faithful rise on wings of grace"
+        ],
+        [
+          null,
+          "Their foundation shall not be erased"
+        ],
+        [
+          null,
+          "In justice sweet and mercy deep"
+        ],
+        [
+          null,
+          "Their souls the sacred heights will keep"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "In righteousness we find our way"
+        ],
+        [
+          null,
+          "Through darkest night and brightest day"
+        ],
+        [
+          null,
+          "With clean hands and a humble heart"
+        ],
+        [
+          null,
+          "Forever in Your courts we'll stay"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+  "epigraphRef": "Psalm 15:1",
+  "lyricEyebrow": "From the Psalms"
 }
