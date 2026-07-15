@@ -3,6 +3,7 @@
   "tagline": "Scripture, set to modern music.",
   "description": "Original modern songs drawn from the stories and psalms of Scripture, by Selah Sound Collective.",
   "baseUrl": "https://selahsoundcollective.com",
+  "audioBaseUrl": "https://audio.selahsoundcollective.com",
   "ogImage": "assets/hero.jpg",
   "contactFormEndpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID",
   "contactEmail": "hello@selahsoundcollective.com",

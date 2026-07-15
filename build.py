@@ -171,8 +171,13 @@ def render_song(site, song, root="../"):
 
     sources = ""
     if song.get("audio"):
-        audio_rel = "audio/" + song["audio"]
-        sources += f'<source src="{vurl(root, audio_rel)}" type="audio/mpeg">'
+        # audioBaseUrl (e.g. an R2 bucket) keeps the big mp3s out of the repo.
+        # Leave it blank in site.json to serve them from docs/audio instead.
+        base = (site.get("audioBaseUrl") or "").rstrip("/")
+        if base:
+            sources += f'<source src="{esc(base)}/{esc(song["audio"])}" type="audio/mpeg">'
+        else:
+            sources += f'<source src="{vurl(root, "audio/" + song["audio"])}" type="audio/mpeg">'
     if song.get("audioFallback"):
         sources += f'<source src="{esc(song["audioFallback"])}" type="audio/mpeg">'
 
@@ -521,25 +526,28 @@ def main():
     # Rebuild docs/ — but never destroy audio we cannot regenerate. The mp3s are
     # large, so a clone of this repo may carry them only in docs/audio (src/audio
     # is optional). Wiping docs/ blindly would delete the only copy.
+    remote_audio = bool((site.get("audioBaseUrl") or "").strip())
     src_audio = SRC / "audio"
     have_src_audio = src_audio.is_dir() and any(src_audio.glob("*.mp3"))
     if OUT.exists():
         for child in OUT.iterdir():
-            if child.name == "audio" and not have_src_audio:
+            if child.name == "audio" and not have_src_audio and not remote_audio:
                 continue                       # keep the only copy of the music
             shutil.rmtree(child) if child.is_dir() else child.unlink()
     (OUT / "songs").mkdir(parents=True, exist_ok=True)
     shutil.copytree(SRC / "assets", OUT / "assets")
     shutil.copytree(SRC / "covers", OUT / "covers")
-    if have_src_audio:
+    if have_src_audio and not remote_audio:
         shutil.copytree(src_audio, OUT / "audio", dirs_exist_ok=True)
 
     # Cloudflare Pages: long-cache immutable media, short-cache pages
-    (OUT / "_headers").write_text(
-        "/*\n  X-Content-Type-Options: nosniff\n  Cache-Control: public, max-age=0, must-revalidate\n"
-        "/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n"
-        "/covers/*\n  Cache-Control: public, max-age=31536000, immutable\n"
-        "/audio/*\n  Cache-Control: public, max-age=31536000, immutable\n")
+    # Cloudflare Pages: long-cache fingerprinted assets, always revalidate pages
+    headers = ("/*\n  X-Content-Type-Options: nosniff\n  Cache-Control: public, max-age=0, must-revalidate\n"
+               "/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n"
+               "/covers/*\n  Cache-Control: public, max-age=31536000, immutable\n")
+    if not remote_audio:
+        headers += "/audio/*\n  Cache-Control: public, max-age=31536000, immutable\n"
+    (OUT / "_headers").write_text(headers)
 
     (OUT / "index.html").write_text(render_library(site, songs, root=""))
     (OUT / "listen.html").write_text(render_listen(site, root=""))
