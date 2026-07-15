@@ -1,12 +1,189 @@
 {
   "slug": "your-love-my-crown",
   "title": "Your Love, My Crown",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 4",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "your-love-my-crown.jpg",
+  "audio": "your-love-my-crown.mp3",
   "spotify": "https://open.spotify.com/track/4r0zZSPbgLAT0BU3bwICw0",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A G D Em F#)"
+        ],
+        [
+          null,
+          "**Generate with warm tones"
+        ],
+        [
+          null,
+          "and minimal high-frequency emphasis.**"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Your eyes, like doves, shining bright,"
+        ],
+        [
+          null,
+          "Behind your veil, they steal the night."
+        ],
+        [
+          null,
+          "Your hair, a flowing river wide,"
+        ],
+        [
+          null,
+          "Cascading down in endless tide."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Your lips drip honey, sweet and fine,"
+        ],
+        [
+          null,
+          "Your voice, a song of love divine."
+        ],
+        [
+          null,
+          "Your neck, a tower standing tall,"
+        ],
+        [
+          null,
+          "Strong in grace, yet soft in call."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "You are my garden, hidden and pure,"
+        ],
+        [
+          null,
+          "A fountain sealed, a heart secure."
+        ],
+        [
+          null,
+          "With every breath, my soul is found,"
+        ],
+        [
+          null,
+          "In love that knows no earthly bound."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "**You ravish my soul, you take my breath,**"
+        ],
+        [
+          null,
+          "**Like dawn’s first light, you conquer death.**"
+        ],
+        [
+          null,
+          "**Stronger than tides, deeper than seas,**"
+        ],
+        [
+          null,
+          "**Love unchained, forever free!**"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Your fragrance drifts, the winds take flight,"
+        ],
+        [
+          null,
+          "My heart is yours, both day and night."
+        ],
+        [
+          null,
+          "Come, my love, let rivers flow,"
+        ],
+        [
+          null,
+          "Awake the dawn, let passion grow!"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Set me as a seal upon your heart,"
+        ],
+        [
+          null,
+          "No flame can quench what God imparts."
+        ],
+        [
+          null,
+          "Love is the fire, fierce and true,"
+        ],
+        [
+          null,
+          "Nothing can take my love from you!"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "**You ravish my soul, you take my breath,**"
+        ],
+        [
+          null,
+          "**Like dawn’s first light, you conquer death.**"
+        ],
+        [
+          null,
+          "**Stronger than tides, deeper than seas,**"
+        ],
+        [
+          null,
+          "**Love unchained, forever free!**"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Your love, my crown, forever mine…"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "thou hast doves’ eyes within thy locks",
+  "epigraphRef": "Song of Songs 4:1",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }

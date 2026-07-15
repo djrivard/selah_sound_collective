@@ -1,0 +1,234 @@
+{
+  "slug": "cool-of-the-day",
+  "title": "Cool Of The Day",
+  "status": "published",
+  "scripture": "Genesis 3",
+  "book": "Genesis",
+  "cover": "cool-of-the-day.jpg",
+  "audio": "cool-of-the-day.mp3",
+  "spotify": "",
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The serpent came in cool and low,"
+        ],
+        [
+          null,
+          "\"Yea, hath God said?\" he breathed to me."
+        ],
+        [
+          null,
+          "He took the only word I'd know"
+        ],
+        [
+          null,
+          "and bent it like a lowered tree."
+        ],
+        [
+          null,
+          "\"You shall not surely die,\" he smiled,"
+        ],
+        [
+          null,
+          "\"your eyes will open, you'll be wise.\""
+        ],
+        [
+          null,
+          "(hath God said)"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "And something in me leaned to look,"
+        ],
+        [
+          null,
+          "a hunger older than my name."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "It was good for food, and pleasant to the eyes,"
+        ],
+        [
+          null,
+          "a tree to make a woman wise."
+        ],
+        [
+          null,
+          "So I took, and I ate, and the silence opened wide,"
+        ],
+        [
+          null,
+          "and I gave it to the man beside."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The skin I never knew was bare,"
+        ],
+        [
+          null,
+          "the light came in and showed us plain."
+        ],
+        [
+          null,
+          "We sewed the fig leaves, hand in hand,"
+        ],
+        [
+          null,
+          "and learned a shame we could not name."
+        ],
+        [
+          null,
+          "We heard Him walking through the land,"
+        ],
+        [
+          null,
+          "the cool of evening, and our blame."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "And something in me longed to run,"
+        ],
+        [
+          null,
+          "to be unseen, to be unsame."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "It was good for food, and pleasant to the eyes,"
+        ],
+        [
+          null,
+          "a tree to make a woman wise."
+        ],
+        [
+          null,
+          "So I took, and I ate, and the silence opened wide,"
+        ],
+        [
+          null,
+          "and I gave it to the man beside."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "\"Where art thou?\" called the evening air."
+        ],
+        [
+          null,
+          "(where art thou)"
+        ],
+        [
+          null,
+          "I said, I heard You, and I hid."
+        ],
+        [
+          null,
+          "I was afraid, I was laid bare,"
+        ],
+        [
+          null,
+          "afraid of everything I did."
+        ],
+        [
+          null,
+          "\"The woman that You gave to me,\""
+        ],
+        [
+          null,
+          "\"The serpent, he beguiled me,\""
+        ],
+        [
+          null,
+          "and no one stayed to own the same,"
+        ],
+        [
+          null,
+          "we passed it down the line like flame."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "It was good for food, and pleasant to the eyes,"
+        ],
+        [
+          null,
+          "a tree to make a woman wise."
+        ],
+        [
+          null,
+          "But I took, and I ate, and the garden closed its door,"
+        ],
+        [
+          null,
+          "and it is not pleasant anymore."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Upon your belly you will go,"
+        ],
+        [
+          null,
+          "and dust is all you'll ever know."
+        ],
+        [
+          null,
+          "Cool of the day, cool of the day,"
+        ],
+        [
+          null,
+          "the voice still asks me where I lay."
+        ]
+      ]
+    }
+  ],
+  "lyricEyebrow": "From the Book of Genesis",
+  "epigraph": "And when the woman saw that the tree was good for food",
+  "epigraphRef": "Genesis 3:6",
+  "styleNote": "",
+  "whisper": "",
+  "listenLine": "",
+  "lyricHeading": "",
+  "shareText": "",
+  "audioFallback": ""
+}

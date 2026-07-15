@@ -1,12 +1,217 @@
 {
   "slug": "search-through-the-night",
   "title": "Search Through The Night",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 3",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "search-through-the-night.jpg",
+  "audio": "search-through-the-night.mp3",
   "spotify": "https://open.spotify.com/track/4WdyTF1zGQVFrziT6NWwl2",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Wandering these city streets alone"
+        ],
+        [
+          null,
+          "Every shadow holds a memory of you"
+        ],
+        [
+          null,
+          "Past the guards, through the neon glow"
+        ],
+        [
+          null,
+          "Searching every corner, breaking through"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "My heart won't rest until I find"
+        ],
+        [
+          null,
+          "The one who sets my soul alive"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I found the one my heart's been seeking"
+        ],
+        [
+          null,
+          "Won't let you go, now that you're here"
+        ],
+        [
+          null,
+          "Through darkest nights, I kept believing"
+        ],
+        [
+          null,
+          "Love led me home, crystal clear"
+        ],
+        [
+          null,
+          "(My love, my dove, you're finally here)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Through the marketplace at midnight"
+        ],
+        [
+          null,
+          "Down the alleys, calling out your name"
+        ],
+        [
+          null,
+          "City lights are burning bright"
+        ],
+        [
+          null,
+          "But nothing burns like love's sweet flame"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "My heart won't rest until I find"
+        ],
+        [
+          null,
+          "The one who sets my soul alive"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I found the one my heart's been seeking"
+        ],
+        [
+          null,
+          "Won't let you go, now that you're here"
+        ],
+        [
+          null,
+          "Through darkest nights, I kept believing"
+        ],
+        [
+          null,
+          "Love led me home, crystal clear"
+        ],
+        [
+          null,
+          "(My love, my dove, you're finally here)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Like a queen upon her throne of gold"
+        ],
+        [
+          null,
+          "Carried high on pillars of desire"
+        ],
+        [
+          null,
+          "Our love story will be told"
+        ],
+        [
+          null,
+          "Through streets of peace and fields of fire"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Like smoke rising in the morning light"
+        ],
+        [
+          null,
+          "Like myrrh and incense in the night"
+        ],
+        [
+          null,
+          "Our love is pure, our love divine"
+        ],
+        [
+          null,
+          "Two hearts forever intertwined"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I found the one my heart's been seeking"
+        ],
+        [
+          null,
+          "Won't let you go, now that you're here"
+        ],
+        [
+          null,
+          "Through darkest nights, I kept believing"
+        ],
+        [
+          null,
+          "Love led me home, crystal clear"
+        ],
+        [
+          null,
+          "(My love, my dove, you're finally here)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Now that I've found you"
+        ],
+        [
+          null,
+          "I'll never let you go"
+        ],
+        [
+          null,
+          "(Never let you go)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "By night on my bed I sought him whom my soul loveth",
+  "epigraphRef": "Song of Songs 3:1",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }

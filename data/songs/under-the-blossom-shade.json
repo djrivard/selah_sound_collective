@@ -1,12 +1,170 @@
 {
   "slug": "under-the-blossom-shade",
   "title": "Under The Blossom Shade",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 2",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "under-the-blossom-shade.jpg",
+  "audio": "under-the-blossom-shade.mp3",
   "spotify": "https://open.spotify.com/track/4h7SfhEWz5Jo6dFYI9pLFv",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Underneath the shade of apple trees,"
+        ],
+        [
+          null,
+          "You find me waiting, soft breeze, sweet sighs."
+        ],
+        [
+          null,
+          "My beloved, like a lily among the thorns,"
+        ],
+        [
+          null,
+          "You stand apart, in beauty, in pride."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Rise, my love, come away with me,"
+        ],
+        [
+          null,
+          "For the winter is past, flowers bloom free."
+        ],
+        [
+          null,
+          "The rain has stopped, the time is right,"
+        ],
+        [
+          null,
+          "For love to dance in the golden light."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Come, my love, my dove, my perfect one,"
+        ],
+        [
+          null,
+          "The season of singing has begun."
+        ],
+        [
+          null,
+          "Let’s run to the hills, where the shadows fade,"
+        ],
+        [
+          null,
+          "Under the blossom shade, our love is made."
+        ],
+        [
+          null,
+          "Under the blossom shade, our love is made."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "I hear your voice through the lattice fair,"
+        ],
+        [
+          null,
+          "Calling me softly, tender and bare."
+        ],
+        [
+          null,
+          "You are my deer on the mountainside,"
+        ],
+        [
+          null,
+          "Through valleys deep, with you I reside."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Hold me close till the break of dawn,"
+        ],
+        [
+          null,
+          "Let not love be awakened until it’s strong."
+        ],
+        [
+          null,
+          "For we are bound by a silver thread,"
+        ],
+        [
+          null,
+          "Under the stars, where our vows are said."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Come, my love, my dove, my perfect one,"
+        ],
+        [
+          null,
+          "The season of singing has begun."
+        ],
+        [
+          null,
+          "Let’s run to the hills, where the shadows fade,"
+        ],
+        [
+          null,
+          "Under the blossom shade, our love is made."
+        ],
+        [
+          null,
+          "Under the blossom shade, our love is made."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Under the blossom, our hearts find rest,"
+        ],
+        [
+          null,
+          "In your arms, I know I’m blessed."
+        ],
+        [
+          null,
+          "Come, my love, and stay with me,"
+        ],
+        [
+          null,
+          "Till eternity."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "so is my beloved among the sons. I sat down under his shadow with great",
+  "epigraphRef": "Song of Songs 2:3",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }

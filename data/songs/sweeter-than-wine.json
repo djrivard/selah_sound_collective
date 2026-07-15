@@ -1,12 +1,193 @@
 {
   "slug": "sweeter-than-wine",
   "title": "Sweeter Than Wine",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 7",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "sweeter-than-wine.jpg",
+  "audio": "sweeter-than-wine.mp3",
   "spotify": "https://open.spotify.com/track/6M1FjudAoygvtP3wzo9r91",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Oh, how you adore me, your eyes never stray,"
+        ],
+        [
+          null,
+          "Like a prince before his queen, you call my name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Your feet in sandals, oh, how they dance,"
+        ],
+        [
+          null,
+          "Graceful as lilies in love’s wild expanse."
+        ],
+        [
+          null,
+          "Your navel a goblet, filled with delight,"
+        ],
+        [
+          null,
+          "Your waist a garden in the soft silver light."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Come away, my love, let us run through the vines,"
+        ],
+        [
+          null,
+          "Where passion awakens and hearts intertwine."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love is sweeter than the finest wine,"
+        ],
+        [
+          null,
+          "A melody that lingers through endless time."
+        ],
+        [
+          null,
+          "Hold me closer, let our souls ignite,"
+        ],
+        [
+          null,
+          "Forever bound in love’s pure light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Your hands are like gold, your form strong and tall,"
+        ],
+        [
+          null,
+          "Like cedars of Lebanon, steadfast through all."
+        ],
+        [
+          null,
+          "Your lips drip with honey, your breath scented sweet,"
+        ],
+        [
+          null,
+          "Oh, my beloved, how my heart skips its beat."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Come away, my love, let us chase the dawn,"
+        ],
+        [
+          null,
+          "Through vineyards where love’s fragrance lingers on."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love is sweeter than the finest wine,"
+        ],
+        [
+          null,
+          "A melody that lingers through endless time."
+        ],
+        [
+          null,
+          "Hold me closer, let our souls ignite,"
+        ],
+        [
+          null,
+          "Forever bound in love’s pure light."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "I am my beloved’s, and he calls me near,"
+        ],
+        [
+          null,
+          "With love like the waters, steady and clear."
+        ],
+        [
+          null,
+          "I am yours forever, sealed upon your heart,"
+        ],
+        [
+          null,
+          "No force nor time shall pull us apart."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love is sweeter than the finest wine,"
+        ],
+        [
+          null,
+          "A melody that lingers through endless time."
+        ],
+        [
+          null,
+          "Hold me closer, let our souls ignite,"
+        ],
+        [
+          null,
+          "Forever bound in love’s pure light."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Come away, my love…"
+        ],
+        [
+          null,
+          "Forever yours, forever mine."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Thy navel is like a round goblet",
+  "epigraphRef": "Song of Songs 7:2",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }

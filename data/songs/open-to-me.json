@@ -1,12 +1,201 @@
 {
   "slug": "open-to-me",
   "title": "Open To Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 5",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "open-to-me.jpg",
+  "audio": "open-to-me.mp3",
   "spotify": "https://open.spotify.com/track/34ZfN4QOnRAScULVvFyQgQ",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Ah, ah, ah...)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I heard your voice upon my door,"
+        ],
+        [
+          null,
+          "drenched in midnight’s silver glow."
+        ],
+        [
+          null,
+          "“My love, my dove, open for me,”"
+        ],
+        [
+          null,
+          "your whispers traced my very soul."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "The night was cold, yet love ran wild,"
+        ],
+        [
+          null,
+          "your fragrance lingered on the air."
+        ],
+        [
+          null,
+          "But when I rose, you slipped away—"
+        ],
+        [
+          null,
+          "like a shadow lost in prayer."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, where have you gone, my heart’s desire?"
+        ],
+        [
+          null,
+          "I run through the streets with a soul on fire."
+        ],
+        [
+          null,
+          "The watchmen gaze, the stars look down,"
+        ],
+        [
+          null,
+          "but only love can lead me now."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "My hands still drip with myrrh divine,"
+        ],
+        [
+          null,
+          "from the lock where you once stood near."
+        ],
+        [
+          null,
+          "Every touch still burns in time,"
+        ],
+        [
+          null,
+          "like whispers only heaven hears."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "I searched for you in empty halls,"
+        ],
+        [
+          null,
+          "I called your name to restless winds."
+        ],
+        [
+          null,
+          "The dawn arose, but love remained,"
+        ],
+        [
+          null,
+          "a longing that will never end."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, where have you gone, my heart’s desire?"
+        ],
+        [
+          null,
+          "I run through the streets with a soul on fire."
+        ],
+        [
+          null,
+          "The watchmen gaze, the stars look down,"
+        ],
+        [
+          null,
+          "but only love can lead me now."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "If you find him, tell my King,"
+        ],
+        [
+          null,
+          "this heart is his, this love still sings."
+        ],
+        [
+          null,
+          "No earthly joy, no silver gleams,"
+        ],
+        [
+          null,
+          "can quench the fire in my dreams."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, where have you gone, my heart’s desire?"
+        ],
+        [
+          null,
+          "I run through the streets with a soul on fire."
+        ],
+        [
+          null,
+          "The watchmen gaze, the stars look down,"
+        ],
+        [
+          null,
+          "but only love can lead me now."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(Ah, ah, ah…)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "it is the voice of my beloved that knocketh",
+  "epigraphRef": "Song of Songs 5:2",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }

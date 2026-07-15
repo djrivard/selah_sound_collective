@@ -1,12 +1,164 @@
 {
   "slug": "kiss-me-with-your-love",
   "title": "Kiss Me With Your Love",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 1",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "kiss-me-with-your-love.jpg",
+  "audio": "kiss-me-with-your-love.mp3",
   "spotify": "https://open.spotify.com/track/3pE6DWuFWvvspVggyvYGyy",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Oh, your name is like perfume in the air,"
+        ],
+        [
+          null,
+          "Every whisper, every stare,"
+        ],
+        [
+          null,
+          "Draw me close, take me there,"
+        ],
+        [
+          null,
+          "To the place where love is rare."
+        ],
+        [
+          null,
+          "Golden sun upon your skin,"
+        ],
+        [
+          null,
+          "Your embrace where I begin,"
+        ],
+        [
+          null,
+          "Let us run where dreams are spun,"
+        ],
+        [
+          null,
+          "Chasing love till time is done."
+        ],
+        [
+          null,
+          "Tell me where your heart will stay,"
+        ],
+        [
+          null,
+          "Lead me where your love won't fade,"
+        ],
+        [
+          null,
+          "Through the night, through the day,"
+        ],
+        [
+          null,
+          "I will follow, come what may."
+        ],
+        [
+          null,
+          "**Kiss me with your love so deep,"
+        ],
+        [
+          null,
+          "Like the rivers, let it sweep,"
+        ],
+        [
+          null,
+          "Hold me close, don’t let me go,"
+        ],
+        [
+          null,
+          "Let your passion overflow.**"
+        ],
+        [
+          null,
+          "(Kiss me, kiss me—let your fire grow)"
+        ],
+        [
+          null,
+          "I am dark but shining bright,"
+        ],
+        [
+          null,
+          "Like the stars in endless night,"
+        ],
+        [
+          null,
+          "Call my name, I am yours,"
+        ],
+        [
+          null,
+          "Knock, I'll open every door."
+        ],
+        [
+          null,
+          "Oh, my heart, it sings for you,"
+        ],
+        [
+          null,
+          "Every word, a love so true,"
+        ],
+        [
+          null,
+          "Like a garden full of bloom,"
+        ],
+        [
+          null,
+          "Let your fragrance fill the room."
+        ],
+        [
+          null,
+          "**Kiss me with your love so deep,"
+        ],
+        [
+          null,
+          "Like the rivers, let it sweep,"
+        ],
+        [
+          null,
+          "Hold me close, don’t let me go,"
+        ],
+        [
+          null,
+          "Let your passion overflow.**"
+        ],
+        [
+          null,
+          "(Kiss me, kiss me—let your fire grow)"
+        ],
+        [
+          null,
+          "Kiss me, kiss me—set my soul on fire,"
+        ],
+        [
+          null,
+          "Love so strong, lifting me higher."
+        ],
+        [
+          null,
+          "Oh, your name is like perfume in the air,"
+        ],
+        [
+          null,
+          "Every whisper, every stare..."
+        ],
+        [
+          null,
+          "Let it last, let it stay,"
+        ],
+        [
+          null,
+          "Let our love never fade away."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Let him kiss me with the kisses of his mouth",
+  "epigraphRef": "Song of Songs 1:2",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }

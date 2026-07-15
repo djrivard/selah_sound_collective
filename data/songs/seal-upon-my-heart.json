@@ -1,12 +1,182 @@
 {
   "slug": "seal-upon-my-heart",
   "title": "Seal Upon My Heart",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Song of Songs 8",
   "book": "Song of Songs",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "seal-upon-my-heart.jpg",
+  "audio": "seal-upon-my-heart.mp3",
   "spotify": "https://open.spotify.com/track/50mHxKXCPQIQ0IMw0sWyaP",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b69dc0f277df0d1fd7b1762"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Softly)"
+        ],
+        [
+          null,
+          "Whisper my name in the hush of the dawn,"
+        ],
+        [
+          null,
+          "Like a river that knows where the ocean is drawn."
+        ],
+        [
+          null,
+          "I have searched through the ages, through shadow and light,"
+        ],
+        [
+          null,
+          "Yet still, I find you—my soul's sacred flight."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Lay me as a seal upon your heart,"
+        ],
+        [
+          null,
+          "A vow unbroken, a love set apart."
+        ],
+        [
+          null,
+          "Like fire on stone, it cannot erase,"
+        ],
+        [
+          null,
+          "Stronger than death, its embers embrace."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Many waters cannot quench its flame,"
+        ],
+        [
+          null,
+          "Raging storms cannot call it by name."
+        ],
+        [
+          null,
+          "Love is a force beyond stars above,"
+        ],
+        [
+          null,
+          "A promise unshaken, a destiny wove."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(Full orchestra swells)"
+        ],
+        [
+          null,
+          "For love is the flame that time cannot sever,"
+        ],
+        [
+          null,
+          "The bond of the heavens, a thread bound forever."
+        ],
+        [
+          null,
+          "Through all of the ages, through night and through day,"
+        ],
+        [
+          null,
+          "My heart will be yours till the stars fade away."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Who is this rising from the wilderness fair?"
+        ],
+        [
+          null,
+          "Leaning on love, as dawn paints the air."
+        ],
+        [
+          null,
+          "Under the apple tree, there you were mine,"
+        ],
+        [
+          null,
+          "Rooted in promise, by fate's own design."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "No wealth of the earth, no kingdom or throne,"
+        ],
+        [
+          null,
+          "Could purchase this love—it is priceless alone."
+        ],
+        [
+          null,
+          "For love, like the dawn, will never grow cold,"
+        ],
+        [
+          null,
+          "A fire eternal, a story retold."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "For love is the flame that time cannot sever,"
+        ],
+        [
+          null,
+          "The bond of the heavens, a thread bound forever."
+        ],
+        [
+          null,
+          "Through all of the ages, through night and through day,"
+        ],
+        [
+          null,
+          "My heart will be yours till the stars fade away."
+        ],
+        [
+          null,
+          "Till the stars fade away..."
+        ],
+        [
+          null,
+          "Till the stars fade away..."
+        ],
+        [
+          null,
+          "I am yours, evermore."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Set me as a seal upon thine heart",
+  "epigraphRef": "Song of Songs 8:6",
+  "lyricEyebrow": "From the Book of Song of Songs"
 }
