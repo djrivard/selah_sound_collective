@@ -1,12 +1,201 @@
 {
   "slug": "threads-of-hope",
   "title": "Threads of Hope",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 102",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "threads-of-hope.jpg",
+  "audio": "threads-of-hope.mp3",
   "spotify": "https://open.spotify.com/track/4cw7iiVOpDqQ8k3zCVj5rk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27346977bf3da0bb04701438571"
+  "sections": [
+    {
+      "label": "Spoken",
+      "lines": [
+        [
+          null,
+          "\"Hear my prayer, O Lord... let my cry come to You.\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "My days fade like the evening shadow,"
+        ],
+        [
+          null,
+          "I am poured out like the dew."
+        ],
+        [
+          null,
+          "The world turns, yet I am still,"
+        ],
+        [
+          null,
+          "Seeking the strength to make it through."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "But You, O Lord, are my foundation,"
+        ],
+        [
+          null,
+          "From generation to generation,"
+        ],
+        [
+          null,
+          "Your name will rise when all is gone,"
+        ],
+        [
+          null,
+          "A beacon when the night is long."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Hear my cry when the shadows fall,"
+        ],
+        [
+          null,
+          "Lift my soul when I’ve lost it all."
+        ],
+        [
+          null,
+          "A flame burns faint but won’t expire,"
+        ],
+        [
+          null,
+          "From ash, You build the world with fire."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The stones of my heart crumble to dust,"
+        ],
+        [
+          null,
+          "My voice grows thin, yet I still trust."
+        ],
+        [
+          null,
+          "Though the winds tear through my frame,"
+        ],
+        [
+          null,
+          "I cling to the power of Your name."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "But You, O Lord, are my salvation,"
+        ],
+        [
+          null,
+          "Through the ruins, You bring creation."
+        ],
+        [
+          null,
+          "Your promise whispers through the storm,"
+        ],
+        [
+          null,
+          "A shelter deep, a place that’s warm."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Hear my cry when the shadows fall,"
+        ],
+        [
+          null,
+          "Lift my soul when I’ve lost it all."
+        ],
+        [
+          null,
+          "A flame burns faint but won’t expire,"
+        ],
+        [
+          null,
+          "From ash, You build the world with fire."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The nations will rise, their hearts will mend,"
+        ],
+        [
+          null,
+          "Your truth will guide them to the end."
+        ],
+        [
+          null,
+          "From Zion’s mount, Your light will shine,"
+        ],
+        [
+          null,
+          "A promise eternal, forever divine."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Hear my cry when the shadows fall,"
+        ],
+        [
+          null,
+          "Lift my soul when I’ve lost it all."
+        ],
+        [
+          null,
+          "A flame burns faint but won’t expire,"
+        ],
+        [
+          null,
+          "From ash, You build the world with fire."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "\"In the shelter of Your wings, I find my rest… my hope.\""
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and let my cry come unto thee",
+  "epigraphRef": "Psalm 102:1",
+  "lyricEyebrow": "From the Psalms"
 }

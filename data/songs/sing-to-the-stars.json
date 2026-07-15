@@ -1,12 +1,193 @@
 {
   "slug": "sing-to-the-stars",
   "title": "Sing To The Stars",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 96",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "sing-to-the-stars.jpg",
+  "audio": "sing-to-the-stars.mp3",
   "spotify": "https://open.spotify.com/track/4vMCjVRWtt4NkzVXAopFvG",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27378e7cb6cf84e4f2c8789251b"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Sing to the stars, a new song tonight,"
+        ],
+        [
+          null,
+          "Let the heavens dance, let the universe ignite."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From the mountains high to the oceans wide,"
+        ],
+        [
+          null,
+          "All the earth rejoice, let your hearts collide."
+        ],
+        [
+          null,
+          "Declare His greatness, let His glory shine,"
+        ],
+        [
+          null,
+          "The splendor of His works, forever divine."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "The skies proclaim it, the seas roar loud,"
+        ],
+        [
+          null,
+          "The forests whisper, the trees bow proud."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the stars, let your voice ascend,"
+        ],
+        [
+          null,
+          "Shout to the heavens, His praise won’t end."
+        ],
+        [
+          null,
+          "Joy unending, a radiant sound,"
+        ],
+        [
+          null,
+          "Glory and power all creation resounds!"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Every nation rise, bring your offering,"
+        ],
+        [
+          null,
+          "Honor and strength to the eternal King."
+        ],
+        [
+          null,
+          "In His presence bow, trembling in awe,"
+        ],
+        [
+          null,
+          "The justice of His hand, His perfect law."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "The skies proclaim it, the seas roar loud,"
+        ],
+        [
+          null,
+          "The forests whisper, the trees bow proud."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the stars, let your voice ascend,"
+        ],
+        [
+          null,
+          "Shout to the heavens, His praise won’t end."
+        ],
+        [
+          null,
+          "Joy unending, a radiant sound,"
+        ],
+        [
+          null,
+          "Glory and power all creation resounds!"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let the earth rejoice, let the skies align,"
+        ],
+        [
+          null,
+          "Before His throne, the King divine."
+        ],
+        [
+          null,
+          "He reigns with love, in truth and might,"
+        ],
+        [
+          null,
+          "His justice glows like the morning light."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the stars, let your voice ascend,"
+        ],
+        [
+          null,
+          "Shout to the heavens, His praise won’t end."
+        ],
+        [
+          null,
+          "Joy unending, a radiant sound,"
+        ],
+        [
+          null,
+          "Glory and power all creation resounds!"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Let the heavens dance, let the universe ignite,"
+        ],
+        [
+          null,
+          "Sing to the stars, a new song tonight."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "O sing unto the LORD a new song",
+  "epigraphRef": "Psalm 96:1",
+  "lyricEyebrow": "From the Psalms"
 }

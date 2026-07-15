@@ -1,12 +1,175 @@
 {
   "slug": "out-of-the-depths",
   "title": "Out Of The Depths",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 129",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "out-of-the-depths.jpg",
+  "audio": "out-of-the-depths.mp3",
   "spotify": "https://open.spotify.com/track/7Bif6bTJnEB51WN26wHymv",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273615a8f6e8188934c76e1f0a6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Out of the depths, my soul has climbed,"
+        ],
+        [
+          null,
+          "Through shadows carved by pain and time."
+        ],
+        [
+          null,
+          "The scars of old, they still remain,"
+        ],
+        [
+          null,
+          "Yet through it all, I call His name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Long they have pressed upon my frame,"
+        ],
+        [
+          null,
+          "But never crushed, I stand the same."
+        ],
+        [
+          null,
+          "The furrows deep upon my land,"
+        ],
+        [
+          null,
+          "But here I rise, in grace I stand."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "The night was long, the stars grew faint,"
+        ],
+        [
+          null,
+          "But whispers called, “Do not forsake.”"
+        ],
+        [
+          null,
+          "Through every storm, through fire untamed,"
+        ],
+        [
+          null,
+          "A light endures, a love proclaimed."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Though the plow may scar the field,"
+        ],
+        [
+          null,
+          "The earth will bloom, the wounds will heal."
+        ],
+        [
+          null,
+          "A cry of life from broken ground,"
+        ],
+        [
+          null,
+          "In every trial, His grace resounds."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They tried to bind with ropes of hate,"
+        ],
+        [
+          null,
+          "But mercy’s blade can cut the weight."
+        ],
+        [
+          null,
+          "Though towers fall and oceans roar,"
+        ],
+        [
+          null,
+          "Faith stands taller, ever more."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Frost gives way to golden light,"
+        ],
+        [
+          null,
+          "In the dawn, the soul takes flight."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Though the plow may scar the field,"
+        ],
+        [
+          null,
+          "The earth will bloom, the wounds will heal."
+        ],
+        [
+          null,
+          "A cry of life from broken ground,"
+        ],
+        [
+          null,
+          "In every trial, His grace resounds."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Out of the depths, the song remains,"
+        ],
+        [
+          null,
+          "Through every loss, eternal gain."
+        ],
+        [
+          null,
+          "The stars return, the sky made whole,"
+        ],
+        [
+          null,
+          "A melody etched within the soul."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "they made long their furrows",
+  "epigraphRef": "Psalm 129:3",
+  "lyricEyebrow": "From the Psalms"
 }

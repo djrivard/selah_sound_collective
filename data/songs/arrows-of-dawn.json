@@ -1,12 +1,196 @@
 {
   "slug": "arrows-of-dawn",
   "title": "Arrows of Dawn",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 64",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "arrows-of-dawn.jpg",
+  "audio": "arrows-of-dawn.mp3",
   "spotify": "https://open.spotify.com/track/5jrLJwxVPW8zj8XVdrGiKF",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736b39e9bf604f5050825a1b1d"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Hear my cry in darkness, Lord"
+        ],
+        [
+          null,
+          "As enemies sharpen every word"
+        ],
+        [
+          null,
+          "Like arrows aimed to tear apart"
+        ],
+        [
+          null,
+          "The innocent and faithful heart"
+        ],
+        [
+          null,
+          "In shadows deep, they plot and scheme"
+        ],
+        [
+          null,
+          "Their traps more deadly than they seem"
+        ],
+        [
+          null,
+          "But You will rise, Your arrows fly"
+        ],
+        [
+          null,
+          "Swift justice from the morning sky"
+        ],
+        [
+          null,
+          "Their own tongues cause their fall from grace"
+        ],
+        [
+          null,
+          "While all Your people see Your face"
+        ],
+        [
+          null,
+          "From secret places they conspire"
+        ],
+        [
+          null,
+          "Their words like venom born of fire"
+        ],
+        [
+          null,
+          "\"Who will see?\" they boldly claim"
+        ],
+        [
+          null,
+          "As they devise their plans of shame"
+        ],
+        [
+          null,
+          "But in their pride, they fail to see"
+        ],
+        [
+          null,
+          "The God who watches patiently"
+        ],
+        [
+          null,
+          "But You will rise, Your arrows fly"
+        ],
+        [
+          null,
+          "Swift justice from the morning sky"
+        ],
+        [
+          null,
+          "Their own tongues cause their fall from grace"
+        ],
+        [
+          null,
+          "While all Your people see Your face"
+        ],
+        [
+          null,
+          "Their clever schemes will be their snare"
+        ],
+        [
+          null,
+          "Their confidence turns to despair"
+        ],
+        [
+          null,
+          "For You will strike with perfect aim"
+        ],
+        [
+          null,
+          "And all who see will speak Your name"
+        ],
+        [
+          null,
+          "The righteous find their joy in You"
+        ],
+        [
+          null,
+          "As wisdom proves Your ways are true"
+        ],
+        [
+          null,
+          "But You will rise, Your arrows fly"
+        ],
+        [
+          null,
+          "Swift justice from the morning sky"
+        ],
+        [
+          null,
+          "Their own tongues cause their fall from grace"
+        ],
+        [
+          null,
+          "While all Your people see Your face"
+        ],
+        [
+          null,
+          "In awe they stand Your mighty hand"
+        ],
+        [
+          null,
+          "Has shown them all Pride's deadly fall"
+        ],
+        [
+          null,
+          "While those who trust Find shelter just"
+        ],
+        [
+          null,
+          "In You alone Our cornerstone"
+        ],
+        [
+          null,
+          "So let the faithful take their rest"
+        ],
+        [
+          null,
+          "In You, our shield, in You we're blessed"
+        ],
+        [
+          null,
+          "For though the wicked plot by night"
+        ],
+        [
+          null,
+          "You are our guardian, our light"
+        ],
+        [
+          null,
+          "And all the earth will come to see"
+        ],
+        [
+          null,
+          "Your justice and Your majesty"
+        ],
+        [
+          null,
+          "But You will rise, Your arrows fly"
+        ],
+        [
+          null,
+          "Swift justice from the morning sky"
+        ],
+        [
+          null,
+          "Their own tongues cause their fall from grace"
+        ],
+        [
+          null,
+          "While all Your people see Your face"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and bend their bows to shoot their arrows",
+  "epigraphRef": "Psalm 64:3",
+  "lyricEyebrow": "From the Psalms"
 }

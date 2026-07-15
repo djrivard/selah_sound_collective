@@ -1,12 +1,168 @@
 {
   "slug": "a-souls-gaze",
   "title": "A Soul's Gaze",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 123",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-souls-gaze.jpg",
+  "audio": "a-souls-gaze.mp3",
   "spotify": "https://open.spotify.com/track/3TKOYFP8CCfqCkuQfX3SjC",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736ed025adde5d4cacbdf9a0a6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A Dm Gm C7)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "To You, I lift my weary eyes,"
+        ],
+        [
+          null,
+          "Where heaven’s boundless mercy lies."
+        ],
+        [
+          null,
+          "As servants look to hands that guide,"
+        ],
+        [
+          null,
+          "So do I wait, my soul abides."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "O let Your grace flow ever near,"
+        ],
+        [
+          null,
+          "For hearts are heavy, and hope unclear."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Our souls are worn, but still we pray, (still we pray)"
+        ],
+        [
+          null,
+          "Show us Your mercy, light our way. (light our way)"
+        ],
+        [
+          null,
+          "For scorn may pierce, and shadows stay, (shadows stay)"
+        ],
+        [
+          null,
+          "Yet faith endures in darkened day. (darkened day)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Too long we’ve borne the mocker’s jeer,"
+        ],
+        [
+          null,
+          "Their words like arrows, sharp and clear."
+        ],
+        [
+          null,
+          "But patience stands, a steadfast guide,"
+        ],
+        [
+          null,
+          "Through storm and sorrow, undenied."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Our souls are worn, but still we pray, (still we pray)"
+        ],
+        [
+          null,
+          "Show us Your mercy, light our way. (light our way)"
+        ],
+        [
+          null,
+          "For scorn may pierce, and shadows stay, (shadows stay)"
+        ],
+        [
+          null,
+          "Yet faith endures in darkened day. (darkened day)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Even in silence, Your hand remains,"
+        ],
+        [
+          null,
+          "Through unseen trials, Your love sustains."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Our souls are worn, but still we pray, (still we pray)"
+        ],
+        [
+          null,
+          "Show us Your mercy, light our way. (light our way)"
+        ],
+        [
+          null,
+          "Through every trial, love’s refrain, (love’s refrain)"
+        ],
+        [
+          null,
+          "Our hope endures, our hearts remain. (hearts remain)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A Dm Gm C7)"
+        ],
+        [
+          null,
+          "Faith endures… hearts remain… mercy sustains…"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "as the eyes of servants look unto the hand of their masters",
+  "epigraphRef": "Psalm 123:2",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,167 @@
 {
   "slug": "unshaken-reign",
   "title": "Unshaken Reign",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 97",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "unshaken-reign.jpg",
+  "audio": "unshaken-reign.mp3",
   "spotify": "https://open.spotify.com/track/4pThB7uwr2SIHUIsVLwHkx",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27361d628c1ec6d7936382966d5"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "A throne of fire ignites the sky,"
+        ],
+        [
+          null,
+          "Mountains melt as the King draws nigh,"
+        ],
+        [
+          null,
+          "Justice whispers, mercy sings,"
+        ],
+        [
+          null,
+          "The earth bows low to the Lord of kings."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Clouds conceal the radiant face,"
+        ],
+        [
+          null,
+          "Wrapped in glory, veiled in grace."
+        ],
+        [
+          null,
+          "Thunder echoes, heavens proclaim,"
+        ],
+        [
+          null,
+          "The righteous Judge, unshaken Name."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Let the sea roar, let the earth rejoice,"
+        ],
+        [
+          null,
+          "Every heart lift a grateful voice."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord reigns, let the people sing!"
+        ],
+        [
+          null,
+          "Flames of joy to the heavens ring."
+        ],
+        [
+          null,
+          "Darkness flees at His brilliant light,"
+        ],
+        [
+          null,
+          "The Lord of all is our delight."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Idols fall, their power fades,"
+        ],
+        [
+          null,
+          "All are drawn to the light He made."
+        ],
+        [
+          null,
+          "Mountains crumble, rivers praise,"
+        ],
+        [
+          null,
+          "Creation lifts a song of grace."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The skies alight with justice pure,"
+        ],
+        [
+          null,
+          "In His hand, the world secure."
+        ],
+        [
+          null,
+          "Mercy flows where truth has shone,"
+        ],
+        [
+          null,
+          "Glory belongs to Him alone."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord reigns, let the people sing!"
+        ],
+        [
+          null,
+          "Flames of joy to the heavens ring."
+        ],
+        [
+          null,
+          "Darkness flees at His brilliant light,"
+        ],
+        [
+          null,
+          "The Lord of all is our delight."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Clouds part wide, His kingdom calls,"
+        ],
+        [
+          null,
+          "Every soul before Him falls."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "let the earth rejoice",
+  "epigraphRef": "Psalm 97:1",
+  "lyricEyebrow": "From the Psalms"
 }

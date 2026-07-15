@@ -1,12 +1,226 @@
 {
   "slug": "like-sweet-honey",
   "title": "Like Sweet Honey",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 63",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "like-sweet-honey.jpg",
+  "audio": "like-sweet-honey.mp3",
   "spotify": "https://open.spotify.com/track/4clwhP40QyEbx2AyeyB2yk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ff6e705e8f5f30ae3a247013"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the darkness before dawn"
+        ],
+        [
+          null,
+          "My soul reaches for You"
+        ],
+        [
+          null,
+          "Like a desert yearning for rain"
+        ],
+        [
+          null,
+          "Every part of me breaks through"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "In Your sanctuary I've seen Your power"
+        ],
+        [
+          null,
+          "Your love better than life itself"
+        ],
+        [
+          null,
+          "My lips will praise You hour by hour"
+        ],
+        [
+          null,
+          "Until I am nothing else"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "My soul clings to You"
+        ],
+        [
+          null,
+          "Your right hand holds me true"
+        ],
+        [
+          null,
+          "In shadows or light"
+        ],
+        [
+          null,
+          "I lift my hands high"
+        ],
+        [
+          null,
+          "My soul clings to You"
+        ],
+        [
+          null,
+          "Each morning anew"
+        ],
+        [
+          null,
+          "Like sweet honey and wine"
+        ],
+        [
+          null,
+          "Your love satisfies"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "On my bed I remember Your grace"
+        ],
+        [
+          null,
+          "Through the watches of night"
+        ],
+        [
+          null,
+          "Like a shelter beneath Your wings"
+        ],
+        [
+          null,
+          "I sing in the fading light"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Those who seek to destroy will fall"
+        ],
+        [
+          null,
+          "But the King shall rejoice in God's call"
+        ],
+        [
+          null,
+          "Every false word will fade away"
+        ],
+        [
+          null,
+          "As I worship You day after day"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "My soul clings to You"
+        ],
+        [
+          null,
+          "Your right hand holds me true"
+        ],
+        [
+          null,
+          "In shadows or light"
+        ],
+        [
+          null,
+          "I lift my hands high"
+        ],
+        [
+          null,
+          "My soul clings to You"
+        ],
+        [
+          null,
+          "Each morning anew"
+        ],
+        [
+          null,
+          "Like sweet honey and wine"
+        ],
+        [
+          null,
+          "Your love satisfies"
+        ],
+        [
+          null,
+          "In the desert I seek You still"
+        ],
+        [
+          null,
+          "My soul thirsts for Your face"
+        ],
+        [
+          null,
+          "Like a banquet of endless joy"
+        ],
+        [
+          null,
+          "I feast on Your endless grace"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "My soul clings to You"
+        ],
+        [
+          null,
+          "Your right hand holds me true"
+        ],
+        [
+          null,
+          "In shadows or light"
+        ],
+        [
+          null,
+          "I lift my hands high"
+        ],
+        [
+          null,
+          "My soul clings to You"
+        ],
+        [
+          null,
+          "Each morning anew"
+        ],
+        [
+          null,
+          "Like sweet honey and wine"
+        ],
+        [
+          null,
+          "Your love satisfies"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Because thy lovingkindness is better than life",
+  "epigraphRef": "Psalm 63:3",
+  "lyricEyebrow": "From the Psalms"
 }

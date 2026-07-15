@@ -1,12 +1,159 @@
 {
   "slug": "never-moved-always-strong",
   "title": "Never Moved, Always Strong",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 125",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "never-moved-always-strong.jpg",
+  "audio": "never-moved-always-strong.mp3",
   "spotify": "https://open.spotify.com/track/02C0v5ozPlpiXDoWgFmvou",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27333bae10899be399920b2c18b"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "As the mountains rise around Zion’s hill,"
+        ],
+        [
+          null,
+          "So the Lord surrounds His people still."
+        ],
+        [
+          null,
+          "Unshaken by storms, unbowed by time,"
+        ],
+        [
+          null,
+          "In His love, we find our climb."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Those who trust in the Lord cannot be moved,"
+        ],
+        [
+          null,
+          "Like the hills that stand forever, steady and true."
+        ],
+        [
+          null,
+          "Through the trials and valleys, His arms enfold,"
+        ],
+        [
+          null,
+          "Safe in the shadows of grace, steadfast and bold."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The wicked may reign, but not for long,"
+        ],
+        [
+          null,
+          "For justice will right what’s been done wrong."
+        ],
+        [
+          null,
+          "A peace will come to the pure of heart,"
+        ],
+        [
+          null,
+          "His righteousness never departs."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Those who trust in the Lord cannot be moved,"
+        ],
+        [
+          null,
+          "Like the hills that stand forever, steady and true."
+        ],
+        [
+          null,
+          "Through the trials and valleys, His arms enfold,"
+        ],
+        [
+          null,
+          "Safe in the shadows of grace, steadfast and bold."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, guide us, Lord, to walk upright,"
+        ],
+        [
+          null,
+          "Keep our hearts with You in the light."
+        ],
+        [
+          null,
+          "May we always know Your peace,"
+        ],
+        [
+          null,
+          "A mercy that will never cease."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Those who trust in the Lord cannot be moved,"
+        ],
+        [
+          null,
+          "Like the hills that stand forever, steady and true."
+        ],
+        [
+          null,
+          "Through the trials and valleys, His arms enfold,"
+        ],
+        [
+          null,
+          "Safe in the shadows of grace, steadfast and bold."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(Avoid excessive brightness or reverb effects.)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "They that trust in the LORD shall be as mount Zion",
+  "epigraphRef": "Psalm 125:1",
+  "lyricEyebrow": "From the Psalms"
 }

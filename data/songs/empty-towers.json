@@ -1,12 +1,196 @@
 {
   "slug": "empty-towers",
   "title": "Empty Towers",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 53",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "empty-towers.jpg",
+  "audio": "empty-towers.mp3",
   "spotify": "https://open.spotify.com/track/5o9isXCyrbPWq90cyQ58hp",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c2be9948c14698f12c6e9bd9"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In their towers of steel and glass"
+        ],
+        [
+          null,
+          "The fools proclaim \"No God shall pass\""
+        ],
+        [
+          null,
+          "Their hearts are void, their deeds corrupt"
+        ],
+        [
+          null,
+          "A world of wisdom interrupted"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are the righteous?"
+        ],
+        [
+          null,
+          "(Where are they now?)"
+        ],
+        [
+          null,
+          "All have turned away somehow"
+        ],
+        [
+          null,
+          "Not one good soul remains to see"
+        ],
+        [
+          null,
+          "The emptiness consuming me"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They feed upon the innocent"
+        ],
+        [
+          null,
+          "Like bread devoured without relent"
+        ],
+        [
+          null,
+          "No prayer escapes their hardened lips"
+        ],
+        [
+          null,
+          "As darkness tightens its cruel grip"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are the righteous?"
+        ],
+        [
+          null,
+          "(Where are they now?)"
+        ],
+        [
+          null,
+          "All have turned away somehow"
+        ],
+        [
+          null,
+          "Not one good soul remains to see"
+        ],
+        [
+          null,
+          "The emptiness consuming me"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Terror strikes when none pursue"
+        ],
+        [
+          null,
+          "Their scattered bones tell nothing new"
+        ],
+        [
+          null,
+          "For God has broken those who siege"
+        ],
+        [
+          null,
+          "Against the ones who seek release"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, when will salvation come?"
+        ],
+        [
+          null,
+          "When will justice finally dawn?"
+        ],
+        [
+          null,
+          "From sacred heights to streets below"
+        ],
+        [
+          null,
+          "Let freedom like a river flow"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are the righteous?"
+        ],
+        [
+          null,
+          "(Where are they now?)"
+        ],
+        [
+          null,
+          "All have turned away somehow"
+        ],
+        [
+          null,
+          "Not one good soul remains to see"
+        ],
+        [
+          null,
+          "The emptiness consuming me"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "The fools may say there is no God"
+        ],
+        [
+          null,
+          "But truth will break through iron rod"
+        ],
+        [
+          null,
+          "And those who watch from Zion's gate"
+        ],
+        [
+          null,
+          "Will rise before it's too late"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "The fool hath said in his heart",
+  "epigraphRef": "Psalm 53:1",
+  "lyricEyebrow": "From the Psalms"
 }

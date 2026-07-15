@@ -1,12 +1,142 @@
 {
   "slug": "look-to-the-morning-light",
   "title": "Look To The Morning Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 104",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "look-to-the-morning-light.jpg",
+  "audio": "look-to-the-morning-light.mp3",
   "spotify": "https://open.spotify.com/track/5bUAWs2a7qZguCqRL7blkn",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738f94d0784b7f4824c1c6211d"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the dawn of endless grace"
+        ],
+        [
+          null,
+          "Where wisdom lifts her radiant face"
+        ],
+        [
+          null,
+          "The faithful dance with hearts aflame"
+        ],
+        [
+          null,
+          "While foolish hearts deny Your name"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From heaven's throne You gaze below"
+        ],
+        [
+          null,
+          "Upon the children that You know"
+        ],
+        [
+          null,
+          "Seeking those who understand"
+        ],
+        [
+          null,
+          "The mighty wonders of Your hand"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Though some may wander far astray"
+        ],
+        [
+          null,
+          "In shadows of their chosen way"
+        ],
+        [
+          null,
+          "Your light breaks through the darkest night"
+        ],
+        [
+          null,
+          "To guide Your people toward the light"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, what joy when love appears"
+        ],
+        [
+          null,
+          "Breaking chains of ancient fears"
+        ],
+        [
+          null,
+          "When salvation sweeps the land"
+        ],
+        [
+          null,
+          "Like rivers through the desert sand"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let Zion ring with songs of praise"
+        ],
+        [
+          null,
+          "As hope transforms our numbered days"
+        ],
+        [
+          null,
+          "For You restore Your people's soul"
+        ],
+        [
+          null,
+          "And make the broken spirit whole"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "From heaven's heights to earth below"
+        ],
+        [
+          null,
+          "Let all Your children come to know"
+        ],
+        [
+          null,
+          "The dance of grace, the song of peace"
+        ],
+        [
+          null,
+          "Where joy and wisdom never cease"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Who coverest thyself with light as with a garment",
+  "epigraphRef": "Psalm 104:2",
+  "lyricEyebrow": "From the Psalms"
 }

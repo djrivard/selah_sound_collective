@@ -1,12 +1,171 @@
 {
   "slug": "unbroken-vows",
   "title": "Unbroken Vows",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 116",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "unbroken-vows.jpg",
+  "audio": "unbroken-vows.mp3",
   "spotify": "https://open.spotify.com/track/0ewW11tQwMi8LGdpfeTmcV",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739a1decc52af677659f1358d2"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Avoid excessive brightness or reverb effects.)"
+        ],
+        [
+          null,
+          "I called on the name of the Lord,"
+        ],
+        [
+          null,
+          "In the shadows where fear takes hold,"
+        ],
+        [
+          null,
+          "Mercy heard my trembling soul,"
+        ],
+        [
+          null,
+          "Grace unfolded, made me whole."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When sorrow wove its heavy chains,"
+        ],
+        [
+          null,
+          "When despair sang through my veins,"
+        ],
+        [
+          null,
+          "I cried out in the night’s deep pain,"
+        ],
+        [
+          null,
+          "And love unbound me from the strain."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "The cords of death had wrapped so tight,"
+        ],
+        [
+          null,
+          "But His voice cut through the quiet night."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I will lift the cup of salvation high,"
+        ],
+        [
+          null,
+          "A promise unbroken beneath the sky."
+        ],
+        [
+          null,
+          "He hears the cry of the low and weak,"
+        ],
+        [
+          null,
+          "His steadfast love is all I seek."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He delivered me from endless fall,"
+        ],
+        [
+          null,
+          "From the silence, He answered my call."
+        ],
+        [
+          null,
+          "I’ll walk in His light, forever sure,"
+        ],
+        [
+          null,
+          "In the land of the living, my heart secure."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "What can I give for all He’s done?"
+        ],
+        [
+          null,
+          "A vow of devotion under the sun."
+        ],
+        [
+          null,
+          "I’ll pay my dues where His people meet,"
+        ],
+        [
+          null,
+          "His love alone makes my joy complete."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I will lift the cup of salvation high,"
+        ],
+        [
+          null,
+          "A promise unbroken beneath the sky."
+        ],
+        [
+          null,
+          "He hears the cry of the low and weak,"
+        ],
+        [
+          null,
+          "His steadfast love is all I seek."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "I am His, and He calls me home,"
+        ],
+        [
+          null,
+          "Forever in mercy, I’m never alone."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "because he hath heard my voice and my supplications",
+  "epigraphRef": "Psalm 116:1",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,181 @@
 {
   "slug": "the-keepers-hand",
   "title": "The Keeper's Hand",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 124",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-keepers-hand.jpg",
+  "audio": "the-keepers-hand.mp3",
   "spotify": "https://open.spotify.com/track/25bHKtrgAtF9U1i4POaMDY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27303d8ba49d7bdf6469d31f561"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "If not for the Keeper’s hand, where would we stand?"
+        ],
+        [
+          null,
+          "The flood would rise, the earth would shake,"
+        ],
+        [
+          null,
+          "and none would withstand."
+        ],
+        [
+          null,
+          "But through the shadows, a light breaks free,"
+        ],
+        [
+          null,
+          "A beacon of hope, steadfast as the sea."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Against the tides, against the roar,"
+        ],
+        [
+          null,
+          "A shield unseen, forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Our help is in the name of the Eternal,"
+        ],
+        [
+          null,
+          "Maker of the mountains, Keeper of the skies."
+        ],
+        [
+          null,
+          "When the snares of fate sought to claim our spirit,"
+        ],
+        [
+          null,
+          "We rose unbroken, carried by His might."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The enemy's trap was set, teeth poised to tear,"
+        ],
+        [
+          null,
+          "But the chains were shattered, we breathed free air."
+        ],
+        [
+          null,
+          "Like a bird from a hunter’s cruel cage we flew,"
+        ],
+        [
+          null,
+          "The sky wide and open, the dawn breaking through."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Through trials deep, through fire's flame,"
+        ],
+        [
+          null,
+          "The Keeper stood, unyielded, the same."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Our help is in the name of the Eternal,"
+        ],
+        [
+          null,
+          "Maker of the mountains, Keeper of the skies."
+        ],
+        [
+          null,
+          "When the snares of fate sought to claim our spirit,"
+        ],
+        [
+          null,
+          "We rose unbroken, carried by His might."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, if not for His hand, the story would end,"
+        ],
+        [
+          null,
+          "But the night turns to day, and wounds start to mend."
+        ],
+        [
+          null,
+          "He is the lifeline, the anchor, the flame,"
+        ],
+        [
+          null,
+          "Our unyielding fortress, ever the same."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Our help is in the name of the Eternal,"
+        ],
+        [
+          null,
+          "Maker of the mountains, Keeper of the skies."
+        ],
+        [
+          null,
+          "When the snares of fate sought to claim our spirit,"
+        ],
+        [
+          null,
+          "We rose unbroken, carried by His might."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "We rose unbroken, carried by His might..."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Our help is in the name of the LORD",
+  "epigraphRef": "Psalm 124:8",
+  "lyricEyebrow": "From the Psalms"
 }

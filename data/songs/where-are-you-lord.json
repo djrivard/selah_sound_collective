@@ -1,12 +1,235 @@
 {
   "slug": "where-are-you-lord",
   "title": "Where Are You Lord",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 55",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "where-are-you-lord.jpg",
+  "audio": "where-are-you-lord.mp3",
   "spotify": "https://open.spotify.com/track/1fC9YAYkJipMtfYXArXskS",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27385fe9dd7780fae9a1aa9b510"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Hear my whispered prayer, O Lord"
+        ],
+        [
+          null,
+          "As I hide myself away"
+        ],
+        [
+          null,
+          "Evil stalks the city walls"
+        ],
+        [
+          null,
+          "Darkness rules another day"
+        ],
+        [
+          null,
+          "Violence echoes through these streets"
+        ],
+        [
+          null,
+          "While deceit fills every square"
+        ],
+        [
+          null,
+          "Terror grips my trembling heart"
+        ],
+        [
+          null,
+          "Death's shadow lingers there"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I will call upon my God"
+        ],
+        [
+          null,
+          "When evening falls and morning breaks"
+        ],
+        [
+          null,
+          "He hears my voice above the storm"
+        ],
+        [
+          null,
+          "My soul, at last, He'll take"
+        ],
+        [
+          null,
+          "My soul, at last, He'll take"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Once we walked as closest friends"
+        ],
+        [
+          null,
+          "Through the temple side by side"
+        ],
+        [
+          null,
+          "Now your words are poisoned thorns"
+        ],
+        [
+          null,
+          "In the darkness where you hide"
+        ],
+        [
+          null,
+          "Casting burdens on the Lord"
+        ],
+        [
+          null,
+          "He sustains through darkest night"
+        ],
+        [
+          null,
+          "While the wicked fall to pits"
+        ],
+        [
+          null,
+          "Before their time takes flight"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Peace seems distant as the stars"
+        ],
+        [
+          null,
+          "Covenant shattered like glass"
+        ],
+        [
+          null,
+          "But God's throne remains unmoved"
+        ],
+        [
+          null,
+          "This storm, too, shall pass"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I will call upon my God"
+        ],
+        [
+          null,
+          "When evening falls and morning breaks"
+        ],
+        [
+          null,
+          "He hears my voice above the storm"
+        ],
+        [
+          null,
+          "My soul, at last, He'll take"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let your wings spread over me"
+        ],
+        [
+          null,
+          "Like a dove, I long to flee"
+        ],
+        [
+          null,
+          "To the wilderness of peace"
+        ],
+        [
+          null,
+          "Where my spirit can breathe free"
+        ],
+        [
+          null,
+          "Though betrayal breaks my heart"
+        ],
+        [
+          null,
+          "Though destruction reigns below"
+        ],
+        [
+          null,
+          "I will trust the Lord my God"
+        ],
+        [
+          null,
+          "This one thing I know"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "But I will call upon my God"
+        ],
+        [
+          null,
+          "When evening falls and morning breaks"
+        ],
+        [
+          null,
+          "He hears my voice above the storm"
+        ],
+        [
+          null,
+          "My soul, at last, He'll take"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Cast your burden on the Lord"
+        ],
+        [
+          null,
+          "He will sustain"
+        ],
+        [
+          null,
+          "Cast your burden on the Lord"
+        ],
+        [
+          null,
+          "He remains"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Cast thy burden upon the LORD",
+  "epigraphRef": "Psalm 55:22",
+  "lyricEyebrow": "From the Psalms"
 }

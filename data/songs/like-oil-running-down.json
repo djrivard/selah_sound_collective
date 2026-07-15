@@ -1,12 +1,207 @@
 {
   "slug": "like-oil-running-down",
   "title": "Like Oil Running Down",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 133",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "like-oil-running-down.jpg",
+  "audio": "like-oil-running-down.mp3",
   "spotify": "https://open.spotify.com/track/4zMBe0ljaGnUf7zv9Rcvqk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732cf5ec5ed26e7a9adae56d16"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A G D Em F#)"
+        ],
+        [
+          null,
+          "How beautiful it is, the sight,"
+        ],
+        [
+          null,
+          "When hearts together shine so bright,"
+        ],
+        [
+          null,
+          "A bond of peace, a sacred art,"
+        ],
+        [
+          null,
+          "In unity, we find one heart."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A D G A Em)"
+        ],
+        [
+          null,
+          "Like oil cascading down the brow,"
+        ],
+        [
+          null,
+          "A priestly blessing here and now,"
+        ],
+        [
+          null,
+          "It flows from heaven's lofty peak,"
+        ],
+        [
+          null,
+          "The joy of kin, the love we seek."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(D G A Em F#)"
+        ],
+        [
+          null,
+          "Oh, how good, how sweet, how rare,"
+        ],
+        [
+          null,
+          "A love that lingers in the air."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(A G D Em F#)"
+        ],
+        [
+          null,
+          "Like oil that runs from Aaron’s head,"
+        ],
+        [
+          null,
+          "A sacred stream where grace is fed,"
+        ],
+        [
+          null,
+          "Like Hermon’s dew, so pure, so free,"
+        ],
+        [
+          null,
+          "The blessing flows eternally."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A D G A Em)"
+        ],
+        [
+          null,
+          "From mountain heights to valleys low,"
+        ],
+        [
+          null,
+          "The harmony of heaven’s glow,"
+        ],
+        [
+          null,
+          "A space where life forever springs,"
+        ],
+        [
+          null,
+          "A place where angels spread their wings."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(F# A G D Em)"
+        ],
+        [
+          null,
+          "Oh, brothers, sisters, join the song,"
+        ],
+        [
+          null,
+          "In love’s embrace, we all belong,"
+        ],
+        [
+          null,
+          "No sweeter gift, no truer sign,"
+        ],
+        [
+          null,
+          "Where heaven’s will and earth align."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(A G D Em F#)"
+        ],
+        [
+          null,
+          "Like oil that runs from Aaron’s head,"
+        ],
+        [
+          null,
+          "A sacred stream where grace is fed,"
+        ],
+        [
+          null,
+          "Like Hermon’s dew, so pure, so free,"
+        ],
+        [
+          null,
+          "The blessing flows eternally."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(D G A Em)"
+        ],
+        [
+          null,
+          "Here in unity we stand,"
+        ],
+        [
+          null,
+          "A blessed work from heaven’s hand,"
+        ],
+        [
+          null,
+          "Eternal love, forever known,"
+        ],
+        [
+          null,
+          "In unity, we’re never alone."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "that went down to the skirts of his garments",
+  "epigraphRef": "Psalm 133:2",
+  "lyricEyebrow": "From the Psalms"
 }

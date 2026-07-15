@@ -1,12 +1,223 @@
 {
   "slug": "blessed-and-brave",
   "title": "Blessed and Brave",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 128",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "blessed-and-brave.jpg",
+  "audio": "blessed-and-brave.mp3",
   "spotify": "https://open.spotify.com/track/018daNwSlJN1m8IbTEO1LC",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735694d079ed843789b8438988"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A minor C G F)"
+        ],
+        [
+          null,
+          "Oh, the blessed who walk in light,"
+        ],
+        [
+          null,
+          "Their hearts aglow, their steps ignite,"
+        ],
+        [
+          null,
+          "Each path they tread is paved with gold,"
+        ],
+        [
+          null,
+          "In the warmth of love untold."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A minor F G C)"
+        ],
+        [
+          null,
+          "Blessed are the hands that toil,"
+        ],
+        [
+          null,
+          "They reap the harvest from the soil."
+        ],
+        [
+          null,
+          "With every seed, with every stone,"
+        ],
+        [
+          null,
+          "They build a world to call their own."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(D minor G A minor F)"
+        ],
+        [
+          null,
+          "Under the vine, under the sky,"
+        ],
+        [
+          null,
+          "Joy blooms in hearts that never die."
+        ],
+        [
+          null,
+          "The fruit of peace is theirs to hold,"
+        ],
+        [
+          null,
+          "A story of grace, a life of gold."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(F C G A minor)"
+        ],
+        [
+          null,
+          "Oh, you’ll see them rise,"
+        ],
+        [
+          null,
+          "Their light will fill the skies."
+        ],
+        [
+          null,
+          "The blessed wear crowns unseen,"
+        ],
+        [
+          null,
+          "With love that reigns supreme."
+        ],
+        [
+          null,
+          "Forever in favor they sing,"
+        ],
+        [
+          null,
+          "Hearts aligned with heaven’s king."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A minor F G C)"
+        ],
+        [
+          null,
+          "Your children bloom like olive trees,"
+        ],
+        [
+          null,
+          "A promise carried on the breeze."
+        ],
+        [
+          null,
+          "The echoes of your joy will flow,"
+        ],
+        [
+          null,
+          "To every place your roots will grow."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(F G A minor C)"
+        ],
+        [
+          null,
+          "The peace of Zion on every street,"
+        ],
+        [
+          null,
+          "A melody where earth and heaven meet."
+        ],
+        [
+          null,
+          "Step by step, the journey runs,"
+        ],
+        [
+          null,
+          "Blessings brighter than the sun."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "(F C G A minor)"
+        ],
+        [
+          null,
+          "Oh, you’ll see them rise,"
+        ],
+        [
+          null,
+          "Their light will fill the skies."
+        ],
+        [
+          null,
+          "The blessed wear crowns unseen,"
+        ],
+        [
+          null,
+          "With love that reigns supreme."
+        ],
+        [
+          null,
+          "Forever in favor they sing,"
+        ],
+        [
+          null,
+          "Hearts aligned with heaven’s king."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A minor G F C)"
+        ],
+        [
+          null,
+          "Walk in light, let your spirit soar,"
+        ],
+        [
+          null,
+          "Forever blessed, forevermore."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Blessed is every one that feareth the LORD",
+  "epigraphRef": "Psalm 128:1",
+  "lyricEyebrow": "From the Psalms"
 }

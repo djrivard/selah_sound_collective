@@ -1,12 +1,217 @@
 {
   "slug": "sing-it-loud",
   "title": "Sing it Loud",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 135",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "sing-it-loud.jpg",
+  "audio": "sing-it-loud.mp3",
   "spotify": "https://open.spotify.com/track/6Q5ohqdBbx43sJDOv2T1yI",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735bb67a329b79c7f2be2e2b90"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Oh-oh-oh-oh, sing it loud, lift it high)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Through the heavens, let it rise,"
+        ],
+        [
+          null,
+          "A song of joy, a love that flies."
+        ],
+        [
+          null,
+          "From sunrise bright to golden dusk,"
+        ],
+        [
+          null,
+          "His mercy holds, in Him we trust."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Every star, every wave,"
+        ],
+        [
+          null,
+          "Moves in rhythm to His name."
+        ],
+        [
+          null,
+          "Thunder roars, oceans sing,"
+        ],
+        [
+          null,
+          "All creation’s echoing!"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing it loud! Sing it high!"
+        ],
+        [
+          null,
+          "Praise the One who reigns the sky!"
+        ],
+        [
+          null,
+          "Every heart, every soul,"
+        ],
+        [
+          null,
+          "Let the dance of heaven roll!"
+        ],
+        [
+          null,
+          "(Oh-oh-oh-oh, sing it loud, lift it high)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He lifts the humble, breaks the chains,"
+        ],
+        [
+          null,
+          "Gives the weary strength again."
+        ],
+        [
+          null,
+          "His breath ignites the fire within,"
+        ],
+        [
+          null,
+          "A light that burns, it never dims."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Every star, every wave,"
+        ],
+        [
+          null,
+          "Moves in rhythm to His name."
+        ],
+        [
+          null,
+          "Thunder roars, oceans sing,"
+        ],
+        [
+          null,
+          "All creation’s echoing!"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing it loud! Sing it high!"
+        ],
+        [
+          null,
+          "Praise the One who reigns the sky!"
+        ],
+        [
+          null,
+          "Every heart, every soul,"
+        ],
+        [
+          null,
+          "Let the dance of heaven roll!"
+        ],
+        [
+          null,
+          "(Oh-oh-oh-oh, sing it loud, lift it high)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Shout His name across the land!"
+        ],
+        [
+          null,
+          "Raise your hands, take a stand!"
+        ],
+        [
+          null,
+          "Glory rising, never fades,"
+        ],
+        [
+          null,
+          "Sing forever, love remains!"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Sing it loud! Sing it high!"
+        ],
+        [
+          null,
+          "Praise the One who reigns the sky!"
+        ],
+        [
+          null,
+          "Every heart, every soul,"
+        ],
+        [
+          null,
+          "Let the dance of heaven roll!"
+        ],
+        [
+          null,
+          "(Oh-oh-oh-oh, sing it loud, lift it high)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Hallelujah, never dies,"
+        ],
+        [
+          null,
+          "Forever lifted, forever high…"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "sing praises unto his name",
+  "epigraphRef": "Psalm 135:3",
+  "lyricEyebrow": "From the Psalms"
 }

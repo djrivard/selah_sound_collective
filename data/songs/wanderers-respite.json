@@ -1,12 +1,162 @@
 {
   "slug": "wanderers-respite",
   "title": "Wanderer's Respite",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 107",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "wanderers-respite.jpg",
+  "audio": "wanderers-respite.mp3",
   "spotify": "https://open.spotify.com/track/2ftms5e6BrAahRM87SVWIT",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b0927af3dfc9a3a58ed43f27"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In desolate wastes, we roamed alone,"
+        ],
+        [
+          null,
+          "No shelter found, no place called home."
+        ],
+        [
+          null,
+          "With hunger deep and spirits low,"
+        ],
+        [
+          null,
+          "We sought the path we did not know."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(Oh, let us praise the Eternal's grace,)"
+        ],
+        [
+          null,
+          "(For wonders wrought for human race.)"
+        ],
+        [
+          null,
+          "(He fills the soul's profound desire,)"
+        ],
+        [
+          null,
+          "(And lights our path with holy fire.)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "In shadows deep, confined by strife,"
+        ],
+        [
+          null,
+          "Chains of despair entangled life."
+        ],
+        [
+          null,
+          "We cried for help in darkest night,"
+        ],
+        [
+          null,
+          "He broke our bonds, restored our light."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(Oh, let us praise the Eternal's grace,)"
+        ],
+        [
+          null,
+          "(For wonders wrought for human race.)"
+        ],
+        [
+          null,
+          "(He fills the soul's profound desire,)"
+        ],
+        [
+          null,
+          "(And lights our path with holy fire.)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Through tempests wild and oceans vast,"
+        ],
+        [
+          null,
+          "Our courage failed before the blast."
+        ],
+        [
+          null,
+          "Yet in the storm, a whisper clear,"
+        ],
+        [
+          null,
+          "\"Be still, my child, for I am near.\""
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(Oh, let us praise the Eternal's grace,)"
+        ],
+        [
+          null,
+          "(For wonders wrought for human race.)"
+        ],
+        [
+          null,
+          "(He fills the soul's profound desire,)"
+        ],
+        [
+          null,
+          "(And lights our path with holy fire.)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From desert's edge to haven's shore,"
+        ],
+        [
+          null,
+          "His mercy leads forevermore."
+        ],
+        [
+          null,
+          "With thankful hearts, our voices raise,"
+        ],
+        [
+          null,
+          "In solemn awe, we sing His praise."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and his wonders in the deep",
+  "epigraphRef": "Psalm 107:24",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,238 @@
 {
   "slug": "promise-of-zion",
   "title": "Promise of Zion",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 132",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "promise-of-zion.jpg",
+  "audio": "promise-of-zion.mp3",
   "spotify": "https://open.spotify.com/track/7m9woYQQRhdmQpQbLS7Z0w",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736d2fa27ea548767ac401d7f7"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Oh, the vow, the sacred plea,"
+        ],
+        [
+          null,
+          "A heart’s yearning destiny."
+        ],
+        [
+          null,
+          "The ark of promise, drawn in fire,"
+        ],
+        [
+          null,
+          "A beacon calling, lifting higher."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "David swore beneath the skies,"
+        ],
+        [
+          null,
+          "\"I will not rest, nor close my eyes,"
+        ],
+        [
+          null,
+          "'Til the Lord's house stands in grace,"
+        ],
+        [
+          null,
+          "A holy throne, a dwelling place.\""
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Rise, oh Zion, lift your song,"
+        ],
+        [
+          null,
+          "The echoes of forever, strong."
+        ],
+        [
+          null,
+          "Heaven bends to touch the earth,"
+        ],
+        [
+          null,
+          "In your courts, we find rebirth."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "This is the place, chosen and bright,"
+        ],
+        [
+          null,
+          "A crown of forever, a throne of light."
+        ],
+        [
+          null,
+          "Here we are one, the promise unfolds,"
+        ],
+        [
+          null,
+          "The city of glory, the story foretold."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The Lord declares, \"I’ve chosen you,"
+        ],
+        [
+          null,
+          "A place of peace, a vision true."
+        ],
+        [
+          null,
+          "Your foes will fade, your lamp will shine,"
+        ],
+        [
+          null,
+          "A kingdom’s promise, wholly divine.\""
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Rise, oh Zion, lift your song,"
+        ],
+        [
+          null,
+          "The echoes of forever, strong."
+        ],
+        [
+          null,
+          "Heaven bends to touch the earth,"
+        ],
+        [
+          null,
+          "In your courts, we find rebirth."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "This is the place, chosen and bright,"
+        ],
+        [
+          null,
+          "A crown of forever, a throne of light."
+        ],
+        [
+          null,
+          "Here we are one, the promise unfolds,"
+        ],
+        [
+          null,
+          "The city of glory, the story foretold."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, every tear, every prayer,"
+        ],
+        [
+          null,
+          "He hears them all, He’s always there."
+        ],
+        [
+          null,
+          "The ark of truth, our guiding flame,"
+        ],
+        [
+          null,
+          "Forever dwelling, we praise His name."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "This is the place, chosen and bright,"
+        ],
+        [
+          null,
+          "A crown of forever, a throne of light."
+        ],
+        [
+          null,
+          "Here we are one, the promise unfolds,"
+        ],
+        [
+          null,
+          "The city of glory, the story foretold."
+        ]
+      ]
+    },
+    {
+      "label": "Post-Chorus",
+      "lines": [
+        [
+          null,
+          "Hallelujah, Zion’s call,"
+        ],
+        [
+          null,
+          "Hallelujah, one and all."
+        ],
+        [
+          null,
+          "Hallelujah, throne of gold,"
+        ],
+        [
+          null,
+          "Hallelujah, love untold."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "In the courts of the King, we find our song,"
+        ],
+        [
+          null,
+          "Forever rising, forever strong."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "For the LORD hath chosen Zion",
+  "epigraphRef": "Psalm 132:13",
+  "lyricEyebrow": "From the Psalms"
 }

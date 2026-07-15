@@ -1,12 +1,154 @@
 {
   "slug": "blessed-are-those",
   "title": "Blessed Are Those",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 146",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "blessed-are-those.jpg",
+  "audio": "blessed-are-those.mp3",
   "spotify": "https://open.spotify.com/track/5qkFiMxuXJu6AtH7C3TPdF",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d43f861367d1533274ed1491"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Breathe the beauty of dawn’s first light,"
+        ],
+        [
+          null,
+          "Let your soul take flight tonight,"
+        ],
+        [
+          null,
+          "A melody of hope, deep and wide,"
+        ],
+        [
+          null,
+          "Praise fills the air, love won't hide."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Sing out, my heart, for the breath of today,"
+        ],
+        [
+          null,
+          "Life is a gift that cannot decay."
+        ],
+        [
+          null,
+          "Not in princes, nor mortal hands,"
+        ],
+        [
+          null,
+          "But in the eternal, my refuge stands."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "For the Maker of stars, the sea, and sky,"
+        ],
+        [
+          null,
+          "Holds the truth, and will never lie."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, blessed are those whose hope will remain,"
+        ],
+        [
+          null,
+          "In the God of love, who ends all pain."
+        ],
+        [
+          null,
+          "Forever faithful, through shadows and rain,"
+        ],
+        [
+          null,
+          "Oh, blessed are those who call His name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He lifts the broken, brings justice near,"
+        ],
+        [
+          null,
+          "Gives voice to silence, dispels all fear."
+        ],
+        [
+          null,
+          "Food for the hungry, sight to the blind,"
+        ],
+        [
+          null,
+          "In His embrace, a love divine."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, blessed are those whose hope will remain,"
+        ],
+        [
+          null,
+          "In the God of love, who ends all pain."
+        ],
+        [
+          null,
+          "Forever faithful, through shadows and rain,"
+        ],
+        [
+          null,
+          "Oh, blessed are those who call His name."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Praise echoes softly through the night,"
+        ],
+        [
+          null,
+          "Faith shines brighter than any light."
+        ],
+        [
+          null,
+          "The song of souls will never wane,"
+        ],
+        [
+          null,
+          "Oh, blessed are those who call His name."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Praise ye the LORD. Praise the LORD",
+  "epigraphRef": "Psalm 146:1",
+  "lyricEyebrow": "From the Psalms"
 }

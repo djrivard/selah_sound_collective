@@ -1,12 +1,204 @@
 {
   "slug": "when-im-afraid",
   "title": "When I'm Afraid",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 56",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "when-im-afraid.jpg",
+  "audio": "when-im-afraid.mp3",
   "spotify": "https://open.spotify.com/track/3oidwz0E8ssN6386V07DjD",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730c2de8ad2458a5c9f6cce45e"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When enemies rise like shadows in the night"
+        ],
+        [
+          null,
+          "Watching my steps, waiting to strike"
+        ],
+        [
+          null,
+          "But I'll lift my eyes to something higher"
+        ],
+        [
+          null,
+          "Your promise burns like holy fire"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "When I'm afraid,"
+        ],
+        [
+          null,
+          "I trust in You Every tear"
+        ],
+        [
+          null,
+          "You've counted, every prayer rings true"
+        ],
+        [
+          null,
+          "Though armies gather, though storms break through"
+        ],
+        [
+          null,
+          "When I'm afraid, I trust in You"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They twist my words like tangled thorns"
+        ],
+        [
+          null,
+          "Try to break my spirit till the morning dawns"
+        ],
+        [
+          null,
+          "But You've been keeping count of my wandering ways"
+        ],
+        [
+          null,
+          "Storing each tear like precious rain"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "When I'm afraid,"
+        ],
+        [
+          null,
+          "I trust in You Every tear"
+        ],
+        [
+          null,
+          "You've counted, every prayer rings true"
+        ],
+        [
+          null,
+          "Though armies gather, though storms break through"
+        ],
+        [
+          null,
+          "When I'm afraid, I trust in You"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "What can flesh do to me?"
+        ],
+        [
+          null,
+          "When heaven holds my destiny"
+        ],
+        [
+          null,
+          "I'm walking in the light of life"
+        ],
+        [
+          null,
+          "Dancing through the darkest night"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Now I will fulfill my vows to You"
+        ],
+        [
+          null,
+          "With songs of praise breaking through"
+        ],
+        [
+          null,
+          "For You have delivered my soul from death"
+        ],
+        [
+          null,
+          "My feet from falling, given me breath"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "In the courts of glory,"
+        ],
+        [
+          null,
+          "I'll tell Your story"
+        ],
+        [
+          null,
+          "How You turned my mourning into dancing"
+        ],
+        [
+          null,
+          "Every step of faith, every battle faced"
+        ],
+        [
+          null,
+          "Became a testimony of Your grace"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "When I'm afraid,"
+        ],
+        [
+          null,
+          "I trust in You Every tear"
+        ],
+        [
+          null,
+          "You've counted, every prayer rings true"
+        ],
+        [
+          null,
+          "Though armies gather, though storms break through"
+        ],
+        [
+          null,
+          "When I'm afraid, I trust in You"
+        ],
+        [
+          null,
+          "When I'm afraid... I trust in You..."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "What time I am afraid",
+  "epigraphRef": "Psalm 56:3",
+  "lyricEyebrow": "From the Psalms"
 }

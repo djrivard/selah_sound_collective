@@ -1,12 +1,198 @@
 {
   "slug": "rivers-of-babylon-psalm-137",
   "title": "Rivers of Babylon",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 137",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rivers-of-babylon-psalm-137.jpg",
+  "audio": "rivers-of-babylon-psalm-137.mp3",
   "spotify": "https://open.spotify.com/track/2aG0iNtL11GiFepzkJgVMk",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27347397066381408efc49326d6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "By the rivers of Babylon, we sat and wept,"
+        ],
+        [
+          null,
+          "When we remembered Zion, where the light once slept."
+        ],
+        [
+          null,
+          "The willows bowed, the harps lay still,"
+        ],
+        [
+          null,
+          "Our songs were silenced by the weight of the hill."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "How can we sing in this foreign land,"
+        ],
+        [
+          null,
+          "Where the air tastes of dust, and dreams turn to sand?"
+        ],
+        [
+          null,
+          "They demanded joy from our sorrowed hands,"
+        ],
+        [
+          null,
+          "But our hearts beat slow, like shifting strands."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, Zion, your ruins call,"
+        ],
+        [
+          null,
+          "Your sacred stones echo through it all."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "If I forget you, O Zion’s flame,"
+        ],
+        [
+          null,
+          "May my right hand lose its strength, its aim."
+        ],
+        [
+          null,
+          "May my tongue cling, silent in shame,"
+        ],
+        [
+          null,
+          "If I forsake the songs of your name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The waters murmur, the willow trees sigh,"
+        ],
+        [
+          null,
+          "They cradle the sorrow of a tear-streaked sky."
+        ],
+        [
+          null,
+          "And though we ache, though we cry,"
+        ],
+        [
+          null,
+          "The memory of Zion refuses to die."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "O Daughter of Babylon, doomed to fall,"
+        ],
+        [
+          null,
+          "Blessed are those who repay your call."
+        ],
+        [
+          null,
+          "Who return the pain you’ve sown so deep,"
+        ],
+        [
+          null,
+          "To plant in the ashes what justice reaps."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(*No lyrics, haunting hums and a guitar solo rising and fading like a ghost*)"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, Zion, your ruins call,"
+        ],
+        [
+          null,
+          "Your sacred stones echo through it all."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "If I forget you, O Zion’s flame,"
+        ],
+        [
+          null,
+          "May my right hand lose its strength, its aim."
+        ],
+        [
+          null,
+          "May my tongue cling, silent in shame,"
+        ],
+        [
+          null,
+          "If I forsake the songs of your name."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "By the rivers of Babylon, we sat and wept,"
+        ],
+        [
+          null,
+          "But the songs of Zion, in us, are kept."
+        ],
+        [
+          null,
+          "Forever, they echo, through wind and stone,"
+        ],
+        [
+          null,
+          "A melody eternal, though we’re far from home."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "By the rivers of Babylon",
+  "epigraphRef": "Psalm 137:1",
+  "lyricEyebrow": "From the Psalms"
 }

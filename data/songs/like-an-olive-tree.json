@@ -1,12 +1,179 @@
 {
   "slug": "like-an-olive-tree",
   "title": "Like An Olive Tree",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 52",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "like-an-olive-tree.jpg",
+  "audio": "like-an-olive-tree.mp3",
   "spotify": "https://open.spotify.com/track/4OUM4wpWQ7pNAScH03YZQY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273714c7258af6e4bfb5840de46"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Why do you boast of evil, mighty one?"
+        ],
+        [
+          null,
+          "God's love endures when day is done"
+        ],
+        [
+          null,
+          "Your tongue plots destruction like a blade"
+        ],
+        [
+          null,
+          "Cutting down the righteous in your raid"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I am like an olive tree"
+        ],
+        [
+          null,
+          "Growing green in God's sanctuary"
+        ],
+        [
+          null,
+          "Forever and ever, I will praise"
+        ],
+        [
+          null,
+          "Your name through all my days"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "You love every word that brings decay"
+        ],
+        [
+          null,
+          "False over truth is what you say"
+        ],
+        [
+          null,
+          "But God will break you down at last"
+        ],
+        [
+          null,
+          "Your tent will crumble to the past"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I am like an olive tree"
+        ],
+        [
+          null,
+          "Growing green in God's sanctuary"
+        ],
+        [
+          null,
+          "Forever and ever, I will praise"
+        ],
+        [
+          null,
+          "Your name through all my days"
+        ],
+        [
+          null,
+          "(Repeat)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The righteous will see and fear"
+        ],
+        [
+          null,
+          "When pride comes tumbling down"
+        ],
+        [
+          null,
+          "Those who trusted wealth and power"
+        ],
+        [
+          null,
+          "Will wear destruction's crown"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "I trust in God's unfailing love"
+        ],
+        [
+          null,
+          "Like wings of mercy from above"
+        ],
+        [
+          null,
+          "The faithful gather, watching still"
+        ],
+        [
+          null,
+          "As justice claims its final bill"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But I am like an olive tree"
+        ],
+        [
+          null,
+          "Growing green in God's sanctuary"
+        ],
+        [
+          null,
+          "Forever and ever, I will praise"
+        ],
+        [
+          null,
+          "Your name through all my days"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever and ever, I will praise"
+        ],
+        [
+          null,
+          "Your name through all my days"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "But I am like a green olive tree in the house of God",
+  "epigraphRef": "Psalm 52:8",
+  "lyricEyebrow": "From the Psalms"
 }

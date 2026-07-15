@@ -1,12 +1,207 @@
 {
   "slug": "heart-like-a-whisper",
   "title": "Heart Like A Whisper",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 131",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "heart-like-a-whisper.jpg",
+  "audio": "heart-like-a-whisper.mp3",
   "spotify": "https://open.spotify.com/track/6ny7ik5y4Razs1ZZGtqXqs",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e9646df2ea579dcc0f862eaa"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A minor F G E)"
+        ],
+        [
+          null,
+          "Ooh, the quiet calls me deeper,"
+        ],
+        [
+          null,
+          "Where pride won’t dare to tread,"
+        ],
+        [
+          null,
+          "In stillness, I lay my soul,"
+        ],
+        [
+          null,
+          "No heavy crown on my head."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A minor G F E)"
+        ],
+        [
+          null,
+          "I don’t chase heights beyond my reach,"
+        ],
+        [
+          null,
+          "I’m not lost in grand designs,"
+        ],
+        [
+          null,
+          "Like a child safe in love’s embrace,"
+        ],
+        [
+          null,
+          "I rest where peace aligns."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(F G A minor)"
+        ],
+        [
+          null,
+          "Let the world spin in its chaos,"
+        ],
+        [
+          null,
+          "I’m held in a quiet space,"
+        ],
+        [
+          null,
+          "A heart unburdened, free to rise,"
+        ],
+        [
+          null,
+          "No longing to chase."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(C F G A minor)"
+        ],
+        [
+          null,
+          "I am calmed and quiet, like a child in mother’s arms,"
+        ],
+        [
+          null,
+          "I’m at rest, I’m at rest,"
+        ],
+        [
+          null,
+          "Oh, my soul is stilled, where no pride or fear can harm,"
+        ],
+        [
+          null,
+          "I’m at rest, I’m at rest."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(G F E A minor)"
+        ],
+        [
+          null,
+          "No towering dreams to weigh me down,"
+        ],
+        [
+          null,
+          "No thrones for me to claim,"
+        ],
+        [
+          null,
+          "I dwell in the shadow of the divine,"
+        ],
+        [
+          null,
+          "Unseen, unspoken name."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(A minor F G E)"
+        ],
+        [
+          null,
+          "Hope is my anthem, forever I sing,"
+        ],
+        [
+          null,
+          "A melody eternal, on soft angelic wings,"
+        ],
+        [
+          null,
+          "No rush, no ache, just love that lingers still,"
+        ],
+        [
+          null,
+          "A heart surrendered to the quiet will."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(C F G A minor)"
+        ],
+        [
+          null,
+          "I am calmed and quiet, like a child in mother’s arms,"
+        ],
+        [
+          null,
+          "I’m at rest, I’m at rest,"
+        ],
+        [
+          null,
+          "Oh, my soul is stilled, where no pride or fear can harm,"
+        ],
+        [
+          null,
+          "I’m at rest, I’m at rest."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(F G A minor)"
+        ],
+        [
+          null,
+          "In stillness, I soar, in humbleness, I rise,"
+        ],
+        [
+          null,
+          "A love that keeps me grounded, as it lifts me to the skies."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "my heart is not haughty",
+  "epigraphRef": "Psalm 131:1",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,176 @@
 {
   "slug": "forsaken-yet-free",
   "title": "Forsaken Yet Free",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 109",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "forsaken-yet-free.jpg",
+  "audio": "forsaken-yet-free.mp3",
   "spotify": "https://open.spotify.com/track/7c2ZJyhwTgggeNtcxTZRwq",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ce75aec98392e3cb4d213c4a"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Oh, hear me now, O Silent Sky,"
+        ],
+        [
+          null,
+          "In whispers, I call, though answers die."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "They speak against me with venomous tongues,"
+        ],
+        [
+          null,
+          "A chorus of shadows, where darkness clung."
+        ],
+        [
+          null,
+          "Unjustly they hate, though love was my creed,"
+        ],
+        [
+          null,
+          "They cast their stones; I’m left to bleed."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "But in this valley where hope feels so faint,"
+        ],
+        [
+          null,
+          "I hold to Your promise, unbroken restraint."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Deliver me, O Grace unseen,"
+        ],
+        [
+          null,
+          "From the snares of the wicked, this weary scene."
+        ],
+        [
+          null,
+          "Let mercy rain, like stars in the deep,"
+        ],
+        [
+          null,
+          "Though the world forsakes, Your love I’ll keep."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "I’m broken and worn, my heart turns to ash,"
+        ],
+        [
+          null,
+          "But their hatred’s fire shall one day pass."
+        ],
+        [
+          null,
+          "For truth will awaken, though clouds obscure,"
+        ],
+        [
+          null,
+          "In the arms of redemption, my soul feels sure."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "When curses are spoken, they’ll fade in the wind,"
+        ],
+        [
+          null,
+          "The chains they have forged cannot hold me within."
+        ],
+        [
+          null,
+          "Your justice will rise, though it seems so delayed,"
+        ],
+        [
+          null,
+          "I walk in the shadow of debts You have paid."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Deliver me, O Grace unseen,"
+        ],
+        [
+          null,
+          "From the snares of the wicked, this weary scene."
+        ],
+        [
+          null,
+          "Let mercy rain, like stars in the deep,"
+        ],
+        [
+          null,
+          "Though the world forsakes, Your love I’ll keep."
+        ]
+      ]
+    },
+    {
+      "label": "Post-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, Your love, oh, Your love—"
+        ],
+        [
+          null,
+          "Unfailing, unbound."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Oh, hear me now, O Silent Sky,"
+        ],
+        [
+          null,
+          "Though answers fade, I’ll not deny."
+        ],
+        [
+          null,
+          "Deliver me..."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and of them that speak evil against my soul",
+  "epigraphRef": "Psalm 109:20",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,187 @@
 {
   "slug": "lift-the-broken",
   "title": "Lift The Broken",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 147",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "lift-the-broken.jpg",
+  "audio": "lift-the-broken.mp3",
   "spotify": "https://open.spotify.com/track/0LNGutZCXq6Kw7yJUSVFzn",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737ac1793bf341ad04e44c39df"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Avoid excessive brightness or reverb effects.)"
+        ],
+        [
+          null,
+          "Oh, the stars sing tonight,"
+        ],
+        [
+          null,
+          "Every breath feels so alive,"
+        ],
+        [
+          null,
+          "We gather here under this sky,"
+        ],
+        [
+          null,
+          "To heal, to love, to rise."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The shattered hearts, He binds them whole,"
+        ],
+        [
+          null,
+          "Filling cracks with rays of gold,"
+        ],
+        [
+          null,
+          "Clouds of sorrow, swept away,"
+        ],
+        [
+          null,
+          "Dawns of mercy, lead the day."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "He counts each star, He calls their names,"
+        ],
+        [
+          null,
+          "In their glow, we burn our shame."
+        ],
+        [
+          null,
+          "His love, unmeasured, uncontained,"
+        ],
+        [
+          null,
+          "A boundless force, a holy flame."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing it loud, let the world hear,"
+        ],
+        [
+          null,
+          "He lifts the broken, dries every tear."
+        ],
+        [
+          null,
+          "In every star, His healing flows,"
+        ],
+        [
+          null,
+          "A love so vast, the universe knows."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The winds obey, the oceans sway,"
+        ],
+        [
+          null,
+          "Mountains tremble, skies obey."
+        ],
+        [
+          null,
+          "His word creates, His hands restore,"
+        ],
+        [
+          null,
+          "A song of hope forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, lift your voice, feel the light,"
+        ],
+        [
+          null,
+          "Turn the pain into flight."
+        ],
+        [
+          null,
+          "With every step, the chains dissolve,"
+        ],
+        [
+          null,
+          "Dance to the rhythm of resolve."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Sing it loud, let the world hear,"
+        ],
+        [
+          null,
+          "He lifts the broken, dries every tear."
+        ],
+        [
+          null,
+          "In every star, His healing flows,"
+        ],
+        [
+          null,
+          "A love so vast, the universe knows."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Oh, the stars sing tonight,"
+        ],
+        [
+          null,
+          "Every breath feels so alive,"
+        ],
+        [
+          null,
+          "We gather here under this sky,"
+        ],
+        [
+          null,
+          "To heal, to love, to rise."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "He healeth the broken in heart",
+  "epigraphRef": "Psalm 147:3",
+  "lyricEyebrow": "From the Psalms"
 }

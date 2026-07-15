@@ -1,12 +1,170 @@
 {
   "slug": "zion-rising",
   "title": "Zion Rising",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 87",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "zion-rising.jpg",
+  "audio": "zion-rising.mp3",
   "spotify": "https://open.spotify.com/track/1QT5f6YetkzCsVbzVsMY6E",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fac06b335c7541bed5795b84"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "On holy mountains, ancient stones"
+        ],
+        [
+          null,
+          "Where heaven meets the earth below"
+        ],
+        [
+          null,
+          "The gates of Zion stand in gold"
+        ],
+        [
+          null,
+          "More precious than all lands we know"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Glory rises from your walls"
+        ],
+        [
+          null,
+          "Nations hear the sacred call"
+        ],
+        [
+          null,
+          "From every tongue and tribe they come"
+        ],
+        [
+          null,
+          "To find their home in Zion's halls"
+        ],
+        [
+          null,
+          "(Where all belong, in Zion's halls)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Egypt, Babylon, far Tyre"
+        ],
+        [
+          null,
+          "Their children dance in Zion's square"
+        ],
+        [
+          null,
+          "Ethiopia and distant shores"
+        ],
+        [
+          null,
+          "All find their sacred birthright there"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Glory rises from your walls"
+        ],
+        [
+          null,
+          "Nations hear the sacred call"
+        ],
+        [
+          null,
+          "From every tongue and tribe they come"
+        ],
+        [
+          null,
+          "To find their home in Zion's halls"
+        ],
+        [
+          null,
+          "(Where all belong, in Zion's halls)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Springs of life flow deep within"
+        ],
+        [
+          null,
+          "Where dancers sing and joy begins"
+        ],
+        [
+          null,
+          "Every soul that seeks finds peace"
+        ],
+        [
+          null,
+          "In ancient streets where hope still rings"
+        ],
+        [
+          null,
+          "The Most High writes in heaven's scroll"
+        ],
+        [
+          null,
+          "Each name among the chosen throng"
+        ],
+        [
+          null,
+          "And as they dance through Zion's gates"
+        ],
+        [
+          null,
+          "Their hearts burst forth in freedom's song"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Glory rises from your walls"
+        ],
+        [
+          null,
+          "Nations hear the sacred call"
+        ],
+        [
+          null,
+          "From every tongue and tribe they come"
+        ],
+        [
+          null,
+          "To find their home in Zion's halls"
+        ],
+        [
+          null,
+          "(Where all belong, in Zion's halls)"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "The LORD loveth the gates of Zion more than all the dwellings of Jacob",
+  "epigraphRef": "Psalm 87:2",
+  "lyricEyebrow": "From the Psalms"
 }

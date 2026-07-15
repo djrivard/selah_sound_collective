@@ -1,12 +1,221 @@
 {
   "slug": "rise-up",
   "title": "Rise Up",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 68",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rise-up.jpg",
+  "audio": "rise-up.mp3",
   "spotify": "https://open.spotify.com/track/0iJcsooodoDKAYF0WMeriw",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ffeab1413b484f772e26b98b"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Let the Mighty"
+        ],
+        [
+          null,
+          "One arise See His enemies disperse"
+        ],
+        [
+          null,
+          "Like smoke before the wind they flee"
+        ],
+        [
+          null,
+          "Like wax before the flame they melt"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the One who rides the clouds"
+        ],
+        [
+          null,
+          "Our Father to the fatherless"
+        ],
+        [
+          null,
+          "He leads the captives into light"
+        ],
+        [
+          null,
+          "Making deserts bloom with rain"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "In His holy dwelling place"
+        ],
+        [
+          null,
+          "He gives the lonely homes to claim"
+        ],
+        [
+          null,
+          "Chains fall from the prisoner's hands"
+        ],
+        [
+          null,
+          "While rebels dwell in desert lands"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the One who rides the clouds"
+        ],
+        [
+          null,
+          "Our Father to the fatherless"
+        ],
+        [
+          null,
+          "He leads the captives into light"
+        ],
+        [
+          null,
+          "Making deserts bloom with rain"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Mountains tremble at His voice"
+        ],
+        [
+          null,
+          "Earth itself begins to shake"
+        ],
+        [
+          null,
+          "Sinai bows before the Lord"
+        ],
+        [
+          null,
+          "Heaven's armies clear the way"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Through the wilderness He comes"
+        ],
+        [
+          null,
+          "Leading forth His mighty train"
+        ],
+        [
+          null,
+          "Gifts He scatters to His own"
+        ],
+        [
+          null,
+          "Victory rises in His wake"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "From Your temple high above"
+        ],
+        [
+          null,
+          "Kings bring tribute to Your throne"
+        ],
+        [
+          null,
+          "Nations scatter at Your word"
+        ],
+        [
+          null,
+          "Strength and power are Yours alone"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the One who rides the clouds"
+        ],
+        [
+          null,
+          "Our Father to the fatherless"
+        ],
+        [
+          null,
+          "He leads the captives into light"
+        ],
+        [
+          null,
+          "Making deserts bloom with rain"
+        ],
+        [
+          null,
+          "Chariots of fire blaze"
+        ],
+        [
+          null,
+          "Twenty thousand angels strong"
+        ],
+        [
+          null,
+          "Mountains bow in reverence"
+        ],
+        [
+          null,
+          "As Your glory marches on"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing to the One who rides the clouds"
+        ],
+        [
+          null,
+          "Our Father to the fatherless"
+        ],
+        [
+          null,
+          "He leads the captives into light"
+        ],
+        [
+          null,
+          "Making deserts bloom with rain"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "let them also that hate him flee before him",
+  "epigraphRef": "Psalm 68:1",
+  "lyricEyebrow": "From the Psalms"
 }

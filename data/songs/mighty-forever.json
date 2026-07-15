@@ -1,12 +1,189 @@
 {
   "slug": "mighty-forever",
   "title": "Mighty Forever",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 93",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "mighty-forever.jpg",
+  "audio": "mighty-forever.mp3",
   "spotify": "https://open.spotify.com/track/1KXivwEpL3C381K357Soyx",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f51e4375689aae3d1360e712"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The Lord reigns, His majesty shines,"
+        ],
+        [
+          null,
+          "Robed in splendor, power divine."
+        ],
+        [
+          null,
+          "The world stands firm, it won’t be moved,"
+        ],
+        [
+          null,
+          "Your throne eternal, ever proved."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oceans roar, their voice ascends,"
+        ],
+        [
+          null,
+          "Songs of might the heavens send."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are crowned in glory, high above all,"
+        ],
+        [
+          null,
+          "Endless is Your kingdom, we rise, we fall."
+        ],
+        [
+          null,
+          "Mighty waves proclaim Your holy decree,"
+        ],
+        [
+          null,
+          "Forever unshaken, You reign over me."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Your laws stand firm, Your house secure,"
+        ],
+        [
+          null,
+          "Holiness adorns, it will endure."
+        ],
+        [
+          null,
+          "From ages past to days unseen,"
+        ],
+        [
+          null,
+          "You are the constant, the reigning King."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oceans roar, their voice ascends,"
+        ],
+        [
+          null,
+          "Songs of might the heavens send."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are crowned in glory, high above all,"
+        ],
+        [
+          null,
+          "Endless is Your kingdom, we rise, we fall."
+        ],
+        [
+          null,
+          "Mighty waves proclaim Your holy decree,"
+        ],
+        [
+          null,
+          "Forever unshaken, You reign over me."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, the rivers clap their hands,"
+        ],
+        [
+          null,
+          "Mountains sing where You stand."
+        ],
+        [
+          null,
+          "All creation shouts Your name,"
+        ],
+        [
+          null,
+          "Through the earth, Your power remains."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are crowned in glory, high above all,"
+        ],
+        [
+          null,
+          "Endless is Your kingdom, we rise, we fall."
+        ],
+        [
+          null,
+          "Mighty waves proclaim Your holy decree,"
+        ],
+        [
+          null,
+          "Forever unshaken, You reign over me."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever unshaken, You reign over me."
+        ],
+        [
+          null,
+          "Forever unshaken, You reign over me."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "the LORD is clothed with strength",
+  "epigraphRef": "Psalm 93:1",
+  "lyricEyebrow": "From the Psalms"
 }

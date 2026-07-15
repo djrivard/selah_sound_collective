@@ -1,12 +1,201 @@
 {
   "slug": "remember-his-wonders",
   "title": "Remember His Wonders",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 105",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "remember-his-wonders.jpg",
+  "audio": "remember-his-wonders.mp3",
   "spotify": "https://open.spotify.com/track/6x8Qi3VxqJ7OXClUqf1nGX",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c497b5d749cec53dbd1f9daf"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Sing His name, oh let it rise,"
+        ],
+        [
+          null,
+          "Through the heavens, through the skies."
+        ],
+        [
+          null,
+          "Dance in faith, let praises flow,"
+        ],
+        [
+          null,
+          "Feel the fire, let it glow."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Call on His name, the One we adore,"
+        ],
+        [
+          null,
+          "Tell of His wonders, forevermore."
+        ],
+        [
+          null,
+          "Seek His presence, don’t turn away,"
+        ],
+        [
+          null,
+          "He’s our fortress, our light, our stay."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Remember the promise, the oath of His love,"
+        ],
+        [
+          null,
+          "Signed with the heavens, sealed from above."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing of His glory, proclaim His might,"
+        ],
+        [
+          null,
+          "Every promise holds true, through day and night."
+        ],
+        [
+          null,
+          "He led us through shadows, turned dark to light,"
+        ],
+        [
+          null,
+          "Forever faithful, His love ignites."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He called the stars, and they took their place,"
+        ],
+        [
+          null,
+          "Opened the waters, unveiled His grace."
+        ],
+        [
+          null,
+          "Our hearts rejoice, His mercy reigns,"
+        ],
+        [
+          null,
+          "He lifts the broken, He breaks the chains."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "From ages past to the days ahead,"
+        ],
+        [
+          null,
+          "His power endures, His word is said."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing of His glory, proclaim His might,"
+        ],
+        [
+          null,
+          "Every promise holds true, through day and night."
+        ],
+        [
+          null,
+          "He led us through shadows, turned dark to light,"
+        ],
+        [
+          null,
+          "Forever faithful, His love ignites."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, hearts that seek, you will find,"
+        ],
+        [
+          null,
+          "The path of grace, the eternal sign."
+        ],
+        [
+          null,
+          "Lift your voice, let it be known,"
+        ],
+        [
+          null,
+          "Through every trial, we are His own."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing of His glory, proclaim His might,"
+        ],
+        [
+          null,
+          "Every promise holds true, through day and night."
+        ],
+        [
+          null,
+          "He led us through shadows, turned dark to light,"
+        ],
+        [
+          null,
+          "Forever faithful, His love ignites."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "His love ignites, oh, His love ignites…"
+        ],
+        [
+          null,
+          "Forever faithful, His love ignites."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Remember his marvellous works that he hath done",
+  "epigraphRef": "Psalm 105:5",
+  "lyricEyebrow": "From the Psalms"
 }

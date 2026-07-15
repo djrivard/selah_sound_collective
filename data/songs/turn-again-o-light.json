@@ -1,12 +1,215 @@
 {
   "slug": "turn-again-o-light",
   "title": "Turn Again, O Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 85",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "turn-again-o-light.jpg",
+  "audio": "turn-again-o-light.mp3",
   "spotify": "https://open.spotify.com/track/2VhmzjLONAUSVUq30Vqoom",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273efa50c0bbb722898d221c1cc"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A G F#m Bm)"
+        ],
+        [
+          null,
+          "Oh, how the land remembers grace,"
+        ],
+        [
+          null,
+          "Whispers of favor in the quiet space,"
+        ],
+        [
+          null,
+          "A dream reborn, a spark divine,"
+        ],
+        [
+          null,
+          "Calling us home through the sands of time."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A G Bm F#m)"
+        ],
+        [
+          null,
+          "You’ve turned from anger’s fierce embrace,"
+        ],
+        [
+          null,
+          "Your love has healed this wounded place,"
+        ],
+        [
+          null,
+          "Mercy flows where deserts lie,"
+        ],
+        [
+          null,
+          "The broken heart finds wings to fly."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(D A G F#m)"
+        ],
+        [
+          null,
+          "Will You not breathe, O Spirit’s flame,"
+        ],
+        [
+          null,
+          "Revive us now, we call Your name,"
+        ],
+        [
+          null,
+          "Peace and justice, hand in hand,"
+        ],
+        [
+          null,
+          "Rising like rivers through the land."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(G D A Bm)"
+        ],
+        [
+          null,
+          "Turn again, O Light of Days,"
+        ],
+        [
+          null,
+          "Shine on paths that lose their way,"
+        ],
+        [
+          null,
+          "Mercy meets truth in the kiss of dawn,"
+        ],
+        [
+          null,
+          "From earth to sky, hope marches on."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A G Bm F#m)"
+        ],
+        [
+          null,
+          "Faithful steps on sacred ground,"
+        ],
+        [
+          null,
+          "Where songs of old still resound,"
+        ],
+        [
+          null,
+          "Through shadowed vale and golden shore,"
+        ],
+        [
+          null,
+          "The promise holds, forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(Bm A G F#m)"
+        ],
+        [
+          null,
+          "Here heaven and earth collide,"
+        ],
+        [
+          null,
+          "Justice flows like an endless tide,"
+        ],
+        [
+          null,
+          "The clouds open wide, the harvest sings,"
+        ],
+        [
+          null,
+          "As peace descends on eagle’s wings."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(G D A Bm)"
+        ],
+        [
+          null,
+          "Turn again, O Light of Days,"
+        ],
+        [
+          null,
+          "Shine on paths that lose their way,"
+        ],
+        [
+          null,
+          "Mercy meets truth in the kiss of dawn,"
+        ],
+        [
+          null,
+          "From earth to sky, hope marches on."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A G F#m Bm)"
+        ],
+        [
+          null,
+          "Oh, how the land remembers grace,"
+        ],
+        [
+          null,
+          "Whispers of favor in the quiet space,"
+        ],
+        [
+          null,
+          "A dream reborn, a spark divine,"
+        ],
+        [
+          null,
+          "Guiding us home through the sands of time."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "but let them not turn again to folly",
+  "epigraphRef": "Psalm 85:8",
+  "lyricEyebrow": "From the Psalms"
 }

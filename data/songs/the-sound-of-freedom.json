@@ -1,12 +1,175 @@
 {
   "slug": "the-sound-of-freedom",
   "title": "The Sound of Freedom",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 81",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-sound-of-freedom.jpg",
+  "audio": "the-sound-of-freedom.mp3",
   "spotify": "https://open.spotify.com/track/0JjYzt6HZj1XK7do25m0Ji",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27300a64745761c662b7136b8b2"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Sing to the heavens, let your voice arise,"
+        ],
+        [
+          null,
+          "Through the clouds, a melody flies."
+        ],
+        [
+          null,
+          "Whispers of freedom, breaking the night,"
+        ],
+        [
+          null,
+          "Calling the heart to its radiant light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Break the silence, lift up your name,"
+        ],
+        [
+          null,
+          "The joy of salvation, no fear, no shame."
+        ],
+        [
+          null,
+          "Through deserts of longing, the rivers will flow,"
+        ],
+        [
+          null,
+          "He calls in the storm, to the places we go."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, hear the voice, the ancient decree,"
+        ],
+        [
+          null,
+          "Calling His children to sing and be free."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "“Raise the song, let the music soar,"
+        ],
+        [
+          null,
+          "Through the gates, into evermore."
+        ],
+        [
+          null,
+          "The winds of freedom carry the sound,"
+        ],
+        [
+          null,
+          "From the heights, to the earth, all around.”"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "When shadows gather, and doubts intertwine,"
+        ],
+        [
+          null,
+          "The strength of the faithful will always shine."
+        ],
+        [
+          null,
+          "Through trials and battles, our spirits remain,"
+        ],
+        [
+          null,
+          "Guided by love, unbroken, unchained."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Hear the thunder, the heavens proclaim,"
+        ],
+        [
+          null,
+          "The echo of mercy, a holy refrain."
+        ],
+        [
+          null,
+          "The promise of ages, forever to stay,"
+        ],
+        [
+          null,
+          "In the heart of the faithful, He makes His way."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "“Raise the song, let the music soar,"
+        ],
+        [
+          null,
+          "Through the gates, into evermore."
+        ],
+        [
+          null,
+          "The winds of freedom carry the sound,"
+        ],
+        [
+          null,
+          "From the heights, to the earth, all around.”"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Sing to the heavens, let your voice arise,"
+        ],
+        [
+          null,
+          "Through the clouds, a melody flies."
+        ],
+        [
+          null,
+          "Unbroken melodies, echoing through,"
+        ],
+        [
+          null,
+          "A song everlasting, forever renewed."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Sing aloud unto God our strength",
+  "epigraphRef": "Psalm 81:1",
+  "lyricEyebrow": "From the Psalms"
 }

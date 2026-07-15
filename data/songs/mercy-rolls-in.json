@@ -1,12 +1,167 @@
 {
   "slug": "mercy-rolls-in",
   "title": "Mercy Rolls In",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 74",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "mercy-rolls-in.jpg",
+  "audio": "mercy-rolls-in.mp3",
   "spotify": "https://open.spotify.com/track/15X18a08wWiDDz7p2yKRLC",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737fc9167f1883f1b76acb969b"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "O Lord, this world feels lost tonight,"
+        ],
+        [
+          null,
+          "We’re walking roads without Your light."
+        ],
+        [
+          null,
+          "But I remember days of old,"
+        ],
+        [
+          null,
+          "Your love was fire, a hand to hold."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The rivers run where You once stood,"
+        ],
+        [
+          null,
+          "The fields don’t yield the way they should."
+        ],
+        [
+          null,
+          "Your signs are missing, stars are gone,"
+        ],
+        [
+          null,
+          "But I’m still praying, holding on."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "You built the skies, the mountain’s face,"
+        ],
+        [
+          null,
+          "You gave the oceans their first place."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Bring us back, Lord, hear us sing,"
+        ],
+        [
+          null,
+          "Your mercy rolls in like early spring."
+        ],
+        [
+          null,
+          "Stand up, defend the life You gave,"
+        ],
+        [
+          null,
+          "Your love’s the road that still saves."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The winds are howling, storms don’t quit,"
+        ],
+        [
+          null,
+          "But I believe You’re in the midst of it."
+        ],
+        [
+          null,
+          "You split the seas, You tamed the tide,"
+        ],
+        [
+          null,
+          "Now bring Your peace, stay by my side."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let the past remind our hearts,"
+        ],
+        [
+          null,
+          "The covenant’s never torn apart."
+        ],
+        [
+          null,
+          "Through every trial, every fall,"
+        ],
+        [
+          null,
+          "Your name’s the truth behind it all."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Bring us back, Lord, hear us sing,"
+        ],
+        [
+          null,
+          "Your mercy rolls in like early spring."
+        ],
+        [
+          null,
+          "Stand up, defend the life You gave,"
+        ],
+        [
+          null,
+          "Your love’s the road that still saves."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "O Lord, this world feels lost tonight,"
+        ],
+        [
+          null,
+          "But Your love’s the way to make it right."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "They have cast fire into thy sanctuary",
+  "epigraphRef": "Psalm 74:7",
+  "lyricEyebrow": "From the Psalms"
 }

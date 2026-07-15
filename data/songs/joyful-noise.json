@@ -1,12 +1,138 @@
 {
   "slug": "joyful-noise",
   "title": "Joyful Noise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 100",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "joyful-noise.jpg",
+  "audio": "joyful-noise.mp3",
   "spotify": "https://open.spotify.com/track/0QmofDfi8okM1Mruf0vuTS",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273373509a59ba9f135a6e1b858"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Avoid excessive brightness or reverb effects)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Make a joyful noise to the Lord, all the earth,"
+        ],
+        [
+          null,
+          "Serve Him with gladness, for all He’s worth."
+        ],
+        [
+          null,
+          "Come into His presence with songs of praise,"
+        ],
+        [
+          null,
+          "Our hearts uplifted, our voices raised."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Know that the Lord is our mighty King,"
+        ],
+        [
+          null,
+          "He made us all; to Him we bring."
+        ],
+        [
+          null,
+          "We are His people, His pasture’s sheep,"
+        ],
+        [
+          null,
+          "Forever loved, His word we keep."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Enter His gates with thanksgiving, true,"
+        ],
+        [
+          null,
+          "His courts with praise for all He’ll do."
+        ],
+        [
+          null,
+          "Give thanks to His name, bless it always,"
+        ],
+        [
+          null,
+          "For endless mercy fills our days."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "For the Lord is good, His love remains,"
+        ],
+        [
+          null,
+          "Through all the ages, His truth sustains."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Know that the Lord is our mighty King,"
+        ],
+        [
+          null,
+          "He made us all; to Him we bring."
+        ],
+        [
+          null,
+          "We are His people, His pasture’s sheep,"
+        ],
+        [
+          null,
+          "Forever loved, His word we keep."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Shout with joy to the Lord above,"
+        ],
+        [
+          null,
+          "Sing His truth and endless love."
+        ],
+        [
+          null,
+          "(Avoid sharp transients and overemphasized harmonics)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Make a joyful noise unto the LORD",
+  "epigraphRef": "Psalm 100:1",
+  "lyricEyebrow": "From the Psalms"
 }

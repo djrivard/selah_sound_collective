@@ -1,12 +1,169 @@
 {
   "slug": "till-the-kingdom-come",
   "title": "Till The Kingdom Come",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 150",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "till-the-kingdom-come.jpg",
+  "audio": "till-the-kingdom-come.mp3",
   "spotify": "https://open.spotify.com/track/2fjUkWc1jVXr4wMdRvMcgz",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731269c97bd7c9c7d69b99c9bf"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In sacred halls of endless light"
+        ],
+        [
+          null,
+          "Where glory dwells in infinite might"
+        ],
+        [
+          null,
+          "Let every voice rise up to sing"
+        ],
+        [
+          null,
+          "Let praise eternal upward ring"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift your voice, sound the horn"
+        ],
+        [
+          null,
+          "Let your praise be reborn"
+        ],
+        [
+          null,
+          "Every breath, every sound"
+        ],
+        [
+          null,
+          "Till the kingdom come down"
+        ],
+        [
+          null,
+          "Hallelujah, praise eternal"
+        ],
+        [
+          null,
+          "Hallelujah, praise eternal"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "With strings that dance and cymbals bright"
+        ],
+        [
+          null,
+          "With thundering drums in pure delight"
+        ],
+        [
+          null,
+          "For all His wonders, all His ways"
+        ],
+        [
+          null,
+          "Let everything that breathes give praise"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift your voice, sound the horn"
+        ],
+        [
+          null,
+          "Let your praise be reborn"
+        ],
+        [
+          null,
+          "Every breath, every sound"
+        ],
+        [
+          null,
+          "Till the kingdom come down"
+        ],
+        [
+          null,
+          "Hallelujah, praise eternal"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "From the depths of the sea"
+        ],
+        [
+          null,
+          "To the stars burning free"
+        ],
+        [
+          null,
+          "From the dawn's early light"
+        ],
+        [
+          null,
+          "To the whispers of night"
+        ],
+        [
+          null,
+          "Let it rise, let it soar"
+        ],
+        [
+          null,
+          "Like never before"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Lift your voice, sound the horn"
+        ],
+        [
+          null,
+          "Let your praise be reborn"
+        ],
+        [
+          null,
+          "Every breath, every sound"
+        ],
+        [
+          null,
+          "Till the kingdom come down"
+        ],
+        [
+          null,
+          "Hallelujah, praise eternal"
+        ],
+        [
+          null,
+          "Hallelujah, praise eternal"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "praise him with stringed instruments and organs",
+  "epigraphRef": "Psalm 150:4",
+  "lyricEyebrow": "From the Psalms"
 }

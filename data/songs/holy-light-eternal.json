@@ -1,12 +1,189 @@
 {
   "slug": "holy-light-eternal",
   "title": "Holy Light Eternal",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 99",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "holy-light-eternal.jpg",
+  "audio": "holy-light-eternal.mp3",
   "spotify": "https://open.spotify.com/track/1e5IxEfc7olyYRUO3YoZU6",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27307ec8509bdeb1a7eed9fb4d3"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The Lord reigns, let the nations be glad,"
+        ],
+        [
+          null,
+          "He dwells above, in clouds of glory clad."
+        ],
+        [
+          null,
+          "His justice flows like rivers untamed,"
+        ],
+        [
+          null,
+          "Holy and mighty, forever proclaimed."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Let the earth tremble, the heavens adore,"
+        ],
+        [
+          null,
+          "Lift up your voices, let praises soar."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Exalt the Lord, enthroned on high,"
+        ],
+        [
+          null,
+          "Worship His name, the Holy cry."
+        ],
+        [
+          null,
+          "Mighty and just, His love never fades,"
+        ],
+        [
+          null,
+          "Let His glory fill all the days."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From Zion’s hill, His voice declares,"
+        ],
+        [
+          null,
+          "The nations bow, their burdens He bears."
+        ],
+        [
+          null,
+          "Mercy and truth, in His shadow found,"
+        ],
+        [
+          null,
+          "His grace unending, a radiant crown."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Let the earth tremble, the heavens adore,"
+        ],
+        [
+          null,
+          "Lift up your voices, let praises soar."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Exalt the Lord, enthroned on high,"
+        ],
+        [
+          null,
+          "Worship His name, the Holy cry."
+        ],
+        [
+          null,
+          "Mighty and just, His love never fades,"
+        ],
+        [
+          null,
+          "Let His glory fill all the days."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Holy is He, who answers our call,"
+        ],
+        [
+          null,
+          "The King of all kings, the Lord of all."
+        ],
+        [
+          null,
+          "Through fire and storm, His presence remains,"
+        ],
+        [
+          null,
+          "His holy name forever sustains."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Exalt the Lord, enthroned on high,"
+        ],
+        [
+          null,
+          "Worship His name, the Holy cry."
+        ],
+        [
+          null,
+          "Mighty and just, His love never fades,"
+        ],
+        [
+          null,
+          "Let His glory fill all the days."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "His throne of light, a beacon shines,"
+        ],
+        [
+          null,
+          "Forever holy, in endless time."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Exalt ye the LORD our God",
+  "epigraphRef": "Psalm 99:5",
+  "lyricEyebrow": "From the Psalms"
 }

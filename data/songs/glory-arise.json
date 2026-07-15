@@ -1,12 +1,221 @@
 {
   "slug": "glory-arise",
   "title": "Glory Arise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 57",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "glory-arise.jpg",
+  "audio": "glory-arise.mp3",
   "spotify": "https://open.spotify.com/track/6k2ZMvcjoB8euV6FuWbYIH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27328efd31dc444628eb4d75852"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In shadows deep I find my peace"
+        ],
+        [
+          null,
+          "Beneath Your wings, my sweet release"
+        ],
+        [
+          null,
+          "Till storms of hatred pass me by"
+        ],
+        [
+          null,
+          "In Your embrace, I safely lie"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love reaches higher than the heavens above"
+        ],
+        [
+          null,
+          "Your faithfulness soars beyond the clouds"
+        ],
+        [
+          null,
+          "I will sing, I will sing"
+        ],
+        [
+          null,
+          "Till the dawn breaks through"
+        ],
+        [
+          null,
+          "My heart awakens to praise You"
+        ],
+        [
+          null,
+          "(Your love reaches higher than the heavens above)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They set their traps with sharpened steel"
+        ],
+        [
+          null,
+          "Their words like swords, they make me kneel"
+        ],
+        [
+          null,
+          "But You arise above their schemes"
+        ],
+        [
+          null,
+          "Your glory shines through all my dreams"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love reaches higher than the heavens above"
+        ],
+        [
+          null,
+          "Your faithfulness soars beyond the clouds"
+        ],
+        [
+          null,
+          "I will sing, I will sing"
+        ],
+        [
+          null,
+          "Till the dawn breaks through"
+        ],
+        [
+          null,
+          "My heart awakens to praise You"
+        ],
+        [
+          null,
+          "(Your love reaches higher than the heavens above)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let Your glory fill the earth"
+        ],
+        [
+          null,
+          "Let Your presence show its worth"
+        ],
+        [
+          null,
+          "Nations rise to hear Your name"
+        ],
+        [
+          null,
+          "Hearts ignite with heaven's flame"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "My soul takes flight on morning's wing"
+        ],
+        [
+          null,
+          "With harp and lyre, my voice will ring"
+        ],
+        [
+          null,
+          "Through every land and every tongue"
+        ],
+        [
+          null,
+          "Your endless mercy will be sung"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "From mountain peaks to ocean deep"
+        ],
+        [
+          null,
+          "Your promise, Lord, You always keep"
+        ],
+        [
+          null,
+          "Through fire and storm, through darkest night"
+        ],
+        [
+          null,
+          "Your mercy leads me to the light"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love reaches higher than the heavens above"
+        ],
+        [
+          null,
+          "Your faithfulness soars beyond the clouds"
+        ],
+        [
+          null,
+          "I will sing, I will sing"
+        ],
+        [
+          null,
+          "Till the dawn breaks through"
+        ],
+        [
+          null,
+          "My heart awakens to praise You"
+        ],
+        [
+          null,
+          "(Your love reaches higher than the heavens above)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Higher than the heavens above"
+        ],
+        [
+          null,
+          "Higher than the heavens above Your love, Your love"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "let thy glory be above all the earth",
+  "epigraphRef": "Psalm 57:5",
+  "lyricEyebrow": "From the Psalms"
 }

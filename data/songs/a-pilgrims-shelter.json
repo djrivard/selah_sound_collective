@@ -1,12 +1,159 @@
 {
   "slug": "a-pilgrims-shelter",
   "title": "A Pilgrim's Shelter",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 120",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-pilgrims-shelter.jpg",
+  "audio": "a-pilgrims-shelter.mp3",
   "spotify": "https://open.spotify.com/track/205iixDH57fdmiNF7230KR",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273bfb87ec88afa636d12c632b9"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Whispers in the valley, a cry in the night,"
+        ],
+        [
+          null,
+          "The hills hold their silence, but I seek the light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In my distress, I called upon the heights,"
+        ],
+        [
+          null,
+          "The heavens heard, casting down the lies."
+        ],
+        [
+          null,
+          "Sharp as arrows, words once pierced my soul,"
+        ],
+        [
+          null,
+          "But a voice of truth, now makes me whole."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, where does my refuge lie?"
+        ],
+        [
+          null,
+          "Beneath the vast and open sky."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From the shadows, I am freed,"
+        ],
+        [
+          null,
+          "Guided by the stars’ decree."
+        ],
+        [
+          null,
+          "Through the storm, a beacon shines,"
+        ],
+        [
+          null,
+          "A distant cry becomes divine."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Woe to the wanderer in the land of deceit,"
+        ],
+        [
+          null,
+          "Yet steps of faith make the journey complete."
+        ],
+        [
+          null,
+          "Though the fire burns and arrows still fall,"
+        ],
+        [
+          null,
+          "A higher voice whispers, \"I am your all.\""
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "O mountains, rise and echo my plea,"
+        ],
+        [
+          null,
+          "O valleys, carry my yearning to the sea."
+        ],
+        [
+          null,
+          "Let the winds cry mercy, let the storms abate,"
+        ],
+        [
+          null,
+          "For in this journey, I find my fate."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From the shadows, I am freed,"
+        ],
+        [
+          null,
+          "Guided by the stars’ decree."
+        ],
+        [
+          null,
+          "Through the storm, a beacon shines,"
+        ],
+        [
+          null,
+          "A distant cry becomes divine."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "And so I stand, though the world may weep,"
+        ],
+        [
+          null,
+          "In the arms of solace, my soul finds peace."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "In my distress I cried unto the LORD",
+  "epigraphRef": "Psalm 120:1",
+  "lyricEyebrow": "From the Psalms"
 }

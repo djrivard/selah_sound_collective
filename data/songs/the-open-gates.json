@@ -1,12 +1,189 @@
 {
   "slug": "the-open-gates",
   "title": "The Open Gates",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 118",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-open-gates.jpg",
+  "audio": "the-open-gates.mp3",
   "spotify": "https://open.spotify.com/track/4AzCEgdnBaKfxHyK1d1cJJ",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739ff9d9959ff4a9b4e5d1b298"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Spoken) “This is the day the Lord has made…”"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Out of the depths, I called, and You answered,"
+        ],
+        [
+          null,
+          "Your mercy stretched like rivers wide."
+        ],
+        [
+          null,
+          "The stone rejected stands unshaken,"
+        ],
+        [
+          null,
+          "The cornerstone of time and tide."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, the gates of justice swing,"
+        ],
+        [
+          null,
+          "I enter in, I enter in."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your steadfast love endures forever,"
+        ],
+        [
+          null,
+          "Through shadowed nights and burning days."
+        ],
+        [
+          null,
+          "I will not fear; You are my refuge,"
+        ],
+        [
+          null,
+          "The song of triumph, my soul's embrace."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Nations surrounded, yet I was not broken,"
+        ],
+        [
+          null,
+          "Your strength became my guiding hand."
+        ],
+        [
+          null,
+          "In the open field of endless mercy,"
+        ],
+        [
+          null,
+          "I found a place where I could stand."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, the gates of justice swing,"
+        ],
+        [
+          null,
+          "I enter in, I enter in."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your steadfast love endures forever,"
+        ],
+        [
+          null,
+          "Through shadowed nights and burning days."
+        ],
+        [
+          null,
+          "I will not fear; You are my refuge,"
+        ],
+        [
+          null,
+          "The song of triumph, my soul's embrace."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Pressed on every side, but not forsaken,"
+        ],
+        [
+          null,
+          "Flames surround, yet I do not burn."
+        ],
+        [
+          null,
+          "The Lord’s right hand has done great wonders,"
+        ],
+        [
+          null,
+          "The tides of fear begin to turn."
+        ]
+      ]
+    },
+    {
+      "label": "Post-Chorus",
+      "lines": [
+        [
+          null,
+          "This is the gate of the Lord,"
+        ],
+        [
+          null,
+          "The righteous will walk through."
+        ],
+        [
+          null,
+          "I will give thanks, I will give thanks,"
+        ],
+        [
+          null,
+          "Forever fixed on You."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Your love endures…"
+        ],
+        [
+          null,
+          "Forever…"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Open to me the gates of righteousness",
+  "epigraphRef": "Psalm 118:19",
+  "lyricEyebrow": "From the Psalms"
 }

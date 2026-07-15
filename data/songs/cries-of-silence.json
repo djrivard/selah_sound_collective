@@ -1,12 +1,167 @@
 {
   "slug": "cries-of-silence",
   "title": "Cries of Silence",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 83",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "cries-of-silence.jpg",
+  "audio": "cries-of-silence.mp3",
   "spotify": "https://open.spotify.com/track/7exssnC38QnlGJr5mP5ecu",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a03794815ebccb7fc61bb712"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "\"Do not be still, O voice of the void,"
+        ],
+        [
+          null,
+          "The winds carry cries, unseen yet heard.\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Enemies rise like whispers in the night,"
+        ],
+        [
+          null,
+          "Plotting shadows where no light survives."
+        ],
+        [
+          null,
+          "They conspire with the tongues of ash,"
+        ],
+        [
+          null,
+          "Their breath devours the fragile sky."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Their banners rise, their fury burns,"
+        ],
+        [
+          null,
+          "Like a fire in the hollowed hills."
+        ],
+        [
+          null,
+          "They say, “Let their names be erased,"
+        ],
+        [
+          null,
+          "Let the earth forget their song.”"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "But You, O Keeper of storms, awake,"
+        ],
+        [
+          null,
+          "Let them scatter like chaff on the wind."
+        ],
+        [
+          null,
+          "Let their faces burn with shame,"
+        ],
+        [
+          null,
+          "Until they seek Your name again."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The mountains quake with ancient grief,"
+        ],
+        [
+          null,
+          "The rivers mourn for what they've lost."
+        ],
+        [
+          null,
+          "Their voices call, but no one hears,"
+        ],
+        [
+          null,
+          "The silence swallows the cost."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Make them as the tempest flees,"
+        ],
+        [
+          null,
+          "As leaves in the chaos of the gale."
+        ],
+        [
+          null,
+          "For they sought the dust of conquest,"
+        ],
+        [
+          null,
+          "But found the weight of their betrayal."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "But You, O Keeper of storms, awake,"
+        ],
+        [
+          null,
+          "Let them scatter like chaff on the wind."
+        ],
+        [
+          null,
+          "Let their faces burn with shame,"
+        ],
+        [
+          null,
+          "Until they seek Your name again."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "\"And the world will know Your shadow’s grace,"
+        ],
+        [
+          null,
+          "As the winds erase what the darkness traced.\""
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and be not still",
+  "epigraphRef": "Psalm 83:1",
+  "lyricEyebrow": "From the Psalms"
 }

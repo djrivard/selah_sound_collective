@@ -1,12 +1,201 @@
 {
   "slug": "a-frail-whisper",
   "title": "A Frail Whisper",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 103",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-frail-whisper.jpg",
+  "audio": "a-frail-whisper.mp3",
   "spotify": "https://open.spotify.com/track/7M6KCi5fpuheXUaAnK7z5T",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730d33bd2514e0793d89d103ed"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "A whisper of breath, a fleeting life,"
+        ],
+        [
+          null,
+          "Dust on the wind, frail, yet alight,"
+        ],
+        [
+          null,
+          "Our days are numbered, shadows fall,"
+        ],
+        [
+          null,
+          "Yet still Your mercy cradles all."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Bless the Lord, my soul, arise,"
+        ],
+        [
+          null,
+          "Though despair consumes the skies,"
+        ],
+        [
+          null,
+          "Forget not the love that heals,"
+        ],
+        [
+          null,
+          "Wounds of time, Your grace reveals."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "As the heavens stretch above,"
+        ],
+        [
+          null,
+          "So is Your boundless love."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From the dust, You raise my song,"
+        ],
+        [
+          null,
+          "Through the storm, You carry on,"
+        ],
+        [
+          null,
+          "Mercy vast as endless skies,"
+        ],
+        [
+          null,
+          "Hope reborn where sorrow lies."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "A flower blooms, a moment brief,"
+        ],
+        [
+          null,
+          "Swept away like autumn leaves,"
+        ],
+        [
+          null,
+          "Yet eternal, Your throne remains,"
+        ],
+        [
+          null,
+          "A refuge through the ceaseless rains."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "As the heavens stretch above,"
+        ],
+        [
+          null,
+          "So is Your boundless love."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From the dust, You raise my song,"
+        ],
+        [
+          null,
+          "Through the storm, You carry on,"
+        ],
+        [
+          null,
+          "Mercy vast as endless skies,"
+        ],
+        [
+          null,
+          "Hope reborn where sorrow lies."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, we are frail, a fleeting breath,"
+        ],
+        [
+          null,
+          "Yet in Your arms, no fear of death,"
+        ],
+        [
+          null,
+          "A covenant, steadfast and pure,"
+        ],
+        [
+          null,
+          "Through generations, You endure."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "From the dust, You raise my song,"
+        ],
+        [
+          null,
+          "Through the storm, You carry on,"
+        ],
+        [
+          null,
+          "Mercy vast as endless skies,"
+        ],
+        [
+          null,
+          "Hope reborn where sorrow lies."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Bless the Lord, my soul, arise,"
+        ],
+        [
+          null,
+          "Though despair consumes the skies."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and forget not all his benefits",
+  "epigraphRef": "Psalm 103:2",
+  "lyricEyebrow": "From the Psalms"
 }

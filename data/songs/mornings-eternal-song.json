@@ -1,12 +1,185 @@
 {
   "slug": "mornings-eternal-song",
   "title": "Morning's Eternal Song",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 92",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "mornings-eternal-song.jpg",
+  "audio": "mornings-eternal-song.mp3",
   "spotify": "https://open.spotify.com/track/5ibKj2gA4KJmUHIfqlsHWg",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736462132243c3d7b98dc9a185"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "At the break of dawn, I lift my voice,"
+        ],
+        [
+          null,
+          "A hymn of joy, my heart’s first choice."
+        ],
+        [
+          null,
+          "Your works, O Lord, a masterpiece,"
+        ],
+        [
+          null,
+          "From endless skies to ocean’s peace."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "How great are Your wonders, too vast to name,"
+        ],
+        [
+          null,
+          "Each day proclaims Your boundless flame."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, how sweet to sing Your praise,"
+        ],
+        [
+          null,
+          "Through golden morns and twilight’s haze."
+        ],
+        [
+          null,
+          "You make my spirit rise and soar,"
+        ],
+        [
+          null,
+          "A love unending, forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The righteous bloom like the cedar tall,"
+        ],
+        [
+          null,
+          "Firmly rooted, we shall not fall."
+        ],
+        [
+          null,
+          "In Your courts, we thrive and grow,"
+        ],
+        [
+          null,
+          "Your light the sun, Your grace the glow."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Through every season, Your truth remains,"
+        ],
+        [
+          null,
+          "Your steadfast love, the sweetest refrain."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, how sweet to sing Your praise,"
+        ],
+        [
+          null,
+          "Through golden morns and twilight’s haze."
+        ],
+        [
+          null,
+          "You make my spirit rise and soar,"
+        ],
+        [
+          null,
+          "A love unending, forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "In the shadows of the night,"
+        ],
+        [
+          null,
+          "You are my song, my guiding light."
+        ],
+        [
+          null,
+          "Your melody, a healing stream,"
+        ],
+        [
+          null,
+          "Awakens hope, restores the dream."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, how sweet to sing Your praise,"
+        ],
+        [
+          null,
+          "Through golden morns and twilight’s haze."
+        ],
+        [
+          null,
+          "You make my spirit rise and soar,"
+        ],
+        [
+          null,
+          "A love unending, forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forevermore, forevermore..."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "how great are thy works! and thy thoughts are very deep",
+  "epigraphRef": "Psalm 92:5",
+  "lyricEyebrow": "From the Psalms"
 }

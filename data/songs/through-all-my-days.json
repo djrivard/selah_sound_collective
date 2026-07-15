@@ -1,12 +1,196 @@
 {
   "slug": "through-all-my-days",
   "title": "Through All My Days",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 71",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "through-all-my-days.jpg",
+  "audio": "through-all-my-days.mp3",
   "spotify": "https://open.spotify.com/track/3t1ywFsH4GIEwuOvMDoM0y",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27395ee16b13431d050d6781089"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From my earliest breath to this very day"
+        ],
+        [
+          null,
+          "You've been my shelter, my strength, my way"
+        ],
+        [
+          null,
+          "When darkness surrounds and hope starts to fade"
+        ],
+        [
+          null,
+          "You're the fortress where I'm not afraid"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "My refuge, my rock, my constant praise"
+        ],
+        [
+          null,
+          "Through every season, through all my days"
+        ],
+        [
+          null,
+          "Let my voice rise up,"
+        ],
+        [
+          null,
+          "let my song proclaim Your justice,"
+        ],
+        [
+          null,
+          "Your mercy, Your holy name"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They whisper I'm broken, they say I'm done"
+        ],
+        [
+          null,
+          "But in You my spirit has just begun"
+        ],
+        [
+          null,
+          "From youth You've taught me to trust Your grace"
+        ],
+        [
+          null,
+          "Now in silver years,"
+        ],
+        [
+          null,
+          "I'll seek Your face"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "My refuge, my rock, my constant praise"
+        ],
+        [
+          null,
+          "Through every season, through all my days"
+        ],
+        [
+          null,
+          "Let my voice rise up,"
+        ],
+        [
+          null,
+          "let my song proclaim Your justice,"
+        ],
+        [
+          null,
+          "Your mercy, Your holy name"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "When my strength is failing Your power remains"
+        ],
+        [
+          null,
+          "Through every trial Your promise sustains"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let my life be witness to all who come"
+        ],
+        [
+          null,
+          "Of the mighty works that You have done"
+        ],
+        [
+          null,
+          "Generation rising after me"
+        ],
+        [
+          null,
+          "Will know Your faithfulness set us free"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "My refuge, my rock, my constant praise"
+        ],
+        [
+          null,
+          "Through every season, through all my days"
+        ],
+        [
+          null,
+          "Let my voice rise up,"
+        ],
+        [
+          null,
+          "let my song proclaim Your justice,"
+        ],
+        [
+          null,
+          "Your mercy, Your holy name"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "My lips will shout for joy when"
+        ],
+        [
+          null,
+          "I sing to You"
+        ],
+        [
+          null,
+          "My soul redeemed, my heart made new"
+        ],
+        [
+          null,
+          "From morning light till the day is done"
+        ],
+        [
+          null,
+          "I'll tell Your story of victory won"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "thou art my trust from my youth",
+  "epigraphRef": "Psalm 71:5",
+  "lyricEyebrow": "From the Psalms"
 }

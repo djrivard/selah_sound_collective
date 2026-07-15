@@ -1,12 +1,243 @@
 {
   "slug": "drowning",
   "title": "Drowning",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 69",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "drowning.jpg",
+  "audio": "drowning.mp3",
   "spotify": "https://open.spotify.com/track/5L4wQIxASXRmq5dwIOpSkr",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273677d96bf36d1d2bb55611f69"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Waters rising past my throat"
+        ],
+        [
+          null,
+          "In this mire, I'm going down"
+        ],
+        [
+          null,
+          "No foothold in the deep below"
+        ],
+        [
+          null,
+          "Just darkness as I start to drown"
+        ],
+        [
+          null,
+          "Where are you now, my God, my strength?"
+        ],
+        [
+          null,
+          "When hatred surrounds me like a flood"
+        ],
+        [
+          null,
+          "My enemies multiply like plagues"
+        ],
+        [
+          null,
+          "Their lies stain deeper than blood"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Save me, O God, before I drown"
+        ],
+        [
+          null,
+          "Let not the waters drag me down"
+        ],
+        [
+          null,
+          "My enemies laugh as I cry out"
+        ],
+        [
+          null,
+          "But you will make them bow down"
+        ],
+        [
+          null,
+          "(You will make them bow down)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They mock me in their ivory towers"
+        ],
+        [
+          null,
+          "For every tear I've shed in faith"
+        ],
+        [
+          null,
+          "But you know all my hours of prayer"
+        ],
+        [
+          null,
+          "You've bottled every tear I waste"
+        ],
+        [
+          null,
+          "Let their tables become their snares"
+        ],
+        [
+          null,
+          "Their peace become a trap divine"
+        ],
+        [
+          null,
+          "Pour out your wrath upon their heads"
+        ],
+        [
+          null,
+          "Let darkness be their wine"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Save me, O God, before I drown"
+        ],
+        [
+          null,
+          "Let not the waters drag me down"
+        ],
+        [
+          null,
+          "My enemies laugh as I cry out"
+        ],
+        [
+          null,
+          "But you will make them bow down"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "I'm scorched with shame"
+        ],
+        [
+          null,
+          "But you know my name"
+        ],
+        [
+          null,
+          "They gave me poison when I thirsted"
+        ],
+        [
+          null,
+          "Now let their eyes be darkened"
+        ],
+        [
+          null,
+          "Let their backs be forever burdened"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "But I, though poor and wounded still"
+        ],
+        [
+          null,
+          "Will praise your name with burning song"
+        ],
+        [
+          null,
+          "Let heaven and earth join my voice"
+        ],
+        [
+          null,
+          "As you right every ancient wrong"
+        ],
+        [
+          null,
+          "Let all who seek you find new joy"
+        ],
+        [
+          null,
+          "Let humble hearts beat wild and free"
+        ],
+        [
+          null,
+          "For God will save his chosen ones"
+        ],
+        [
+          null,
+          "And break their chains to set them free"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Save me, O God, before I drown"
+        ],
+        [
+          null,
+          "Let not the waters drag me down"
+        ],
+        [
+          null,
+          "My enemies scatter at your frown"
+        ],
+        [
+          null,
+          "As you lift me, you cast them down"
+        ],
+        [
+          null,
+          "(You cast them down)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "The seas will calm"
+        ],
+        [
+          null,
+          "At your great name"
+        ],
+        [
+          null,
+          "The waters still"
+        ],
+        [
+          null,
+          "Know who to blame"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "I am come into deep waters",
+  "epigraphRef": "Psalm 69:2",
+  "lyricEyebrow": "From the Psalms"
 }

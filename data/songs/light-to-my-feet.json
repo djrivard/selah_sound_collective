@@ -1,12 +1,322 @@
 {
   "slug": "light-to-my-feet",
   "title": "Light To My Feet",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 119",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "light-to-my-feet.jpg",
+  "audio": "light-to-my-feet.mp3",
   "spotify": "https://open.spotify.com/track/5E2qQr4BlIaGFoB6G4nUzD",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27377c3fd3ee9316391ad67f97a"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Your Word is a lamp to my feet,"
+        ],
+        [
+          null,
+          "A light on the path I tread."
+        ],
+        [
+          null,
+          "Through trials and shadows deep,"
+        ],
+        [
+          null,
+          "It leads where Your love is spread."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I seek You with all my soul,"
+        ],
+        [
+          null,
+          "Let me not stray from Your call."
+        ],
+        [
+          null,
+          "In the depth of my heart, You reside,"
+        ],
+        [
+          null,
+          "Your wisdom guides me through it all."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Teach me the ways of Your truth,"
+        ],
+        [
+          null,
+          "Reveal the wonders of old."
+        ],
+        [
+          null,
+          "In the storms, Your promises soothe,"
+        ],
+        [
+          null,
+          "A shelter, steadfast and bold."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your Word is a lamp to my feet,"
+        ],
+        [
+          null,
+          "A light on the path I tread."
+        ],
+        [
+          null,
+          "Through the valleys, it makes me complete,"
+        ],
+        [
+          null,
+          "Your truth is my daily bread."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Though the wicked lay their snares,"
+        ],
+        [
+          null,
+          "Your precepts hold me secure."
+        ],
+        [
+          null,
+          "I stand firm, in awe of Your care,"
+        ],
+        [
+          null,
+          "In Your justice, I find what is pure."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, how I love Your decrees,"
+        ],
+        [
+          null,
+          "They are life, they are peace."
+        ],
+        [
+          null,
+          "I will meditate on Your laws,"
+        ],
+        [
+          null,
+          "Day and night, my soul’s release."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "When despair overtakes my heart,"
+        ],
+        [
+          null,
+          "Your statutes revive my soul."
+        ],
+        [
+          null,
+          "In Your mercy, I’m made whole,"
+        ],
+        [
+          null,
+          "Your commands set me apart."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Your faithfulness stands through the ages,"
+        ],
+        [
+          null,
+          "Your Word never fades away."
+        ],
+        [
+          null,
+          "Through the mountains, the storms, and the raging,"
+        ],
+        [
+          null,
+          "Your promises remain my stay."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Teach me the ways of Your truth,"
+        ],
+        [
+          null,
+          "Reveal the wonders of old."
+        ],
+        [
+          null,
+          "In the storms, Your promises soothe,"
+        ],
+        [
+          null,
+          "A shelter, steadfast and bold."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your Word is a lamp to my feet,"
+        ],
+        [
+          null,
+          "A light on the path I tread."
+        ],
+        [
+          null,
+          "Through the valleys, it makes me complete,"
+        ],
+        [
+          null,
+          "Your truth is my daily bread."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        [
+          null,
+          "Your statutes are righteous and true,"
+        ],
+        [
+          null,
+          "A joy to the weary heart."
+        ],
+        [
+          null,
+          "Even when darkness closes in view,"
+        ],
+        [
+          null,
+          "Your guidance will not depart."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Your hands made me and shaped me,"
+        ],
+        [
+          null,
+          "Oh, teach me to trust Your will."
+        ],
+        [
+          null,
+          "Though the world may forsake me,"
+        ],
+        [
+          null,
+          "Your Word will hold me still."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your Word is a lamp to my feet,"
+        ],
+        [
+          null,
+          "A light on the path I tread."
+        ],
+        [
+          null,
+          "Through the valleys, it makes me complete,"
+        ],
+        [
+          null,
+          "Your truth is my daily bread."
+        ]
+      ]
+    },
+    {
+      "label": "Post-Chorus",
+      "lines": [
+        [
+          null,
+          "(A lamp to my feet, a light to my way...)"
+        ],
+        [
+          null,
+          "Your Word will forever stay."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever I walk in Your light,"
+        ],
+        [
+          null,
+          "Your Word, my eternal guide."
+        ],
+        [
+          null,
+          "In Your promises, I will delight,"
+        ],
+        [
+          null,
+          "Your truth will ever abide."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Thy word is a lamp unto my feet",
+  "epigraphRef": "Psalm 119:105",
+  "lyricEyebrow": "From the Psalms"
 }

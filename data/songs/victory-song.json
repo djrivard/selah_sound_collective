@@ -1,12 +1,193 @@
 {
   "slug": "victory-song",
   "title": "Victory Song",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 145",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "victory-song.jpg",
+  "audio": "victory-song.mp3",
   "spotify": "https://open.spotify.com/track/2EWCzL4G4f6cCrpYAeyADd",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ddd511592076544ecabdf6c1"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "From sunrise skies to twilight hues,"
+        ],
+        [
+          null,
+          "Your love shines bold, forever true."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Every breath I take, I’ll proclaim,"
+        ],
+        [
+          null,
+          "The greatness of Your holy name."
+        ],
+        [
+          null,
+          "Your mercy flows, unending stream,"
+        ],
+        [
+          null,
+          "A boundless grace, a living dream."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "You lift the weak, You heal the heart,"
+        ],
+        [
+          null,
+          "In endless light, You set apart."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Forever I will sing, Your glory reigns,"
+        ],
+        [
+          null,
+          "Through the highest heights and endless plains."
+        ],
+        [
+          null,
+          "Your kingdom stands, unshaken, strong,"
+        ],
+        [
+          null,
+          "Forever love, my victory song."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The stars above reflect Your might,"
+        ],
+        [
+          null,
+          "Your faithfulness outshines the night."
+        ],
+        [
+          null,
+          "In every storm, Your hand I find,"
+        ],
+        [
+          null,
+          "A guiding hope, a love divine."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "You calm the waves, You hold the skies,"
+        ],
+        [
+          null,
+          "A faithful King who never dies."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Forever I will sing, Your glory reigns,"
+        ],
+        [
+          null,
+          "Through the highest heights and endless plains."
+        ],
+        [
+          null,
+          "Your kingdom stands, unshaken, strong,"
+        ],
+        [
+          null,
+          "Forever love, my victory song."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let all the earth proclaim Your ways,"
+        ],
+        [
+          null,
+          "Every voice rise in endless praise."
+        ],
+        [
+          null,
+          "From age to age, Your truth will stay,"
+        ],
+        [
+          null,
+          "A radiant light, a brighter day."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Forever I will sing, Your glory reigns,"
+        ],
+        [
+          null,
+          "Through the highest heights and endless plains."
+        ],
+        [
+          null,
+          "Your kingdom stands, unshaken, strong,"
+        ],
+        [
+          null,
+          "Forever love, my victory song."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever I will sing, Your love remains,"
+        ],
+        [
+          null,
+          "Eternal hope, in endless praise."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and I will praise thy name for ever and ever",
+  "epigraphRef": "Psalm 145:2",
+  "lyricEyebrow": "From the Psalms"
 }

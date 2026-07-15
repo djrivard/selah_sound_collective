@@ -1,12 +1,167 @@
 {
   "slug": "awake-my-soul",
   "title": "Awake My Soul",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 108",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "awake-my-soul.jpg",
+  "audio": "awake-my-soul.mp3",
   "spotify": "https://open.spotify.com/track/5GqsDzp314U0PjFVgKjkyG",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fec4b1dfdfa8c028363dacee"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Awake my soul, a song to sing,"
+        ],
+        [
+          null,
+          "Beneath the heavens, let joy ring."
+        ],
+        [
+          null,
+          "From the sunrise to the evening light,"
+        ],
+        [
+          null,
+          "Your love endures, steady and bright."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "My heart is steadfast, O my King,"
+        ],
+        [
+          null,
+          "Through trials and triumphs, I will sing."
+        ],
+        [
+          null,
+          "Your faithfulness, like the open skies,"
+        ],
+        [
+          null,
+          "Lifts my spirit, helps me rise."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "I will praise You with all my might,"
+        ],
+        [
+          null,
+          "From mountain shadows to stars of night."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love reaches higher than the heavens,"
+        ],
+        [
+          null,
+          "Your truth shines brighter than the stars."
+        ],
+        [
+          null,
+          "With wings of glory, You hold creation,"
+        ],
+        [
+          null,
+          "Forever faithful, forever You are."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Awake the dawn with a melody pure,"
+        ],
+        [
+          null,
+          "Through storms and valleys, Your word is sure."
+        ],
+        [
+          null,
+          "The nations tremble, but I stand tall,"
+        ],
+        [
+          null,
+          "Your power redeems, it conquers all."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Send Your light, let it guide our way,"
+        ],
+        [
+          null,
+          "Through every shadow, night turns to day."
+        ],
+        [
+          null,
+          "With You, O Lord, I’ll never fear,"
+        ],
+        [
+          null,
+          "Your voice is the song I long to hear."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your love reaches higher than the heavens,"
+        ],
+        [
+          null,
+          "Your truth shines brighter than the stars."
+        ],
+        [
+          null,
+          "With wings of glory, You hold creation,"
+        ],
+        [
+          null,
+          "Forever faithful, forever You are."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever faithful, steady as the morning,"
+        ],
+        [
+          null,
+          "Your love endures, Your truth is calling."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "I will sing and give praise",
+  "epigraphRef": "Psalm 108:1",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,171 @@
 {
   "slug": "where-shadows-whisper",
   "title": "Where Shadows Whisper",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 77",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "where-shadows-whisper.jpg",
+  "audio": "where-shadows-whisper.mp3",
   "spotify": "https://open.spotify.com/track/54y2BVK45VHvEJ139ohoKf",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735798099e54b959e34ba509aa"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I cried out in the stillness of the night,"
+        ],
+        [
+          null,
+          "My soul, a cavern echoing in pain,"
+        ],
+        [
+          null,
+          "The skies held no answer, only silent stars,"
+        ],
+        [
+          null,
+          "And I searched for You in the shadows again."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Was it not You who split the seas apart?"
+        ],
+        [
+          null,
+          "Who lit the skies with fire in the deep?"
+        ],
+        [
+          null,
+          "Yet now my voice seems lost in empty winds,"
+        ],
+        [
+          null,
+          "A heart longing for a promise to keep."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In the midnight waters, where hope seems thin,"
+        ],
+        [
+          null,
+          "I recall Your wonders, the world within."
+        ],
+        [
+          null,
+          "Though my cries may falter, Your echoes ring,"
+        ],
+        [
+          null,
+          "Through the breaking waves, I will sing, I will sing."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The earth beneath me trembles in its ache,"
+        ],
+        [
+          null,
+          "The rivers shudder, yearning for Your hand,"
+        ],
+        [
+          null,
+          "The heavens once resounded with Your name,"
+        ],
+        [
+          null,
+          "But now their whispers fade across the land."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Was it not You who split the seas apart?"
+        ],
+        [
+          null,
+          "Who lit the skies with fire in the deep?"
+        ],
+        [
+          null,
+          "Yet now my voice seems lost in empty winds,"
+        ],
+        [
+          null,
+          "A heart longing for a promise to keep."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "In the midnight waters, where hope seems thin,"
+        ],
+        [
+          null,
+          "I recall Your wonders, the world within."
+        ],
+        [
+          null,
+          "Though my cries may falter, Your echoes ring,"
+        ],
+        [
+          null,
+          "Through the breaking waves, I will sing, I will sing."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Where shadows whisper, I hear Your name,"
+        ],
+        [
+          null,
+          "Through every silence, You're still the same."
+        ],
+        [
+          null,
+          "Even in grief, I will call Your truth,"
+        ],
+        [
+          null,
+          "Through the breaking waves, I will sing to You."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "I call to remembrance my song in the night",
+  "epigraphRef": "Psalm 77:6",
+  "lyricEyebrow": "From the Psalms"
 }

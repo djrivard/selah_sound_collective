@@ -1,12 +1,167 @@
 {
   "slug": "a-thousand-like-a-day",
   "title": "A Thousand Like A Day",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 90",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-thousand-like-a-day.jpg",
+  "audio": "a-thousand-like-a-day.mp3",
   "spotify": "https://open.spotify.com/track/1bIYScyn5zYfToiTwvtrnU",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27320b1967dce76781a47235186"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "O Lord, You’ve been our dwelling place,"
+        ],
+        [
+          null,
+          "Through every age, Your boundless grace."
+        ],
+        [
+          null,
+          "Before the mountains rose to stand,"
+        ],
+        [
+          null,
+          "You formed the world with Your mighty hand."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "From everlasting to eternity’s call,"
+        ],
+        [
+          null,
+          "You are God, the maker of all."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "A thousand years are but a day,"
+        ],
+        [
+          null,
+          "Like morning mist, they fade away."
+        ],
+        [
+          null,
+          "Establish now the work we’ve done,"
+        ],
+        [
+          null,
+          "Let Your favor shine as the rising sun."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "We’re fragile dust, yet You are near,"
+        ],
+        [
+          null,
+          "Through fleeting days, Your voice we hear."
+        ],
+        [
+          null,
+          "Return, O Lord, and satisfy,"
+        ],
+        [
+          null,
+          "With mercy fresh as morning’s sky."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "So teach us, Lord, to count our days,"
+        ],
+        [
+          null,
+          "With hearts of wisdom, show Your ways."
+        ],
+        [
+          null,
+          "Your beauty rests on all You make,"
+        ],
+        [
+          null,
+          "Forever strong, forever great."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "A thousand years are but a day,"
+        ],
+        [
+          null,
+          "Like morning mist, they fade away."
+        ],
+        [
+          null,
+          "Establish now the work we’ve done,"
+        ],
+        [
+          null,
+          "Let Your favor shine as the rising sun."
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "A thousand years are but a day,"
+        ],
+        [
+          null,
+          "Like morning mist, they fade away."
+        ],
+        [
+          null,
+          "Establish now the work we’ve done,"
+        ],
+        [
+          null,
+          "Let Your favor shine as the rising sun."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From everlasting to everlasting,"
+        ],
+        [
+          null,
+          "Our refuge, our King, unchanging."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "or ever thou hadst formed the earth and the world",
+  "epigraphRef": "Psalm 90:2",
+  "lyricEyebrow": "From the Psalms"
 }

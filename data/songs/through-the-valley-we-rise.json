@@ -1,12 +1,227 @@
 {
   "slug": "through-the-valley-we-rise",
   "title": "Through The Valley We Rise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 60",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "through-the-valley-we-rise.jpg",
+  "audio": "through-the-valley-we-rise.mp3",
   "spotify": "https://open.spotify.com/track/6MVRhnKJoRVfuMgiOsviZr",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c970c5d2bad384edfa34a622"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "You shook the earth beneath our feet"
+        ],
+        [
+          null,
+          "Left us scattered, incomplete"
+        ],
+        [
+          null,
+          "The ground still trembles where we stand"
+        ],
+        [
+          null,
+          "As cracks spread through this broken land"
+        ],
+        [
+          null,
+          "But we are Yours, we bear Your name"
+        ],
+        [
+          null,
+          "Though we stumble through this pain"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Raise Your banner high"
+        ],
+        [
+          null,
+          "Let truth unfold across the sky"
+        ],
+        [
+          null,
+          "With God we'll rise and find our way"
+        ],
+        [
+          null,
+          "Through darkest night into the day"
+        ],
+        [
+          null,
+          "Our strength, our shield, our victory"
+        ],
+        [
+          null,
+          "Only You can set us free"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "We drank the wine that made us reel"
+        ],
+        [
+          null,
+          "Staggering blind, too numb to feel"
+        ],
+        [
+          null,
+          "But those who fear You found a sign"
+        ],
+        [
+          null,
+          "A refuge in these troubled times"
+        ],
+        [
+          null,
+          "Now hear our cry from distant shores"
+        ],
+        [
+          null,
+          "As we kneel before Your doors"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Raise Your banner high"
+        ],
+        [
+          null,
+          "Let truth unfold across the sky"
+        ],
+        [
+          null,
+          "With God we'll rise and find our way"
+        ],
+        [
+          null,
+          "Through darkest night into the day"
+        ],
+        [
+          null,
+          "Our strength, our shield, our victory"
+        ],
+        [
+          null,
+          "Only You can set us free"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Who will lead us to the city strong?"
+        ],
+        [
+          null,
+          "Who will right what has gone wrong?"
+        ],
+        [
+          null,
+          "Not our armies, not our might"
+        ],
+        [
+          null,
+          "Only You can win this fight"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Though You rejected us before"
+        ],
+        [
+          null,
+          "Your love will open every door"
+        ],
+        [
+          null,
+          "March with us through valley deep"
+        ],
+        [
+          null,
+          "Your promises You always keep"
+        ],
+        [
+          null,
+          "With God we'll do great valiant things"
+        ],
+        [
+          null,
+          "For He treads down everything"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Raise Your banner high"
+        ],
+        [
+          null,
+          "Let truth unfold across the sky"
+        ],
+        [
+          null,
+          "With God we'll rise and find our way"
+        ],
+        [
+          null,
+          "Through darkest night into the day"
+        ],
+        [
+          null,
+          "Our strength, our shield, our victory"
+        ],
+        [
+          null,
+          "Only You can set us free"
+        ],
+        [
+          null,
+          "Raise Your banner high"
+        ],
+        [
+          null,
+          "Let truth unfold across the sky"
+        ],
+        [
+          null,
+          "Our strength, our shield, our victory"
+        ],
+        [
+          null,
+          "Only You can set us free"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Through God we shall do valiantly",
+  "epigraphRef": "Psalm 60:12",
+  "lyricEyebrow": "From the Psalms"
 }

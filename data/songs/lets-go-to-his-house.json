@@ -1,12 +1,193 @@
 {
   "slug": "lets-go-to-his-house",
   "title": "Let's Go To His House",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 122",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "lets-go-to-his-house.jpg",
+  "audio": "lets-go-to-his-house.mp3",
   "spotify": "https://open.spotify.com/track/1PBbXsm1ObNDbQQuCYZGyS",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273d614f5cdf8f5c2cccb49dd85"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Oh, the joy when they said, “Let us go, let us go!”"
+        ],
+        [
+          null,
+          "To the house of the Lord, where peace will overflow."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Our feet are standing on sacred ground,"
+        ],
+        [
+          null,
+          "In the gates of the city, where blessings abound."
+        ],
+        [
+          null,
+          "Jerusalem, a city built strong,"
+        ],
+        [
+          null,
+          "Where hearts and voices together belong."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Pray for the peace that graces her walls,"
+        ],
+        [
+          null,
+          "Harmony echoing through her halls."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let peace reign within your towers,"
+        ],
+        [
+          null,
+          "Let joy fill your streets like showers."
+        ],
+        [
+          null,
+          "For the sake of love and the bonds we keep,"
+        ],
+        [
+          null,
+          "We’ll sing and dance, our spirits leap."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Brothers and friends, together we sing,"
+        ],
+        [
+          null,
+          "For unity’s beauty, the joy it brings."
+        ],
+        [
+          null,
+          "A city of refuge, a beacon of light,"
+        ],
+        [
+          null,
+          "Where faith and hope take their flight."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Pray for the peace that graces her walls,"
+        ],
+        [
+          null,
+          "Harmony echoing through her halls."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let peace reign within your towers,"
+        ],
+        [
+          null,
+          "Let joy fill your streets like showers."
+        ],
+        [
+          null,
+          "For the sake of love and the bonds we keep,"
+        ],
+        [
+          null,
+          "We’ll sing and dance, our spirits leap."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "For the sake of the house of our Lord,"
+        ],
+        [
+          null,
+          "We lift our voices in one accord."
+        ],
+        [
+          null,
+          "Blessed be those who walk in His ways,"
+        ],
+        [
+          null,
+          "Living in joy for all their days."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let peace reign within your towers,"
+        ],
+        [
+          null,
+          "Let joy fill your streets like showers."
+        ],
+        [
+          null,
+          "For the sake of love and the bonds we keep,"
+        ],
+        [
+          null,
+          "We’ll sing and dance, our spirits leap."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Let us go, let us go, to the house of the Lord,"
+        ],
+        [
+          null,
+          "Where our hearts and souls are forever restored."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Let us go into the house of the LORD",
+  "epigraphRef": "Psalm 122:1",
+  "lyricEyebrow": "From the Psalms"
 }

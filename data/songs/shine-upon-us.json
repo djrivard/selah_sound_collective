@@ -1,12 +1,189 @@
 {
   "slug": "shine-upon-us",
   "title": "Shine Upon Us",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 80",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "shine-upon-us.jpg",
+  "audio": "shine-upon-us.mp3",
   "spotify": "https://open.spotify.com/track/7yXGISUCkKDdHpR2ogqUTY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273aef94055b61372dffef86858"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A D G Em)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "O Shepherd of light, lead us home,"
+        ],
+        [
+          null,
+          "From the shadows where we roam."
+        ],
+        [
+          null,
+          "Restore the branches, broken and bare,"
+        ],
+        [
+          null,
+          "Let Your mercy fill the air."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Hear our cry through the endless night,"
+        ],
+        [
+          null,
+          "Turn Your face, make the darkness bright."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Shine upon us, bring us life again,"
+        ],
+        [
+          null,
+          "Lift the veil, let Your love descend."
+        ],
+        [
+          null,
+          "Awake our hearts, let Your glory rise,"
+        ],
+        [
+          null,
+          "Turn again, O God, hear our cries."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Once we flourished, roots so deep,"
+        ],
+        [
+          null,
+          "Through the valleys, now we weep."
+        ],
+        [
+          null,
+          "Let Your power heal what’s torn,"
+        ],
+        [
+          null,
+          "Make us whole, reborn."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Hear our cry through the endless night,"
+        ],
+        [
+          null,
+          "Turn Your face, make the darkness bright."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Shine upon us, bring us life again,"
+        ],
+        [
+          null,
+          "Lift the veil, let Your love descend."
+        ],
+        [
+          null,
+          "Awake our hearts, let Your glory rise,"
+        ],
+        [
+          null,
+          "Turn again, O God, hear our cries."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, Shepherd, will You guide us still?"
+        ],
+        [
+          null,
+          "Through the silence, bend Your will."
+        ],
+        [
+          null,
+          "Restore the years the locust stole,"
+        ],
+        [
+          null,
+          "Light the fire within our souls."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Shine upon us, bring us life again,"
+        ],
+        [
+          null,
+          "Lift the veil, let Your love descend."
+        ],
+        [
+          null,
+          "Awake our hearts, let Your glory rise,"
+        ],
+        [
+          null,
+          "Turn again, O God, hear our cries."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Shine upon us, let Your love remain,"
+        ],
+        [
+          null,
+          "Guide us through this endless plain."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and cause thy face to shine",
+  "epigraphRef": "Psalm 80:3",
+  "lyricEyebrow": "From the Psalms"
 }

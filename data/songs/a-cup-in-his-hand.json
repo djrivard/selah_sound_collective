@@ -1,12 +1,176 @@
 {
   "slug": "a-cup-in-his-hand",
   "title": "A Cup In His Hand",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 75",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-cup-in-his-hand.jpg",
+  "audio": "a-cup-in-his-hand.mp3",
   "spotify": "https://open.spotify.com/track/14J1ECptHsaognsfesNQW7",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ed43824959e8e49ea04dc861"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A G D F#m)"
+        ],
+        [
+          null,
+          "We give You thanks, O Lord of might,"
+        ],
+        [
+          null,
+          "Your wondrous deeds, Your guiding light."
+        ],
+        [
+          null,
+          "Your name resounds across the skies,"
+        ],
+        [
+          null,
+          "In You, the righteous glorify."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When storms arise, You still the waves,"
+        ],
+        [
+          null,
+          "Our hearts are calm, our souls are saved."
+        ],
+        [
+          null,
+          "The earth may tremble, kingdoms fall,"
+        ],
+        [
+          null,
+          "But You are steadfast through it all."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Justice flows like rivers wide,"
+        ],
+        [
+          null,
+          "Your hand, a force, our hearts abide."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(A E F#m D)"
+        ],
+        [
+          null,
+          "You lift the lowly, You break the proud,"
+        ],
+        [
+          null,
+          "Your voice is thunder, fierce and loud."
+        ],
+        [
+          null,
+          "A cup of wrath, the nations pour,"
+        ],
+        [
+          null,
+          "Yet the righteous sing forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The wicked boast of fleeting power,"
+        ],
+        [
+          null,
+          "Their strength dissolves in judgment’s hour."
+        ],
+        [
+          null,
+          "You set the pillars of the earth,"
+        ],
+        [
+          null,
+          "Your justice reigns, of matchless worth."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "**Guitar solo**"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Justice flows like rivers wide,"
+        ],
+        [
+          null,
+          "Your hand, a force, our hearts abide."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You lift the lowly, You break the proud,"
+        ],
+        [
+          null,
+          "Your voice is thunder, fierce and loud."
+        ],
+        [
+          null,
+          "A cup of wrath, the nations pour,"
+        ],
+        [
+          null,
+          "Yet the righteous sing forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forevermore, forevermore,"
+        ],
+        [
+          null,
+          "Your justice stands, unshaken, sure."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "For in the hand of the LORD there is a cup",
+  "epigraphRef": "Psalm 75:8",
+  "lyricEyebrow": "From the Psalms"
 }

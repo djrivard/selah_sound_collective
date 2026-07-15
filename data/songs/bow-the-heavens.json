@@ -1,12 +1,183 @@
 {
   "slug": "bow-the-heavens",
   "title": "Bow The Heavens",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 144",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "bow-the-heavens.jpg",
+  "audio": "bow-the-heavens.mp3",
   "spotify": "https://open.spotify.com/track/0JQXw6dHU9NE7FFumWdk98",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737612cf06b44a827410b14131"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Blessed be the hands that train for war,"
+        ],
+        [
+          null,
+          "The fingers that learn the sword,"
+        ],
+        [
+          null,
+          "A fortress rising, a sheltering shore,"
+        ],
+        [
+          null,
+          "My Redeemer through trials below."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "What is man that You take note,"
+        ],
+        [
+          null,
+          "The fleeting breath, the shifting ghost?"
+        ],
+        [
+          null,
+          "Like shadows cast on dawn's first light,"
+        ],
+        [
+          null,
+          "We fade, we flicker, and lose the fight."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Bend the heavens, Lord, come down,"
+        ],
+        [
+          null,
+          "Touch the mountains till they drown,"
+        ],
+        [
+          null,
+          "Scatter darkness, break the skies,"
+        ],
+        [
+          null,
+          "Hear our trembling, yearning cries."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Stretch Your hand from realms above,"
+        ],
+        [
+          null,
+          "Deliver me with endless love."
+        ],
+        [
+          null,
+          "For fleeting life, Your strength I claim,"
+        ],
+        [
+          null,
+          "Forever I will sing Your name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "A song of praise I lift to You,"
+        ],
+        [
+          null,
+          "A harp of ten strings, pure and true."
+        ],
+        [
+          null,
+          "Rescue from waters deep and wide,"
+        ],
+        [
+          null,
+          "Guide me, Savior, as my tide."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Bow the heavens, cast fire below,"
+        ],
+        [
+          null,
+          "Let the storm of mercy grow."
+        ],
+        [
+          null,
+          "Raise the poor, lift the frail,"
+        ],
+        [
+          null,
+          "Your love eternal will never pale."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Stretch Your hand from realms above,"
+        ],
+        [
+          null,
+          "Deliver me with endless love."
+        ],
+        [
+          null,
+          "For fleeting life, Your strength I claim,"
+        ],
+        [
+          null,
+          "Forever I will sing Your name."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Your hands hold the earth and skies,"
+        ],
+        [
+          null,
+          "I am Yours till the day I rise."
+        ],
+        [
+          null,
+          "Forever anchored in Your grace,"
+        ],
+        [
+          null,
+          "The fleeting man meets endless space."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Bow thy heavens",
+  "epigraphRef": "Psalm 144:5",
+  "lyricEyebrow": "From the Psalms"
 }

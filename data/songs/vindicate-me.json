@@ -1,12 +1,167 @@
 {
   "slug": "vindicate-me",
   "title": "Vindicate Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 54",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "vindicate-me.jpg",
+  "audio": "vindicate-me.mp3",
   "spotify": "https://open.spotify.com/track/6J3BsH3ssH6lMZyZI9Y3LL",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f35246e9d5d4552c2b809bc3"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When enemies rise against my soul"
+        ],
+        [
+          null,
+          "And strangers seek to take their toll"
+        ],
+        [
+          null,
+          "Your name alone will make me whole"
+        ],
+        [
+          null,
+          "My strength, my shield, my all"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Through shadows dark and valleys deep"
+        ],
+        [
+          null,
+          "Your faithful love, a watch You keep"
+        ],
+        [
+          null,
+          "The price my foes have sown, they'll reap"
+        ],
+        [
+          null,
+          "While I stand firm and tall"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Vindicate me, set me free"
+        ],
+        [
+          null,
+          "By Your power, rescue me"
+        ],
+        [
+          null,
+          "Every prayer You hear me speak"
+        ],
+        [
+          null,
+          "Every tear upon my cheek Your justice sets me free"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "In silence, Lord,"
+        ],
+        [
+          null,
+          "I sought Your face"
+        ],
+        [
+          null,
+          "When darkness tried to steal Your grace"
+        ],
+        [
+          null,
+          "You met me in that sacred space"
+        ],
+        [
+          null,
+          "And caught me when I'd fall"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "When morning breaks and night has passed"
+        ],
+        [
+          null,
+          "Your truth remains, Your love will last"
+        ],
+        [
+          null,
+          "The storm that raged has fled at last"
+        ],
+        [
+          null,
+          "My heart can now recall"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "With grateful praise I lift my voice"
+        ],
+        [
+          null,
+          "In Your deliverance I rejoice"
+        ],
+        [
+          null,
+          "My heart has made its final choice"
+        ],
+        [
+          null,
+          "To answer to Your call"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Vindicate me, set me free"
+        ],
+        [
+          null,
+          "By Your power, rescue me"
+        ],
+        [
+          null,
+          "Every prayer You hear me speak"
+        ],
+        [
+          null,
+          "Every tear upon my cheek Your justice sets me free"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "For strangers are risen up against me",
+  "epigraphRef": "Psalm 54:3",
+  "lyricEyebrow": "From the Psalms"
 }

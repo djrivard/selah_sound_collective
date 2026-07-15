@@ -1,12 +1,246 @@
 {
   "slug": "rise-up-in-fury",
   "title": "Rise Up in Fury",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 143",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rise-up-in-fury.jpg",
+  "audio": "rise-up-in-fury.mp3",
   "spotify": "https://open.spotify.com/track/7jOanlPzdk8DvqiVExSRua",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fc1c1a7c0ad88b12b79beebf"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Hear me in the darkness, Lord"
+        ],
+        [
+          null,
+          "As I fall upon my knees"
+        ],
+        [
+          null,
+          "My spirit's crushed within me, Lord"
+        ],
+        [
+          null,
+          "My heart begins to freeze"
+        ],
+        [
+          null,
+          "My enemies have struck me down"
+        ],
+        [
+          null,
+          "Left me in the dust to dwell"
+        ],
+        [
+          null,
+          "Ancient shadows closing in"
+        ],
+        [
+          null,
+          "Like living death, this hell"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise up in Your fury, Lord"
+        ],
+        [
+          null,
+          "Strike down those who hunt my soul"
+        ],
+        [
+          null,
+          "Let Your justice roll like thunder"
+        ],
+        [
+          null,
+          "Make Your enemies pay their toll"
+        ],
+        [
+          null,
+          "In Your faithful love, destroy them"
+        ],
+        [
+          null,
+          "Let Your mercy set me free For"
+        ],
+        [
+          null,
+          "I am Yours forever Your servant I will be"
+        ],
+        [
+          null,
+          "VERSE 2"
+        ],
+        [
+          null,
+          "I remember brighter days"
+        ],
+        [
+          null,
+          "When Your hand led me through light"
+        ],
+        [
+          null,
+          "Now I stretch my withered hands"
+        ],
+        [
+          null,
+          "Through this endless night"
+        ],
+        [
+          null,
+          "My throat is parched and yearning"
+        ],
+        [
+          null,
+          "Like a desert waiting rain"
+        ],
+        [
+          null,
+          "Hurry, Lord, before I'm lost"
+        ],
+        [
+          null,
+          "To shadows and to pain"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise up in Your fury, Lord"
+        ],
+        [
+          null,
+          "Strike down those who hunt my soul"
+        ],
+        [
+          null,
+          "Let Your justice roll like thunder"
+        ],
+        [
+          null,
+          "Make Your enemies pay their toll"
+        ],
+        [
+          null,
+          "In Your faithful love, destroy them"
+        ],
+        [
+          null,
+          "Let Your mercy set me free For"
+        ],
+        [
+          null,
+          "I am Yours forever Your servant I will be"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Teach me how to do Your will"
+        ],
+        [
+          null,
+          "Guide me on this level ground"
+        ],
+        [
+          null,
+          "Let Your spirit lead me still"
+        ],
+        [
+          null,
+          "'Till all my foes are drowned"
+        ],
+        [
+          null,
+          "In the depths of Your fierce love"
+        ],
+        [
+          null,
+          "In the storm of Your great might"
+        ],
+        [
+          null,
+          "Let them taste what they have given"
+        ],
+        [
+          null,
+          "Darkness swallowed by Your light"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Rise up in Your fury, Lord"
+        ],
+        [
+          null,
+          "Strike down those who hunt my soul"
+        ],
+        [
+          null,
+          "Let Your justice roll like thunder"
+        ],
+        [
+          null,
+          "Make Your enemies pay their toll"
+        ],
+        [
+          null,
+          "In Your faithful love, destroy them"
+        ],
+        [
+          null,
+          "Let Your mercy set me free For"
+        ],
+        [
+          null,
+          "I am Yours forever Your servant I will be"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "For Your name's sake, Lord"
+        ],
+        [
+          null,
+          "Let me live again"
+        ],
+        [
+          null,
+          "For Your righteousness"
+        ],
+        [
+          null,
+          "Let justice reign"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "he hath made me to dwell in darkness",
+  "epigraphRef": "Psalm 143:3",
+  "lyricEyebrow": "From the Psalms"
 }

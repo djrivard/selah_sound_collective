@@ -1,12 +1,207 @@
 {
   "slug": "a-covenant-forever",
   "title": "A Covenant Forever",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 78",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-covenant-forever.jpg",
+  "audio": "a-covenant-forever.mp3",
   "spotify": "https://open.spotify.com/track/6aWFaRei4Q1ZlLmhq1MSAY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db0f3c34b7a3bc1cd7f1be37"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A D G A)"
+        ],
+        [
+          null,
+          "Let us sing of ancient stories,"
+        ],
+        [
+          null,
+          "Of power, of wonder, of glory."
+        ],
+        [
+          null,
+          "Passed through ages, a tale so grand,"
+        ],
+        [
+          null,
+          "The works of His mighty hand."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A G F#m D)"
+        ],
+        [
+          null,
+          "We will not hide the truth of old,"
+        ],
+        [
+          null,
+          "From children born and hearts yet bold."
+        ],
+        [
+          null,
+          "Declare His strength, His wondrous name,"
+        ],
+        [
+          null,
+          "His justice that burns, His holy flame."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(A E F#m D)"
+        ],
+        [
+          null,
+          "Let hearts remember, let voices rise,"
+        ],
+        [
+          null,
+          "To tell the tale of skies and cries."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(A D G A)"
+        ],
+        [
+          null,
+          "From the heavens to the land,"
+        ],
+        [
+          null,
+          "A covenant made, His guiding hand."
+        ],
+        [
+          null,
+          "Faithful through the storm and plight,"
+        ],
+        [
+          null,
+          "He led His people by fire and light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A G F#m D)"
+        ],
+        [
+          null,
+          "Mountains split and waters roared,"
+        ],
+        [
+          null,
+          "He rained down bread, His blessings poured."
+        ],
+        [
+          null,
+          "He turned the stone to rivers deep,"
+        ],
+        [
+          null,
+          "A shepherd strong, His promise to keep."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(A F#m Bm E)"
+        ],
+        [
+          null,
+          "Yet hearts rebelled, their paths astray,"
+        ],
+        [
+          null,
+          "Still, He forgave and made a way."
+        ],
+        [
+          null,
+          "His anger burned, His mercy shone,"
+        ],
+        [
+          null,
+          "A King of justice on the throne."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(A D G A)"
+        ],
+        [
+          null,
+          "From the heavens to the land,"
+        ],
+        [
+          null,
+          "A covenant made, His guiding hand."
+        ],
+        [
+          null,
+          "Faithful through the storm and plight,"
+        ],
+        [
+          null,
+          "He led His people by fire and light."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A G D A)"
+        ],
+        [
+          null,
+          "Let us sing of ancient stories,"
+        ],
+        [
+          null,
+          "Of power, of wonder, of glory."
+        ],
+        [
+          null,
+          "Till the stars no longer shine,"
+        ],
+        [
+          null,
+          "The covenant remains divine."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "We will not hide them from their children",
+  "epigraphRef": "Psalm 78:4",
+  "lyricEyebrow": "From the Psalms"
 }

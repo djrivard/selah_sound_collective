@@ -1,12 +1,147 @@
 {
   "slug": "let-the-rivers-sing",
   "title": "Let The Rivers Sing",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 98",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "let-the-rivers-sing.jpg",
+  "audio": "let-the-rivers-sing.mp3",
   "spotify": "https://open.spotify.com/track/0x1o2SexZvZVGQkpRhrVjq",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f5ca025c5e040dcbb8380132"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate with warm tones"
+        ],
+        [
+          null,
+          "and minimal high-frequency emphasis."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Sing a new song, for wonders abound,"
+        ],
+        [
+          null,
+          "The Lord has triumphed, His love profound."
+        ],
+        [
+          null,
+          "With holy arm and righteous might,"
+        ],
+        [
+          null,
+          "He brings salvation, the world’s delight."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Make a joyful noise, all the earth,"
+        ],
+        [
+          null,
+          "Lift your voice for His endless worth."
+        ],
+        [
+          null,
+          "Let rivers clap, let mountains sing,"
+        ],
+        [
+          null,
+          "Praise the Lord, our eternal King."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He has remembered His mercy and grace,"
+        ],
+        [
+          null,
+          "Revealed His love to every place."
+        ],
+        [
+          null,
+          "The nations see, the ends of the earth,"
+        ],
+        [
+          null,
+          "His salvation, His glorious birth."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Trumpets sound, the oceans roar,"
+        ],
+        [
+          null,
+          "Fields rejoice on every shore."
+        ],
+        [
+          null,
+          "The heavens declare, creation cries,"
+        ],
+        [
+          null,
+          "Glory to God who reigns on high."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Make a joyful noise, all the earth,"
+        ],
+        [
+          null,
+          "Lift your voice for His endless worth."
+        ],
+        [
+          null,
+          "Let rivers clap, let mountains sing,"
+        ],
+        [
+          null,
+          "Praise the Lord, our eternal King."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Sing a new song, for wonders abound,"
+        ],
+        [
+          null,
+          "The Lord reigns, with love profound."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Make a joyful noise unto the LORD",
+  "epigraphRef": "Psalm 98:4",
+  "lyricEyebrow": "From the Psalms"
 }

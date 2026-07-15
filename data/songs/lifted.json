@@ -1,12 +1,145 @@
 {
   "slug": "lifted",
   "title": "Lifted",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 30",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "lifted.jpg",
+  "audio": "lifted.mp3",
   "spotify": "https://open.spotify.com/track/11P7prGfakycCWuieY3KbV",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c5bf674e2a7d5faa4fcb7b93"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From the depths You lifted me"
+        ],
+        [
+          null,
+          "When my enemies were closing in"
+        ],
+        [
+          null,
+          "You heard my desperate melody"
+        ],
+        [
+          null,
+          "And pulled me from the edge again"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You turned my mourning into dancing"
+        ],
+        [
+          null,
+          "Stripped away these chains of grief"
+        ],
+        [
+          null,
+          "Now my heart can't help but singing"
+        ],
+        [
+          null,
+          "Your mercy brought me sweet relief"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "In my pride I thought I stood"
+        ],
+        [
+          null,
+          "Like a mountain, firm and strong"
+        ],
+        [
+          null,
+          "But when You hid Your face I understood"
+        ],
+        [
+          null,
+          "That all my strength belonged to You all along"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You turned my mourning into dancing"
+        ],
+        [
+          null,
+          "Stripped away these chains of grief"
+        ],
+        [
+          null,
+          "Now my heart can't help but singing"
+        ],
+        [
+          null,
+          "Your mercy brought me sweet relief"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Weeping may last through the darkest night"
+        ],
+        [
+          null,
+          "But joy comes with the morning light"
+        ],
+        [
+          null,
+          "Your favor lasts a lifetime, Lord"
+        ],
+        [
+          null,
+          "Your favor lasts a lifetime more"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "You turned my mourning into dancing"
+        ],
+        [
+          null,
+          "Stripped away these chains of grief"
+        ],
+        [
+          null,
+          "Now my heart can't help but singing"
+        ],
+        [
+          null,
+          "Your mercy brought me sweet relief"
+        ],
+        [
+          null,
+          "(I'll praise You endlessly)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "for thou hast lifted me up",
+  "epigraphRef": "Psalm 30:1",
+  "lyricEyebrow": "From the Psalms"
 }

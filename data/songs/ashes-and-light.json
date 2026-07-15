@@ -1,12 +1,159 @@
 {
   "slug": "ashes-and-light",
   "title": "Ashes & Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 79",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "ashes-and-light.jpg",
+  "audio": "ashes-and-light.mp3",
   "spotify": "https://open.spotify.com/track/4ZuwneEMPfgCEtv1Gw09xs",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730a01d9afcce018db2ee56988"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "From the ashes, we cry"
+        ],
+        [
+          null,
+          "Our hearts laid bare, under an empty sky"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "O God, the nations have trampled our name"
+        ],
+        [
+          null,
+          "Streets run with sorrow, consumed by shame"
+        ],
+        [
+          null,
+          "The temple is silent, its halls overthrown"
+        ],
+        [
+          null,
+          "Our cries echo, unheard, alone"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "How long, O Lord, will the shadows remain?"
+        ],
+        [
+          null,
+          "Your wrath burns bright, but mercy's refrain?"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Forgive, renew, remember our plea"
+        ],
+        [
+          null,
+          "Lift us from ruins, set our spirits free"
+        ],
+        [
+          null,
+          "For Your name, Your glory, Your light divine"
+        ],
+        [
+          null,
+          "In the desolation, let Your promise shine"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The young are taken, the old left to mourn"
+        ],
+        [
+          null,
+          "Our fields are barren, our flags are torn"
+        ],
+        [
+          null,
+          "But still, we hold to the hope of Your word"
+        ],
+        [
+          null,
+          "A flame in the dark, though faint, it is stirred"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Deliver us, O Shepherd of light"
+        ],
+        [
+          null,
+          "Through valleys of darkness, through endless night"
+        ],
+        [
+          null,
+          "Let justice roll, let mercy be known"
+        ],
+        [
+          null,
+          "Our souls are Yours, not stone"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Forgive, renew, remember our plea"
+        ],
+        [
+          null,
+          "Lift us from ruins, set our spirits free"
+        ],
+        [
+          null,
+          "For Your name, Your glory, Your light divine"
+        ],
+        [
+          null,
+          "In the desolation, let Your promise shine"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From the ashes, we cry"
+        ],
+        [
+          null,
+          "Our hearts laid bare, under an empty sky"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+  "epigraphRef": "Psalm 79:5",
+  "lyricEyebrow": "From the Psalms"
 }

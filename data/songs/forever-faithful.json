@@ -1,12 +1,191 @@
 {
   "slug": "forever-faithful",
   "title": "Forever Faithful",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 89",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "forever-faithful.jpg",
+  "audio": "forever-faithful.mp3",
   "spotify": "https://open.spotify.com/track/64pD4l5XScBgygDKk8Hjmm",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c17d1d4cc3d23a636f333dd6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A D G Em)"
+        ],
+        [
+          null,
+          "Let the heavens sing of Your wondrous love,"
+        ],
+        [
+          null,
+          "A melody carved in the stars above."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(G C Am D)"
+        ],
+        [
+          null,
+          "Your steadfast love endures through time,"
+        ],
+        [
+          null,
+          "A covenant made in mercy's rhyme."
+        ],
+        [
+          null,
+          "You spoke the promise, Your voice so true,"
+        ],
+        [
+          null,
+          "\"David’s throne shall rest in You.\""
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(D G C D)"
+        ],
+        [
+          null,
+          "Though the skies may turn, the earth may shake,"
+        ],
+        [
+          null,
+          "Your word remains for every heart's sake."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(C G D Em)"
+        ],
+        [
+          null,
+          "Faithful forever, Your love never fades,"
+        ],
+        [
+          null,
+          "Through the trials of time, Your mercy cascades."
+        ],
+        [
+          null,
+          "The heavens declare it, the stars hold it true,"
+        ],
+        [
+          null,
+          "Faithful forever, O Lord, we praise You."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(G C Am D)"
+        ],
+        [
+          null,
+          "The waves may roar, the mountains fall,"
+        ],
+        [
+          null,
+          "Yet Your justice reigns, sovereign over all."
+        ],
+        [
+          null,
+          "Blessed are those who walk in Your light,"
+        ],
+        [
+          null,
+          "Their hearts rejoice in Your name's delight."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(Am G D Em)"
+        ],
+        [
+          null,
+          "When shadows fall, and hope feels thin,"
+        ],
+        [
+          null,
+          "Your faithfulness calls us back again."
+        ],
+        [
+          null,
+          "A shield, a rock, our guiding flame,"
+        ],
+        [
+          null,
+          "Forever we trust in Your holy name."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(C G D Em)"
+        ],
+        [
+          null,
+          "Faithful forever, Your love never fades,"
+        ],
+        [
+          null,
+          "Through the trials of time, Your mercy cascades."
+        ],
+        [
+          null,
+          "The heavens declare it, the stars hold it true,"
+        ],
+        [
+          null,
+          "Faithful forever, O Lord, we praise You."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A D G Em)"
+        ],
+        [
+          null,
+          "Let the heavens sing of Your wondrous love,"
+        ],
+        [
+          null,
+          "A melody carved in the stars above."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and as a faithful witness in heaven. Selah",
+  "epigraphRef": "Psalm 89:37",
+  "lyricEyebrow": "From the Psalms"
 }

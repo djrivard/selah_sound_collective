@@ -1,12 +1,154 @@
 {
   "slug": "better-is-one-day",
   "title": "Better is One Day",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 84",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "better-is-one-day.jpg",
+  "audio": "better-is-one-day.mp3",
   "spotify": "https://open.spotify.com/track/1d4V2JapgHLoYqzeSN3dnw",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733cff94be851992840c0c9ce0"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Oh, how lovely is Your dwelling place,"
+        ],
+        [
+          null,
+          "Where my heart finds its solace, grace."
+        ],
+        [
+          null,
+          "My soul yearns, even faints for You,"
+        ],
+        [
+          null,
+          "In courts of love, my life renew."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Even the sparrow has found her home,"
+        ],
+        [
+          null,
+          "The swallow rests where she won’t roam."
+        ],
+        [
+          null,
+          "Blessed are those who dwell near,"
+        ],
+        [
+          null,
+          "Singing praises free of fear."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Better is one day in Your embrace,"
+        ],
+        [
+          null,
+          "Than thousands lost in a distant place."
+        ],
+        [
+          null,
+          "Your love, it shines, forever stays,"
+        ],
+        [
+          null,
+          "Guiding my heart through endless days."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "My strength is born from Your endless streams,"
+        ],
+        [
+          null,
+          "A well of hope, a place of dreams."
+        ],
+        [
+          null,
+          "Through valleys dry, I walk in peace,"
+        ],
+        [
+          null,
+          "Your blessings flow, my doubts release."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "No good thing will You withhold,"
+        ],
+        [
+          null,
+          "To hearts upright, pure, and bold."
+        ],
+        [
+          null,
+          "O Lord of hosts, my King, my Sun,"
+        ],
+        [
+          null,
+          "With You, the battle is always won."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Better is one day in Your embrace,"
+        ],
+        [
+          null,
+          "Than thousands lost in a distant place."
+        ],
+        [
+          null,
+          "Your love, it shines, forever stays,"
+        ],
+        [
+          null,
+          "Guiding my heart through endless days."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Blessed are those who trust in You,"
+        ],
+        [
+          null,
+          "Forever strong, forever true."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "For a day in thy courts is better than a thousand. I had rather be",
+  "epigraphRef": "Psalm 84:10",
+  "lyricEyebrow": "From the Psalms"
 }

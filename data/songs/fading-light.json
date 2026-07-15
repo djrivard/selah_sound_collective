@@ -1,12 +1,185 @@
 {
   "slug": "fading-light",
   "title": "Fading Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 88",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "fading-light.jpg",
+  "audio": "fading-light.mp3",
   "spotify": "https://open.spotify.com/track/7s8ml1FWbH2lwEhQb7sVds",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27372f58224b48fa2cee822d99c"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(Avoid excessive brightness or reverb effects.)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I cry to You in the still of the night,"
+        ],
+        [
+          null,
+          "My soul pours forth its anguished plight."
+        ],
+        [
+          null,
+          "Shadows rise where the light once burned,"
+        ],
+        [
+          null,
+          "To the depths of sorrow, I’ve returned."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Why have You hidden, why am I lost?"
+        ],
+        [
+          null,
+          "Each step I take, it bears a cost."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your silence deafens, no solace found,"
+        ],
+        [
+          null,
+          "I’m buried beneath this hollow ground."
+        ],
+        [
+          null,
+          "Forgotten, forsaken, left to the night,"
+        ],
+        [
+          null,
+          "My prayers dissolve with the fading light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "I am adrift in an endless sea,"
+        ],
+        [
+          null,
+          "No friend remains to comfort me."
+        ],
+        [
+          null,
+          "Bound by chains unseen, I fall,"
+        ],
+        [
+          null,
+          "To the void where Your voice won’t call."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Why have You hidden, why am I lost?"
+        ],
+        [
+          null,
+          "Each step I take, it bears a cost."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your silence deafens, no solace found,"
+        ],
+        [
+          null,
+          "I’m buried beneath this hollow ground."
+        ],
+        [
+          null,
+          "Forgotten, forsaken, left to the night,"
+        ],
+        [
+          null,
+          "My prayers dissolve with the fading light."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "From the womb to the grave, my song is pain,"
+        ],
+        [
+          null,
+          "A cry for mercy, a plea in vain."
+        ],
+        [
+          null,
+          "Yet in the dark, a spark may stay,"
+        ],
+        [
+          null,
+          "A whisper of hope to light my way."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your silence deafens, no solace found,"
+        ],
+        [
+          null,
+          "I’m buried beneath this hollow ground."
+        ],
+        [
+          null,
+          "Forgotten, forsaken, left to the night,"
+        ],
+        [
+          null,
+          "My prayers dissolve with the fading light."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(Focus on midrange and bass frequencies for a mellow sound.)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "I have cried day and night before thee",
+  "epigraphRef": "Psalm 88:1",
+  "lyricEyebrow": "From the Psalms"
 }

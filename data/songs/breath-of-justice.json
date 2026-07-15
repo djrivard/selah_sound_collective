@@ -1,12 +1,180 @@
 {
   "slug": "breath-of-justice",
   "title": "Breath of Justice",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 94",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "breath-of-justice.jpg",
+  "audio": "breath-of-justice.mp3",
   "spotify": "https://open.spotify.com/track/6DNAxvYwqISYljF9UWTBgJ",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734079262cada2a207799bf412"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When shadows rise and evil reigns,"
+        ],
+        [
+          null,
+          "Who will stand to break the chains?"
+        ],
+        [
+          null,
+          "The earth quakes under wicked hands,"
+        ],
+        [
+          null,
+          "Yet justice whispers through the lands."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Is there none to hear the cry,"
+        ],
+        [
+          null,
+          "When the innocent question why?"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord is my refuge, my strength in despair,"
+        ],
+        [
+          null,
+          "He lifts the broken with merciful care."
+        ],
+        [
+          null,
+          "When vengeance belongs to the Maker alone,"
+        ],
+        [
+          null,
+          "Truth will resound from His heavenly throne."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The proud declare their ruthless creed,"
+        ],
+        [
+          null,
+          "They mock the cries of those in need."
+        ],
+        [
+          null,
+          "Yet silent eyes, divine and wise,"
+        ],
+        [
+          null,
+          "Mark every tear, each unseen lie."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Though the wicked rise, though justice seems slow,"
+        ],
+        [
+          null,
+          "A fire is kindled where winds do not blow."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord is my refuge, my strength in despair,"
+        ],
+        [
+          null,
+          "He lifts the broken with merciful care."
+        ],
+        [
+          null,
+          "When vengeance belongs to the Maker alone,"
+        ],
+        [
+          null,
+          "Truth will resound from His heavenly throne."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh foolish hearts who plant the seed,"
+        ],
+        [
+          null,
+          "Do you think He will not see?"
+        ],
+        [
+          null,
+          "The Maker of ears, the sculptor of sight,"
+        ],
+        [
+          null,
+          "Knows every thought concealed by night."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The Lord is my refuge, my strength in despair,"
+        ],
+        [
+          null,
+          "He lifts the broken with merciful care."
+        ],
+        [
+          null,
+          "When vengeance belongs to the Maker alone,"
+        ],
+        [
+          null,
+          "Truth will resound from His heavenly throne."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "In the silence, the righteous stand,"
+        ],
+        [
+          null,
+          "Held by the justice of His hand."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "to whom vengeance belongeth",
+  "epigraphRef": "Psalm 94:1",
+  "lyricEyebrow": "From the Psalms"
 }

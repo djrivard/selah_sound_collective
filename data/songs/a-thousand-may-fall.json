@@ -1,12 +1,141 @@
 {
   "slug": "a-thousand-may-fall",
   "title": "A Thousand May Fall",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 91",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-thousand-may-fall.jpg",
+  "audio": "a-thousand-may-fall.mp3",
   "spotify": "https://open.spotify.com/track/5q1mPrh21w3MzHyjOJ9VtO",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273db4640381fa00e2f8e26b9d3"
+  "sections": [
+    {
+      "label": "Verse",
+      "lines": [
+        [
+          null,
+          "Beneath the wings where shadows lie"
+        ],
+        [
+          null,
+          "Finding refuge up in the sky"
+        ],
+        [
+          null,
+          "No fear of arrows at dawn&apos;s break"
+        ],
+        [
+          null,
+          "Sheltered in love with each step we take"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Night may come with its ghostly flight"
+        ],
+        [
+          null,
+          "We&apos;ll stand firm in the darkest night"
+        ],
+        [
+          null,
+          "With whispers of grace the winds will call"
+        ],
+        [
+          null,
+          "In His fortress we will never fall"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "A thousand may fall at your side"
+        ],
+        [
+          null,
+          "Ten thousand more at your right"
+        ],
+        [
+          null,
+          "But faith will keep you strong and bright"
+        ],
+        [
+          null,
+          "In His love you take your flight"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Plagues and snares won&apos;t make us weak"
+        ],
+        [
+          null,
+          "In His shadow our refuge we seek"
+        ],
+        [
+          null,
+          "With voices raised to the highest height"
+        ],
+        [
+          null,
+          "Walking by faith and not by sight"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Angels guard with outstretched hands"
+        ],
+        [
+          null,
+          "In every place where courage stands"
+        ],
+        [
+          null,
+          "Treading on lions with fearless might"
+        ],
+        [
+          null,
+          "The path is clear in the darkest night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "A thousand may fall at your side"
+        ],
+        [
+          null,
+          "Ten thousand more at your right"
+        ],
+        [
+          null,
+          "But faith will keep you strong and bright"
+        ],
+        [
+          null,
+          "In His love you take your flight"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "A thousand shall fall at thy side",
+  "epigraphRef": "Psalm 91:7",
+  "lyricEyebrow": "From the Psalms"
 }

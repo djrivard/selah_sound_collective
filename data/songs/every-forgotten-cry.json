@@ -1,12 +1,163 @@
 {
   "slug": "every-forgotten-cry",
   "title": "Every Forgotten Cry",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 106",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "every-forgotten-cry.jpg",
+  "audio": "every-forgotten-cry.mp3",
   "spotify": "https://open.spotify.com/track/3PFAt4Q04J6Hj4EQfWuKd5",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732e72cbd5601972e40dbb37d6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Through shadows deep, the heavens cry,"
+        ],
+        [
+          null,
+          "A hymn for hearts where silence lies."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "We faltered where the light grew dim,"
+        ],
+        [
+          null,
+          "In deserts wide, with hearts worn thin."
+        ],
+        [
+          null,
+          "Forgot the hand that parted seas,"
+        ],
+        [
+          null,
+          "The mercy flowing, setting free."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Yet grace endures through every storm,"
+        ],
+        [
+          null,
+          "A beacon bright, in darkness formed."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, how He saves, though we forget,"
+        ],
+        [
+          null,
+          "His love remains, our sun won’t set."
+        ],
+        [
+          null,
+          "In every fall, He lifts the name,"
+        ],
+        [
+          null,
+          "A boundless hope, through every flame."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "We wept by rivers torn by sin,"
+        ],
+        [
+          null,
+          "Yet still His arms draw us within."
+        ],
+        [
+          null,
+          "A tapestry of broken ways,"
+        ],
+        [
+          null,
+          "He weaves with light to endless praise."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let the mountains rise, let the valleys bow,"
+        ],
+        [
+          null,
+          "For mercy reigns here and now."
+        ],
+        [
+          null,
+          "In the hollowed winds, let the Spirit sing,"
+        ],
+        [
+          null,
+          "A song of love eternal spring."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, how He saves, though we forget,"
+        ],
+        [
+          null,
+          "His love remains, our sun won’t set."
+        ],
+        [
+          null,
+          "In every fall, He lifts the name,"
+        ],
+        [
+          null,
+          "A boundless hope, through every flame."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Through every cry, a whisper true,"
+        ],
+        [
+          null,
+          "His grace eternal, breaking through."
+        ],
+        [
+          null,
+          "(A single note resonates as it fades into silence.)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "for his mercy endureth for ever",
+  "epigraphRef": "Psalm 106:1",
+  "lyricEyebrow": "From the Psalms"
 }

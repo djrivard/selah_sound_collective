@@ -1,12 +1,174 @@
 {
   "slug": "though-i-am-weak",
   "title": "Though I Am Weak",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 70",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "though-i-am-weak.jpg",
+  "audio": "though-i-am-weak.mp3",
   "spotify": "https://open.spotify.com/track/7uT0A1ROpiqcxM3e54k4VB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c5a0d0a17eb95d3dc168af61"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the depths of darkest night"
+        ],
+        [
+          null,
+          "When shadows close in tight"
+        ],
+        [
+          null,
+          "I lift my voice and cry Lord, don't pass me by"
+        ],
+        [
+          null,
+          "Make haste to help me now"
+        ],
+        [
+          null,
+          "Before my spirit bows"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Deliver me, deliver me"
+        ],
+        [
+          null,
+          "My God, make haste to set me free"
+        ],
+        [
+          null,
+          "Let those who seek my fall"
+        ],
+        [
+          null,
+          "Find nothing here at all"
+        ],
+        [
+          null,
+          "While I, though poor and weak"
+        ],
+        [
+          null,
+          "Find strength in You I seek"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Let those who mock and shame"
+        ],
+        [
+          null,
+          "Find only empty claims"
+        ],
+        [
+          null,
+          "While those who seek Your face"
+        ],
+        [
+          null,
+          "Find shelter in Your grace"
+        ],
+        [
+          null,
+          "Their joy will overflow"
+        ],
+        [
+          null,
+          "As Your salvation shows"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Deliver me, deliver me"
+        ],
+        [
+          null,
+          "My God, make haste to set me free"
+        ],
+        [
+          null,
+          "Let those who seek my fall"
+        ],
+        [
+          null,
+          "Find nothing here at all"
+        ],
+        [
+          null,
+          "While I, though poor and weak"
+        ],
+        [
+          null,
+          "Find strength in You I seek"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Though I am brought so low"
+        ],
+        [
+          null,
+          "This truth I surely know:"
+        ],
+        [
+          null,
+          "You are my help and shield"
+        ],
+        [
+          null,
+          "To You my life I yield"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Deliver me, deliver me"
+        ],
+        [
+          null,
+          "My God, make haste to set me free"
+        ],
+        [
+          null,
+          "Let those who seek my fall"
+        ],
+        [
+          null,
+          "Find nothing here at all While"
+        ],
+        [
+          null,
+          "I, though poor and weak Find glory as I seek"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "make haste to help me",
+  "epigraphRef": "Psalm 70:1",
+  "lyricEyebrow": "From the Psalms"
 }

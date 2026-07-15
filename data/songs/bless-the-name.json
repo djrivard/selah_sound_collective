@@ -1,12 +1,193 @@
 {
   "slug": "bless-the-name",
   "title": "Bless The Name",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 134",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "bless-the-name.jpg",
+  "audio": "bless-the-name.mp3",
   "spotify": "https://open.spotify.com/track/47F3eC6bNPab7gdr8qU7sS",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2732c353cc4116c3080d810a7ab"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Step into the light, lift your voice to the skies,"
+        ],
+        [
+          null,
+          "Feel the rhythm of grace where the heavens arise."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Come, all who gather in the still of the night,"
+        ],
+        [
+          null,
+          "Raise your hands, let your hearts take flight."
+        ],
+        [
+          null,
+          "From the house of stars to the edge of the sea,"
+        ],
+        [
+          null,
+          "Sing the song of love, set your spirit free."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, the dawn breaks through like a melody,"
+        ],
+        [
+          null,
+          "Every soul ignites in harmony."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Bless the name, let the fire glow,"
+        ],
+        [
+          null,
+          "In the shadow of wings, let the praises flow."
+        ],
+        [
+          null,
+          "Day and night, where the pure streams run,"
+        ],
+        [
+          null,
+          "Lift your hands, bless the Holy One."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Underneath the stars where the faithful stay,"
+        ],
+        [
+          null,
+          "Voices rise like an endless wave."
+        ],
+        [
+          null,
+          "Feel the warmth of grace in the cool night air,"
+        ],
+        [
+          null,
+          "Every heart aligned in a whispered prayer."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, the dawn breaks through like a melody,"
+        ],
+        [
+          null,
+          "Every soul ignites in harmony."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Bless the name, let the fire glow,"
+        ],
+        [
+          null,
+          "In the shadow of wings, let the praises flow."
+        ],
+        [
+          null,
+          "Day and night, where the pure streams run,"
+        ],
+        [
+          null,
+          "Lift your hands, bless the Holy One."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "From the mountains high to the depths below,"
+        ],
+        [
+          null,
+          "Every heart cries out where the blessings grow."
+        ],
+        [
+          null,
+          "In the quiet night or the blazing sun,"
+        ],
+        [
+          null,
+          "All creation sings of the Righteous One."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Bless the name, let the fire glow,"
+        ],
+        [
+          null,
+          "In the shadow of wings, let the praises flow."
+        ],
+        [
+          null,
+          "Day and night, where the pure streams run,"
+        ],
+        [
+          null,
+          "Lift your hands, bless the Holy One."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Step into the light, let your soul be found,"
+        ],
+        [
+          null,
+          "Where the song of love is a holy sound."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "which by night stand in the house of the LORD",
+  "epigraphRef": "Psalm 134:1",
+  "lyricEyebrow": "From the Psalms"
 }

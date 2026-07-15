@@ -1,12 +1,174 @@
 {
   "slug": "your-ways-are-known",
   "title": "Your Ways Are Known",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 67",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "your-ways-are-known.jpg",
+  "audio": "your-ways-are-known.mp3",
   "spotify": "https://open.spotify.com/track/7kPzFE41n4eexPfqMBABev",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27326daa57dfaf30f1bc3a1c173"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Let Your grace fall like morning dew"
+        ],
+        [
+          null,
+          "Let Your face shine on me and you"
+        ],
+        [
+          null,
+          "All nations rise to sing Your praise"
+        ],
+        [
+          null,
+          "As mercy guides us through our days"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let all people sing for joy"
+        ],
+        [
+          null,
+          "Let Your justice reign"
+        ],
+        [
+          null,
+          "Every heart and every voice"
+        ],
+        [
+          null,
+          "Will bless Your holy name"
+        ],
+        [
+          null,
+          "(Let all people sing for joy)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From earth's corners the harvest grows"
+        ],
+        [
+          null,
+          "Your wisdom like a river flows"
+        ],
+        [
+          null,
+          "The nations dance in freedom's light"
+        ],
+        [
+          null,
+          "As dawn dispels the darkest night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let all people sing for joy"
+        ],
+        [
+          null,
+          "Let Your justice reign"
+        ],
+        [
+          null,
+          "Every heart and every voice"
+        ],
+        [
+          null,
+          "Will bless Your holy name"
+        ],
+        [
+          null,
+          "(Let all people sing for joy)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Your ways are known in every land"
+        ],
+        [
+          null,
+          "From shore to shore, from sand to sand"
+        ],
+        [
+          null,
+          "The earth brings forth its bounty sweet"
+        ],
+        [
+          null,
+          "As all creation bows at Your feet"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Let all people sing for joy"
+        ],
+        [
+          null,
+          "Let Your justice reign"
+        ],
+        [
+          null,
+          "Every heart and every voice"
+        ],
+        [
+          null,
+          "Will bless Your holy name"
+        ],
+        [
+          null,
+          "Let all people sing for joy"
+        ],
+        [
+          null,
+          "Let Your justice reign"
+        ],
+        [
+          null,
+          "Till every voice on earth proclaims"
+        ],
+        [
+          null,
+          "Your everlasting name"
+        ],
+        [
+          null,
+          "(Till every voice on earth proclaims"
+        ],
+        [
+          null,
+          "Your everlasting name)"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "That thy way may be known upon earth",
+  "epigraphRef": "Psalm 67:2",
+  "lyricEyebrow": "From the Psalms"
 }

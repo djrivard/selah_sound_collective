@@ -1,12 +1,215 @@
 {
   "slug": "come-let-us-sing",
   "title": "Come, Let Us Sing",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 95",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "come-let-us-sing.jpg",
+  "audio": "come-let-us-sing.mp3",
   "spotify": "https://open.spotify.com/track/1HLNbeAroROhNQKWBOwJmi",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27305118cf33d60d6632d113e92"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Generate with warm tones"
+        ],
+        [
+          null,
+          "and minimal high-frequency emphasis."
+        ]
+      ]
+    },
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Come, let us sing with joyful hearts,"
+        ],
+        [
+          null,
+          "To the Rock of our salvation."
+        ],
+        [
+          null,
+          "With thanksgiving, lift your voice,"
+        ],
+        [
+          null,
+          "In His courts, rejoice, rejoice."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The earth is His, the depths, the heights,"
+        ],
+        [
+          null,
+          "The seas He formed with sovereign might."
+        ],
+        [
+          null,
+          "His hands shaped mountains, valleys low,"
+        ],
+        [
+          null,
+          "A masterpiece, His glory shows."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, kneel before the Lord of grace,"
+        ],
+        [
+          null,
+          "The Maker of this holy place."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Come, let us bow in awe and sing,"
+        ],
+        [
+          null,
+          "Our God, our Lord, eternal King."
+        ],
+        [
+          null,
+          "The heavens proclaim, the earth resounds,"
+        ],
+        [
+          null,
+          "Our hearts on holy ground."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He calls His flock with gentle voice,"
+        ],
+        [
+          null,
+          "In His pasture, we rejoice."
+        ],
+        [
+          null,
+          "Harden not your hearts today,"
+        ],
+        [
+          null,
+          "Hear His call and walk His way."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, kneel before the Lord of grace,"
+        ],
+        [
+          null,
+          "The Maker of this holy place."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Come, let us bow in awe and sing,"
+        ],
+        [
+          null,
+          "Our God, our Lord, eternal King."
+        ],
+        [
+          null,
+          "The heavens proclaim, the earth resounds,"
+        ],
+        [
+          null,
+          "Our hearts on holy ground."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "He reigns above, the King of light,"
+        ],
+        [
+          null,
+          "His truth endures through endless night."
+        ],
+        [
+          null,
+          "O hear His voice, let love abound,"
+        ],
+        [
+          null,
+          "For we stand on holy ground."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Come, let us bow in awe and sing,"
+        ],
+        [
+          null,
+          "Our God, our Lord, eternal King."
+        ],
+        [
+          null,
+          "The heavens proclaim, the earth resounds,"
+        ],
+        [
+          null,
+          "Our hearts on holy ground."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Come, let us sing with joyful hearts,"
+        ],
+        [
+          null,
+          "To the Rock of our salvation."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "let us make a joyful noise to the rock of our salvation",
+  "epigraphRef": "Psalm 95:1",
+  "lyricEyebrow": "From the Psalms"
 }

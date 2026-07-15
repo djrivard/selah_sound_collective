@@ -1,12 +1,298 @@
 {
   "slug": "come-and-see",
   "title": "Come and See",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 66",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "come-and-see.jpg",
+  "audio": "come-and-see.mp3",
   "spotify": "https://open.spotify.com/track/0SgpuS0pWkC4H9Sk1NbZZC",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273684982355fb1cc87b20becf6"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From mountain peaks to ocean deep"
+        ],
+        [
+          null,
+          "Your glory fills the earth"
+        ],
+        [
+          null,
+          "Let every voice lift up in praise"
+        ],
+        [
+          null,
+          "Proclaim Your matchless worth"
+        ],
+        [
+          null,
+          "The waves resound with thunderous sound"
+        ],
+        [
+          null,
+          "Your power on display"
+        ],
+        [
+          null,
+          "The nations see Your mighty deeds"
+        ],
+        [
+          null,
+          "Your wonders day by day"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing out with joy, all the earth"
+        ],
+        [
+          null,
+          "Let praises fill the sky"
+        ],
+        [
+          null,
+          "Come see what God has done for us"
+        ],
+        [
+          null,
+          "His love will never die"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Through fire and flood,"
+        ],
+        [
+          null,
+          "You've brought us through"
+        ],
+        [
+          null,
+          "Your hand has kept us strong"
+        ],
+        [
+          null,
+          "When burdens weighed our spirits down"
+        ],
+        [
+          null,
+          "You turned our pain to song"
+        ],
+        [
+          null,
+          "Our feet may slip but will not fall"
+        ],
+        [
+          null,
+          "Your grace has set us free"
+        ],
+        [
+          null,
+          "The trials that tested faith like gold"
+        ],
+        [
+          null,
+          "Have drawn us close to Thee"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing out with joy, all the earth"
+        ],
+        [
+          null,
+          "Let praises fill the sky"
+        ],
+        [
+          null,
+          "Come see what God has done for us"
+        ],
+        [
+          null,
+          "His love will never die"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Come and listen, all who fear Him"
+        ],
+        [
+          null,
+          "Hear what He has done for me"
+        ],
+        [
+          null,
+          "Every prayer He's heard and answered"
+        ],
+        [
+          null,
+          "Every chain He's broken free"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "With grateful hearts we bring our praise"
+        ],
+        [
+          null,
+          "Our voices will proclaim"
+        ],
+        [
+          null,
+          "The God who holds our lives secure"
+        ],
+        [
+          null,
+          "Forever stays the same"
+        ],
+        [
+          null,
+          "Let all the earth bow down in awe"
+        ],
+        [
+          null,
+          "Before Your holy throne"
+        ],
+        [
+          null,
+          "For You alone are worthy, Lord"
+        ],
+        [
+          null,
+          "All glory is Your own"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing out with joy, all the earth"
+        ],
+        [
+          null,
+          "Let praises fill the sky"
+        ],
+        [
+          null,
+          "Come see what God has done for us"
+        ],
+        [
+          null,
+          "His love will never die"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "From age to age Your faithfulness"
+        ],
+        [
+          null,
+          "Has been our sure defense"
+        ],
+        [
+          null,
+          "Each generation tells Your praise"
+        ],
+        [
+          null,
+          "With holy confidence"
+        ],
+        [
+          null,
+          "Our children's children will proclaim"
+        ],
+        [
+          null,
+          "The wonders You have shown"
+        ],
+        [
+          null,
+          "For You're the God who saves and keeps"
+        ],
+        [
+          null,
+          "Your people as Your own"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Sing out with joy, all the earth"
+        ],
+        [
+          null,
+          "Let praises fill the sky"
+        ],
+        [
+          null,
+          "Come see what God has done for us"
+        ],
+        [
+          null,
+          "His love will never die"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Sing out with joy, all the earth"
+        ],
+        [
+          null,
+          "Let praises fill the sky"
+        ],
+        [
+          null,
+          "Come see what God has done for us"
+        ],
+        [
+          null,
+          "His love will never die"
+        ],
+        [
+          null,
+          "His love will never, never die"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "and I will declare what he hath done for my soul",
+  "epigraphRef": "Psalm 66:16",
+  "lyricEyebrow": "From the Psalms"
 }

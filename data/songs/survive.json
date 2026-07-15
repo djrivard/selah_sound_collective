@@ -1,12 +1,134 @@
 {
   "slug": "survive",
   "title": "Survive",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 59",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "survive.jpg",
+  "audio": "survive.mp3",
   "spotify": "https://open.spotify.com/track/1wK8tAXUGtlROPCf3vidO0",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735d5ad33d84120470d30c6175"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "shadows circle in the dark (whispers echo"
+        ],
+        [
+          null,
+          "through the streets) hunting footsteps"
+        ],
+        [
+          null,
+          "after dark (no escape, no release)"
+        ],
+        [
+          null,
+          "[Pre-Chorus] not for what i've done they seek my blood tonight nowhere left to run as stars fade from sight"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "rise up and find me in this grace your"
+        ],
+        [
+          null,
+          "light bleeds through the night."
+        ],
+        [
+          null,
+          "Let them come to take this place you are"
+        ],
+        [
+          null,
+          "my fortress you are my might (you're"
+        ],
+        [
+          null,
+          "all i need to survive)"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "in this empty room i wait for morning"
+        ],
+        [
+          null,
+          "light darkness closing soon but you're by my side"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "rise up and find me in this grace your"
+        ],
+        [
+          null,
+          "light bleeds through the night."
+        ],
+        [
+          null,
+          "Let them come to take this place you are"
+        ],
+        [
+          null,
+          "my fortress you are my might (you're"
+        ],
+        [
+          null,
+          "all i need to survive)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(whispered/spoken) i'll sing your power when dawn breaks through shadows of the night let truth reveal what darkness takes in your love i'll survive"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "rise up and find me in this grace your light bleeds"
+        ],
+        [
+          null,
+          "through the night let them come to take"
+        ],
+        [
+          null,
+          "this place you are my fortress you are"
+        ],
+        [
+          null,
+          "my might (you're all i need...) (you're"
+        ],
+        [
+          null,
+          "all i need...) (to survive...)"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "defend me from them that rise up against me",
+  "epigraphRef": "Psalm 59:1",
+  "lyricEyebrow": "From the Psalms"
 }

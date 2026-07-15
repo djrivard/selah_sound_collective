@@ -1,12 +1,223 @@
 {
   "slug": "rock-of-ages",
   "title": "Rock of Ages",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 61",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rock-of-ages.jpg",
+  "audio": "rock-of-ages.mp3",
   "spotify": "https://open.spotify.com/track/1bBLgGI77knMSu22gruR1d",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735a72fccea5486c58edc46ec3"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "From the edges of the earth"
+        ],
+        [
+          null,
+          "I call out Your name"
+        ],
+        [
+          null,
+          "When my heart grows weak with fear"
+        ],
+        [
+          null,
+          "You remain the same"
+        ],
+        [
+          null,
+          "Lead me to the higher ground"
+        ],
+        [
+          null,
+          "Where Your peace is found"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You're my shelter in the storm"
+        ],
+        [
+          null,
+          "My tower standing strong"
+        ],
+        [
+          null,
+          "Rock of Ages, keep me warm"
+        ],
+        [
+          null,
+          "When the night grows long"
+        ],
+        [
+          null,
+          "In Your presence I belong"
+        ],
+        [
+          null,
+          "Rock of Ages, carry on"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Like a bird beneath Your wings"
+        ],
+        [
+          null,
+          "I find sweet release"
+        ],
+        [
+          null,
+          "In the shadow of Your grace"
+        ],
+        [
+          null,
+          "Perfect joy and peace"
+        ],
+        [
+          null,
+          "Through the rising of the sun"
+        ],
+        [
+          null,
+          "Till my days are done"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You're my shelter in the storm"
+        ],
+        [
+          null,
+          "My tower standing strong"
+        ],
+        [
+          null,
+          "Rock of Ages, keep me warm"
+        ],
+        [
+          null,
+          "When the night grows long"
+        ],
+        [
+          null,
+          "In Your presence I belong"
+        ],
+        [
+          null,
+          "Rock of Ages, carry on"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Your promises endure"
+        ],
+        [
+          null,
+          "Through every generation"
+        ],
+        [
+          null,
+          "Your mercy makes me sure"
+        ],
+        [
+          null,
+          "Of my salvation"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let my praise rise up to You"
+        ],
+        [
+          null,
+          "Like the morning light"
+        ],
+        [
+          null,
+          "As I dwell within Your courts"
+        ],
+        [
+          null,
+          "Through the darkest night"
+        ],
+        [
+          null,
+          "In Your shelter I will sing"
+        ],
+        [
+          null,
+          "To my God and King"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You're my shelter in the storm"
+        ],
+        [
+          null,
+          "My tower standing strong"
+        ],
+        [
+          null,
+          "Rock of Ages, keep me warm"
+        ],
+        [
+          null,
+          "When the night grows long"
+        ],
+        [
+          null,
+          "In Your presence I belong"
+        ],
+        [
+          null,
+          "Rock of Ages, carry on"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From the edges of the earth"
+        ],
+        [
+          null,
+          "I call out Your name"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "lead me to the rock that is higher than I",
+  "epigraphRef": "Psalm 61:2",
+  "lyricEyebrow": "From the Psalms"
 }

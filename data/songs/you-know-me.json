@@ -1,12 +1,141 @@
 {
   "slug": "you-know-me",
   "title": "You Know Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 139",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "you-know-me.jpg",
+  "audio": "you-know-me.mp3",
   "spotify": "https://open.spotify.com/track/3E7YfJrtwd1ifSNTv7Qftu",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273eb954d50613979c0adc703a1"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Before my first breath, You knew my name"
+        ],
+        [
+          null,
+          "Every footstep planned, every heartbeat claimed"
+        ],
+        [
+          null,
+          "From sunrise to twilight, You're there with me"
+        ],
+        [
+          null,
+          "In shadows or light, Your love sets me free"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You know me deeper than the ocean floor"
+        ],
+        [
+          null,
+          "Every thought I think, and so much more"
+        ],
+        [
+          null,
+          "Your presence surrounds me, near and far"
+        ],
+        [
+          null,
+          "From mountain peaks to the furthest star"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "In the womb You formed me, piece by piece"
+        ],
+        [
+          null,
+          "Every fiber woven in perfect peace"
+        ],
+        [
+          null,
+          "Your artistry flows through all You design"
+        ],
+        [
+          null,
+          "Each day of my life, written line by line"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Where could I run from Your loving gaze?"
+        ],
+        [
+          null,
+          "Through darkest valleys or brightest days"
+        ],
+        [
+          null,
+          "Your hand will guide me, Your strength remain"
+        ],
+        [
+          null,
+          "In joy or sorrow, through sun or rain"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Search my heart, reveal what's true inside"
+        ],
+        [
+          null,
+          "Let Your wisdom be my faithful guide"
+        ],
+        [
+          null,
+          "Every morning brings Your mercies new"
+        ],
+        [
+          null,
+          "Lead me on the path that leads to You"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "You know me deeper than the ocean floor"
+        ],
+        [
+          null,
+          "Every breath I take, and so much more"
+        ],
+        [
+          null,
+          "Your presence holds me, guides my way"
+        ],
+        [
+          null,
+          "From first light until the close of day"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and know my thoughts",
+  "epigraphRef": "Psalm 139:23",
+  "lyricEyebrow": "From the Psalms"
 }

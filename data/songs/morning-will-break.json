@@ -1,12 +1,146 @@
 {
   "slug": "morning-will-break",
   "title": "Morning Will Break",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 130",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "morning-will-break.jpg",
+  "audio": "morning-will-break.mp3",
   "spotify": "https://open.spotify.com/track/1TYhFisOiy9rqBPq5u68d3",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b95b4ba1878a67b9555b94bf"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Out of the depths, I call to You,"
+        ],
+        [
+          null,
+          "My soul aches, raw, through the silence and hue."
+        ],
+        [
+          null,
+          "I watch the dawn, a faint, distant flame,"
+        ],
+        [
+          null,
+          "Waiting on mercy, calling Your name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "If You held all my faults in Your sight,"
+        ],
+        [
+          null,
+          "Who could stand in the shadow of Your light?"
+        ],
+        [
+          null,
+          "But You, O Lord, forgive and restore,"
+        ],
+        [
+          null,
+          "I find my strength in You evermore."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I will wait for the morning, the promise unseen,"
+        ],
+        [
+          null,
+          "Like watchmen in darkness, for the day to redeem."
+        ],
+        [
+          null,
+          "With steadfast hope, my soul will rise,"
+        ],
+        [
+          null,
+          "Your love unfailing, my endless skies."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Israel, trust in the depths of His grace,"
+        ],
+        [
+          null,
+          "His redemption flows, an endless embrace."
+        ],
+        [
+          null,
+          "He will ransom, renew every tear,"
+        ],
+        [
+          null,
+          "Bringing hope to the broken, drawing us near."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Oh, in the waiting, faith refines,"
+        ],
+        [
+          null,
+          "Through the shadows, Your light aligns."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I will wait for the morning, the promise unseen,"
+        ],
+        [
+          null,
+          "Like watchmen in darkness, for the day to redeem."
+        ],
+        [
+          null,
+          "With steadfast hope, my soul will rise,"
+        ],
+        [
+          null,
+          "Your love unfailing, my endless skies."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Out of the depths, I call to You,"
+        ],
+        [
+          null,
+          "Morning will break, Your mercies renew."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "My soul waiteth for the Lord more than they that watch for the morning",
+  "epigraphRef": "Psalm 130:6",
+  "lyricEyebrow": "From the Psalms"
 }

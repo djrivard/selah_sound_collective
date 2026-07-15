@@ -1,12 +1,207 @@
 {
   "slug": "breath-of-praise",
   "title": "Breath of Praise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 148",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "breath-of-praise.jpg",
+  "audio": "breath-of-praise.mp3",
   "spotify": "https://open.spotify.com/track/0bEolGBKBWZqpuOkuM4GlH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273a0e87aedc47c638f57a9f1e6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A G D F#m)"
+        ],
+        [
+          null,
+          "Oh heavens, arise, let your voice resound,"
+        ],
+        [
+          null,
+          "The stars in their brilliance, the angels bow down,"
+        ],
+        [
+          null,
+          "A tapestry woven in celestial hues,"
+        ],
+        [
+          null,
+          "All of creation sings praises anew."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A G D F#m)"
+        ],
+        [
+          null,
+          "From the sun in its radiance, the moon in its glow,"
+        ],
+        [
+          null,
+          "To the highest of heavens, where praises overflow,"
+        ],
+        [
+          null,
+          "Mountains and valleys, the seas as they roar,"
+        ],
+        [
+          null,
+          "Lift up your voices, let praise be restored."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(F#m G D A)"
+        ],
+        [
+          null,
+          "For His word has spoken, the cosmos obeys,"
+        ],
+        [
+          null,
+          "In His boundless power, we live all our days."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(D G A Bm)"
+        ],
+        [
+          null,
+          "Hallelujah, let the earth proclaim,"
+        ],
+        [
+          null,
+          "Hallelujah, lift His holy name,"
+        ],
+        [
+          null,
+          "From the depths to the sky, let the anthem rise,"
+        ],
+        [
+          null,
+          "Hallelujah, hallelujah, the song never dies."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A G D F#m)"
+        ],
+        [
+          null,
+          "From the creatures that crawl to the birds in their flight,"
+        ],
+        [
+          null,
+          "All nations and kings, bow in the light,"
+        ],
+        [
+          null,
+          "The old and the young, the strong and the weak,"
+        ],
+        [
+          null,
+          "Together in praise, His glory we seek."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(F#m G A Bm)"
+        ],
+        [
+          null,
+          "Let the mountains echo, let the trees clap their hands,"
+        ],
+        [
+          null,
+          "Let the rivers rejoice, let them dance in the lands,"
+        ],
+        [
+          null,
+          "All creation united in heavenly song,"
+        ],
+        [
+          null,
+          "Forever and ever, His praises belong."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(D G A Bm)"
+        ],
+        [
+          null,
+          "Hallelujah, let the earth proclaim,"
+        ],
+        [
+          null,
+          "Hallelujah, lift His holy name,"
+        ],
+        [
+          null,
+          "From the depths to the sky, let the anthem rise,"
+        ],
+        [
+          null,
+          "Hallelujah, hallelujah, the song never dies."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A G D F#m)"
+        ],
+        [
+          null,
+          "Oh heavens, arise, let your voice resound,"
+        ],
+        [
+          null,
+          "The stars in their brilliance, the angels bow down,"
+        ],
+        [
+          null,
+          "All of creation in harmony sings,"
+        ],
+        [
+          null,
+          "Forever exalted, the King of all kings."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "all ye stars of light",
+  "epigraphRef": "Psalm 148:3",
+  "lyricEyebrow": "From the Psalms"
 }

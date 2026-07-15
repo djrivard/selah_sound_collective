@@ -1,12 +1,167 @@
 {
   "slug": "not-unto-us",
   "title": "Not Unto Us",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 115",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "not-unto-us.jpg",
+  "audio": "not-unto-us.mp3",
   "spotify": "https://open.spotify.com/track/0RLG1iOvd7I2VzmdnEDxAB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273358e49031ef7063772184c60"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Not to us, O Lord, not to us,"
+        ],
+        [
+          null,
+          "But to Your name belongs the glory,"
+        ],
+        [
+          null,
+          "For Your love shines brighter than the stars,"
+        ],
+        [
+          null,
+          "And Your faithfulness endures forever."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The idols of silver and gold they carve,"
+        ],
+        [
+          null,
+          "Are silent, lifeless, bound to the earth,"
+        ],
+        [
+          null,
+          "But You, O Lord, breathe life and light,"
+        ],
+        [
+          null,
+          "You shape the dawn, You crown the night."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Trust in the Lord, shield and strength,"
+        ],
+        [
+          null,
+          "From the smallest heart to the mighty ranks."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Heaven and earth sing Your great name,"
+        ],
+        [
+          null,
+          "The hands of men fade in Your flame."
+        ],
+        [
+          null,
+          "You hold the skies, You give us breath,"
+        ],
+        [
+          null,
+          "Our lives are Yours, beyond the depths."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The dead cannot praise, their voices stilled,"
+        ],
+        [
+          null,
+          "But we who breathe will sing, fulfilled."
+        ],
+        [
+          null,
+          "May the earth resound with holy cries,"
+        ],
+        [
+          null,
+          "From age to age, let faith arise."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "O Israel, trust in His steadfast grace,"
+        ],
+        [
+          null,
+          "O children, rest in His embrace."
+        ],
+        [
+          null,
+          "The heavens declare, the stars reply,"
+        ],
+        [
+          null,
+          "His love will never die."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Heaven and earth sing Your great name,"
+        ],
+        [
+          null,
+          "The hands of men fade in Your flame."
+        ],
+        [
+          null,
+          "You hold the skies, You give us breath,"
+        ],
+        [
+          null,
+          "Our lives are Yours, beyond the depths."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Not to us, O Lord, not to us,"
+        ],
+        [
+          null,
+          "But to Your name, eternal trust."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "but unto thy name give glory",
+  "epigraphRef": "Psalm 115:1",
+  "lyricEyebrow": "From the Psalms"
 }

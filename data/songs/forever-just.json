@@ -1,12 +1,167 @@
 {
   "slug": "forever-just",
   "title": "Forever Just",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 76",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "forever-just.jpg",
+  "audio": "forever-just.mp3",
   "spotify": "https://open.spotify.com/track/4Dr4KCNpmODf1WdpbkYx30",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273989ede33c8c015ab320e53fc"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Beneath the heavens’ silent gaze,"
+        ],
+        [
+          null,
+          "We lift our voices, hearts ablaze."
+        ],
+        [
+          null,
+          "In shadows deep, Your justice reigns,"
+        ],
+        [
+          null,
+          "Through fleeting joy and bitter pains."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "We speak of wonders You ordain,"
+        ],
+        [
+          null,
+          "Your hands hold stars, Your power remains."
+        ],
+        [
+          null,
+          "The earth shall tremble at Your might,"
+        ],
+        [
+          null,
+          "Yet mercy falls with morning light."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, the wicked rise, the proud will fall,"
+        ],
+        [
+          null,
+          "Your truth resounds, a sovereign call."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your cup of wrath and mercy blends,"
+        ],
+        [
+          null,
+          "It turns the tides, it breaks, it mends."
+        ],
+        [
+          null,
+          "To You we bow, Your name we raise,"
+        ],
+        [
+          null,
+          "Forever just, through endless days."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The horns of pride You shatter low,"
+        ],
+        [
+          null,
+          "The meek shall see Your glory grow."
+        ],
+        [
+          null,
+          "No king shall stand apart from grace,"
+        ],
+        [
+          null,
+          "Your justice shines on every face."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "You judge the earth, the scales align,"
+        ],
+        [
+          null,
+          "Through darkness deep, Your light will shine."
+        ],
+        [
+          null,
+          "The righteous sing, their voices soar,"
+        ],
+        [
+          null,
+          "Your love endures forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your cup of wrath and mercy blends,"
+        ],
+        [
+          null,
+          "It turns the tides, it breaks, it mends."
+        ],
+        [
+          null,
+          "To You we bow, Your name we raise,"
+        ],
+        [
+          null,
+          "Forever just, through endless days."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Through fleeting joy and bitter pains,"
+        ],
+        [
+          null,
+          "Beneath the heavens, Your justice reigns."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and none of the men of might have found their hands",
+  "epigraphRef": "Psalm 76:5",
+  "lyricEyebrow": "From the Psalms"
 }

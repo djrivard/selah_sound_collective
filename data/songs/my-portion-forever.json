@@ -1,12 +1,167 @@
 {
   "slug": "my-portion-forever",
   "title": "My Portion Forever",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 73",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "my-portion-forever.jpg",
+  "audio": "my-portion-forever.mp3",
   "spotify": "https://open.spotify.com/track/1J2rLstrjC6CtPR6DGP0p0",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273de630ad7920ae05633fee343"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "In the shadow of doubt, I wandered astray,"
+        ],
+        [
+          null,
+          "Till light unveiled the righteous way."
+        ],
+        [
+          null,
+          "Through valleys deep, Your love prevails,"
+        ],
+        [
+          null,
+          "Guiding my heart where hope never fails."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "My feet had slipped, my spirit weak,"
+        ],
+        [
+          null,
+          "Envy burned as the proud seemed free."
+        ],
+        [
+          null,
+          "Yet their treasures fade, their glory falls,"
+        ],
+        [
+          null,
+          "In You alone, my soul stands tall."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "I was blind to grace, consumed by strife,"
+        ],
+        [
+          null,
+          "Yet You, O Lord, restored my life."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my strength, my portion forever,"
+        ],
+        [
+          null,
+          "Through trials and storms, we stand together."
+        ],
+        [
+          null,
+          "Whom have I in heaven but Thee?"
+        ],
+        [
+          null,
+          "My refuge, my rock, eternally."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Their fleeting days like shadows pass,"
+        ],
+        [
+          null,
+          "But Your steadfast love shall ever last."
+        ],
+        [
+          null,
+          "You hold my hand, You guide my feet,"
+        ],
+        [
+          null,
+          "In Your embrace, my joy’s complete."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "When my heart fails and flesh grows frail,"
+        ],
+        [
+          null,
+          "Your covenant of love will never pale."
+        ],
+        [
+          null,
+          "Earth may crumble, skies may fall,"
+        ],
+        [
+          null,
+          "Still You remain my all in all."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my strength, my portion forever,"
+        ],
+        [
+          null,
+          "Through trials and storms, we stand together."
+        ],
+        [
+          null,
+          "Whom have I in heaven but Thee?"
+        ],
+        [
+          null,
+          "My refuge, my rock, eternally."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "And so I’ll sing through endless days,"
+        ],
+        [
+          null,
+          "In Your glory, forever I’ll stay."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "but God is the strength of my heart",
+  "epigraphRef": "Psalm 73:26",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,159 @@
 {
   "slug": "bend-your-ear-to-me",
   "title": "Bend Your Ear To Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 86",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "bend-your-ear-to-me.jpg",
+  "audio": "bend-your-ear-to-me.mp3",
   "spotify": "https://open.spotify.com/track/4vhbK8cp1gOQkmbJ5SqaOl",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27388ab8e9bc2893927fc8b67f6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "\"Lord, hear my plea (oh, hear me)"
+        ],
+        [
+          null,
+          "Bend Your ear to my trembling voice.\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "\"I am broken, weak, and low,"
+        ],
+        [
+          null,
+          "A heart that aches where shadows grow."
+        ],
+        [
+          null,
+          "Your mercy, endless as the sea,"
+        ],
+        [
+          null,
+          "Rescue my soul, oh set me free.\""
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "\"In my sorrow, I call Your name,"
+        ],
+        [
+          null,
+          "Through the ashes, I seek Your flame.\""
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "\"Bow down, O Lord, hear me cry,"
+        ],
+        [
+          null,
+          "You’re the lifeline as the waves rise high."
+        ],
+        [
+          null,
+          "In my darkness, let Your light shine,"
+        ],
+        [
+          null,
+          "Your grace, eternal, forever mine.\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "\"You are good, Your love remains,"
+        ],
+        [
+          null,
+          "A shelter strong through storms and rain."
+        ],
+        [
+          null,
+          "To You I lift my weary gaze,"
+        ],
+        [
+          null,
+          "Oh, let me rest in Your embrace.\""
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "\"Teach me Your way, I’ll walk Your truth,"
+        ],
+        [
+          null,
+          "Bind my heart, let it not undo."
+        ],
+        [
+          null,
+          "Your love alone can make me whole,"
+        ],
+        [
+          null,
+          "Your name the anchor of my soul.\""
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "\"Bow down, O Lord, hear me cry,"
+        ],
+        [
+          null,
+          "You’re the lifeline as the waves rise high."
+        ],
+        [
+          null,
+          "In my darkness, let Your light shine,"
+        ],
+        [
+          null,
+          "Your grace, eternal, forever mine.\""
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "\"Lord, hear my plea (oh, hear me),"
+        ],
+        [
+          null,
+          "Bend Your ear to my trembling voice...\""
+        ]
+      ]
+    }
+  ],
+  "epigraph": "and plenteous in mercy unto all them that call upon thee",
+  "epigraphRef": "Psalm 86:5",
+  "lyricEyebrow": "From the Psalms"
 }

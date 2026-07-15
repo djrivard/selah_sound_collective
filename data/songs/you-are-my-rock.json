@@ -1,12 +1,179 @@
 {
   "slug": "you-are-my-rock",
   "title": "You Are My Rock",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 62",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "you-are-my-rock.jpg",
+  "audio": "you-are-my-rock.mp3",
   "spotify": "https://open.spotify.com/track/5PxQuafFqEzozQw48ngzAH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273df4b941503ed122e842e685d"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In silence I find my rest"
+        ],
+        [
+          null,
+          "My soul turns toward heaven's breast"
+        ],
+        [
+          null,
+          "Through storms and trials"
+        ],
+        [
+          null,
+          "I stand secure"
+        ],
+        [
+          null,
+          "My foundation will endure"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my rock, my salvation"
+        ],
+        [
+          null,
+          "My fortress through every nation"
+        ],
+        [
+          null,
+          "No power can shake this ground"
+        ],
+        [
+          null,
+          "In You alone peace is found"
+        ],
+        [
+          null,
+          "In You alone peace is found"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Why do they plot and scheme?"
+        ],
+        [
+          null,
+          "Like walls that crack and lean"
+        ],
+        [
+          null,
+          "Their whispers fade like morning mist"
+        ],
+        [
+          null,
+          "Their power cannot persist"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my rock, my salvation"
+        ],
+        [
+          null,
+          "My fortress through every nation"
+        ],
+        [
+          null,
+          "No power can shake this ground"
+        ],
+        [
+          null,
+          "In You alone peace is found"
+        ],
+        [
+          null,
+          "In You alone peace is found"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Pour out your heart like water"
+        ],
+        [
+          null,
+          "Before the throne of grace"
+        ],
+        [
+          null,
+          "Every burden, every fear"
+        ],
+        [
+          null,
+          "Finds mercy in this place"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "All glory belongs to You Your strength forever true"
+        ],
+        [
+          null,
+          "Your love flows down like morning light"
+        ],
+        [
+          null,
+          "Your mercy makes all things right"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my rock, my salvation"
+        ],
+        [
+          null,
+          "My fortress through every nation"
+        ],
+        [
+          null,
+          "No power can shake this ground"
+        ],
+        [
+          null,
+          "In You alone peace is found"
+        ],
+        [
+          null,
+          "In You alone peace is found"
+        ],
+        [
+          null,
+          "[Outro] In silence I find my rest My soul is finally blessed"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "He only is my rock and my salvation",
+  "epigraphRef": "Psalm 62:2",
+  "lyricEyebrow": "From the Psalms"
 }

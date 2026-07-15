@@ -1,12 +1,225 @@
 {
   "slug": "rise-and-sing",
   "title": "Rise and Sing",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 47",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "rise-and-sing.jpg",
+  "audio": "rise-and-sing.mp3",
   "spotify": "https://open.spotify.com/track/4sooT0wdl46yzrMdWCgx0j",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273510ef3a33d439e7bb1a1565e"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Let every nation clap their hands"
+        ],
+        [
+          null,
+          "Let shouts of joy fill all the lands"
+        ],
+        [
+          null,
+          "For awesome is our sovereign Lord"
+        ],
+        [
+          null,
+          "The King of kings shall be adored"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise and sing, all the earth"
+        ],
+        [
+          null,
+          "Let your praise ring to the heavens"
+        ],
+        [
+          null,
+          "For the King of all creation reigns"
+        ],
+        [
+          null,
+          "His glory knows no end"
+        ],
+        [
+          null,
+          "(His glory knows no end)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He chose our heritage divine"
+        ],
+        [
+          null,
+          "Drew nations' bounds with grand design"
+        ],
+        [
+          null,
+          "From mountain peaks to ocean deep"
+        ],
+        [
+          null,
+          "His love eternal He will keep"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise and sing, all the earth"
+        ],
+        [
+          null,
+          "Let your praise ring to the heavens"
+        ],
+        [
+          null,
+          "For the King of all creation reigns"
+        ],
+        [
+          null,
+          "His glory knows no end"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "See how He rises with a shout"
+        ],
+        [
+          null,
+          "As trumpets clear ring boldly out"
+        ],
+        [
+          null,
+          "Sing praises to our God above"
+        ],
+        [
+          null,
+          "Who shields all peoples with His love"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "The mighty rulers bow their knee"
+        ],
+        [
+          null,
+          "Before His throne eternally"
+        ],
+        [
+          null,
+          "His power extends from shore to shore"
+        ],
+        [
+          null,
+          "He reigns in glory evermore"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise and sing, all the earth"
+        ],
+        [
+          null,
+          "Let your praise ring to the heavens"
+        ],
+        [
+          null,
+          "For the King of all creation reigns"
+        ],
+        [
+          null,
+          "His glory knows no end"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "From east to west"
+        ],
+        [
+          null,
+          "From shore to shore"
+        ],
+        [
+          null,
+          "His majesty endures"
+        ],
+        [
+          null,
+          "Forever more"
+        ],
+        [
+          null,
+          "(His majesty endures)"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise and sing, all the earth"
+        ],
+        [
+          null,
+          "Let your praise ring to the heavens"
+        ],
+        [
+          null,
+          "For the King of all creation reigns"
+        ],
+        [
+          null,
+          "His glory knows no end"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "His glory knows no end"
+        ],
+        [
+          null,
+          "(His glory knows no end)"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "For God is the King of all the earth",
+  "epigraphRef": "Psalm 47:7",
+  "lyricEyebrow": "From the Psalms"
 }

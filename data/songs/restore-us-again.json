@@ -1,12 +1,207 @@
 {
   "slug": "restore-us-again",
   "title": "Restore Us Again",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 126",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "restore-us-again.jpg",
+  "audio": "restore-us-again.mp3",
   "spotify": "https://open.spotify.com/track/1uZuq4vpLCL00c1ZrHvF5f",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2731298bc40efbf590ca1ca536b"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A G C D)"
+        ],
+        [
+          null,
+          "When the Lord restored our weary hearts,"
+        ],
+        [
+          null,
+          "Dreams of freedom lit the dark,"
+        ],
+        [
+          null,
+          "The echoes of joy were like a song,"
+        ],
+        [
+          null,
+          "A symphony where we belong."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A G C D)"
+        ],
+        [
+          null,
+          "We laughed aloud, our voices soared,"
+        ],
+        [
+          null,
+          "The nations saw the grace outpoured."
+        ],
+        [
+          null,
+          "They marveled at what He has done,"
+        ],
+        [
+          null,
+          "A love that shines brighter than the sun."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(A C G D)"
+        ],
+        [
+          null,
+          "Oh, the seeds of sorrow we have sown,"
+        ],
+        [
+          null,
+          "Now bloom in fields of mercy grown."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(G C D G)"
+        ],
+        [
+          null,
+          "Restore us again, oh Lord of light,"
+        ],
+        [
+          null,
+          "Like streams that flow through desert nights."
+        ],
+        [
+          null,
+          "Tears we've sown now reap with joy,"
+        ],
+        [
+          null,
+          "Laughter's harvest to employ."
+        ],
+        [
+          null,
+          "Oh, restore us again!"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A G C D)"
+        ],
+        [
+          null,
+          "Those who walk through shadows deep,"
+        ],
+        [
+          null,
+          "Will find their joy in what they reap."
+        ],
+        [
+          null,
+          "For every tear, a song is raised,"
+        ],
+        [
+          null,
+          "In boundless love, we give You praise."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(G D A C)"
+        ],
+        [
+          null,
+          "Oh, how the dawn dispels the night,"
+        ],
+        [
+          null,
+          "Your mercy's glow, our guiding light."
+        ],
+        [
+          null,
+          "Forever we'll sing, forever we’ll soar,"
+        ],
+        [
+          null,
+          "Bound to Your grace forevermore."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(G C D G)"
+        ],
+        [
+          null,
+          "Restore us again, oh Lord of light,"
+        ],
+        [
+          null,
+          "Like streams that flow through desert nights."
+        ],
+        [
+          null,
+          "Tears we've sown now reap with joy,"
+        ],
+        [
+          null,
+          "Laughter's harvest to employ."
+        ],
+        [
+          null,
+          "Oh, restore us again!"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A G C D)"
+        ],
+        [
+          null,
+          "Restore, restore, oh Lord of grace,"
+        ],
+        [
+          null,
+          "Our hearts will dance in Your embrace."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "When the LORD turned again the captivity of Zion",
+  "epigraphRef": "Psalm 126:1",
+  "lyricEyebrow": "From the Psalms"
 }

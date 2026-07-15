@@ -1,12 +1,215 @@
 {
   "slug": "a-refuge-for-my-soul",
   "title": "A Refuge For My Soul",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 142",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "a-refuge-for-my-soul.jpg",
+  "audio": "a-refuge-for-my-soul.mp3",
   "spotify": "https://open.spotify.com/track/4BSBVMpzmNKwX5HwkMsUU1",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739851e9d176cb58ad81ff4ca6"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A Gm Dm C)"
+        ],
+        [
+          null,
+          "In my despair, I raise my voice,"
+        ],
+        [
+          null,
+          "A trembling echo, a weary choice,"
+        ],
+        [
+          null,
+          "My soul pours out, a flood unseen,"
+        ],
+        [
+          null,
+          "In shadowed halls, where I have been."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "(A F C Gm)"
+        ],
+        [
+          null,
+          "I cry aloud, to skies so vast,"
+        ],
+        [
+          null,
+          "Unveil my heart, its shadows cast,"
+        ],
+        [
+          null,
+          "The path before me, rugged, torn,"
+        ],
+        [
+          null,
+          "With every step, my spirit worn."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "(Dm Bb F C)"
+        ],
+        [
+          null,
+          "When all forsake, when none can see,"
+        ],
+        [
+          null,
+          "The trap set close, surrounding me,"
+        ],
+        [
+          null,
+          "I lift my eyes, though weighed with strife,"
+        ],
+        [
+          null,
+          "Seeking the light to redeem my life."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(F C Gm Dm)"
+        ],
+        [
+          null,
+          "You are my refuge, my shelter, my song,"
+        ],
+        [
+          null,
+          "In your embrace, I’ve found where I belong,"
+        ],
+        [
+          null,
+          "When the world is silent, my voice is heard,"
+        ],
+        [
+          null,
+          "Through your mercy, I am stirred."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "(A F C Gm)"
+        ],
+        [
+          null,
+          "The walls close in, the night descends,"
+        ],
+        [
+          null,
+          "But in my prayer, the darkness bends,"
+        ],
+        [
+          null,
+          "Your grace a flame, my hope sustains,"
+        ],
+        [
+          null,
+          "Through raging storms and bitter rains."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(Bb F Dm Gm)"
+        ],
+        [
+          null,
+          "I was alone, the last of the kind,"
+        ],
+        [
+          null,
+          "But in your love, my rest I find,"
+        ],
+        [
+          null,
+          "Lift my soul, like wings unseen,"
+        ],
+        [
+          null,
+          "Guide me to places I’ve never been."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "(F C Gm Dm)"
+        ],
+        [
+          null,
+          "You are my refuge, my shelter, my song,"
+        ],
+        [
+          null,
+          "In your embrace, I’ve found where I belong,"
+        ],
+        [
+          null,
+          "When the world is silent, my voice is heard,"
+        ],
+        [
+          null,
+          "Through your mercy, I am stirred."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "(A Gm F C)"
+        ],
+        [
+          null,
+          "Through every shadow, your light will stay,"
+        ],
+        [
+          null,
+          "A constant guide through the fleeting day,"
+        ],
+        [
+          null,
+          "I whisper still, through the quiet night,"
+        ],
+        [
+          null,
+          "You are my refuge, my saving light."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "no man cared for my soul",
+  "epigraphRef": "Psalm 142:4",
+  "lyricEyebrow": "From the Psalms"
 }

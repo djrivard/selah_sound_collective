@@ -1,12 +1,159 @@
 {
   "slug": "uphold-the-promise",
   "title": "Uphold the Promise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 101",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "uphold-the-promise.jpg",
+  "audio": "uphold-the-promise.mp3",
   "spotify": "https://open.spotify.com/track/4mkyPqFFqHfpj6b1VorDRN",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273e85b7b77753c9b12ee11c8e8"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "With a heart full of honor, I rise today"
+        ],
+        [
+          null,
+          "To sing of the steadfast and walk in Your way"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I will sing of Your mercy, sing of Your grace"
+        ],
+        [
+          null,
+          "Hold Your truth like a banner, through every place"
+        ],
+        [
+          null,
+          "With a blameless heart, I’ll stand before You"
+        ],
+        [
+          null,
+          "In the quiet of morning, my promise renew"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "In the halls of my heart, I prepare the throne"
+        ],
+        [
+          null,
+          "A dwelling for Your spirit, a place to call home"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I will walk in the light, with no shadow near"
+        ],
+        [
+          null,
+          "Hold fast to Your truth, wipe away my fear"
+        ],
+        [
+          null,
+          "With a song of devotion, I will remain"
+        ],
+        [
+          null,
+          "In the arms of the holy, forever sustained"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "I’ll turn from deceit, guard my soul from lies"
+        ],
+        [
+          null,
+          "Choose the path of the faithful, lift my eyes"
+        ],
+        [
+          null,
+          "No evil will dwell where Your light has shone"
+        ],
+        [
+          null,
+          "In the house of Your love, I’ll call it my own"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "When the trials arise, and the darkness calls"
+        ],
+        [
+          null,
+          "I’ll stand on the rock that will never fall"
+        ],
+        [
+          null,
+          "With the voice of Your promise, I’ll shout Your name"
+        ],
+        [
+          null,
+          "Through the fire and flood, You remain the same"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "I will walk in the light, with no shadow near"
+        ],
+        [
+          null,
+          "Hold fast to Your truth, wipe away my fear"
+        ],
+        [
+          null,
+          "With a song of devotion, I will remain"
+        ],
+        [
+          null,
+          "In the arms of the holy, forever sustained"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Through the days of my life, Your light will lead"
+        ],
+        [
+          null,
+          "To the gates of forever, where love is freed"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "I will sing of mercy and judgment",
+  "epigraphRef": "Psalm 101:1",
+  "lyricEyebrow": "From the Psalms"
 }

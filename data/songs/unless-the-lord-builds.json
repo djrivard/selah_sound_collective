@@ -1,12 +1,163 @@
 {
   "slug": "unless-the-lord-builds",
   "title": "Unless The Lord Builds",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 127",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "unless-the-lord-builds.jpg",
+  "audio": "unless-the-lord-builds.mp3",
   "spotify": "https://open.spotify.com/track/4CLaPX7aCfO8dfDmD8xBCB",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738132d7d3e92c82d5eb456c80"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "(A D G Bm Em)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Unless the Lord builds the house,"
+        ],
+        [
+          null,
+          "Its builders labor in vain."
+        ],
+        [
+          null,
+          "Unless He guards the city’s gates,"
+        ],
+        [
+          null,
+          "Our watchmen’s work is drained."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Rise early, toil through the night,"
+        ],
+        [
+          null,
+          "Yet bread comes not from strife."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, He grants His beloved rest,"
+        ],
+        [
+          null,
+          "A peace no toil can find."
+        ],
+        [
+          null,
+          "The hands of God are ever near,"
+        ],
+        [
+          null,
+          "Our hope in Him aligned."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Children are arrows in the hand,"
+        ],
+        [
+          null,
+          "A heritage we claim."
+        ],
+        [
+          null,
+          "Blessed is the one whose quiver’s full,"
+        ],
+        [
+          null,
+          "Their future bears His name."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, He grants His beloved rest,"
+        ],
+        [
+          null,
+          "A peace no toil can find."
+        ],
+        [
+          null,
+          "The hands of God are ever near,"
+        ],
+        [
+          null,
+          "Our hope in Him aligned."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The house He builds will never fall,"
+        ],
+        [
+          null,
+          "It’s rooted in His grace."
+        ],
+        [
+          null,
+          "A stronghold standing firm and tall,"
+        ],
+        [
+          null,
+          "Eternal is its place."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, He grants His beloved rest,"
+        ],
+        [
+          null,
+          "A peace no toil can find."
+        ],
+        [
+          null,
+          "The hands of God are ever near,"
+        ],
+        [
+          null,
+          "Our hope in Him aligned."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Except the LORD build the house",
+  "epigraphRef": "Psalm 127:1",
+  "lyricEyebrow": "From the Psalms"
 }

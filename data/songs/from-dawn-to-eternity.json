@@ -1,12 +1,167 @@
 {
   "slug": "from-dawn-to-eternity",
   "title": "From Dawn To Eternity",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 113",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "from-dawn-to-eternity.jpg",
+  "audio": "from-dawn-to-eternity.mp3",
   "spotify": "https://open.spotify.com/track/3i47Vj6Brko1Lfg9EYnyP2",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2737a13063913e697b2179cbc67"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "From dawn’s first light to twilight’s glow,"
+        ],
+        [
+          null,
+          "Praise the One who reigns below and above."
+        ],
+        [
+          null,
+          "He raises the humble, scatters the proud,"
+        ],
+        [
+          null,
+          "His name resounds, eternally vowed."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Who is like our Lord on high,"
+        ],
+        [
+          null,
+          "Seated beyond the vast blue sky?"
+        ],
+        [
+          null,
+          "He bends to see the earth below,"
+        ],
+        [
+          null,
+          "To lift the weary, make them whole."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "From barren lands to fields that bloom,"
+        ],
+        [
+          null,
+          "From silent hearts to joy-filled rooms."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift His name, high above,"
+        ],
+        [
+          null,
+          "The heavens sing of endless love."
+        ],
+        [
+          null,
+          "From the rising sun to setting flame,"
+        ],
+        [
+          null,
+          "Forever praised, His holy name."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He sets the lowly on their throne,"
+        ],
+        [
+          null,
+          "The orphan finds a family, a home."
+        ],
+        [
+          null,
+          "The desolate rejoice, their sorrows cease,"
+        ],
+        [
+          null,
+          "In His embrace, eternal peace."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "From east to west, the anthem flies,"
+        ],
+        [
+          null,
+          "The praise of nations fills the skies."
+        ],
+        [
+          null,
+          "Every soul, in awe, proclaims,"
+        ],
+        [
+          null,
+          "The boundless power of His name."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift His name, high above,"
+        ],
+        [
+          null,
+          "The heavens sing of endless love."
+        ],
+        [
+          null,
+          "From the rising sun to setting flame,"
+        ],
+        [
+          null,
+          "Forever praised, His holy name."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "From dawn’s first light to twilight’s glow,"
+        ],
+        [
+          null,
+          "The song of praise will ever grow."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "praise the name of the LORD",
+  "epigraphRef": "Psalm 113:1",
+  "lyricEyebrow": "From the Psalms"
 }

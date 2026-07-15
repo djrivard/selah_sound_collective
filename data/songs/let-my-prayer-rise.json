@@ -1,12 +1,180 @@
 {
   "slug": "let-my-prayer-rise",
   "title": "Let My Prayer Rise",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 141",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "let-my-prayer-rise.jpg",
+  "audio": "let-my-prayer-rise.mp3",
   "spotify": "https://open.spotify.com/track/0cpctV0MvojJWsn8cKwA9K",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27371fddbbb09caa0589ab15c0d"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "O Lord, I call to You, my voice like rising smoke,"
+        ],
+        [
+          null,
+          "As incense drifts in stillness, my spirit bears its yoke."
+        ],
+        [
+          null,
+          "Lift my hands like evening flames, flickering to the sky,"
+        ],
+        [
+          null,
+          "Guard my lips from fleeting words,"
+        ],
+        [
+          null,
+          "and catch each wandering sigh."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Oh, set a watch upon my heart, a sentinel so wise,"
+        ],
+        [
+          null,
+          "Keep my feet from wicked paths,"
+        ],
+        [
+          null,
+          "where shadows weave their lies."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let my prayer rise like fire, a beacon in the night,"
+        ],
+        [
+          null,
+          "A whispered flame that climbs"
+        ],
+        [
+          null,
+          "the stars, seeking Your holy light."
+        ],
+        [
+          null,
+          "Through the storms and tempests,"
+        ],
+        [
+          null,
+          "I'll rest within Your hands,"
+        ],
+        [
+          null,
+          "Let my soul find sanctuary, where only love commands."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Do not let my heart incline to what deceivers crave,"
+        ],
+        [
+          null,
+          "Shield me from their sweetened snares,"
+        ],
+        [
+          null,
+          "their pleasures that enslave."
+        ],
+        [
+          null,
+          "Let righteous words be gentle blows, refining me to gold,"
+        ],
+        [
+          null,
+          "For even in the darkest vale, Your wisdom takes its hold."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Even as bones are crushed by trial's heavy stone,"
+        ],
+        [
+          null,
+          "Your mercy flows like rivers, carving pathways into home."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let my prayer rise like fire, a beacon in the night,"
+        ],
+        [
+          null,
+          "A whispered flame that climbs"
+        ],
+        [
+          null,
+          "the stars, seeking Your holy light."
+        ],
+        [
+          null,
+          "Through the storms and tempests,"
+        ],
+        [
+          null,
+          "I'll rest within Your hands,"
+        ],
+        [
+          null,
+          "Let my soul find sanctuary, where only love commands."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Through shadows deep,"
+        ],
+        [
+          null,
+          "I'll lift my song, a prayer to pierce the skies,"
+        ],
+        [
+          null,
+          "A whispered flame that burns for You, forever it will rise."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "and the lifting up of my hands as the evening sacrifice",
+  "epigraphRef": "Psalm 141:2",
+  "lyricEyebrow": "From the Psalms"
 }

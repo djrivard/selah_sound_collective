@@ -1,12 +1,155 @@
 {
   "slug": "your-throne-forever",
   "title": "Your Throne Forever",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 110",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "your-throne-forever.jpg",
+  "audio": "your-throne-forever.mp3",
   "spotify": "https://open.spotify.com/track/6q1otV7jMmXCdYwvMOXULA",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27332c1d359c5dc23bae3f05f58"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate a soft, subtle track with smooth transitions."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The Lord declares, “Come, sit at My right hand,"
+        ],
+        [
+          null,
+          "Until all foes beneath your feet shall stand.”"
+        ],
+        [
+          null,
+          "A scepter of might extends from Zion’s throne,"
+        ],
+        [
+          null,
+          "Rule amidst the nations, for they are your own."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Your people rise, in holy array,"
+        ],
+        [
+          null,
+          "As dawn’s dew renews the light of day."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You reign forever, exalted high,"
+        ],
+        [
+          null,
+          "Your throne endures, beneath heaven’s sky."
+        ],
+        [
+          null,
+          "A priest forever, in mercy and might,"
+        ],
+        [
+          null,
+          "The King of glory, crowned in light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The Lord has sworn, and it shall remain,"
+        ],
+        [
+          null,
+          "A priesthood eternal in Melchizedek’s name."
+        ],
+        [
+          null,
+          "He stands as Judge, the nations shall bow,"
+        ],
+        [
+          null,
+          "In streams of justice, His grace flows now."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Lift your eyes to the mountain's crest,"
+        ],
+        [
+          null,
+          "The Lord of Hosts, your strength, your rest."
+        ],
+        [
+          null,
+          "He reigns supreme, His victory known,"
+        ],
+        [
+          null,
+          "In Zion’s heart, He claims His throne."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You reign forever, exalted high,"
+        ],
+        [
+          null,
+          "Your throne endures, beneath heaven’s sky."
+        ],
+        [
+          null,
+          "A priest forever, in mercy and might,"
+        ],
+        [
+          null,
+          "The King of glory, crowned in light."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever He reigns, our Savior, our King,"
+        ],
+        [
+          null,
+          "In endless praise, His name we sing."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Sit thou at my right hand",
+  "epigraphRef": "Psalm 110:1",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,162 @@
 {
   "slug": "when-mountains-leapt",
   "title": "When Mountains Leapt",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 114",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "when-mountains-leapt.jpg",
+  "audio": "when-mountains-leapt.mp3",
   "spotify": "https://open.spotify.com/track/6V4Ok50SUByy0Cd5m9sJKp",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2733406869f819ee703ceb78340"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "The waters rose in solemn flight,"
+        ],
+        [
+          null,
+          "Mountains danced in ancient light."
+        ],
+        [
+          null,
+          "The earth itself began to breathe,"
+        ],
+        [
+          null,
+          "A trembling song beneath our feet."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When Israel walked, unshackled, free,"
+        ],
+        [
+          null,
+          "A foreign land gave way to sea."
+        ],
+        [
+          null,
+          "The Jordan split, a path was made,"
+        ],
+        [
+          null,
+          "A fearful tide at His parade."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Why did you flee, O sea of despair?"
+        ],
+        [
+          null,
+          "Why did you leap, O mountains so bare?"
+        ],
+        [
+          null,
+          "The trembling earth, in awe, it cried,"
+        ],
+        [
+          null,
+          "Before the God who turns stone to life."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "He carved the streams from rock-bound chains,"
+        ],
+        [
+          null,
+          "He loosed the waters from dry plains."
+        ],
+        [
+          null,
+          "In His shadow, nations quake,"
+        ],
+        [
+          null,
+          "Their idols fall, their strongholds break."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "O mountains high, O valleys low,"
+        ],
+        [
+          null,
+          "You bow to Him, the one you know."
+        ],
+        [
+          null,
+          "His voice is thunder, soft yet clear,"
+        ],
+        [
+          null,
+          "The earth responds, it draws Him near."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Why did you flee, O sea of despair?"
+        ],
+        [
+          null,
+          "Why did you leap, O mountains so bare?"
+        ],
+        [
+          null,
+          "The trembling earth, in awe, it cried,"
+        ],
+        [
+          null,
+          "Before the God who turns stone to life."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "The waters whisper, the mountains sigh,"
+        ],
+        [
+          null,
+          "His presence lingers, His name will rise."
+        ],
+        [
+          null,
+          "Forever marked in earth and flame,"
+        ],
+        [
+          null,
+          "The trembling world will know His name."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "The mountains skipped like rams",
+  "epigraphRef": "Psalm 114:4",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,174 @@
 {
   "slug": "let-justice-roll-psalm-58",
   "title": "Let Justice Roll",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 58",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "let-justice-roll-psalm-58.jpg",
+  "audio": "let-justice-roll-psalm-58.mp3",
   "spotify": "https://open.spotify.com/track/5D970Nvl7yspwZzVfPrHcH",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273566521c24ca2b8dd9401687a"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "In the halls of power where silence reigns"
+        ],
+        [
+          null,
+          "Do you speak of justice, or feed the flames?"
+        ],
+        [
+          null,
+          "Your words are poison, your hands are stained"
+        ],
+        [
+          null,
+          "With choices made for earthly gains"
+        ],
+        [
+          null,
+          "From their first breath, they turned away"
+        ],
+        [
+          null,
+          "Like serpents deaf to the charmer's sway"
+        ],
+        [
+          null,
+          "Venom flows through their veins today"
+        ],
+        [
+          null,
+          "As darkness leads their hearts astray"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let justice roll like thunder"
+        ],
+        [
+          null,
+          "Let truth tear worlds asunder"
+        ],
+        [
+          null,
+          "Break their teeth,"
+        ],
+        [
+          null,
+          "O Divine Wonder Wash away their pride"
+        ],
+        [
+          null,
+          "Like waters in the night"
+        ],
+        [
+          null,
+          "Let righteousness arise"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Like morning mist, they'll fade away"
+        ],
+        [
+          null,
+          "Like arrows shot that go astray"
+        ],
+        [
+          null,
+          "Like snails that melt in morning's ray"
+        ],
+        [
+          null,
+          "Their power crumbles day by day"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The righteous stand in awe and say"
+        ],
+        [
+          null,
+          "\"There is reward for walking in the way"
+        ],
+        [
+          null,
+          "There is a God who judges today"
+        ],
+        [
+          null,
+          "There is a price that evil pays\""
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Before the pots can feel the thorn"
+        ],
+        [
+          null,
+          "Before the wicked greet the morn"
+        ],
+        [
+          null,
+          "A mighty wind of justice born"
+        ],
+        [
+          null,
+          "Will sweep away both crown and horn"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Let justice roll like thunder"
+        ],
+        [
+          null,
+          "Let truth tear worlds asunder"
+        ],
+        [
+          null,
+          "Break their teeth,"
+        ],
+        [
+          null,
+          "O Divine Wonder Wash away their pride"
+        ],
+        [
+          null,
+          "Like waters in the night"
+        ],
+        [
+          null,
+          "Let righteousness arise"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Let them melt away as waters which run continually",
+  "epigraphRef": "Psalm 58:7",
+  "lyricEyebrow": "From the Psalms"
 }

@@ -1,12 +1,162 @@
 {
   "slug": "guardian",
   "title": "Guardian",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 121",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "guardian.jpg",
+  "audio": "guardian.mp3",
   "spotify": "https://open.spotify.com/track/31RYa4q5WlpDTMoOyZBEb5",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739c8b548762adc0ddbda24750"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Where shall I find my strength and aid"
+        ],
+        [
+          null,
+          "When shadows fall and I'm afraid?"
+        ],
+        [
+          null,
+          "My help comes from the Maker's hand"
+        ],
+        [
+          null,
+          "Who shaped the seas and formed the land"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Guardian of the endless stars"
+        ],
+        [
+          null,
+          "Watching near and watching far"
+        ],
+        [
+          null,
+          "Neither sleeps nor turns away"
+        ],
+        [
+          null,
+          "Keeping watch both night and day"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Like morning mist that shields the ground"
+        ],
+        [
+          null,
+          "Your presence wraps my soul around"
+        ],
+        [
+          null,
+          "No scorching sun shall strike by day"
+        ],
+        [
+          null,
+          "No darkness steal my peace away"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Guardian of the endless stars"
+        ],
+        [
+          null,
+          "Watching near and watching far"
+        ],
+        [
+          null,
+          "Neither sleeps nor turns away"
+        ],
+        [
+          null,
+          "Keeping watch both night and day"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Every step upon my road"
+        ],
+        [
+          null,
+          "Every burden, every load"
+        ],
+        [
+          null,
+          "You sustain with gentle might"
+        ],
+        [
+          null,
+          "From first light until the night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Guardian of the endless stars"
+        ],
+        [
+          null,
+          "Watching near and watching far"
+        ],
+        [
+          null,
+          "Neither sleeps nor turns away"
+        ],
+        [
+          null,
+          "Keeping watch both night and day"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Through all my wandering days ahead"
+        ],
+        [
+          null,
+          "Through every path that I must tread"
+        ],
+        [
+          null,
+          "You'll guard my going, guard my way"
+        ],
+        [
+          null,
+          "From this moment, endless days"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "he that keepeth Israel shall neither slumber nor sleep",
+  "epigraphRef": "Psalm 121:4",
+  "lyricEyebrow": "From the Psalms"
 }

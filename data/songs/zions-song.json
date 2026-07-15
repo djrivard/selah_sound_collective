@@ -1,12 +1,180 @@
 {
   "slug": "zions-song",
   "title": "Zion's Song",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 65",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "zions-song.jpg",
+  "audio": "zions-song.mp3",
   "spotify": "https://open.spotify.com/track/2gUbBCiP2noHg9hbvRqN29",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730587a05bc8a0b2d88bb72402"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Silent praise rises in Zion's heights"
+        ],
+        [
+          null,
+          "Where promises bloom in morning light"
+        ],
+        [
+          null,
+          "All who wander find their way"
+        ],
+        [
+          null,
+          "To Your courts at break of day"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From mountains to the roaring seas"
+        ],
+        [
+          null,
+          "Your power moves through golden fields of wheat"
+        ],
+        [
+          null,
+          "Every stream and valley sings Your peace"
+        ],
+        [
+          null,
+          "Creation bows in harmony"
+        ],
+        [
+          null,
+          "(Your mercy flows endlessly)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "When our sins grew mountain high"
+        ],
+        [
+          null,
+          "Your mercy poured like rainfall in the night"
+        ],
+        [
+          null,
+          "In Your temple, hope remains"
+        ],
+        [
+          null,
+          "Where worship rises like the grain"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From mountains to the roaring seas"
+        ],
+        [
+          null,
+          "Your power moves through golden fields of wheat"
+        ],
+        [
+          null,
+          "Every stream and valley sings Your peace"
+        ],
+        [
+          null,
+          "Creation bows in harmony"
+        ],
+        [
+          null,
+          "(Your mercy flows endlessly)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "The meadows overflow"
+        ],
+        [
+          null,
+          "With flocks of morning snow"
+        ],
+        [
+          null,
+          "The valleys dressed in gold Your wonders now unfold"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "From dawn's first light to evening's close"
+        ],
+        [
+          null,
+          "Your joy springs up wherever mercy flows"
+        ],
+        [
+          null,
+          "Every creature lifts their voice"
+        ],
+        [
+          null,
+          "As heaven and earth rejoice"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "From mountains to the roaring seas"
+        ],
+        [
+          null,
+          "Your power moves through golden fields of wheat"
+        ],
+        [
+          null,
+          "Every stream and valley sings Your peace"
+        ],
+        [
+          null,
+          "Creation bows in harmony"
+        ],
+        [
+          null,
+          "(Your mercy flows endlessly)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Creation bows in harmony Your mercy flows endlessly"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "that he may dwell in thy courts",
+  "epigraphRef": "Psalm 65:4",
+  "lyricEyebrow": "From the Psalms"
 }

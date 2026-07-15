@@ -1,12 +1,177 @@
 {
   "slug": "all-wonders",
   "title": "All Wonders",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 111",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "all-wonders.jpg",
+  "audio": "all-wonders.mp3",
   "spotify": "https://open.spotify.com/track/6Wl9st4RUWdLslmzTLfp4t",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ddc8a702d89cf7a3aa305849"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Generate with warm tones"
+        ],
+        [
+          null,
+          "and minimal high-frequency emphasis."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "I will praise with all my heart,"
+        ],
+        [
+          null,
+          "Among the faithful, I'll impart,"
+        ],
+        [
+          null,
+          "The works of God, both great and true,"
+        ],
+        [
+          null,
+          "His splendor shines in all He'll do."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "In every deed, His hands reveal,"
+        ],
+        [
+          null,
+          "A love eternal, firm as steel."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Hallelujah, His works declare,"
+        ],
+        [
+          null,
+          "A covenant strong, a love so rare."
+        ],
+        [
+          null,
+          "Forever faithful, His name we trust,"
+        ],
+        [
+          null,
+          "Hallelujah, in Him, we must."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The wonder of His deeds proclaimed,"
+        ],
+        [
+          null,
+          "Mercy and grace are in His name."
+        ],
+        [
+          null,
+          "He feeds the hungry, lifts the meek,"
+        ],
+        [
+          null,
+          "The hearts that break, His joy will seek."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "His hands of truth and justice reign,"
+        ],
+        [
+          null,
+          "A promise sealed, no love in vain."
+        ],
+        [
+          null,
+          "A wisdom vast, a light so pure,"
+        ],
+        [
+          null,
+          "Through endless ages, it will endure."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Hallelujah, His works declare,"
+        ],
+        [
+          null,
+          "A covenant strong, a love so rare."
+        ],
+        [
+          null,
+          "Forever faithful, His name we trust,"
+        ],
+        [
+          null,
+          "Hallelujah, in Him, we must."
+        ]
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
+        [
+          null,
+          "**Soft interlude to reflect on His wonders.**"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Forever faithful, His love will last,"
+        ],
+        [
+          null,
+          "A song of wonders through ages vast."
+        ],
+        [
+          null,
+          "Hallelujah, our hearts will sing,"
+        ],
+        [
+          null,
+          "To the Lord, our everlasting King."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Praise ye the LORD. I will praise the LORD with my whole heart",
+  "epigraphRef": "Psalm 111:1",
+  "lyricEyebrow": "From the Psalms"
 }

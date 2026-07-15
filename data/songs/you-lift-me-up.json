@@ -1,12 +1,198 @@
 {
   "slug": "you-lift-me-up",
   "title": "You Lift Me Up",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 138",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "you-lift-me-up.jpg",
+  "audio": "you-lift-me-up.mp3",
   "spotify": "https://open.spotify.com/track/0H5Jb5qE2d9IZEFhliAM6n",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ddb2710706837fd11055d3e0"
+  "sections": [
+    {
+      "label": "Spoken",
+      "lines": [
+        [
+          null,
+          "“I will praise You, no matter where I stand…”"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "With all my heart, I lift my voice,"
+        ],
+        [
+          null,
+          "Through every storm, I make my choice."
+        ],
+        [
+          null,
+          "Before the world, Your name I sing,"
+        ],
+        [
+          null,
+          "Your love, my shield, my everything."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "When I call, You answer with grace,"
+        ],
+        [
+          null,
+          "You steady my soul in every place."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You lift me up higher than heaven,"
+        ],
+        [
+          null,
+          "Your love’s my light, unshaken, unbroken."
+        ],
+        [
+          null,
+          "In Your name, my soul finds peace,"
+        ],
+        [
+          null,
+          "Forever, my song will never cease."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "In every trial, You’ve held my hand,"
+        ],
+        [
+          null,
+          "Your truth endures through every land."
+        ],
+        [
+          null,
+          "Kings may falter, mountains may fall,"
+        ],
+        [
+          null,
+          "But Your promise outlasts it all."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "When I call, You answer with grace,"
+        ],
+        [
+          null,
+          "You steady my soul in every place."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You lift me up higher than heaven,"
+        ],
+        [
+          null,
+          "Your love’s my light, unshaken, unbroken."
+        ],
+        [
+          null,
+          "In Your name, my soul finds peace,"
+        ],
+        [
+          null,
+          "Forever, my song will never cease."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Though I walk through shadows deep,"
+        ],
+        [
+          null,
+          "Your light surrounds me, You never sleep."
+        ],
+        [
+          null,
+          "Every word You speak is true,"
+        ],
+        [
+          null,
+          "My heart belongs to You."
+        ]
+      ]
+    },
+    {
+      "label": "Spoken",
+      "lines": [
+        [
+          null,
+          "“You’ve set my soul on fire... Your mercy never tires.”"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "You lift me up higher than heaven,"
+        ],
+        [
+          null,
+          "Your love’s my light, unshaken, unbroken."
+        ],
+        [
+          null,
+          "In Your name, my soul finds peace,"
+        ],
+        [
+          null,
+          "Forever, my song will never cease."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Unbroken… (Forever my song)."
+        ],
+        [
+          null,
+          "Unshaken… (Forever I’ll praise You)."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "before the gods will I sing praise unto thee",
+  "epigraphRef": "Psalm 138:1",
+  "lyricEyebrow": "From the Psalms"
 }

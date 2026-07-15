@@ -1,12 +1,161 @@
 {
   "slug": "like-rain",
   "title": "Like Rain",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 72",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "like-rain.jpg",
+  "audio": "like-rain.mp3",
   "spotify": "https://open.spotify.com/track/2M0Zlz0D61imZP7iw2j00U",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b1d40290505362b88d2f746d"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Let justice reign like morning light"
+        ],
+        [
+          null,
+          "From mountain peaks to valleys low"
+        ],
+        [
+          null,
+          "Your wisdom guide the ruler's heart"
+        ],
+        [
+          null,
+          "Let peace like rivers ever flow"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The weak and poor find shelter here"
+        ],
+        [
+          null,
+          "Their voices rise above the storm"
+        ],
+        [
+          null,
+          "The oppressed will find their strength renewed"
+        ],
+        [
+          null,
+          "The broken spirit will transform"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let Your reign shower down like rain"
+        ],
+        [
+          null,
+          "On fields awaiting morning sun"
+        ],
+        [
+          null,
+          "From sea to sea, Your justice flows"
+        ],
+        [
+          null,
+          "Till moon and stars their course have run"
+        ],
+        [
+          null,
+          "(Till moon and stars their course have run)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "The desert blooms with heaven's grace"
+        ],
+        [
+          null,
+          "The mountains burst with righteousness"
+        ],
+        [
+          null,
+          "Each nation bows in humble praise"
+        ],
+        [
+          null,
+          "As mercy flows in endlessness"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "From distant shores they bring their gifts"
+        ],
+        [
+          null,
+          "Gold offerings and grateful hearts"
+        ],
+        [
+          null,
+          "Your kingdom stands through endless days"
+        ],
+        [
+          null,
+          "Your love remains when kingdoms part"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Let Your reign shower down like rain"
+        ],
+        [
+          null,
+          "On fields awaiting morning sun"
+        ],
+        [
+          null,
+          "From sea to sea, Your justice flows"
+        ],
+        [
+          null,
+          "Till moon and stars their course have run"
+        ],
+        [
+          null,
+          "Your name endures beyond all time"
+        ],
+        [
+          null,
+          "Your glory fills the rising sun"
+        ],
+        [
+          null,
+          "From age to age Your mercy flows"
+        ],
+        [
+          null,
+          "Till moon and stars their course have run"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "He shall come down like rain upon the mown grass",
+  "epigraphRef": "Psalm 72:6",
+  "lyricEyebrow": "From the Psalms"
 }

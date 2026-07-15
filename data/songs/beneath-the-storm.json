@@ -1,12 +1,156 @@
 {
   "slug": "beneath-the-storm",
   "title": "Beneath The Storm",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 140",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "beneath-the-storm.jpg",
+  "audio": "beneath-the-storm.mp3",
   "spotify": "https://open.spotify.com/track/2gh41iNDlTVUrPKOsyCy7Z",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27337d25b3f69e832099b797c08"
+  "sections": [
+    {
+      "label": "Spoken",
+      "lines": [
+        [
+          null,
+          "Shield me, O Light, from the weight of the dark."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "They rise with venom, their hearts unclean,"
+        ],
+        [
+          null,
+          "Hands full of harm, their whispers keen."
+        ],
+        [
+          null,
+          "Traps in the shadows, pits for my fall,"
+        ],
+        [
+          null,
+          "But You are the strength that answers the call."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Hold not their flame against me,"
+        ],
+        [
+          null,
+          "Let their snares be their chains."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift me higher, above the flood,"
+        ],
+        [
+          null,
+          "Where mercy rains, where hearts ignite."
+        ],
+        [
+          null,
+          "Strike the steel of my unyielding blood,"
+        ],
+        [
+          null,
+          "With every cry, turn shadow to light."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Their lies like arrows pierce the air,"
+        ],
+        [
+          null,
+          "A storm of chaos, cruel and unfair."
+        ],
+        [
+          null,
+          "But within my chest, a fire grows,"
+        ],
+        [
+          null,
+          "The spark of justice, the storm it knows."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Turn their venom to dust,"
+        ],
+        [
+          null,
+          "Break the fangs of deceit."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Lift me higher, above the flood,"
+        ],
+        [
+          null,
+          "Where mercy rains, where hearts ignite."
+        ],
+        [
+          null,
+          "Strike the steel of my unyielding blood,"
+        ],
+        [
+          null,
+          "With every cry, turn shadow to light."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "(**electric guitar solo over cinematic progression**)"
+        ]
+      ]
+    },
+    {
+      "label": "Spoken",
+      "lines": [
+        [
+          null,
+          "Shields surround me; their flames now cold."
+        ],
+        [
+          null,
+          "In the ashes, the pure shall unfold."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "that they rise not up again",
+  "epigraphRef": "Psalm 140:10",
+  "lyricEyebrow": "From the Psalms"
 }

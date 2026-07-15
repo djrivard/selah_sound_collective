@@ -1,12 +1,215 @@
 {
   "slug": "light-for-the-upright",
   "title": "Light For The Upright",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 112",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "light-for-the-upright.jpg",
+  "audio": "light-for-the-upright.mp3",
   "spotify": "https://open.spotify.com/track/1SS0QRxb4L7fZJtU2kv7JN",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739809e3bf08fdb7e08b5dea18"
+  "sections": [
+    {
+      "label": "Intro",
+      "lines": [
+        [
+          null,
+          "Oh, the light of the upright shines,"
+        ],
+        [
+          null,
+          "A flame untouched by night,"
+        ],
+        [
+          null,
+          "In the shadow, their hope aligns,"
+        ],
+        [
+          null,
+          "With grace, their steps alight."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Blessed are they who stand in awe,"
+        ],
+        [
+          null,
+          "Who walk the sacred way,"
+        ],
+        [
+          null,
+          "Their hearts are steady, without flaw,"
+        ],
+        [
+          null,
+          "Their love, a boundless ray."
+        ],
+        [
+          null,
+          "Their homes are filled with joy and peace,"
+        ],
+        [
+          null,
+          "Their children rise in truth,"
+        ],
+        [
+          null,
+          "Their bounty flows, it will not cease,"
+        ],
+        [
+          null,
+          "Renewed as morning’s youth."
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "In the darkest hour, they remain,"
+        ],
+        [
+          null,
+          "A beacon in the storm,"
+        ],
+        [
+          null,
+          "With faith unbroken by the strain,"
+        ],
+        [
+          null,
+          "Their lives are gently warmed."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Forever steadfast, they will not fear,"
+        ],
+        [
+          null,
+          "The righteous hearts hold dear."
+        ],
+        [
+          null,
+          "Through every trial, they will prevail,"
+        ],
+        [
+          null,
+          "Their song of hope will sail."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Mercy marks their every deed,"
+        ],
+        [
+          null,
+          "Their hands are always kind,"
+        ],
+        [
+          null,
+          "They scatter light where shadows feed,"
+        ],
+        [
+          null,
+          "Their purpose intertwined."
+        ],
+        [
+          null,
+          "No evil rumor shakes their soul,"
+        ],
+        [
+          null,
+          "Their hearts are fixed and true,"
+        ],
+        [
+          null,
+          "Their story written on the scroll,"
+        ],
+        [
+          null,
+          "Of all they dared to do."
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "They rise as dawn on weary lands,"
+        ],
+        [
+          null,
+          "Their justice never wanes,"
+        ],
+        [
+          null,
+          "The world is touched by their commands,"
+        ],
+        [
+          null,
+          "A love that still remains."
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Forever steadfast, they will not fear,"
+        ],
+        [
+          null,
+          "The righteous hearts hold dear."
+        ],
+        [
+          null,
+          "Through every trial, they will prevail,"
+        ],
+        [
+          null,
+          "Their song of hope will sail."
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Oh, the light of the upright shines,"
+        ],
+        [
+          null,
+          "A flame untouched by night,"
+        ],
+        [
+          null,
+          "In the shadow, their hope aligns,"
+        ],
+        [
+          null,
+          "With grace, their steps alight."
+        ]
+      ]
+    }
+  ],
+  "epigraph": "Unto the upright there ariseth light in the darkness",
+  "epigraphRef": "Psalm 112:4",
+  "lyricEyebrow": "From the Psalms"
 }

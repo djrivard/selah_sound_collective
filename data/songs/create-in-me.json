@@ -1,12 +1,145 @@
 {
   "slug": "create-in-me",
   "title": "Create In Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 51",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "create-in-me.jpg",
+  "audio": "create-in-me.mp3",
   "spotify": "https://open.spotify.com/track/5GeLX4wDkqEhlsZywx7yxe",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27349b9a5596b2db0bd63aa887e"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Wash me clean of all my shadows"
+        ],
+        [
+          null,
+          "Like the morning washes dew"
+        ],
+        [
+          null,
+          "I've walked so far from grace and mercy"
+        ],
+        [
+          null,
+          "Now I'm finding my way back to You"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Create in me a heart that's pure"
+        ],
+        [
+          null,
+          "Like silver flowing through the fire"
+        ],
+        [
+          null,
+          "Restore the joy I knew before"
+        ],
+        [
+          null,
+          "Lift me from these depths higher"
+        ],
+        [
+          null,
+          "Create in me something new"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Every night I face my failures"
+        ],
+        [
+          null,
+          "Every morning seek Your face"
+        ],
+        [
+          null,
+          "The truth cuts deeper than the darkness"
+        ],
+        [
+          null,
+          "But Your love flows deeper still with grace"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Create in me a heart that's pure"
+        ],
+        [
+          null,
+          "Like silver flowing through the fire"
+        ],
+        [
+          null,
+          "Restore the joy I knew before"
+        ],
+        [
+          null,
+          "Lift me from these depths higher"
+        ],
+        [
+          null,
+          "Create in me something new"
+        ],
+        [
+          null,
+          "[BRIDGE] I'll teach the lost ones how to find You Show them paths through wilderness My voice will rise in honest worship When You free me from this heaviness"
+        ],
+        [
+          null,
+          "[VERSE 3] Let my spirit dance with freedom Let my praise break through these walls The sacrifice You truly seek is Just this broken heart that calls"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Create in me a heart that's pure"
+        ],
+        [
+          null,
+          "Like silver flowing through the fire"
+        ],
+        [
+          null,
+          "Restore the joy I knew before"
+        ],
+        [
+          null,
+          "Lift me from these depths higher"
+        ],
+        [
+          null,
+          "Create in me something new"
+        ],
+        [
+          null,
+          "[FINAL CHORUS] Create in me a heart that's pure Like silver flowing through the fire Restore the joy I knew before Lift me from these depths higher Create in me Create in me Create in me something new"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "Create in me a clean heart",
+  "epigraphRef": "Psalm 51:10",
+  "lyricEyebrow": "From the Psalms"
 }
