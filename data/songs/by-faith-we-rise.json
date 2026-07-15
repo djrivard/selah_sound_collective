@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/4Gl8kVZRIlackmpNtVxXB1",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro, Soft guitar arpeggios]"
-        ],
         [
           null,
           "The wind calls out across the ages"
@@ -30,11 +26,12 @@
         [
           null,
           "Echoing in love and trust"
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "Noah built while skies were clear"
@@ -50,11 +47,12 @@
         [
           null,
           "By faith, he walked, by faith, we climb"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Abraham, a stranger wandering"
@@ -70,11 +68,12 @@
         [
           null,
           "Held by promise, held by hand"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Rising intensity]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Every fire, every storm"
@@ -82,11 +81,12 @@
         [
           null,
           "Still, the promise keeps us warm"
-        ],
-        [
-          null,
-          "[Chorus, Anthemic guitars & layered vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Faith is the substance of hope"
@@ -102,11 +102,12 @@
         [
           null,
           "Through the trials, we believe"
-        ],
-        [
-          null,
-          "[Verse 3]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "Moses stood before the waters"
@@ -122,11 +123,12 @@
         [
           null,
           "Still, the waves would part for us"
-        ],
-        [
-          null,
-          "[Verse 4, New Addition]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
         [
           null,
           "Walls fell down as trumpets sounded"
@@ -142,11 +144,12 @@
         [
           null,
           "By faith, they lived, by faith, we rise"
-        ],
-        [
-          null,
-          "[Bridge, Dramatic shift]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "They walked through fire, stood unshaken"
@@ -162,11 +165,12 @@
         [
           null,
           "By faith, they lived, by faith, we rise"
-        ],
-        [
-          null,
-          "[Chorus, Full band explosion]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Faith is the substance of hope"
@@ -182,11 +186,12 @@
         [
           null,
           "Through the trials, we believe"
-        ],
-        [
-          null,
-          "[Outro, Fading echo]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Through the trials, we believe..."

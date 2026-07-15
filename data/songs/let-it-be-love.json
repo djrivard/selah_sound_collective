@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/3McAiTcTacd3GwyZ03yhhi",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "I was lost in the in-between"
@@ -38,11 +34,12 @@
         [
           null,
           "Now I see what love really was"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "If it’s real, it doesn’t shout"
@@ -50,11 +47,12 @@
         [
           null,
           "It pulls you in, it pulls you out"
-        ],
-        [
-          null,
-          "[CHORUS]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Let it be love, let it run through us"
@@ -86,11 +84,12 @@
         [
           null,
           "Heart to heart"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I used to think love was fragile"
@@ -114,11 +113,12 @@
         [
           null,
           "Like the dark finally learned to move"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "If it’s love, it doesn’t hide"
@@ -126,11 +126,12 @@
         [
           null,
           "It meets you right where you are inside"
-        ],
-        [
-          null,
-          "[CHORUS]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Let it be love, no disguise"
@@ -162,11 +163,12 @@
         [
           null,
           "Heart to heart"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Maybe love was never loud"
@@ -182,11 +184,12 @@
         [
           null,
           "In the spaces I need You most"
-        ],
-        [
-          null,
-          "[FINAL CHORUS]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "Let it be love, let it run through us"
@@ -218,11 +221,12 @@
         [
           null,
           "Heart to heart"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Let it be love"

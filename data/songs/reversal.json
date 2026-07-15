@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/6DQmQ1xethHYchp7LZ9699",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "My heart wakes up like morning light"
@@ -46,11 +42,12 @@
         [
           null,
           "Learning strength is dependency"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The world exalts the iron fist"
@@ -66,11 +63,12 @@
         [
           null,
           "But You are found in surrender’s white"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "You break the bow of the mighty"
@@ -102,11 +100,12 @@
         [
           null,
           "And the hungry inherit the skies"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I’ve seen the full go begging bread"
@@ -138,11 +137,12 @@
         [
           null,
           "Life is written in scarred hands"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The scales tilt toward the least of these"
@@ -158,11 +158,12 @@
         [
           null,
           "And weakness learns its right to fight"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "You break the bow of the mighty"
@@ -194,11 +195,12 @@
         [
           null,
           "And the hungry inherit the skies"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "No sword can hold what You decree"
@@ -230,11 +232,12 @@
         [
           null,
           "But by surrender we are changed"
-        ],
-        [
-          null,
-          "[Final Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "You break the bow of the mighty"

@@ -13,10 +13,6 @@
       "lines": [
         [
           null,
-          "[verse 1 – soft, breathy vocal]"
-        ],
-        [
-          null,
           "The sky cried longer than the sun could wait,"
         ],
         [
@@ -46,11 +42,12 @@
         [
           null,
           "It sounded like a lullaby, not a gun."
-        ],
-        [
-          null,
-          "[chorus – cinematic strings swell gently, harmonies drift in]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "After the flood, we still sang soft—"
@@ -74,11 +71,12 @@
         [
           null,
           "It just said “not this again, my boy.”"
-        ],
-        [
-          null,
-          "[verse 2 – bass enters subtly, guitar picks ghostlike motifs]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "The animals whispered lullabies,"
@@ -110,11 +108,12 @@
         [
           null,
           "A kind of love that doesn’t look back."
-        ],
-        [
-          null,
-          "[chorus – darker harmony, more layered texture]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "After the flood, we kissed the ground,"
@@ -138,11 +137,12 @@
         [
           null,
           "It just said, “child, not this time—at last.”"
-        ],
-        [
-          null,
-          "[bridge – stripped down to piano and falsetto]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "God cried first…"
@@ -158,11 +158,12 @@
         [
           null,
           "It walks barefoot through the dirt."
-        ],
-        [
-          null,
-          "[final chorus – lush strings, layered harmonies, ghostly echo]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "After the flood, the silence grew—"
@@ -190,11 +191,12 @@
         [
           null,
           "But to baptize."
-        ],
-        [
-          null,
-          "[outro – fading piano, wind chimes, whisper vocal]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "…The flood left flowers…"

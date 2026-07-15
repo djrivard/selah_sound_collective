@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/2PaMTZYFsnSj2rPtmbRY1U",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro, Soft Piano]"
-        ],
         [
           null,
           "She walks in grace, her hands hold light"
@@ -22,11 +18,12 @@
         [
           null,
           "A heart of gold, a soul so bright"
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "She wakes before the sun can rise"
@@ -42,11 +39,12 @@
         [
           null,
           "No fear, no doubt—she stands alone"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Strength and honor clothe her days"
@@ -54,11 +52,12 @@
         [
           null,
           "With wisdom soft as morning haze"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, she is far above rubies,"
@@ -90,11 +89,12 @@
         [
           null,
           "And love will never fade"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "She sees beyond the fleeting now"
@@ -110,11 +110,12 @@
         [
           null,
           "A love so deep, so gently worn"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Her words, a song that calms the storm"
@@ -122,11 +123,12 @@
         [
           null,
           "Her hands, a refuge, safe and warm"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, she is far above rubies,"
@@ -158,11 +160,12 @@
         [
           null,
           "And love will never fade"
-        ],
-        [
-          null,
-          "[Verse 3, Emotional Build]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "She walks the path the Lord has traced"
@@ -178,11 +181,12 @@
         [
           null,
           "She holds her faith, she lifts her eyes"
-        ],
-        [
-          null,
-          "[Bridge, Swelling Strings]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Through every trial, through every night"
@@ -198,11 +202,12 @@
         [
           null,
           "Her love outshines the very best"
-        ],
-        [
-          null,
-          "[Final Chorus, Climactic]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "Oh, she is far above rubies,"
@@ -234,11 +239,12 @@
         [
           null,
           "And love will never fade"
-        ],
-        [
-          null,
-          "[Outro, Gentle Piano]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "She walks in grace, her hands hold light"

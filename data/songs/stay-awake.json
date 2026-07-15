@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/5tbYVAZH6p6kIn0uneaqqg",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "They say the world is safe tonight"
@@ -46,11 +42,12 @@
         [
           null,
           "The truth is burning underground"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Every whisper says, “Relax, you’re fine”"
@@ -66,11 +63,12 @@
         [
           null,
           "This dark won’t warn us when it ends"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Stay awake, don’t close your eyes"
@@ -102,11 +100,12 @@
         [
           null,
           "Stay awake—this isn’t the time"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "We’re not made for borrowed dreams"
@@ -138,11 +137,12 @@
         [
           null,
           "We were made to see the dark"
-        ],
-        [
-          null,
-          "[Pre-Chorus 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus 2",
+      "lines": [
         [
           null,
           "If the world goes quiet, hearts seduced"
@@ -158,11 +158,12 @@
         [
           null,
           "With burning lamps in open hands"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Stay awake, don’t close your eyes"
@@ -194,11 +195,12 @@
         [
           null,
           "Stay awake—this isn’t the time"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "We don’t belong to the dark"
@@ -230,11 +232,12 @@
         [
           null,
           "Wide-eyed in the rolling thunder"
-        ],
-        [
-          null,
-          "[Final Chorus / Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "Stay awake, the dawn is near"

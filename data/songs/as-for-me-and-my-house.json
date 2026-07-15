@@ -9,16 +9,8 @@
   "spotify": "https://open.spotify.com/track/2rMEDm6IKDhaxn0NxssuAr",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro]"
-        ],
-        [
-          null,
-          "[Hushed Verse 1]"
-        ],
         [
           null,
           "Grey light walks across the floor"
@@ -34,10 +26,6 @@
         [
           null,
           "With the old names in the gloom"
-        ],
-        [
-          null,
-          "[Building Verse 2]"
         ],
         [
           null,
@@ -57,20 +45,17 @@
         ],
         [
           null,
-          "[Building]"
-        ],
-        [
-          null,
           "And the morning opens like a door"
         ],
         [
           null,
           "Asking who, asking who I'm for"
-        ],
-        [
-          null,
-          "[Chorus — soaring]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "As for me and my house"
@@ -94,10 +79,6 @@
         [
           null,
           "We will serve the Lord"
-        ],
-        [
-          null,
-          "[Hushed Verse 3]"
         ],
         [
           null,
@@ -117,10 +98,6 @@
         ],
         [
           null,
-          "[Towering Bridge]"
-        ],
-        [
-          null,
           "Choose this day"
         ],
         [
@@ -134,11 +111,12 @@
         [
           null,
           "Choose this day"
-        ],
-        [
-          null,
-          "[Final Chorus — towering]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "As for me and my house"
@@ -162,11 +140,12 @@
         [
           null,
           "We will serve the Lord"
-        ],
-        [
-          null,
-          "[Whispered Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Whispered",
+      "lines": [
         [
           null,
           "We will serve"

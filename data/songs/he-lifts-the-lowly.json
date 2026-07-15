@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/6XG1THhjcMwdVhAXt6NIgv",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "My soul wakes like morning light"
@@ -62,11 +58,12 @@
         [
           null,
           "Finds glory in the unknown"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The proud build ladders to the sky"
@@ -82,11 +79,12 @@
         [
           null,
           "Is where the greatest grace is found"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "He lifts the lowly from the dust"
@@ -118,11 +116,12 @@
         [
           null,
           "And quiet hearts inherit glory"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I’ve watched the hungry search the night"
@@ -170,11 +169,12 @@
         [
           null,
           "Planted in surrendered hands"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The proud believe the world is theirs"
@@ -190,11 +190,12 @@
         [
           null,
           "Will see a brighter day"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "He lifts the lowly from the dust"
@@ -226,11 +227,12 @@
         [
           null,
           "And quiet hearts inherit glory"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Blessed are the souls who tremble"
@@ -262,11 +264,12 @@
         [
           null,
           "Is the One who dries our tears"
-        ],
-        [
-          null,
-          "[Final Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "He lifts the lowly from the dust"
@@ -298,11 +301,12 @@
         [
           null,
           "And quiet hearts inherit glory"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "My soul sings softly in the morning"

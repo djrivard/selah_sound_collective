@@ -9,16 +9,8 @@
   "spotify": "https://open.spotify.com/track/5bwAgxnvSg0PzG8i4adAkE",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Intro, Atmospheric synths]"
-        ],
-        [
-          null,
-          "[Verse 1, Soft piano chords]"
-        ],
         [
           null,
           "I saw the dawn rise from the depths of fear"
@@ -34,11 +26,12 @@
         [
           null,
           "But we stood tall, the ones He saves"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Building tension]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "In the storm He whispered light"
@@ -46,11 +39,12 @@
         [
           null,
           "Shadow turned to blazing might"
-        ],
-        [
-          null,
-          "[Chorus, Ethereal echo harmonies]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "The Lord is my strength, my unshaken song"
@@ -66,11 +60,12 @@
         [
           null,
           "My father’s God — forever the same"
-        ],
-        [
-          null,
-          "[Verse 2, Minimal beat returns]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Your breath split the sea, a holy fire"
@@ -86,11 +81,12 @@
         [
           null,
           "And we crossed safely, hand in hand"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Vocal layering]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "You reign in mercy, clothed in flame"
@@ -98,11 +94,12 @@
         [
           null,
           "Nations tremble at Your name"
-        ],
-        [
-          null,
-          "[Chorus, with harmony and vocal layering]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "The Lord is my strength, my unshaken song"
@@ -118,11 +115,12 @@
         [
           null,
           "My father’s God — forever the same"
-        ],
-        [
-          null,
-          "[Bridge, Slow and haunting]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "You planted us in promise ground"
@@ -138,11 +136,12 @@
         [
           null,
           "For love that never will be swayed"
-        ],
-        [
-          null,
-          "[Chorus, Grand finale feel with vocal lift]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "The Lord is my strength, my unshaken song"
@@ -158,10 +157,6 @@
         [
           null,
           "My father’s God — forever the same"
-        ],
-        [
-          null,
-          "[Outro, Whispered vocals, ambient tones]"
         ]
       ]
     }

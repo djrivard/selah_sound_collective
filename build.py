@@ -14,7 +14,7 @@ Writes a complete static site to:
 Add a song = drop a new <slug>.json in data/songs/ (+ its cover and audio),
 then run:  python3 build.py
 """
-import json, shutil, pathlib, html, hashlib
+import json, shutil, pathlib, html, hashlib, re
 
 _VER = {}
 
@@ -270,13 +270,60 @@ def render_song(site, song, root="../"):
 
 OT_BOOKS = ["Genesis","Exodus","Leviticus","Numbers","Deuteronomy","Joshua","Judges","Ruth",
             "1 Samuel","2 Samuel","1 Kings","2 Kings","1 Chronicles","2 Chronicles","Ezra",
-            "Nehemiah","Esther","Job","Psalms","Proverbs","Ecclesiastes","Song of Solomon",
+            "Nehemiah","Esther","Job","Psalms","Proverbs","Ecclesiastes",
+            "Song of Solomon","Song of Songs",
             "Isaiah","Jeremiah","Lamentations","Ezekiel","Daniel","Hosea","Joel","Amos",
             "Obadiah","Jonah","Micah","Nahum","Habakkuk","Zephaniah","Haggai","Zechariah","Malachi"]
 NT_BOOKS = ["Matthew","Mark","Luke","John","Acts","Romans","1 Corinthians","2 Corinthians",
             "Galatians","Ephesians","Philippians","Colossians","1 Thessalonians","2 Thessalonians",
             "1 Timothy","2 Timothy","Titus","Philemon","Hebrews","James","1 Peter","2 Peter",
             "1 John","2 John","3 John","Jude","Revelation"]
+
+# Canonical position of every book, Genesis -> Revelation.
+BOOK_ORDER = {b: i for i, b in enumerate(OT_BOOKS + NT_BOOKS)}
+
+# Songs whose scripture is a narrative title ("Cain & Abel") or a bare book name
+# carry no chapter to sort on, so their place in the book is set here.
+CANON_HINTS = {
+    "brothers-keeper":        (4, 0),    # Cain & Abel        -> Genesis 4
+    "a-little-less":          (29, 0),   # Leah & Rachel      -> Genesis 29
+    "beyond-the-waters":      (14, 0),   # the crossing       -> Exodus 14
+    "sea-of-triumph":         (15, 0),   # Song of Moses      -> Exodus 15
+    "where-the-pillars-fall": (16, 0),   # Samson & Delilah   -> Judges 16
+    "five-smooth-stones":     (17, 0),   # David & Goliath    -> 1 Samuel 17
+    "when-morning-stars-sang": (38, 7),  # Job 38:7
+    "wisdom-of-the-wind":     (1, 0),    # Solomon's Vanity   -> Ecclesiastes 1
+    "yet-i-will-rejoice":     (3, 17),   # Habakkuk 3:17-18
+    "one-body-one-spirit":    (4, 4),    # Ephesians 4:4
+}
+
+_BOOKISH = re.compile(r"^\s*(?:[123]\s*)?[A-Za-z][A-Za-z\s.'&]*")
+_CHAPVERSE = re.compile(r"(\d+)(?:\s*:\s*(\d+))?")
+
+
+def scripture_pos(song):
+    """(chapter, verse) for ordering. Handles 'Genesis 6-9', 'Prov.1:2-5', '1Thes.5:3-6'."""
+    hint = CANON_HINTS.get(song.get("slug"))
+    if hint:
+        return hint
+    s = (song.get("scripture") or "").strip()
+    m = _BOOKISH.match(s)                 # drop the book-name prefix first, so
+    rest = s[m.end():] if m else s        # the '1' of '1 Samuel 17' is never the chapter
+    m2 = _CHAPVERSE.search(rest)
+    if not m2:
+        return (999, 0)                   # no chapter known -> end of its book
+    return (int(m2.group(1)), int(m2.group(2) or 0))
+
+
+def canon_key(song):
+    """Sort songs as the Bible runs: Genesis -> Revelation, then by chapter and verse."""
+    book = song.get("book", "") or ""
+    if book in BOOK_ORDER:
+        rank = (0, BOOK_ORDER[book])
+    else:
+        rank = (1, 0)                     # standalone songs sit after the books
+    ch, vs = scripture_pos(song)
+    return rank + (ch, vs, song.get("title", ""))
 
 
 def render_library(site, songs, root=""):
@@ -467,7 +514,7 @@ def render_support(site, root=""):
 def main():
     site = json.loads((DATA / "site.json").read_text())
     songs = [json.loads(p.read_text()) for p in sorted((DATA / "songs").glob("*.json"))]
-    songs.sort(key=lambda s: (s.get("status") != "published", s.get("book", ""), s.get("title", "")))
+    songs.sort(key=canon_key)
 
     if OUT.exists():
         shutil.rmtree(OUT)

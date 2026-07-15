@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/4P1VZogBGkaviYOTX3YLra",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "The night keeps asking questions"
@@ -46,11 +42,12 @@
         [
           null,
           "Says I’m not here on my own"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "If the storm is still speaking"
@@ -66,11 +63,12 @@
         [
           null,
           "There’s a strength I haven’t known"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "So I’ll count it joy when it hurts like hell"
@@ -102,11 +100,12 @@
         [
           null,
           "Let it finish what it’s making me"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Patience feels like dying slowly"
@@ -138,11 +137,12 @@
         [
           null,
           "Then I’ll stand here in the rain"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "I won’t rush the becoming"
@@ -158,11 +158,12 @@
         [
           null,
           "What it really means to be free"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "So I’ll count it joy when it hurts like hell"
@@ -194,11 +195,12 @@
         [
           null,
           "Let it finish what it’s making me"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "If I’m unfinished, don’t let me quit"
@@ -222,11 +224,12 @@
         [
           null,
           "Through the pain… I’m still standing"
-        ],
-        [
-          null,
-          "[Final Chorus / Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "So I’ll count it joy—yeah, I’ll still believe"

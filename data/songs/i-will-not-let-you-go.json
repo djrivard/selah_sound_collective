@@ -214,11 +214,12 @@
         [
           null,
           "I left it behind..."
-        ],
-        [
-          null,
-          "[instrumental swell]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
         [
           null,
           "To be reborn in time"

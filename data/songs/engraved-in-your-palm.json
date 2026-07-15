@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/1o5lMmfm5H8bFMPfvWTzD1",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "I said Your name like it was breaking"
@@ -46,11 +42,12 @@
         [
           null,
           "Afraid of what faith might say"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "But the dark doesn’t cancel the promise"
@@ -66,11 +63,12 @@
         [
           null,
           "Doesn’t mean You ever left"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I will never forget God"
@@ -102,11 +100,12 @@
         [
           null,
           "I’m written in a permanent place"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I watched the world keep breathing"
@@ -138,11 +137,12 @@
         [
           null,
           "When it’s sworn it won’t be gone"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "If I fall between the moments"
@@ -174,11 +174,12 @@
         [
           null,
           "Not in ink — but in pain"
-        ],
-        [
-          null,
-          "[Chorus – Reprise]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I will never forget God"
@@ -210,11 +211,12 @@
         [
           null,
           "Because You never forgot"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "So let the silence keep speaking"

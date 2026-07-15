@@ -9,16 +9,8 @@
   "spotify": "https://open.spotify.com/track/65BBjjFSHf9mpQy0iYmW0o",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Intro, Sparse Piano, Distant Echoes]"
-        ],
-        [
-          null,
-          "[Verse 1, Whispered, Haunting]"
-        ],
         [
           null,
           "The sky was empty, no sound, no spark"
@@ -34,11 +26,12 @@
         [
           null,
           "Then a voice like thunder spoke life into death"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Creeping Beat, Subtle Build]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Who pulls the tide back? Who tells the trees?"
@@ -46,11 +39,12 @@
         [
           null,
           "Who draws the map where the stars used to be?"
-        ],
-        [
-          null,
-          "[Chorus, Dark, Hypnotic]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Where were you when I laid the earth’s frame?"
@@ -66,11 +60,12 @@
         [
           null,
           "Who set the waves where your footsteps won’t reach?"
-        ],
-        [
-          null,
-          "[Verse 2, Ghostly, Melancholic]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Mountains don’t answer, the silence is loud"
@@ -86,11 +81,12 @@
         [
           null,
           "All of it moves, but it’s nothing to Me"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Creeping Beat, Subtle Build]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Who bends the branches? Who steals the sun?"
@@ -98,11 +94,12 @@
         [
           null,
           "Who lifts the veil when the story is done?"
-        ],
-        [
-          null,
-          "[Chorus, Dark, Hypnotic]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Where were you when I laid the earth’s frame?"
@@ -118,11 +115,12 @@
         [
           null,
           "Who set the waves where your footsteps won’t reach?"
-        ],
-        [
-          null,
-          "[Bridge, Whispered Harmonies, Glitchy Percussion]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Oh, the weight of it all, the silence between"
@@ -138,11 +136,12 @@
         [
           null,
           "But no one’s really free"
-        ],
-        [
-          null,
-          "[Chorus, Final, Stripped-Back, Distorted Vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Where were you when I laid the earth’s frame?"
@@ -158,11 +157,12 @@
         [
           null,
           "Who set the waves where your footsteps won’t reach?"
-        ],
-        [
-          null,
-          "[Outro, Fading, Chopped Vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Still the stars sing, still the waves bow"

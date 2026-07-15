@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/5aYcWXz6xfditnvESq3vzo",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1 – soft ambient intro]"
-        ],
         [
           null,
           "We carry fire in brittle bone"
@@ -46,11 +42,12 @@
         [
           null,
           "But through the fracture, speaks His name"
-        ],
-        [
-          null,
-          "[Pre-Chorus – gentle build with strings]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "So let me break, and let me bend"
@@ -58,11 +55,12 @@
         [
           null,
           "Not the end, just how it mends"
-        ],
-        [
-          null,
-          "[Chorus – layered vocals, haunting repetition]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "We are treasures in jars of clay"
@@ -82,11 +80,12 @@
         [
           null,
           "We are treasures in jars of clay"
-        ],
-        [
-          null,
-          "[Verse 2 – deeper strings, atmospheric guitar rise]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I tried to shine with borrowed gold"
@@ -118,11 +117,12 @@
         [
           null,
           "To where the light is setting me free"
-        ],
-        [
-          null,
-          "[Pre-Chorus – slight rhythm pulse introduced]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "So let me be the lesser flame"
@@ -130,11 +130,12 @@
         [
           null,
           "That flickers still, in sacred name"
-        ],
-        [
-          null,
-          "[Chorus – fuller arrangement, more harmonic lift]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "We are treasures in jars of clay"
@@ -154,11 +155,12 @@
         [
           null,
           "We are treasures in jars of clay"
-        ],
-        [
-          null,
-          "[Bridge – stripped back to ambient hum and layered whisper-vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Not broken... just bearing"
@@ -174,11 +176,12 @@
         [
           null,
           "Through the fragile, He's preparing"
-        ],
-        [
-          null,
-          "[Chorus – final iteration, swelling strings and ambient crescendo]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "We are treasures in jars of clay"
@@ -198,11 +201,12 @@
         [
           null,
           "We are treasures in jars of clay"
-        ],
-        [
-          null,
-          "[Outro – fading echoes, minimal guitar]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "And through the cracks... we glow..."

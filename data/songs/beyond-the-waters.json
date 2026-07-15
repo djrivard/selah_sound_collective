@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/6N3iTisXEwzkPsfYSkg7AH",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro, Haunting Synths, Distant Echoes]"
-        ],
         [
           null,
           "Winds whisper over burning sand,"
@@ -22,11 +18,12 @@
         [
           null,
           "Footsteps swallowed by the shifting land."
-        ],
-        [
-          null,
-          "[Verse 1, Ethereal Ambience]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "A hand of stone, a shackle tight,"
@@ -42,11 +39,12 @@
         [
           null,
           "A voice cried out from the dust and heat."
-        ],
-        [
-          null,
-          "[Pre-Chorus, Layered Vocals, Rising Strings]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "A shadow fell, a curse undone,"
@@ -62,11 +60,12 @@
         [
           null,
           "We walked between the hands of death."
-        ],
-        [
-          null,
-          "[Chorus, Swelling Strings, Melancholic Guitars]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Beyond the waters, past the flame,"
@@ -82,11 +81,12 @@
         [
           null,
           "The promised dawn burns in our eyes."
-        ],
-        [
-          null,
-          "[Verse 2, Haunting Synths, Minimal Percussion]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "A desert vast, the hunger sways,"
@@ -102,11 +102,12 @@
         [
           null,
           "A law of light to shape the sound."
-        ],
-        [
-          null,
-          "[Verse 3, Melancholy Guitars, Echoing Vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "The weary cried, \"Turn back again!"
@@ -122,11 +123,12 @@
         [
           null,
           "But some held on, endured the pain."
-        ],
-        [
-          null,
-          "[Pre-Chorus, Layered Vocals, Rising Strings]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "A shadow fell, a curse undone,"
@@ -142,11 +144,12 @@
         [
           null,
           "We walked between the hands of death."
-        ],
-        [
-          null,
-          "[Chorus, Swelling Strings, Melancholic Guitars]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Beyond the waters, past the flame,"
@@ -162,11 +165,12 @@
         [
           null,
           "The promised dawn burns in our eyes."
-        ],
-        [
-          null,
-          "[Verse 4, Melancholic Tones, Sparse Percussion]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
         [
           null,
           "A golden calf, a shattered stone,"
@@ -182,11 +186,12 @@
         [
           null,
           "A voice still called, a promise swore."
-        ],
-        [
-          null,
-          "[Verse 5, Haunting Strings, Ethereal Ambience]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
         [
           null,
           "The walls stood tall, the trumpets cried,"
@@ -202,11 +207,12 @@
         [
           null,
           "The land of promise wrapped us round."
-        ],
-        [
-          null,
-          "[Bridge, Breakdown, Echoing Vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "The wandering fades, the night resigns,"
@@ -222,15 +228,12 @@
         [
           null,
           "A promised land beyond the pain."
-        ],
-        [
-          null,
-          "[Instrumental, Swelling Strings, Ethereal Soundscape]"
-        ],
-        [
-          null,
-          "[Finale, Big Finish, Layered Vocals]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
         [
           null,
           "Beyond the waters, past the flame,"

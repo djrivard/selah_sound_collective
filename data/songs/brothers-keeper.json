@@ -13,10 +13,6 @@
       "lines": [
         [
           null,
-          "[Verse 1]"
-        ],
-        [
-          null,
           "My mother bore me first, with the helping of the Lord"
         ],
         [
@@ -30,11 +26,12 @@
         [
           null,
           "And I brought the ground its firstfruits, salted with my fears"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "He brought the fat and firstling, and the smoke rose up like silk"
@@ -50,11 +47,12 @@
         [
           null,
           "And I felt the cold thing enter, come and sit down next to me"
-        ],
-        [
-          null,
-          "[Refrain]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Refrain",
+      "lines": [
         [
           null,
           "And the door stood open wide, and I would not turn"
@@ -70,11 +68,12 @@
         [
           null,
           "And I would not, no I would not, master it"
-        ],
-        [
-          null,
-          "[Verse 3]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "He said, why has your face fallen, why do you walk so low?"
@@ -90,11 +89,12 @@
         [
           null,
           "Its desire is to have you — but you must rule its part"
-        ],
-        [
-          null,
-          "[Verse 4]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
         [
           null,
           "I said come now, my brother, come and walk the field with me"
@@ -110,11 +110,12 @@
         [
           null,
           "And the evening took his breathing, and the field lay still as stone"
-        ],
-        [
-          null,
-          "[Refrain]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Refrain",
+      "lines": [
         [
           null,
           "And the door stood open wide, and I would not turn"
@@ -130,11 +131,12 @@
         [
           null,
           "And I would not, no I would not, master it"
-        ],
-        [
-          null,
-          "[Verse 5]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
         [
           null,
           "Where is your brother, He asked me, and I said I cannot say"
@@ -150,11 +152,12 @@
         [
           null,
           "And He set a mark upon me, sent me wandering on down"
-        ],
-        [
-          null,
-          "[Refrain]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Refrain",
+      "lines": [
         [
           null,
           "And the door stood open wide, and I would not turn"
@@ -170,11 +173,12 @@
         [
           null,
           "And I would not, no I would not, master it"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "East of Eden, east of Eden, where the morning will not come"

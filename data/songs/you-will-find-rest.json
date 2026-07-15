@@ -14,11 +14,12 @@
         [
           null,
           "Style: Minimalist lo-fi beats, ambient textures, soft female vocals, meditative chill vibe"
-        ],
-        [
-          null,
-          "[Verse 1, Soft piano loop]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "Worn down by the weight of days"
@@ -34,11 +35,12 @@
         [
           null,
           "Losing light along the way"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Gentle vinyl crackle]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "But in the stillness, I hear Your voice"
@@ -46,11 +48,12 @@
         [
           null,
           "Not with pressure, but a quiet choice"
-        ],
-        [
-          null,
-          "[Chorus, Repeated ambient vocal layer: \"rest... rest...\"]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Come to me, all you who are weary"
@@ -66,11 +69,12 @@
         [
           null,
           "You will find rest — you will find rest for your soul"
-        ],
-        [
-          null,
-          "[Verse 2, Lo-fi drum groove enters]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Expectations, always near"
@@ -86,11 +90,12 @@
         [
           null,
           "Lifting sorrow, light as prayer"
-        ],
-        [
-          null,
-          "[Pre-Chorus, Vocal harmony rising]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "You don’t have to earn your peace"
@@ -98,11 +103,12 @@
         [
           null,
           "In My arms, the striving ceases"
-        ],
-        [
-          null,
-          "[Chorus, Layered harmonies and echo fx]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Come to me, all you who are weary"
@@ -118,11 +124,12 @@
         [
           null,
           "You will find rest — you will find rest for your soul"
-        ],
-        [
-          null,
-          "[Bridge, Dreamy chord shift, lo-fi sax overlay]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "My burden is light"
@@ -138,11 +145,12 @@
         [
           null,
           "I'm always here"
-        ],
-        [
-          null,
-          "[Chorus, Final – stripped down, intimate tone]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Come to me, all you who are weary"
@@ -158,11 +166,12 @@
         [
           null,
           "You will find rest — you will find rest for your soul"
-        ],
-        [
-          null,
-          "[Outro, Ambient fade, whispered]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "You will find rest"

@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/1Y2t9wfeSIi9kRCcYiD7su",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "Above the city, frost on every stone"
@@ -46,11 +42,12 @@
         [
           null,
           "trading warmth for shadows, truth for death"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The wind turned sharp, like it knew my name"
@@ -58,11 +55,12 @@
         [
           null,
           "I felt the guilt move through me like a blade"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "And the Lord displeased, His silence cracked the air"
@@ -86,11 +84,12 @@
         [
           null,
           "pulling at the wreck I tried to keep in me"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I washed my hands, but blood refused to go"
@@ -122,11 +121,12 @@
         [
           null,
           "and dig up secrets kings pretend they own"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The cold runs deep; it doesn’t let you flee"
@@ -134,11 +134,12 @@
         [
           null,
           "you can’t outpace the ache of what you used to be"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "And the Lord displeased, His silence cracked the air"
@@ -162,11 +163,12 @@
         [
           null,
           "pulling at the wreck I tried to keep in me"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "What mercy waits for someone frozen through?"
@@ -182,11 +184,12 @@
         [
           null,
           "as if the earth still trembles at my shame"
-        ],
-        [
-          null,
-          "[Final Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "And the Lord displeased, His whisper turns to wind"
@@ -210,11 +213,12 @@
         [
           null,
           "let every icy truth reshape my form"
-        ],
-        [
-          null,
-          "[Outro – pitch-down shadow layer]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "the cold remembers"

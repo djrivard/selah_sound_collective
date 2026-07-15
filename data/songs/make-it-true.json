@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/7KNY7CdleV1Ab0JkBEFhxr",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "I’ve been standing in the glow of a borrowed light"
@@ -46,11 +42,12 @@
         [
           null,
           "Still leave the broken waiting outside"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "If belief is more than sound"
@@ -94,11 +91,12 @@
         [
           null,
           "I wanna be the proof"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I see tongues that bless and burn"
@@ -130,11 +128,12 @@
         [
           null,
           "In quiet love, not hollow claims"
-        ],
-        [
-          null,
-          "[Pre-Chorus 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus 2",
+      "lines": [
         [
           null,
           "If You’re close to the ones ignored"
@@ -142,11 +141,12 @@
         [
           null,
           "Why am I guarding my open door?"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I don’t wanna just hear Your voice"
@@ -178,11 +178,12 @@
         [
           null,
           "I wanna be the proof"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Pure faith wears no disguise"
@@ -217,20 +218,17 @@
         ],
         [
           null,
-          "[Break / Drop]"
-        ],
-        [
-          null,
           "Don’t let my faith stay locked inside"
         ],
         [
           null,
           "A song I sing, but never try"
-        ],
-        [
-          null,
-          "[Final Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "I don’t wanna just hear Your voice"
@@ -262,11 +260,12 @@
         [
           null,
           "I wanna be the proof"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Let my life say what my lips confess"

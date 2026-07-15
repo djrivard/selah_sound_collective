@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/1KbzoYEodhqooui90oaCwn",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "I was chasing every whisper in my mind"
@@ -30,11 +26,12 @@
         [
           null,
           "But every road just led me further from home"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "In the noise, in the doubt, in the endless spinning sky"
@@ -42,11 +39,12 @@
         [
           null,
           "There’s a voice calling deeper than the why"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "To know wisdom, to feel what is true"
@@ -78,11 +76,12 @@
         [
           null,
           "There is truth beyond what you believe"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I was leaning on the echoes of my fear"
@@ -98,11 +97,12 @@
         [
           null,
           "Till I let go and chose not to understand"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "In surrender, in the silence, something starts to break"
@@ -110,11 +110,12 @@
         [
           null,
           "Not the soul—but the weight we try to make"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "To know wisdom, to feel what is true"
@@ -146,11 +147,12 @@
         [
           null,
           "There is truth beyond what you believe"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Not my thoughts, not my fragile design"
@@ -166,11 +168,12 @@
         [
           null,
           "When I lose control, I stand on sacred ground"
-        ],
-        [
-          null,
-          "[Breakdown – soft, intimate]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Breakdown",
+      "lines": [
         [
           null,
           "Teach me listening, not just knowing"
@@ -178,11 +181,12 @@
         [
           null,
           "Teach me trusting, not controlling"
-        ],
-        [
-          null,
-          "[Final Chorus – lifted, expansive]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "To know wisdom, to feel what is true"
@@ -214,11 +218,12 @@
         [
           null,
           "And trust the truth You speak in me"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "I release what I thought I knew"

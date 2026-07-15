@@ -9,16 +9,8 @@
   "spotify": "https://open.spotify.com/track/3omxjMFD6bI83krwfAUVOY",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Intro, Soft Piano, Reverb Guitars]"
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "One path rises, the air is clear"
@@ -34,11 +26,12 @@
         [
           null,
           "Cold winds whisper, stealing light"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "A voice is calling through the haze"
@@ -54,11 +47,12 @@
         [
           null,
           "Which road you take, your future knows"
-        ],
-        [
-          null,
-          "[Chorus, Expansive, Uplifting]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I set before you life or dust"
@@ -74,11 +68,12 @@
         [
           null,
           "Or fade into the hands of death"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Blessings bloom where waters run"
@@ -110,11 +105,12 @@
         [
           null,
           "If you turn and lose the trail"
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "A voice is calling through the haze"
@@ -130,11 +126,12 @@
         [
           null,
           "Which road you take, your future knows"
-        ],
-        [
-          null,
-          "[Chorus, Expansive, Uplifting]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I set before you life or dust"
@@ -150,15 +147,12 @@
         [
           null,
           "Or fade into the hands of death"
-        ],
-        [
-          null,
-          "[Bridge, Instrumental Build, Ethereal Harmonies]"
-        ],
-        [
-          null,
-          "[Breakdown, Stripped-Down Vocals, Soft Piano]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Breakdown",
+      "lines": [
         [
           null,
           "Stand before the parting tide"
@@ -166,11 +160,12 @@
         [
           null,
           "One road falls, one road climbs"
-        ],
-        [
-          null,
-          "[Final Chorus, Soaring and Climactic]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "I set before you life or dust"
@@ -186,10 +181,6 @@
         [
           null,
           "Or fade into the hands of death"
-        ],
-        [
-          null,
-          "[Outro, Echoing Guitar, Soft Synths]"
         ]
       ]
     }

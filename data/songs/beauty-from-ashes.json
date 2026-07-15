@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/4jwvgmjUsyUMw0uBG2u6XT",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[verse 1]"
-        ],
         [
           null,
           "Ash in the air, I breathe it in slow"
@@ -30,19 +26,12 @@
         [
           null,
           "But something inside wouldn’t choke"
-        ],
-        [
-          null,
-          "[guitar swell]"
-        ],
-        [
-          null,
-          "[ambient pulse enters]"
-        ],
-        [
-          null,
-          "[verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I heard a voice in the ruin and haze"
@@ -58,11 +47,12 @@
         [
           null,
           "And somewhere inside me, something turned"
-        ],
-        [
-          null,
-          "[chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "You gave me beauty from ashes"
@@ -94,15 +84,12 @@
         [
           null,
           "And I began again"
-        ],
-        [
-          null,
-          "[instrumental drop — strings rise]"
-        ],
-        [
-          null,
-          "[verse 3]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "I held the night like a wound in my palm"
@@ -118,15 +105,12 @@
         [
           null,
           "They speak of the flames that led me here"
-        ],
-        [
-          null,
-          "[bridge — layered vocal textures]"
-        ],
-        [
-          null,
-          "[spoken/faintly sung]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Spoken",
+      "lines": [
         [
           null,
           "Ashes fall like holy rain"
@@ -142,11 +126,12 @@
         [
           null,
           "\"Beloved,\" carved into the flame"
-        ],
-        [
-          null,
-          "[pre-chorus variation]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Still broken, still breathing, still bound to this skin"
@@ -154,11 +139,12 @@
         [
           null,
           "But there’s gold in the cracks I’ve been living in"
-        ],
-        [
-          null,
-          "[chorus — deeper, more intense]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "You gave me beauty from ashes"
@@ -190,15 +176,12 @@
         [
           null,
           "And I won’t ever hide"
-        ],
-        [
-          null,
-          "[outro — guitar rings, synths dissolve]"
-        ],
-        [
-          null,
-          "[soft vocal]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "If I am smoke, then You are the wind"
@@ -214,11 +197,12 @@
         [
           null,
           "And I am proof"
-        ],
-        [
-          null,
-          "[chorus — deeper, more intense]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "You gave me beauty from ashes"

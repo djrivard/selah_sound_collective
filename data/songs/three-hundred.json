@@ -9,16 +9,8 @@
   "spotify": "https://open.spotify.com/track/0Cxs9Bv4HK8On15gsYpReL",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Spoken",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
-        [
-          null,
-          "[Spoken Word]"
-        ],
         [
           null,
           "Threshing wheat in a winepress,"
@@ -37,10 +29,6 @@
         ],
         [
           null,
-          "[Soft]"
-        ],
-        [
-          null,
           "Then a voice in the doorway of the dark"
         ],
         [
@@ -54,11 +42,12 @@
         [
           null,
           "and the night went still and wary."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "the least, the least of them all,"
@@ -66,11 +55,12 @@
         [
           null,
           "but the voice did not fall."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "The LORD is with thee, mighty man of valour,"
@@ -86,11 +76,12 @@
         [
           null,
           "mighty man of valour, you were never alone."
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I brought two and thirty thousand,"
@@ -122,11 +113,12 @@
         [
           null,
           "till there was nothing of me left to think."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "the least, the least at the line,"
@@ -134,11 +126,12 @@
         [
           null,
           "and the morning was a sign."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "The LORD is with thee, mighty man of valour,"
@@ -154,15 +147,12 @@
         [
           null,
           "mighty man of valour, you were never alone."
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
-        [
-          null,
-          "[Whispered]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Whispered",
+      "lines": [
         [
           null,
           "no blade, no blade, just a horn and a flame,"
@@ -170,10 +160,6 @@
         [
           null,
           "a lamp shut up in the clay,"
-        ],
-        [
-          null,
-          "[Building]"
         ],
         [
           null,
@@ -198,11 +184,12 @@
         [
           null,
           "and the only blade was never mine."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "The LORD is with thee, mighty man of valour,"
@@ -218,15 +205,12 @@
         [
           null,
           "mighty man of valour, you were never alone."
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
-        [
-          null,
-          "[Spoken Word]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Spoken",
+      "lines": [
         [
           null,
           "call me up out of the winepress,"

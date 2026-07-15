@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/63ZHvLPblquDvy1DiRf1C9",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro, Cinematic Strings, Ethereal Vocal Layering]"
-        ],
         [
           null,
           "The fields are bare, the rivers run dry"
@@ -30,11 +26,12 @@
         [
           null,
           "A whisper soft, where hope is found"
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "The vineyards wither, no harvest remains"
@@ -50,11 +47,12 @@
         [
           null,
           "Yet still, my heart sings brave and bold"
-        ],
-        [
-          null,
-          "[Chorus, Sweeping Strings, Emotional Lift]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Yet I will rejoice in the storm, in the night"
@@ -70,11 +68,12 @@
         [
           null,
           "I rise, I rise, on the wings of delight"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "The earth may tremble, the heavens may weep"
@@ -90,11 +89,12 @@
         [
           null,
           "A song still burns, it will not pass"
-        ],
-        [
-          null,
-          "[Bridge, Instrumental Swell, Angelic Harmonies]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "He lifts me high, my soul takes flight"
@@ -110,11 +110,12 @@
         [
           null,
           "In His embrace, I’m free at last"
-        ],
-        [
-          null,
-          "[Verse 3, Reflective, Building Tension]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "The days may wander, the nights may be long"
@@ -130,11 +131,12 @@
         [
           null,
           "I know my steps are leading home"
-        ],
-        [
-          null,
-          "[Chorus, Powerful Reprise]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Yet I will rejoice in the storm, in the night"
@@ -150,11 +152,12 @@
         [
           null,
           "I rise, I rise, on the wings of delight"
-        ],
-        [
-          null,
-          "[Outro, Soft Fade, Dreamlike Echoes]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "The fields are bare, the rivers run dry"

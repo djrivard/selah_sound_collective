@@ -14,11 +14,12 @@
         [
           null,
           "Until It Wasn’t"
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "The door clicks shut behind me"
@@ -50,11 +51,12 @@
         [
           null,
           "Just before the next word"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I have a message from God for you"
@@ -70,11 +72,12 @@
         [
           null,
           "The wrong hand carries the word"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Two edges, a cubit long"
@@ -106,11 +109,12 @@
         [
           null,
           "He rose"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I have a message from God for you"
@@ -126,11 +130,12 @@
         [
           null,
           "The wrong hand carries the word"
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Eighteen years of carrying their silver"
@@ -162,15 +167,12 @@
         [
           null,
           "Until it wasn't"
-        ],
-        [
-          null,
-          "[Instrumental Break]"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I have a message from God for you"
@@ -186,11 +188,12 @@
         [
           null,
           "The wrong hand carries the word"
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "The doors lock behind me"

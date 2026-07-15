@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/7nwDh9z0s8acEK66nb1BYH",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "There’s a time to rise, a time to fall,"
@@ -46,11 +42,12 @@
         [
           null,
           "A time to learn what we don’t know."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, turn, turn, turn again,"
@@ -74,11 +71,12 @@
         [
           null,
           "The hands of time are heaven’s pen."
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "A time to mend, a time to break,"
@@ -110,11 +108,12 @@
         [
           null,
           "A time to know what life's about."
-        ],
-        [
-          null,
-          "[Verse 3]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "A time for silence, a time for sound,"
@@ -146,11 +145,12 @@
         [
           null,
           "A time when darkness births the light."
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "The sun will rise, the moon will wane,"
@@ -166,11 +166,12 @@
         [
           null,
           "Even the dark will shine again."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, turn, turn, turn again,"
@@ -194,11 +195,12 @@
         [
           null,
           "The hands of time are heaven’s pen."
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "So take a breath, embrace the flow,"

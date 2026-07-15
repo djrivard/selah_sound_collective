@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/4deGLpwPb01mZYr9I9EgY5",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1 — Soft]"
-        ],
         [
           null,
           "You are the Shepherd, I will not want"
@@ -30,11 +26,12 @@
         [
           null,
           "You restore the parts of me that time can't heal"
-        ],
-        [
-          null,
-          "[Pre-Chorus — Building]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "I don't know the road that lies before me"
@@ -46,11 +43,12 @@
         [
           null,
           "Every shadow starts to soften —"
-        ],
-        [
-          null,
-          "[Chorus — Emotional]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, I walk through the valley of the shadow"
@@ -70,11 +68,12 @@
         [
           null,
           "Oh, You are with me"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "You set a table where my enemies are watching"
@@ -90,11 +89,12 @@
         [
           null,
           "Every hunger finds its quiet in this place"
-        ],
-        [
-          null,
-          "[Pre-Chorus — Building]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "I don't know what's waiting in the morning"
@@ -106,11 +106,12 @@
         [
           null,
           "Every shadow starts to whisper —"
-        ],
-        [
-          null,
-          "[Chorus — Belted]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, I walk through the valley of the shadow"
@@ -130,11 +131,12 @@
         [
           null,
           "Oh, You are with me"
-        ],
-        [
-          null,
-          "[Bridge — Soft, then Building]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Goodness, mercy, walking right behind me"
@@ -154,11 +156,12 @@
         [
           null,
           "Oh, the home I've always known"
-        ],
-        [
-          null,
-          "[Chorus — Lifted, Full Production]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Oh, I walk through the valley of the shadow"
@@ -178,11 +181,12 @@
         [
           null,
           "Oh, You are with me"
-        ],
-        [
-          null,
-          "[Outro — Intimate]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Surely goodness, surely mercy"

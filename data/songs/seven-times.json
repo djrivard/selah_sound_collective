@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/6m0PItDh3jvWF3SFAucFyA",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "They count your scars, they mark your fall,"
@@ -46,11 +42,12 @@
         [
           null,
           "To take the crown and claim your own."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Every fall rewrites my name"
@@ -66,11 +63,12 @@
         [
           null,
           "The rhythm starts with a heartbeat."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "I fall, I rise — seven times and more"
@@ -94,11 +92,12 @@
         [
           null,
           "Even stronger than I was then"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I've heard the lies that say I'm done,"
@@ -130,11 +129,12 @@
         [
           null,
           "My weakness makes me twice as strong."
-        ],
-        [
-          null,
-          "[Verse 3]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
         [
           null,
           "And when they see me rise once more,"
@@ -166,11 +166,12 @@
         [
           null,
           "A legacy of hope I sowed."
-        ],
-        [
-          null,
-          "[Bridge – Rhythmic and Reflective]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Seven steps to hit the ground,"
@@ -186,11 +187,12 @@
         [
           null,
           "It’s the forge that clears the way."
-        ],
-        [
-          null,
-          "[Final Chorus – Full Power]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "I fall, I rise — seven times and more"

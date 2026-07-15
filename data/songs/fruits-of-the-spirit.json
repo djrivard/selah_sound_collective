@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/7p9FerFtAp4jOUUQFpnEEP",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro: Fingerstyle guitar with soft humming]"
-        ],
         [
           null,
           "Oh, the seeds are sown in love divine,"
@@ -22,11 +18,12 @@
         [
           null,
           "In the garden of the heart, they shine."
-        ],
-        [
-          null,
-          "[Verse 1: Gentle fingerstyle guitar, storytelling tone]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "Love is the root, it binds us strong,"
@@ -42,11 +39,12 @@
         [
           null,
           "Patience walks slow, standing by our side."
-        ],
-        [
-          null,
-          "[Pre-Chorus: Warm vocal harmonies build]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "In every season, through storm and strife,"
@@ -54,11 +52,12 @@
         [
           null,
           "These fruits bloom bright in the soul of life."
-        ],
-        [
-          null,
-          "[Chorus: Rich harmonies, heartfelt delivery]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Love, joy, peace, and patience grow,"
@@ -74,11 +73,12 @@
         [
           null,
           "Gentleness and self-control shine bright."
-        ],
-        [
-          null,
-          "[Verse 2: Soft percussion enters, fingerstyle guitar continues]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Kindness whispers in the quiet place,"
@@ -94,11 +94,12 @@
         [
           null,
           "Gentleness comforts, steady and bold."
-        ],
-        [
-          null,
-          "[Pre-Chorus: Builds anticipation]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "The Spirit’s gifts, a sacred design,"
@@ -106,11 +107,12 @@
         [
           null,
           "A tapestry woven in hearts aligned."
-        ],
-        [
-          null,
-          "[Chorus: Repeat with added harmonies]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Love, joy, peace, and patience grow,"
@@ -126,11 +128,12 @@
         [
           null,
           "Gentleness and self-control shine bright."
-        ],
-        [
-          null,
-          "[Bridge: Stripped back to guitar, reflective tone]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "In the quiet soil of humility,"
@@ -146,11 +149,12 @@
         [
           null,
           "The fruits of the Spirit carry us through."
-        ],
-        [
-          null,
-          "[Chorus: Climactic and uplifting]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Love, joy, peace, and patience grow,"
@@ -166,11 +170,12 @@
         [
           null,
           "Gentleness and self-control shine bright."
-        ],
-        [
-          null,
-          "[Outro: Fingerstyle guitar fades softly]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Oh, the seeds are sown in love divine,"

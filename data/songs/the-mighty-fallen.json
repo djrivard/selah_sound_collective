@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/0ZLG8xRB04gKBxIDPHHcrw",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro – soft guitar, distant reverb]"
-        ],
         [
           null,
           "On the hills where silence lingers,"
@@ -30,11 +26,12 @@
         [
           null,
           "Through the clash of shattered things."
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "Golden armour in the twilight,"
@@ -66,11 +63,12 @@
         [
           null,
           "And mourn in quiet, hidden ways."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Don’t let them see our ruin,"
@@ -78,11 +76,12 @@
         [
           null,
           "Don’t let them speak your name in vain…"
-        ],
-        [
-          null,
-          "[Chorus – explosive, emotional lift]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "How the mighty have fallen,"
@@ -114,11 +113,12 @@
         [
           null,
           "Then you’re still in the fight."
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Your bow once sang like thunder rolling,"
@@ -150,11 +150,12 @@
         [
           null,
           "But I still whisper out your name."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "No oil, no crown, no victory remains—"
@@ -162,11 +163,12 @@
         [
           null,
           "Just love that outlives all the pain…"
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "How the mighty have fallen,"
@@ -198,11 +200,12 @@
         [
           null,
           "Then you’re still in the fight."
-        ],
-        [
-          null,
-          "[Bridge – stripped, intimate, swelling]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "I am torn where you once stood beside me,"
@@ -234,11 +237,12 @@
         [
           null,
           "I won’t rise alone."
-        ],
-        [
-          null,
-          "[Final Chorus – full band, anthemic]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "How the mighty have fallen,"
@@ -270,11 +274,12 @@
         [
           null,
           "And it carries our lives."
-        ],
-        [
-          null,
-          "[Outro – fading, ambient guitar]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "On the hills where silence lingers…"

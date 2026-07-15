@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/3vneD8wkmPJh8WAYRC5s9B",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Intro",
       "lines": [
-        [
-          null,
-          "[Intro]"
-        ],
         [
           null,
           "In the quiet before the dawn,"
@@ -30,11 +26,12 @@
         [
           null,
           "Where broken hearts are made whole."
-        ],
-        [
-          null,
-          "[Verse 1]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 1",
+      "lines": [
         [
           null,
           "In the stillness of the waiting,"
@@ -66,11 +63,12 @@
         [
           null,
           "Into the arms of endless flight."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "When the weight of the world grows heavy,"
@@ -86,11 +84,12 @@
         [
           null,
           "That shows you the way."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "But they who wait for the Lord shall renew their strength;"
@@ -106,11 +105,12 @@
         [
           null,
           "They shall walk and not faint."
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Step by step, the journey’s calling,"
@@ -142,11 +142,12 @@
         [
           null,
           "That turns darkness into light."
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Lift your eyes above the tempest,"
@@ -178,11 +179,12 @@
         [
           null,
           "A new strength you will awake."
-        ],
-        [
-          null,
-          "[Chorus – Reprise]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "But they who wait for the Lord shall renew their strength;"
@@ -198,11 +200,12 @@
         [
           null,
           "They shall walk and not faint."
-        ],
-        [
-          null,
-          "[Outro]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "So let your spirit rise and soar,"

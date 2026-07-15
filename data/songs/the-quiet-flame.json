@@ -102,11 +102,12 @@
         [
           null,
           "I become, I breathe"
-        ],
-        [
-          null,
-          "[whispered]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Whispered",
+      "lines": [
         [
           null,
           "When I was hungry,"

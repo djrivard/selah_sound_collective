@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/4wy0oiYm0xe4m7RDuoiQ0H",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "There’s a mirror in my chest,"
@@ -46,11 +42,12 @@
         [
           null,
           "Truths I lost and lies I kept."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "I’m the witness and the culprit,"
@@ -66,11 +63,12 @@
         [
           null,
           "But the thorns speak first instead."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Who can know this heart of mine—"
@@ -102,11 +100,12 @@
         [
           null,
           "And you see deeper than I know."
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "Sometimes I feel like I’m noble,"
@@ -138,11 +137,12 @@
         [
           null,
           "Turns my mercy into ash."
-        ],
-        [
-          null,
-          "[Pre-Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "So I beg for honest shadows—"
@@ -158,11 +158,12 @@
         [
           null,
           "Echoing motives from the past."
-        ],
-        [
-          null,
-          "[Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Who can know this heart of mine—"
@@ -194,11 +195,12 @@
         [
           null,
           "And you see deeper than I know."
-        ],
-        [
-          null,
-          "[Bridge]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "Strip me down to raw intention,"
@@ -230,11 +232,12 @@
         [
           null,
           "Let the quiet turn me real."
-        ],
-        [
-          null,
-          "[Final Chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "Who can know this heart of mine—"

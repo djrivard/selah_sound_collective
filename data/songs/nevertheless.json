@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/1aIfQE3MNQjY3IANyadRNy",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[Verse 1]"
-        ],
         [
           null,
           "Down by the water where the red sea opened"
@@ -46,11 +42,12 @@
         [
           null,
           "Then wondered why the heavens never spoke"
-        ],
-        [
-          null,
-          "[Chorus — soft, breathy]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Remember me"
@@ -82,11 +79,12 @@
         [
           null,
           "When mine would not last"
-        ],
-        [
-          null,
-          "[Verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I sold my daughters to the evening idols"
@@ -118,11 +116,12 @@
         [
           null,
           "You called me kindness and you called me safe"
-        ],
-        [
-          null,
-          "[Chorus — building]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Remember me"
@@ -154,11 +153,12 @@
         [
           null,
           "When mine would not last"
-        ],
-        [
-          null,
-          "[Bridge — cinematic, strings swell, spoken-sung]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
         [
           null,
           "From everlasting to everlasting"
@@ -178,11 +178,12 @@
         [
           null,
           "From everlasting to everlasting"
-        ],
-        [
-          null,
-          "[Chorus — elevated, belted, full strings]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
           "Remember me"
@@ -218,11 +219,12 @@
         [
           null,
           "Remember me"
-        ],
-        [
-          null,
-          "[Outro — whispered, intimate]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
         [
           null,
           "Amen"

@@ -9,12 +9,8 @@
   "spotify": "https://open.spotify.com/track/7ua6LGZgzsYjIIVlUmLa1l",
   "sections": [
     {
-      "label": "Lyrics",
+      "label": "Verse 1",
       "lines": [
-        [
-          null,
-          "[verse 1]"
-        ],
         [
           null,
           "The wind broke branches, the earth split stone"
@@ -30,11 +26,12 @@
         [
           null,
           "But the hush that followed, whispered my name"
-        ],
-        [
-          null,
-          "[pre-chorus]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
         [
           null,
           "Not in the quake, not in the blaze"
@@ -50,15 +47,12 @@
         [
           null,
           "A hush arrives, and takes its place"
-        ],
-        [
-          null,
-          "[chorus]"
-        ],
-        [
-          null,
-          "[instrumental swell, vocals emerge gently]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Instrumental",
+      "lines": [
         [
           null,
           "It's the still small voice that finds me"
@@ -78,11 +72,12 @@
         [
           null,
           "Yeah, it’s the still small voice that finds me"
-        ],
-        [
-          null,
-          "[verse 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
         [
           null,
           "I built my altars on noise and speed"
@@ -98,11 +93,12 @@
         [
           null,
           "I felt the breath of love begin"
-        ],
-        [
-          null,
-          "[pre-chorus 2]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus 2",
+      "lines": [
         [
           null,
           "Not in the war cries, not in the gold"
@@ -118,11 +114,12 @@
         [
           null,
           "The hush that heals what life might break"
-        ],
-        [
-          null,
-          "[chorus 2 – evolved]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus 2",
+      "lines": [
         [
           null,
           "It’s the still small voice that holds me"
@@ -142,15 +139,12 @@
         [
           null,
           "Yes, it’s the still small voice that holds me"
-        ],
-        [
-          null,
-          "[bridge – instrumental drop, ambient textures rise]"
-        ],
-        [
-          null,
-          "[spoken word / whisper layered under strings]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Spoken",
+      "lines": [
         [
           null,
           "Not in the noise, not in the need"
@@ -166,11 +160,12 @@
         [
           null,
           "And time dissolves in that soft place"
-        ],
-        [
-          null,
-          "[final chorus – layered vocals, emotional peak]"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
         [
           null,
           "It’s the still small voice within me"
