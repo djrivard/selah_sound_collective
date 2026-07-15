@@ -9,7 +9,7 @@
   "spotify": "https://open.spotify.com/track/7KNY7CdleV1Ab0JkBEFhxr",
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -42,12 +42,7 @@
         [
           null,
           "Still leave the broken waiting outside"
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "If belief is more than sound"
@@ -55,10 +50,15 @@
         [
           null,
           "Why do my hands stay folded now?"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
         [
           null,
-          "[Chorus]  ← BEST CHORUS"
+          "← BEST CHORUS"
         ],
         [
           null,
@@ -91,12 +91,7 @@
         [
           null,
           "I wanna be the proof"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "I see tongues that bless and burn"
@@ -128,12 +123,7 @@
         [
           null,
           "In quiet love, not hollow claims"
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus 2",
-      "lines": [
+        ],
         [
           null,
           "If You’re close to the ones ignored"
@@ -141,12 +131,7 @@
         [
           null,
           "Why am I guarding my open door?"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "I don’t wanna just hear Your voice"
@@ -178,12 +163,7 @@
         [
           null,
           "I wanna be the proof"
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Pure faith wears no disguise"
@@ -223,12 +203,7 @@
         [
           null,
           "A song I sing, but never try"
-        ]
-      ]
-    },
-    {
-      "label": "Final Chorus",
-      "lines": [
+        ],
         [
           null,
           "I don’t wanna just hear Your voice"
@@ -260,12 +235,7 @@
         [
           null,
           "I wanna be the proof"
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "Let my life say what my lips confess"

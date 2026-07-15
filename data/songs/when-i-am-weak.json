@@ -1,12 +1,150 @@
 {
   "slug": "when-i-am-weak",
   "title": "When I am Weak",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 41",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "when-i-am-weak.jpg",
+  "audio": "when-i-am-weak.mp3",
   "spotify": "https://open.spotify.com/track/2utPhESUAEO2lcvdvhOvKY",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2734197fdba15b9529750d60d80"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Blessed is the one who sees the broken"
+        ],
+        [
+          null,
+          "Who stops to help when others walk away"
+        ],
+        [
+          null,
+          "In times of trouble, they will find protection"
+        ],
+        [
+          null,
+          "Grace will be their shelter day by day"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "When I am weak, You make me stronger"
+        ],
+        [
+          null,
+          "When I am lost, You lead me home"
+        ],
+        [
+          null,
+          "Though enemies whisper lies against me"
+        ],
+        [
+          null,
+          "In Your mercy, I am never alone"
+        ],
+        [
+          null,
+          "(In Your mercy, I am whole)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Even trusted friends may turn against me"
+        ],
+        [
+          null,
+          "Breaking bread while harboring deceit"
+        ],
+        [
+          null,
+          "But You, O Lord, remain forever faithful"
+        ],
+        [
+          null,
+          "Lifting me back onto my feet"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "When I am weak, You make me stronger"
+        ],
+        [
+          null,
+          "When I am lost, You lead me home"
+        ],
+        [
+          null,
+          "Though enemies whisper lies against me"
+        ],
+        [
+          null,
+          "In Your mercy, I am never alone"
+        ],
+        [
+          null,
+          "(In Your mercy, I am whole)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Your love upholds me Your truth enfolds me"
+        ],
+        [
+          null,
+          "Through every valley,"
+        ],
+        [
+          null,
+          "every storm You restore my soul"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "When I am weak, You make me stronger"
+        ],
+        [
+          null,
+          "When I am lost, You lead me home"
+        ],
+        [
+          null,
+          "Though enemies whisper lies against me"
+        ],
+        [
+          null,
+          "In Your mercy, I am never alone"
+        ],
+        [
+          null,
+          "In Your mercy, I am whole"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "hath lifted up his heel against me",
+  "epigraphRef": "Psalm 41:9",
+  "lyricEyebrow": "From the Psalms"
 }

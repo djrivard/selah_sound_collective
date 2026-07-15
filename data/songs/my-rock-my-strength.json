@@ -1,12 +1,182 @@
 {
   "slug": "my-rock-my-strength",
   "title": "My Rock, My Strength",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 18",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "my-rock-my-strength.jpg",
+  "audio": "my-rock-my-strength.mp3",
   "spotify": "https://open.spotify.com/track/4BqveatCzjBjXfJ3IgcEoz",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27359928fc3de0fa7dc21e38b5b"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In the depths of darkness,"
+        ],
+        [
+          null,
+          "I called Your name"
+        ],
+        [
+          null,
+          "When storms surrounded me, You came"
+        ],
+        [
+          null,
+          "Like thunder rolling through the night"
+        ],
+        [
+          null,
+          "Your power showed its mighty might"
+        ],
+        [
+          null,
+          "My fortress strong, my shield divine"
+        ],
+        [
+          null,
+          "In You alone, I'll rest my life"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my rock, my strength, my all"
+        ],
+        [
+          null,
+          "When mountains shake and kingdoms fall"
+        ],
+        [
+          null,
+          "You lift me up beyond the fight"
+        ],
+        [
+          null,
+          "Your love gives wings to take my flight"
+        ],
+        [
+          null,
+          "(Your love gives wings to take my flight)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "The earth beneath began to quake"
+        ],
+        [
+          null,
+          "As heaven's armies came awake"
+        ],
+        [
+          null,
+          "You parted clouds to reach for me"
+        ],
+        [
+          null,
+          "Through lightning flashed across the sea"
+        ],
+        [
+          null,
+          "Your voice echoed through the deep"
+        ],
+        [
+          null,
+          "Your mighty hand, my soul to keep"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Bridge Who can stand against Your might?"
+        ],
+        [
+          null,
+          "Who can dim Your perfect light?"
+        ],
+        [
+          null,
+          "Perfect are Your ways divine"
+        ],
+        [
+          null,
+          "Forever faithful through all time"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "You light my path through darkest night"
+        ],
+        [
+          null,
+          "You train my hands to rise and fight"
+        ],
+        [
+          null,
+          "Your gentleness has made me great"
+        ],
+        [
+          null,
+          "Your mercy sets my spirit straight"
+        ],
+        [
+          null,
+          "From highest peak to deepest vale"
+        ],
+        [
+          null,
+          "Your love and justice never fail"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Final Chorus You are my rock, my strength, my all"
+        ],
+        [
+          null,
+          "When mountains shake and kingdoms fall"
+        ],
+        [
+          null,
+          "You lift me up beyond the fight"
+        ],
+        [
+          null,
+          "Your love gives wings to take my flight"
+        ],
+        [
+          null,
+          "Your love gives wings, Your love gives wings"
+        ],
+        [
+          null,
+          "Your love gives wings to take my flight"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "The LORD is my rock",
+  "epigraphRef": "Psalm 18:2",
+  "lyricEyebrow": "From the Psalms"
 }

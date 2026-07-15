@@ -1,12 +1,163 @@
 {
   "slug": "in-the-shadow-of-justice",
   "title": "In The Shadow of Justice",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 7",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "in-the-shadow-of-justice.jpg",
+  "audio": "in-the-shadow-of-justice.mp3",
   "spotify": "https://open.spotify.com/track/2kqbHZV9V20qzcI5rjuygA",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fd222981c0e229b53c5400f4"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "In Your shelter I take refuge now"
+        ],
+        [
+          null,
+          "While shadows chase and threats surround"
+        ],
+        [
+          null,
+          "My pursuers circle like hungry wolves"
+        ],
+        [
+          null,
+          "But You remain my solid ground"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Rise up, O Judge of all the earth"
+        ],
+        [
+          null,
+          "Let truth be known, let justice reign"
+        ],
+        [
+          null,
+          "My shield, my strength, my righteousness"
+        ],
+        [
+          null,
+          "Through darkest night, through deepest pain"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "If guilt has stained these weathered hands"
+        ],
+        [
+          null,
+          "If peace I've broken, trust betrayed"
+        ],
+        [
+          null,
+          "Then let me fall beneath the storm"
+        ],
+        [
+          null,
+          "The price of darkness must be paid"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "But innocence cries out tonight"
+        ],
+        [
+          null,
+          "From depths of sorrow, wells of tears"
+        ],
+        [
+          null,
+          "While wickedness prepares its arrows"
+        ],
+        [
+          null,
+          "You see beyond these mortal fears"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "The pit they've dug becomes their grave"
+        ],
+        [
+          null,
+          "The stones they threw fall back like rain"
+        ],
+        [
+          null,
+          "While morning breaks across the mountains"
+        ],
+        [
+          null,
+          "Your justice rises once again"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Rise up, O Judge of all the earth"
+        ],
+        [
+          null,
+          "Let truth be known, let justice reign"
+        ],
+        [
+          null,
+          "I'll praise Your name in endless song"
+        ],
+        [
+          null,
+          "When light breaks through this veil of pain"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "In gratitude I bow my head"
+        ],
+        [
+          null,
+          "As dawn dispels the shadows deep"
+        ],
+        [
+          null,
+          "Your righteousness becomes my anchor"
+        ],
+        [
+          null,
+          "This broken heart You gently keep"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "let him tread down my life upon the earth",
+  "epigraphRef": "Psalm 7:5",
+  "lyricEyebrow": "From the Psalms"
 }

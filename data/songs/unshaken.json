@@ -1,12 +1,182 @@
 {
   "slug": "unshaken",
   "title": "Unshaken",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 27",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "unshaken.jpg",
+  "audio": "unshaken.mp3",
   "spotify": "https://open.spotify.com/track/6qYyZADmbTvgiRA4sbsogt",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ecc35457e8267c319d750cf6"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Light breaks through the darkness"
+        ],
+        [
+          null,
+          "My salvation's here to stay"
+        ],
+        [
+          null,
+          "When shadows try to shake me"
+        ],
+        [
+          null,
+          "My fortress shows the way"
+        ],
+        [
+          null,
+          "No enemy can break me"
+        ],
+        [
+          null,
+          "No fear can make me fall"
+        ],
+        [
+          null,
+          "For in Your house I'm standing"
+        ],
+        [
+          null,
+          "Behind Your mighty walls"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "One thing I seek, one thing"
+        ],
+        [
+          null,
+          "I need To dwell within Your courts eternally"
+        ],
+        [
+          null,
+          "Though armies rise against my soul You are my light,"
+        ],
+        [
+          null,
+          "You make me whole (Repeat)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "When storms of life surround me"
+        ],
+        [
+          null,
+          "You hide me in Your grace"
+        ],
+        [
+          null,
+          "While others may reject me You never turn Your face"
+        ],
+        [
+          null,
+          "In times of tribulation You lift my head up high"
+        ],
+        [
+          null,
+          "Your beauty is my passion Your presence is my prize"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "One thing I seek, one thing"
+        ],
+        [
+          null,
+          "I need To dwell within Your courts eternally"
+        ],
+        [
+          null,
+          "Though armies rise against my soul"
+        ],
+        [
+          null,
+          "You are my light, You make me whole"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "I know that I will see it"
+        ],
+        [
+          null,
+          "Your goodness in this land"
+        ],
+        [
+          null,
+          "Though waiting tests my spirit"
+        ],
+        [
+          null,
+          "I'll trust in Your command"
+        ],
+        [
+          null,
+          "My heart will not be shaken"
+        ],
+        [
+          null,
+          "My song will not be stilled"
+        ],
+        [
+          null,
+          "For every step I'm taking"
+        ],
+        [
+          null,
+          "Is guided by Your will"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "One thing I seek, one thing"
+        ],
+        [
+          null,
+          "I need To dwell within Your courts eternally"
+        ],
+        [
+          null,
+          "Though armies rise against my soul You are my light,"
+        ],
+        [
+          null,
+          "You make me whole (You are my light,"
+        ],
+        [
+          null,
+          "You make me whole)"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "that I may dwell in the house of the LORD all the days of my",
+  "epigraphRef": "Psalm 27:4",
+  "lyricEyebrow": "From the Psalms"
 }

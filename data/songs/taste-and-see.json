@@ -9,20 +9,11 @@
   "spotify": "https://open.spotify.com/track/3SD5HhL4BDPyDZ37lDS3g6",
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
           "Taste and See…"
-        ]
-      ]
-    },
-    {
-      "label": "Intro",
-      "lines": [
-        [
-          null,
-          "Whispered, atmospheric synths, maybe a simple, haunting piano motif) (Sound of soft wind, maybe distant, distorted birdsong)"
         ],
         [
           null,
@@ -42,59 +33,247 @@
         ],
         [
           null,
-          "Emerald light, dappled on skin No hiding then, where do I begin? Felt Your breath in the breeze, heard Your call Knew nothing of rising, believed nothing could fall Walked in the open, bathed in the trust Before the gleam turned desire to dust"
+          "Emerald light, dappled on skin"
         ],
         [
           null,
-          "Then a shimmer... a scale in the green A voice smooth as water, a sight unforeseen A question planted, a seed taking hold \"Did He really say?\"... a story unfolds A shadow of maybe, a flicker of why Under the surface, beneath the blue sky"
+          "No hiding then, where do I begin?"
         ],
         [
           null,
-          "He said, \"Taste and see...\" Eyes open, you'll be Like the gods, finally free... Just taste and see..."
+          "Felt Your breath in the breeze, heard Your call"
         ],
         [
           null,
-          "The branch hanging heavy, a promise so bright Forbidden perfection, bathed in the light My own reflection, I saw in its gleam A world of knowing, a waking dream One single moment, the choice hanging there Between the listening and the breath of cool air"
+          "Knew nothing of rising, believed nothing could fall"
         ],
         [
           null,
-          "That whisper... it echoes and calls \"Don't you wanna know... beyond these walls?\" The boundary fading, the promise rings true \"Everything changing, starting with you...\" A future imagined, power unknown Standing right here, but feeling alone..."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+          "Walked in the open, bathed in the trust"
+        ],
         [
           null,
-          "Stronger, more resonant, fuller instrumentation but still atmospheric) He said, \"Taste and see...\" Eyes open, you'll be Like the gods, finally free... Just taste and see..."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+          "Before the gleam turned desire to dust"
+        ],
         [
           null,
-          "Music becomes more sparse, vulnerable vocal, focus on the immediate aftermath) Then the colour shifted, the air became cold Suddenly saw what I hadn't been told Naked and fragile, shame flooding through Looked for the shadows, hid from the view Heard Your steps walking... knew the sound... But couldn't look up from the cursed ground Pointed the finger, passed on the sting The hollow echo, the broken wing..."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+          "Then a shimmer... a scale in the green"
+        ],
         [
           null,
-          "Perhaps layered with ad-libs, a sense of longing or regret, powerful but still ethereal) He said, \"Taste and see...\" (What did I see?) Eyes open, you'll be (Not like I thought I would be...) Like the gods, finally free... (Is this freedom, really?) Just taste and see... (Oh, taste and see...)"
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+          "A voice smooth as water, a sight unforeseen"
+        ],
         [
           null,
-          "Fades out, synth pads swell and decay, returning to intro elements, whispered vocals) See... see... What's become of me... Gate locked behind... flaming sword bright... Walking away... out of the light... Taste and see... taste and see... The memory... echoes in me..."
+          "A question planted, a seed taking hold"
+        ],
+        [
+          null,
+          "\"Did He really say?\"... a story unfolds"
+        ],
+        [
+          null,
+          "A shadow of maybe, a flicker of why"
+        ],
+        [
+          null,
+          "Under the surface, beneath the blue sky"
+        ],
+        [
+          null,
+          "He said, \"Taste and see...\""
+        ],
+        [
+          null,
+          "Eyes open, you'll be"
+        ],
+        [
+          null,
+          "Like the gods, finally free..."
+        ],
+        [
+          null,
+          "Just taste and see..."
+        ],
+        [
+          null,
+          "The branch hanging heavy, a promise so bright"
+        ],
+        [
+          null,
+          "Forbidden perfection, bathed in the light"
+        ],
+        [
+          null,
+          "My own reflection,"
+        ],
+        [
+          null,
+          "I saw in its gleam"
+        ],
+        [
+          null,
+          "A world of knowing, a waking dream"
+        ],
+        [
+          null,
+          "One single moment, the choice hanging there"
+        ],
+        [
+          null,
+          "Between the listening and the breath of cool air"
+        ],
+        [
+          null,
+          "That whisper... it echoes and calls"
+        ],
+        [
+          null,
+          "\"Don't you wanna know... beyond these walls?\""
+        ],
+        [
+          null,
+          "The boundary fading, the promise rings true"
+        ],
+        [
+          null,
+          "\"Everything changing, starting with you...\""
+        ],
+        [
+          null,
+          "A future imagined, power unknown"
+        ],
+        [
+          null,
+          "Standing right here, but feeling alone..."
+        ],
+        [
+          null,
+          "Stronger, more resonant, fuller instrumentation"
+        ],
+        [
+          null,
+          "but still atmospheric) He said,"
+        ],
+        [
+          null,
+          "\"Taste and see...\" Eyes open, you'll be"
+        ],
+        [
+          null,
+          "Like the gods, finally free..."
+        ],
+        [
+          null,
+          "Just taste and see..."
+        ],
+        [
+          null,
+          "Music becomes more sparse, vulnerable vocal,"
+        ],
+        [
+          null,
+          "focus on the immediate aftermath)"
+        ],
+        [
+          null,
+          "Then the colour shifted, the air became cold"
+        ],
+        [
+          null,
+          "Suddenly saw what I hadn't been told"
+        ],
+        [
+          null,
+          "Naked and fragile, shame flooding through"
+        ],
+        [
+          null,
+          "Looked for the shadows, hid from the view"
+        ],
+        [
+          null,
+          "Heard Your steps walking... knew the sound..."
+        ],
+        [
+          null,
+          "But couldn't look up from the cursed ground"
+        ],
+        [
+          null,
+          "Pointed the finger, passed on the sting"
+        ],
+        [
+          null,
+          "The hollow echo, the broken wing..."
+        ],
+        [
+          null,
+          "Perhaps layered with ad-libs,"
+        ],
+        [
+          null,
+          "a sense of longing or regret,"
+        ],
+        [
+          null,
+          "powerful but still ethereal) He said,"
+        ],
+        [
+          null,
+          "\"Taste and see...\" (What did"
+        ],
+        [
+          null,
+          "I see?) Eyes open, you'll be"
+        ],
+        [
+          null,
+          "(Not like I thought I would be...)"
+        ],
+        [
+          null,
+          "Like the gods, finally free..."
+        ],
+        [
+          null,
+          "(Is this freedom, really?)"
+        ],
+        [
+          null,
+          "Just taste and see..."
+        ],
+        [
+          null,
+          "(Oh, taste and see...)"
+        ],
+        [
+          null,
+          "Fades out, synth pads swell and decay,"
+        ],
+        [
+          null,
+          "returning to intro elements, whispered vocals)"
+        ],
+        [
+          null,
+          "See... see... What's become of me..."
+        ],
+        [
+          null,
+          "Gate locked behind... flaming sword bright..."
+        ],
+        [
+          null,
+          "Walking away... out of the light..."
+        ],
+        [
+          null,
+          "Taste and see... taste and see..."
+        ],
+        [
+          null,
+          "The memory... echoes in me..."
         ]
       ]
     }

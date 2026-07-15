@@ -1,12 +1,179 @@
 {
   "slug": "we-have-heard",
   "title": "We Have Heard",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 44",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "we-have-heard.jpg",
+  "audio": "we-have-heard.mp3",
   "spotify": "https://open.spotify.com/track/3EiSX8mo6BXkB91tvXIaiG",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2739b8c1e90e35e04ab5875b009"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Our fathers spoke of ancient days"
+        ],
+        [
+          null,
+          "When Your hand drove the nations away"
+        ],
+        [
+          null,
+          "Planted our people in this land"
+        ],
+        [
+          null,
+          "Not by their sword, but by Your command"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are You now in our despair?"
+        ],
+        [
+          null,
+          "Have You forgotten what we bear?"
+        ],
+        [
+          null,
+          "Rise up, awake, don't hide Your face"
+        ],
+        [
+          null,
+          "Redeem us by Your endless grace"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Not in my bow do I find peace"
+        ],
+        [
+          null,
+          "Not by my blade do wars yet cease"
+        ],
+        [
+          null,
+          "You alone brought us victory"
+        ],
+        [
+          null,
+          "Through darkest night, You made us free"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Now we're scattered like sheep for prey"
+        ],
+        [
+          null,
+          "Sold for nothing, cast far away"
+        ],
+        [
+          null,
+          "Mocked by neighbors, scorned by all"
+        ],
+        [
+          null,
+          "Yet still we rise when You do call"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Though we've kept Your covenant true"
+        ],
+        [
+          null,
+          "Our hearts have never turned from You"
+        ],
+        [
+          null,
+          "In death's dark valley, we remain"
+        ],
+        [
+          null,
+          "Your faithful ones who praise Your name"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are You now in our despair?"
+        ],
+        [
+          null,
+          "Have You forgotten what we bear?"
+        ],
+        [
+          null,
+          "Rise up, awake, don't hide Your face"
+        ],
+        [
+          null,
+          "Redeem us by Your endless grace"
+        ],
+        [
+          null,
+          "For Your sake, we face death each day"
+        ],
+        [
+          null,
+          "Like lambs, we walk the martyr's way"
+        ],
+        [
+          null,
+          "Yet still we trust Your steadfast love"
+        ],
+        [
+          null,
+          "Arise and send help from above"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are You now in our despair?"
+        ],
+        [
+          null,
+          "Have You forgotten what we bear?"
+        ],
+        [
+          null,
+          "Rise up, awake, don't hide Your face"
+        ],
+        [
+          null,
+          "Redeem us by Your endless grace"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "what work thou didst in their days",
+  "epigraphRef": "Psalm 44:1",
+  "lyricEyebrow": "From the Psalms"
 }

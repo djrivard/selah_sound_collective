@@ -1,12 +1,141 @@
 {
   "slug": "walk-in-truth",
   "title": "Walk In Truth",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 26",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "walk-in-truth.jpg",
+  "audio": "walk-in-truth.mp3",
   "spotify": "https://open.spotify.com/track/1UntOwdXpQpOeVxqjM8WEs",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27375fce76b3ba60eb3ecc36949"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "Test my heart, look deep inside"
+        ],
+        [
+          null,
+          "Nothing to hide, in Your light"
+        ],
+        [
+          null,
+          "I reside My feet planted firm on holy ground"
+        ],
+        [
+          null,
+          "In Your truth, my peace is found"
+        ],
+        [
+          null,
+          "I will walk in integrity"
+        ],
+        [
+          null,
+          "Your love surrounds and sets me free"
+        ],
+        [
+          null,
+          "Wash me clean as morning rain"
+        ],
+        [
+          null,
+          "Your altar's where I'll remain"
+        ],
+        [
+          null,
+          "(Your altar's where I'll remain)"
+        ],
+        [
+          null,
+          "Far from those who speak in lies"
+        ],
+        [
+          null,
+          "Their hands hold schemes, their words divide"
+        ],
+        [
+          null,
+          "But I choose to dance in grace"
+        ],
+        [
+          null,
+          "Among the faithful, I'll find my place"
+        ],
+        [
+          null,
+          "My voice rises with the dawn"
+        ],
+        [
+          null,
+          "Telling stories of what You've done"
+        ],
+        [
+          null,
+          "In the assembly, I'll proclaim"
+        ],
+        [
+          null,
+          "The wonders of Your name"
+        ],
+        [
+          null,
+          "I will walk in integrity"
+        ],
+        [
+          null,
+          "Your love surrounds and sets me free"
+        ],
+        [
+          null,
+          "Wash me clean as morning rain"
+        ],
+        [
+          null,
+          "Your altar's where I'll remain"
+        ],
+        [
+          null,
+          "(Your altar's where I'll remain)"
+        ],
+        [
+          null,
+          "[Final Verse] Standing firm on level ground"
+        ],
+        [
+          null,
+          "In Your courts, I'm glory-bound"
+        ],
+        [
+          null,
+          "My soul redeemed, my path made clear"
+        ],
+        [
+          null,
+          "Forever I'll worship here"
+        ],
+        [
+          null,
+          "I will walk in integrity"
+        ],
+        [
+          null,
+          "Your love surrounds and sets me free"
+        ],
+        [
+          null,
+          "Wash me clean as morning rain"
+        ],
+        [
+          null,
+          "Your altar's where I'll remain"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "and I have walked in thy truth",
+  "epigraphRef": "Psalm 26:3",
+  "lyricEyebrow": "From the Psalms"
 }

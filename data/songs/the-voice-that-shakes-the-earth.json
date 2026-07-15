@@ -1,12 +1,184 @@
 {
   "slug": "the-voice-that-shakes-the-earth",
   "title": "The Voice That Shakes the Earth",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 29",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "the-voice-that-shakes-the-earth.jpg",
+  "audio": "the-voice-that-shakes-the-earth.mp3",
   "spotify": "https://open.spotify.com/track/51iKEHdh9liaGsC9vOzMPL",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273fda2bfacf69bec9145ab13a3"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Heaven's armies bow in light"
+        ],
+        [
+          null,
+          "Give glory to the Holy Name"
+        ],
+        [
+          null,
+          "In sacred beauty, worship Him"
+        ],
+        [
+          null,
+          "As thunder shakes earth's frame"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The voice of God splits the night"
+        ],
+        [
+          null,
+          "Like lightning on the sea"
+        ],
+        [
+          null,
+          "The voice of God shakes the heights"
+        ],
+        [
+          null,
+          "And sets the captives free"
+        ],
+        [
+          null,
+          "(His voice echoes eternally)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Cedars break upon the hills"
+        ],
+        [
+          null,
+          "As winds sweep through the land"
+        ],
+        [
+          null,
+          "Mountains leap like startled deer"
+        ],
+        [
+          null,
+          "Before His mighty hand"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The voice of God splits the night"
+        ],
+        [
+          null,
+          "Like lightning on the sea"
+        ],
+        [
+          null,
+          "The voice of God shakes the heights"
+        ],
+        [
+          null,
+          "And sets the captives free"
+        ],
+        [
+          null,
+          "(His voice echoes eternally)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "In His temple, all cry \"Glory!\""
+        ],
+        [
+          null,
+          "Above the floods, He reigns"
+        ],
+        [
+          null,
+          "Giving strength to all His people"
+        ],
+        [
+          null,
+          "His peace will ever remain"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Let every creature lift their voice"
+        ],
+        [
+          null,
+          "To join creation's song"
+        ],
+        [
+          null,
+          "For He sits enthroned as King"
+        ],
+        [
+          null,
+          "His rule is forever strong"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The voice of God splits the night"
+        ],
+        [
+          null,
+          "Like lightning on the sea"
+        ],
+        [
+          null,
+          "The voice of God shakes the heights"
+        ],
+        [
+          null,
+          "And sets the captives free"
+        ],
+        [
+          null,
+          "(His voice echoes eternally)"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "His voice echoes eternally..."
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "The voice of the LORD is upon the waters",
+  "epigraphRef": "Psalm 29:3",
+  "lyricEyebrow": "From the Psalms"
 }

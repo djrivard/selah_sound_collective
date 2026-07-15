@@ -9,7 +9,7 @@
   "spotify": "https://open.spotify.com/track/6abpg4sBYXmNAIwDC9AlYG",
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -25,20 +25,27 @@
         ],
         [
           null,
-          "And I brought the ground its firstfruits, salted with my fears"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
-        [
-          null,
-          "He brought the fat and firstling, and the smoke rose up like silk"
+          "And I brought the ground its"
         ],
         [
           null,
-          "And mine lay low and smoldered, would not lift up off the ground"
+          "firstfruits, salted with my fears"
+        ],
+        [
+          null,
+          "He brought the fat and firstling,"
+        ],
+        [
+          null,
+          "and the smoke rose up like silk"
+        ],
+        [
+          null,
+          "And mine lay low and smoldered,"
+        ],
+        [
+          null,
+          "would not lift up off the ground"
         ],
         [
           null,
@@ -46,13 +53,12 @@
         ],
         [
           null,
-          "And I felt the cold thing enter, come and sit down next to me"
-        ]
-      ]
-    },
-    {
-      "label": "Refrain",
-      "lines": [
+          "And I felt the cold thing enter,"
+        ],
+        [
+          null,
+          "come and sit down next to me"
+        ],
         [
           null,
           "And the door stood open wide, and I would not turn"
@@ -63,17 +69,16 @@
         ],
         [
           null,
-          "There's a beast that lies in waiting, and it calls you by your name"
+          "There's a beast that lies in waiting,"
+        ],
+        [
+          null,
+          "and it calls you by your name"
         ],
         [
           null,
           "And I would not, no I would not, master it"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 3",
-      "lines": [
+        ],
         [
           null,
           "He said, why has your face fallen, why do you walk so low?"
@@ -84,24 +89,27 @@
         ],
         [
           null,
-          "For sin is crouched and breathing at the threshold of your heart"
+          "For sin is crouched and breathing at"
+        ],
+        [
+          null,
+          "the threshold of your heart"
         ],
         [
           null,
           "Its desire is to have you — but you must rule its part"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 4",
-      "lines": [
+        ],
         [
           null,
           "I said come now, my brother, come and walk the field with me"
         ],
         [
           null,
-          "Where the barley bends in silence and there's no one left to see"
+          "Where the barley bends in silence"
+        ],
+        [
+          null,
+          "and there's no one left to see"
         ],
         [
           null,
@@ -109,13 +117,12 @@
         ],
         [
           null,
-          "And the evening took his breathing, and the field lay still as stone"
-        ]
-      ]
-    },
-    {
-      "label": "Refrain",
-      "lines": [
+          "And the evening took his breathing,"
+        ],
+        [
+          null,
+          "and the field lay still as stone"
+        ],
         [
           null,
           "And the door stood open wide, and I would not turn"
@@ -126,17 +133,16 @@
         ],
         [
           null,
-          "There's a beast that lies in waiting, and it calls you by your name"
+          "There's a beast that lies in waiting,"
+        ],
+        [
+          null,
+          "and it calls you by your name"
         ],
         [
           null,
           "And I would not, no I would not, master it"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 5",
-      "lines": [
+        ],
         [
           null,
           "Where is your brother, He asked me, and I said I cannot say"
@@ -147,17 +153,16 @@
         ],
         [
           null,
-          "But the blood was crying upward from the mouth of the torn ground"
+          "But the blood was crying upward"
+        ],
+        [
+          null,
+          "from the mouth of the torn ground"
         ],
         [
           null,
           "And He set a mark upon me, sent me wandering on down"
-        ]
-      ]
-    },
-    {
-      "label": "Refrain",
-      "lines": [
+        ],
         [
           null,
           "And the door stood open wide, and I would not turn"
@@ -168,17 +173,16 @@
         ],
         [
           null,
-          "There's a beast that lies in waiting, and it calls you by your name"
+          "There's a beast that lies in waiting,"
+        ],
+        [
+          null,
+          "and it calls you by your name"
         ],
         [
           null,
           "And I would not, no I would not, master it"
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "East of Eden, east of Eden, where the morning will not come"

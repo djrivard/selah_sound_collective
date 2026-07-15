@@ -1,12 +1,217 @@
 {
   "slug": "you-see-all",
   "title": "You See All",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 10",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "you-see-all.jpg",
+  "audio": "you-see-all.mp3",
   "spotify": "https://open.spotify.com/track/1zE6RDSeOrSMiexZEn7ybn",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273b91987e3c40c0e0f10d59a8c"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Where are You in these darkest hours?"
+        ],
+        [
+          null,
+          "When shadows lengthen and evil towers"
+        ],
+        [
+          null,
+          "Above the weak, the poor, the lost"
+        ],
+        [
+          null,
+          "While wicked men ignore the cost"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They boast of greed and selfish gain"
+        ],
+        [
+          null,
+          "Believing justice calls in vain"
+        ],
+        [
+          null,
+          "Their hearts are stone, their words are thorns"
+        ],
+        [
+          null,
+          "While innocence in silence mourns"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The proud declare,"
+        ],
+        [
+          null,
+          "\"No God exists\""
+        ],
+        [
+          null,
+          "Their schemes like poison in their fists"
+        ],
+        [
+          null,
+          "But You see all, You mark each deed"
+        ],
+        [
+          null,
+          "And hear the cries of those in need"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Rise up, O Lord, lift up Your hand"
+        ],
+        [
+          null,
+          "Remember those throughout the land"
+        ],
+        [
+          null,
+          "Who cry for hope in bitter night"
+        ],
+        [
+          null,
+          "Their trust in You their only light"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "The proud declare,"
+        ],
+        [
+          null,
+          "\"No God exists\""
+        ],
+        [
+          null,
+          "Their schemes like poison in their fists"
+        ],
+        [
+          null,
+          "But You see all, You mark each deed"
+        ],
+        [
+          null,
+          "And hear the cries of those in need"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Break now the arm of wickedness"
+        ],
+        [
+          null,
+          "Defend the orphan in distress"
+        ],
+        [
+          null,
+          "Until no mortal dares to stand"
+        ],
+        [
+          null,
+          "Against the justice of Your hand"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "For You are King through endless days"
+        ],
+        [
+          null,
+          "The nations fade before Your gaze"
+        ],
+        [
+          null,
+          "The humble find their strength renewed"
+        ],
+        [
+          null,
+          "Their hearts with courage are endued"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "The proud declare,"
+        ],
+        [
+          null,
+          "\"No God exists\""
+        ],
+        [
+          null,
+          "Their schemes like poison in their fists"
+        ],
+        [
+          null,
+          "But You see all, You mark each deed"
+        ],
+        [
+          null,
+          "And hear the cries of those in need"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "O Lord our Rock, our Shield, our Tower"
+        ],
+        [
+          null,
+          "Now is the day, now is the hour"
+        ],
+        [
+          null,
+          "To show Your might, to make things right"
+        ],
+        [
+          null,
+          "And lead us from our darkest night"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "The wicked in his pride doth persecute the poor",
+  "epigraphRef": "Psalm 10:2",
+  "lyricEyebrow": "From the Psalms"
 }

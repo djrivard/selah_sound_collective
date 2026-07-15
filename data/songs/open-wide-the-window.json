@@ -26,12 +26,7 @@
         [
           null,
           "But I am stronger on my knees."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Even as the silence tightens,"
@@ -47,12 +42,7 @@
         [
           null,
           "Still my spirit overflows."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Open wide the window, let the wild winds in,"
@@ -63,17 +53,16 @@
         ],
         [
           null,
-          "Though the world may threaten, though the darkness tries to reign,"
+          "Though the world may threaten,"
+        ],
+        [
+          null,
+          "though the darkness tries to reign,"
         ],
         [
           null,
           "I will sing forever, I will glorify His name."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "Iron words cannot contain,"
@@ -89,12 +78,7 @@
         [
           null,
           "Every chain is ash and more."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 3",
-      "lines": [
+        ],
         [
           null,
           "The night may howl with bitter breath,"
@@ -110,12 +94,7 @@
         [
           null,
           "A fearless song no storm can take."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Lift the veil, reveal the dawn,"
@@ -131,12 +110,7 @@
         [
           null,
           "Held by love that cannot change."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Open wide the window, let the wild winds see,"
@@ -147,17 +121,16 @@
         ],
         [
           null,
-          "Though the storm surrounds me, though the shadows take their aim,"
+          "Though the storm surrounds me,"
+        ],
+        [
+          null,
+          "though the shadows take their aim,"
         ],
         [
           null,
           "Still my voice is rising, I will glorify His name."
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "Open wide the window…"

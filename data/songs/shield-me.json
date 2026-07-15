@@ -1,12 +1,205 @@
 {
   "slug": "shield-me",
   "title": "Shield Me",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 17",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "shield-me.jpg",
+  "audio": "shield-me.mp3",
   "spotify": "https://open.spotify.com/track/3Bpe7oUoJoBJ6ddFX5yZtR",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2738d875462e16291d02aaa0e90"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Hear my cry in the darkness"
+        ],
+        [
+          null,
+          "Listen to my unadorned prayer"
+        ],
+        [
+          null,
+          "Let truth flow from trembling lips"
+        ],
+        [
+          null,
+          "No deceit lives there"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Search my heart in the midnight hour"
+        ],
+        [
+          null,
+          "Test me in the crucible of dawn"
+        ],
+        [
+          null,
+          "What you'll find are wounds and whispers"
+        ],
+        [
+          null,
+          "But no malice drawn"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Shield me beneath your mighty wings"
+        ],
+        [
+          null,
+          "As shadows lengthen all around"
+        ],
+        [
+          null,
+          "Like a precious stone within your palm"
+        ],
+        [
+          null,
+          "Let grace abound"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "They circle like wolves in winter"
+        ],
+        [
+          null,
+          "Their hearts grown cold as stone"
+        ],
+        [
+          null,
+          "Their mouths speak of golden fortunes"
+        ],
+        [
+          null,
+          "While their eyes throne"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Shield me beneath your mighty wings"
+        ],
+        [
+          null,
+          "As shadows lengthen all around"
+        ],
+        [
+          null,
+          "Like a precious stone within your palm"
+        ],
+        [
+          null,
+          "Let grace abound"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "But I—I shall behold your face"
+        ],
+        [
+          null,
+          "When morning breaks the night"
+        ],
+        [
+          null,
+          "In righteousness,"
+        ],
+        [
+          null,
+          "I'll wake transformed Bathed in your light"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "All my paths are in your keeping"
+        ],
+        [
+          null,
+          "Though enemies surround my way"
+        ],
+        [
+          null,
+          "Like a child beneath your shelter"
+        ],
+        [
+          null,
+          "Here I'll stay"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Shield me beneath your mighty wings"
+        ],
+        [
+          null,
+          "As shadows lengthen all around"
+        ],
+        [
+          null,
+          "Like a precious stone within your palm"
+        ],
+        [
+          null,
+          "Let grace abound"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "When at last your glory rises"
+        ],
+        [
+          null,
+          "And all that's hidden comes to light"
+        ],
+        [
+          null,
+          "I shall be content, beloved"
+        ],
+        [
+          null,
+          "In your sight"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "that goeth not out of feigned lips",
+  "epigraphRef": "Psalm 17:1",
+  "lyricEyebrow": "From the Psalms"
 }

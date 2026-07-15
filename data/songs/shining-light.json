@@ -1,12 +1,142 @@
 {
   "slug": "shining-light",
   "title": "Shining Light",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 16",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "shining-light.jpg",
+  "audio": "shining-light.mp3",
   "spotify": "https://open.spotify.com/track/2XntekR1ZkTIwhqsckIuq5",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f9b77823595b4d59943713d6"
+  "sections": [
+    {
+      "label": "Lyrics",
+      "lines": [
+        [
+          null,
+          "You are my safe place where I run free"
+        ],
+        [
+          null,
+          "In Your hands I’ve found the key"
+        ],
+        [
+          null,
+          "Every step I take You guide me true"
+        ],
+        [
+          null,
+          "In Your light I’m born anew"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "I won’t chase idols"
+        ],
+        [
+          null,
+          "I won’t bow Your love is my treasure now"
+        ],
+        [
+          null,
+          "In my heart Your counsel stays"
+        ],
+        [
+          null,
+          "Guiding me through all my days"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Joy fills my soul with endless springs"
+        ],
+        [
+          null,
+          "In Your presence freedom sings"
+        ],
+        [
+          null,
+          "You’ve shown me paths of life divine"
+        ],
+        [
+          null,
+          "At Your right hand pleasures shine"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "My heart is glad my spirit soars"
+        ],
+        [
+          null,
+          "In Your grace my soul implores"
+        ],
+        [
+          null,
+          "Even in the night I hear Your voice"
+        ],
+        [
+          null,
+          "With You beside me I rejoice"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Joy fills my soul with endless springs"
+        ],
+        [
+          null,
+          "In Your presence freedom sings"
+        ],
+        [
+          null,
+          "You’ve shown me paths of life divine"
+        ],
+        [
+          null,
+          "At Your right hand pleasures shine"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "No fear shall shake me no grave confound"
+        ],
+        [
+          null,
+          "In Your embrace I’m safe and sound"
+        ],
+        [
+          null,
+          "Eternal pleasures Your love designs"
+        ],
+        [
+          null,
+          "In You forever I’ll be aligned"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "at thy right hand there are pleasures for evermore",
+  "epigraphRef": "Psalm 16:11",
+  "lyricEyebrow": "From the Psalms"
 }

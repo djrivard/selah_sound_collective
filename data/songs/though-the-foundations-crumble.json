@@ -1,12 +1,190 @@
 {
   "slug": "though-the-foundations-crumble",
   "title": "Though the Foundations Crumble",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 11",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "though-the-foundations-crumble.jpg",
+  "audio": "though-the-foundations-crumble.mp3",
   "spotify": "https://open.spotify.com/track/0S6WneFuigsDt7Cm4EYdoj",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2736c1417e4351a850d89f26ad1"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "When darkness gathers like a storm"
+        ],
+        [
+          null,
+          "And wisdom whispers \"Flee like birds\""
+        ],
+        [
+          null,
+          "My spirit finds its ancient home"
+        ],
+        [
+          null,
+          "In truths that shake but cannot be unheard"
+        ],
+        [
+          null,
+          "For You remain enthroned above"
+        ],
+        [
+          null,
+          "Your eyes pierce through the deepest night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let foundations crumble into dust"
+        ],
+        [
+          null,
+          "Still my heart will choose to trust"
+        ],
+        [
+          null,
+          "Though arrows fly and mountains fall"
+        ],
+        [
+          null,
+          "You remain my all in all"
+        ],
+        [
+          null,
+          "In the shadow of Your wings"
+        ],
+        [
+          null,
+          "I find my refuge as I sing"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From heaven's heights You bend to see"
+        ],
+        [
+          null,
+          "Each heart that beats, each tear that falls"
+        ],
+        [
+          null,
+          "Your justice flows like endless streams"
+        ],
+        [
+          null,
+          "Your mercy echoes through these walls"
+        ],
+        [
+          null,
+          "The righteous walk through trials of fire"
+        ],
+        [
+          null,
+          "Yet emerge with faces bright as dawn"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Let foundations crumble into dust"
+        ],
+        [
+          null,
+          "Still my heart will choose to trust"
+        ],
+        [
+          null,
+          "Though arrows fly and mountains fall"
+        ],
+        [
+          null,
+          "You remain my all in all"
+        ],
+        [
+          null,
+          "In the shadow of Your wings"
+        ],
+        [
+          null,
+          "I find my refuge as I sing"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Test me, Lord, and try my heart"
+        ],
+        [
+          null,
+          "Strip away what keeps us apart"
+        ],
+        [
+          null,
+          "Though the wicked bend their bow"
+        ],
+        [
+          null,
+          "Your truth is all I need to know"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Let foundations crumble into dust"
+        ],
+        [
+          null,
+          "Still my heart will choose to trust"
+        ],
+        [
+          null,
+          "Though arrows fly and mountains fall"
+        ],
+        [
+          null,
+          "You remain my all in all"
+        ],
+        [
+          null,
+          "In the shadow of Your wings"
+        ],
+        [
+          null,
+          "I find my peace, my hope, my spring"
+        ],
+        [
+          null,
+          "In the shadow of Your wings"
+        ],
+        [
+          null,
+          "I find my refuge as I sing"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "what can the righteous do?",
+  "epigraphRef": "Psalm 11:3",
+  "lyricEyebrow": "From the Psalms"
 }

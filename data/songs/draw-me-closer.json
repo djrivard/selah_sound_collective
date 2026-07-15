@@ -1,12 +1,258 @@
 {
   "slug": "draw-me-closer",
   "title": "Draw Me Closer",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 25",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "draw-me-closer.jpg",
+  "audio": "draw-me-closer.mp3",
   "spotify": "https://open.spotify.com/track/58ujZnDwHYqI8tt6VljoVn",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730877a82d895360d66f39c2c9"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "To You I lift my weary soul"
+        ],
+        [
+          null,
+          "Through darkest nights and deepest cold"
+        ],
+        [
+          null,
+          "My trust in You will never fade"
+        ],
+        [
+          null,
+          "Though enemies would see me break"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Show me Your ways, O Lord divine"
+        ],
+        [
+          null,
+          "Guide my feet, make Your paths mine"
+        ],
+        [
+          null,
+          "Teach me truth with gentle hand"
+        ],
+        [
+          null,
+          "For You're the God who helps me stand"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Remember me in mercy, Lord"
+        ],
+        [
+          null,
+          "Let Your love be my reward"
+        ],
+        [
+          null,
+          "Forget the sins of younger days"
+        ],
+        [
+          null,
+          "Draw me closer to Your grace"
+        ],
+        [
+          null,
+          "Draw me closer to Your face"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Good and upright is Your way"
+        ],
+        [
+          null,
+          "Teaching sinners day by day"
+        ],
+        [
+          null,
+          "Leading humble hearts to light"
+        ],
+        [
+          null,
+          "Showing wrong from what is right"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Every path You walk is true"
+        ],
+        [
+          null,
+          "Covenant love in morning dew"
+        ],
+        [
+          null,
+          "For those who keep Your sacred ways"
+        ],
+        [
+          null,
+          "Finding shelter all their days"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Remember me in mercy, Lord"
+        ],
+        [
+          null,
+          "Let Your love be my reward"
+        ],
+        [
+          null,
+          "Forget the sins of younger days"
+        ],
+        [
+          null,
+          "Draw me closer to Your grace"
+        ],
+        [
+          null,
+          "Draw me closer to Your face"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 5",
+      "lines": [
+        [
+          null,
+          "My eyes are ever on Your face"
+        ],
+        [
+          null,
+          "Through trials deep and moments frail"
+        ],
+        [
+          null,
+          "Release my feet from tangled snares"
+        ],
+        [
+          null,
+          "Turn to me and ease my cares"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Lonely am I, poor in spirit"
+        ],
+        [
+          null,
+          "Guard my soul, let me inherit"
+        ],
+        [
+          null,
+          "Promise sweet and burden light"
+        ],
+        [
+          null,
+          "Lead me through the endless night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Remember me in mercy, Lord"
+        ],
+        [
+          null,
+          "Let Your love be my reward"
+        ],
+        [
+          null,
+          "Forget the sins of younger days"
+        ],
+        [
+          null,
+          "Draw me closer to Your grace"
+        ],
+        [
+          null,
+          "Draw me closer to Your face"
+        ],
+        [
+          null,
+          "In You I place my refuge sure"
+        ],
+        [
+          null,
+          "Let integrity and truth endure"
+        ],
+        [
+          null,
+          "Redeem Your people, set us free"
+        ],
+        [
+          null,
+          "For all our hope, O God, in Thee"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Remember me in mercy, Lord"
+        ],
+        [
+          null,
+          "Let Your love be my reward"
+        ],
+        [
+          null,
+          "Forget the sins of younger days"
+        ],
+        [
+          null,
+          "Draw me closer to Your grace"
+        ],
+        [
+          null,
+          "Draw me closer to Your face"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "let not mine enemies triumph over me",
+  "epigraphRef": "Psalm 25:2",
+  "lyricEyebrow": "From the Psalms"
 }

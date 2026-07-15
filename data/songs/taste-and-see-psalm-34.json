@@ -9,17 +9,20 @@
   "spotify": "https://open.spotify.com/track/4b7Ys1bmeJAxgZeZpOMgsV",
   "sections": [
     {
-      "label": "Intro",
+      "label": "Lyrics",
       "lines": [
         [
           null,
-          "(Spoken softly) \"Come, all who seek shelter, and hear the song of the redeemed.\""
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
-      "lines": [
+          "(Spoken softly)"
+        ],
+        [
+          null,
+          "\"Come, all who seek shelter,"
+        ],
+        [
+          null,
+          "and hear the song of the redeemed.\""
+        ],
         [
           null,
           "I will bless the Lord at all times,"
@@ -35,12 +38,7 @@
         [
           null,
           "Come magnify Him, lift your voice."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Taste and see that the Lord is good,"
@@ -56,12 +54,7 @@
         [
           null,
           "The broken hearts, He will enthrall."
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "The righteous cry, and He will hear,"
@@ -77,12 +70,7 @@
         [
           null,
           "He saves the weary, mends the scarred."
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Come, children, gather, learn His ways,"
@@ -98,12 +86,7 @@
         [
           null,
           "His eyes watch over, day and night."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "Taste and see that the Lord is good,"
@@ -119,15 +102,14 @@
         [
           null,
           "The broken hearts, He will enthrall."
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
-          "(Spoken softly) \"Blessed are those who find their refuge in Him.\""
+          "(Spoken softly)"
+        ],
+        [
+          null,
+          "\"Blessed are those who find their refuge in Him.\""
         ]
       ]
     }

@@ -1,12 +1,145 @@
 {
   "slug": "in-this-shadowland",
   "title": "In This Shadowland",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 12",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "in-this-shadowland.jpg",
+  "audio": "in-this-shadowland.mp3",
   "spotify": "https://open.spotify.com/track/5OeCVVRzDqe7E3nIZnE4D9",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273efd5aeae33c6cea9107d6f87"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Save me, for goodness fades like morning dew"
+        ],
+        [
+          null,
+          "The faithful vanish from this world of pain"
+        ],
+        [
+          null,
+          "In streets where lies cascade like endless rain"
+        ],
+        [
+          null,
+          "And truth has bid its final, soft adieu"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are the pure hearts in this shadowland?"
+        ],
+        [
+          null,
+          "When silver tongues speak poison sweet as wine"
+        ],
+        [
+          null,
+          "Who stands against the darkness of our time?"
+        ],
+        [
+          null,
+          "As hope slips through our fingers like dry sand"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "They wear their masks of flattering deceit"
+        ],
+        [
+          null,
+          "With honeyed words that hide their hearts of stone"
+        ],
+        [
+          null,
+          "While those who suffer cry out all alone"
+        ],
+        [
+          null,
+          "And justice stumbles, broken, in the street"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "But in the depths of night"
+        ],
+        [
+          null,
+          "A whisper cuts through fear"
+        ],
+        [
+          null,
+          "Ancient promises ring clear"
+        ],
+        [
+          null,
+          "Like stars that pierce the night"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Where are the pure hearts in this shadowland?"
+        ],
+        [
+          null,
+          "When silver tongues speak poison sweet as wine"
+        ],
+        [
+          null,
+          "Who stands against the darkness of our time?"
+        ],
+        [
+          null,
+          "As hope slips through our fingers like dry sand"
+        ],
+        [
+          null,
+          "Though evil stalks the corners of our days"
+        ],
+        [
+          null,
+          "And virtue seems a dream we can't recall"
+        ],
+        [
+          null,
+          "Your truth remains, a fortress through it all"
+        ],
+        [
+          null,
+          "A light that darkness cannot wash away"
+        ],
+        [
+          null,
+          "When faith grows dim and shadows gather near"
+        ],
+        [
+          null,
+          "Your words endure, a flame that burns so clear"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "with flattering lips and with a double heart do they speak",
+  "epigraphRef": "Psalm 12:2",
+  "lyricEyebrow": "From the Psalms"
 }

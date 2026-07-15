@@ -1,12 +1,142 @@
 {
   "slug": "your-majesty-knows-no-bounds",
   "title": "Your Majesty Knows No Bounds",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 8",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "your-majesty-knows-no-bounds.jpg",
+  "audio": "your-majesty-knows-no-bounds.mp3",
   "spotify": "https://open.spotify.com/track/2fwXfHXqD2dpduBwtVcJpX",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730df75ad84eedf04a47a1b3f9"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "O Sovereign of All, Your name echoes"
+        ],
+        [
+          null,
+          "Across endless seas and mountain peaks"
+        ],
+        [
+          null,
+          "From stardust to earthen valleys below"
+        ],
+        [
+          null,
+          "Your majesty in whispers speaks"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "What is man among Your grand design?"
+        ],
+        [
+          null,
+          "Mere breath among infinite stars that shine"
+        ],
+        [
+          null,
+          "Yet You crown us with glory divine"
+        ],
+        [
+          null,
+          "And set our feet on paths sublime"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From children's laughter pure and clear"
+        ],
+        [
+          null,
+          "Rises strength that stills the storm"
+        ],
+        [
+          null,
+          "While constellations bend to hear"
+        ],
+        [
+          null,
+          "As ancient wisdom takes new form"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Commander of the cosmic dance"
+        ],
+        [
+          null,
+          "Creator of the morning light"
+        ],
+        [
+          null,
+          "You place the moon in midnight's trance"
+        ],
+        [
+          null,
+          "And guide the eagles in their flight"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Over flocks in emerald fields"
+        ],
+        [
+          null,
+          "Past dolphins in their ocean home"
+        ],
+        [
+          null,
+          "Through every creature that You shield"
+        ],
+        [
+          null,
+          "Your wonder makes itself known"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "O Sovereign of All, Your name resounds"
+        ],
+        [
+          null,
+          "From deepest sea to highest crown"
+        ],
+        [
+          null,
+          "In every heartbeat You are found"
+        ],
+        [
+          null,
+          "Your majesty knows no bounds"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "how excellent is thy name in all the earth! who hast set thy glory above",
+  "epigraphRef": "Psalm 8:1",
+  "lyricEyebrow": "From the Psalms"
 }

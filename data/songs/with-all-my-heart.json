@@ -1,12 +1,146 @@
 {
   "slug": "with-all-my-heart",
   "title": "With All My Heart",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 9",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "with-all-my-heart.jpg",
+  "audio": "with-all-my-heart.mp3",
   "spotify": "https://open.spotify.com/track/5GqNhtFbwVEkZLBggX7i8X",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2735b8debe0b4bd0f50707da8c7"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "With all my heart,"
+        ],
+        [
+          null,
+          "I raise my voice"
+        ],
+        [
+          null,
+          "To tell of wonders, to rejoice"
+        ],
+        [
+          null,
+          "Each marvel that Your hands have made"
+        ],
+        [
+          null,
+          "Your wisdom's depth, Your plans displayed"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "When darkness falls, my foes retreat"
+        ],
+        [
+          null,
+          "Before Your throne, they face defeat"
+        ],
+        [
+          null,
+          "Their names like whispers fade away"
+        ],
+        [
+          null,
+          "While truth and justice hold their sway"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You reign forever on Your throne"
+        ],
+        [
+          null,
+          "Your judgments make Your wisdom known"
+        ],
+        [
+          null,
+          "A shelter for the weak to hide"
+        ],
+        [
+          null,
+          "A fortress where the poor reside"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Those seeking You will find Your grace"
+        ],
+        [
+          null,
+          "Your love surrounds this sacred space"
+        ],
+        [
+          null,
+          "You never turn away the lost"
+        ],
+        [
+          null,
+          "Who call Your name at any cost"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Let nations tremble, let them know"
+        ],
+        [
+          null,
+          "That they are mortal here below"
+        ],
+        [
+          null,
+          "While You, eternal, guide our way"
+        ],
+        [
+          null,
+          "Through endless night to endless day"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "For You remember every tear"
+        ],
+        [
+          null,
+          "Each cry for justice You will hear"
+        ],
+        [
+          null,
+          "The hope of ages yet to come"
+        ],
+        [
+          null,
+          "In You, our refuge, we are one"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "with my whole heart",
+  "epigraphRef": "Psalm 9:1",
+  "lyricEyebrow": "From the Psalms"
 }

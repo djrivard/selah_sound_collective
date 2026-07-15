@@ -1,12 +1,142 @@
 {
   "slug": "silent-symphony",
   "title": "Silent Symphony",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 19",
   "book": "Psalms",
-  "cover": "_coming-soon.jpg",
-  "audio": "",
+  "cover": "silent-symphony.jpg",
+  "audio": "silent-symphony.mp3",
   "spotify": "https://open.spotify.com/track/1niV0qKGro4ftMtw8EYSmx",
-  "sections": [],
-  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27341b6b4e7629aee2e7d076546"
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The heavens sing their silent song"
+        ],
+        [
+          null,
+          "Through starlit symphonies so strong"
+        ],
+        [
+          null,
+          "Each dawn declares a story new"
+        ],
+        [
+          null,
+          "As glory paints the morning dew"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Creation speaks without a sound"
+        ],
+        [
+          null,
+          "Your wisdom echoes all around"
+        ],
+        [
+          null,
+          "From east to west, from earth to sky"
+        ],
+        [
+          null,
+          "Your beauty makes the spirit fly"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Perfect law that guides our way"
+        ],
+        [
+          null,
+          "Like golden light in breaking day"
+        ],
+        [
+          null,
+          "Your truth refreshes weary souls"
+        ],
+        [
+          null,
+          "Your wisdom makes the broken whole"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "More precious than the finest gold"
+        ],
+        [
+          null,
+          "More sweet than honey, new or old"
+        ],
+        [
+          null,
+          "Your words are life, Your truth divine"
+        ],
+        [
+          null,
+          "Let every heartbeat fall in line"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Cleanse my heart of hidden ways"
+        ],
+        [
+          null,
+          "Let truth illuminate my days"
+        ],
+        [
+          null,
+          "May all my words and thoughts align"
+        ],
+        [
+          null,
+          "With Your design, Your grand design"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "Creation speaks without a sound"
+        ],
+        [
+          null,
+          "Your wisdom echoes all around"
+        ],
+        [
+          null,
+          "My Rock, Redeemer, guiding light"
+        ],
+        [
+          null,
+          "Lead me from dawn through darkest night"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "epigraph": "The law of the LORD is perfect",
+  "epigraphRef": "Psalm 19:7",
+  "lyricEyebrow": "From the Psalms"
 }

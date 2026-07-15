@@ -14,12 +14,7 @@
         [
           null,
           "Until It Wasn’t"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 1",
-      "lines": [
+        ],
         [
           null,
           "The door clicks shut behind me"
@@ -51,12 +46,7 @@
         [
           null,
           "Just before the next word"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "I have a message from God for you"
@@ -72,12 +62,7 @@
         [
           null,
           "The wrong hand carries the word"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
+        ],
         [
           null,
           "Two edges, a cubit long"
@@ -85,10 +70,15 @@
         [
           null,
           "Sleeping on the wrong-side thigh"
-        ],
+        ]
+      ]
+    },
+    {
+      "label": "Whispered",
+      "lines": [
         [
           null,
-          "[Whispered] \"A secret for the king\""
+          "\"A secret for the king\""
         ],
         [
           null,
@@ -109,12 +99,7 @@
         [
           null,
           "He rose"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "I have a message from God for you"
@@ -130,12 +115,7 @@
         [
           null,
           "The wrong hand carries the word"
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
+        ],
         [
           null,
           "Eighteen years of carrying their silver"
@@ -167,12 +147,7 @@
         [
           null,
           "Until it wasn't"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
           "I have a message from God for you"
@@ -188,12 +163,7 @@
         [
           null,
           "The wrong hand carries the word"
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
+        ],
         [
           null,
           "The doors lock behind me"

@@ -9,7 +9,7 @@
   "spotify": "https://open.spotify.com/track/0v47QoIaItRMpffJtWrbql",
   "sections": [
     {
-      "label": "Verse 1",
+      "label": "Lyrics",
       "lines": [
         [
           null,
@@ -33,17 +33,16 @@
         ],
         [
           null,
-          "They came from dust and distant shores, to hear the words I’d speak"
+          "They came from dust and distant shores,"
+        ],
+        [
+          null,
+          "to hear the words I’d speak"
         ],
         [
           null,
           "Believing in the answers that a mortal tongue could seek"
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Building slightly, drums enter softly, reverb-heavy)"
@@ -63,15 +62,6 @@
         [
           null,
           "But even oceans deep can’t fill the space where spirits grow"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
-        [
-          null,
-          "Powerful, harmonized, full band swells, shimmering textures, dynamic crescendo. This is the most memorable part.)"
         ],
         [
           null,
@@ -79,7 +69,11 @@
         ],
         [
           null,
-          "More than the power, more than the dream, reflected in our eyes"
+          "More than the power, more than"
+        ],
+        [
+          null,
+          "the dream, reflected in our eyes"
         ],
         [
           null,
@@ -88,23 +82,22 @@
         [
           null,
           "The echo of a love that lasts, a truly grand design!"
-        ]
-      ]
-    },
-    {
-      "label": "Verse 2",
-      "lines": [
-        [
-          null,
-          "Vocals still powerful but with a touch of introspection, piano prominent)"
         ],
         [
           null,
-          "I walked through gardens, gold-paved ways, with pleasure as my guide"
+          "I walked through gardens, gold-paved ways,"
         ],
         [
           null,
-          "Drank deep from every fleeting joy, with nothing left to hide"
+          "with pleasure as my guide"
+        ],
+        [
+          null,
+          "Drank deep from every fleeting joy,"
+        ],
+        [
+          null,
+          "with nothing left to hide"
         ],
         [
           null,
@@ -121,12 +114,7 @@
         [
           null,
           "Could never match the simple grace of dawn dispelling night."
-        ]
-      ]
-    },
-    {
-      "label": "Pre-Chorus",
-      "lines": [
+        ],
         [
           null,
           "Building again, layered harmonies start to weave in)"
@@ -137,24 +125,27 @@
         ],
         [
           null,
-          "Collecting moments, fleeting fast, where does the soul begin?"
+          "Collecting moments, fleeting fast,"
         ],
         [
           null,
-          "My heart, a restless wanderer, through all that glitters bold"
+          "where does the soul begin?"
         ],
         [
           null,
-          "Searching for a story that could never quite be told... by gold."
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+          "My heart, a restless wanderer,"
+        ],
         [
           null,
-          "Even more powerful, soaring vocals, full singalong moment, drums driving)"
+          "through all that glitters bold"
+        ],
+        [
+          null,
+          "Searching for a story that could"
+        ],
+        [
+          null,
+          "never quite be told... by gold."
         ],
         [
           null,
@@ -162,7 +153,11 @@
         ],
         [
           null,
-          "More than the power, more than the dream, reflected in our eyes"
+          "More than the power, more than"
+        ],
+        [
+          null,
+          "the dream, reflected in our eyes"
         ],
         [
           null,
@@ -171,19 +166,14 @@
         [
           null,
           "The echo of a love that lasts, a truly grand design!"
-        ]
-      ]
-    },
-    {
-      "label": "Bridge",
-      "lines": [
-        [
-          null,
-          "Dynamics pull back slightly, then swell massively. Ambient guitars, then drums re-enter with force. Layered, ethereal vocals before a powerful lead vocal pushes through.)"
         ],
         [
           null,
-          "Like chasing wind, these earthly crowns, they fade like fading stars"
+          "Like chasing wind, these earthly crowns,"
+        ],
+        [
+          null,
+          "they fade like fading stars"
         ],
         [
           null,
@@ -199,20 +189,23 @@
         ],
         [
           null,
-          "Not in the castles built on sand, but in the heart that’s free,"
+          "Not in the castles built on sand,"
+        ],
+        [
+          null,
+          "but in the heart that’s free,"
         ],
         [
           null,
           "To reach for an eternal hand, for all eternity!"
-        ]
-      ]
-    },
-    {
-      "label": "Chorus",
-      "lines": [
+        ],
         [
           null,
-          "Fullest and most anthemic, everyone singing, ad-libs, massive reverb)"
+          "Fullest and most anthemic,"
+        ],
+        [
+          null,
+          "everyone singing, ad-libs, massive reverb)"
         ],
         [
           null,
@@ -220,7 +213,11 @@
         ],
         [
           null,
-          "More than the power, more than the dream, reflected in our eyes"
+          "More than the power, more than"
+        ],
+        [
+          null,
+          "the dream, reflected in our eyes"
         ],
         [
           null,
@@ -229,15 +226,6 @@
         [
           null,
           "The echo of a love that lasts, a truly grand design!"
-        ]
-      ]
-    },
-    {
-      "label": "Outro",
-      "lines": [
-        [
-          null,
-          "Fades out slowly with shimmering piano arpeggios, ambient guitar swells, lingering vocal harmonies (\"a grand design... echoes in eternity... more than gold...\"). Drums become spacious and fade.)"
         ],
         [
           null,

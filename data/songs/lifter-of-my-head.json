@@ -1,10 +1,138 @@
 {
   "slug": "lifter-of-my-head",
   "title": "Lifter of My Head",
-  "status": "coming-soon",
+  "status": "published",
   "scripture": "Psalm 3",
   "book": "Psalms",
   "cover": "lifter-of-my-head.jpg",
   "spotify": "https://open.spotify.com/track/3rO69uE4U4q5p63LEwm7dY",
-  "sections": []
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "How they rise against me, Lord"
+        ],
+        [
+          null,
+          "Like shadows in the night"
+        ],
+        [
+          null,
+          "A thousand voices whisper doubt"
+        ],
+        [
+          null,
+          "Yet You remain my light"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "You are my shield, my glory now"
+        ],
+        [
+          null,
+          "The lifter of my head"
+        ],
+        [
+          null,
+          "Though armies gather all around"
+        ],
+        [
+          null,
+          "I'll rest upon my bed"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "From mountain heights"
+        ],
+        [
+          null,
+          "I cry to You Your answer echoes clear"
+        ],
+        [
+          null,
+          "Through darkest valleys, deepest pain"
+        ],
+        [
+          null,
+          "I know that You are near"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Arise, O Lord, and save me now"
+        ],
+        [
+          null,
+          "Break chains that bind and scar"
+        ],
+        [
+          null,
+          "For in Your hands deliverance flows"
+        ],
+        [
+          null,
+          "Like light from morning star"
+        ]
+      ]
+    },
+    {
+      "label": "Final Chorus",
+      "lines": [
+        [
+          null,
+          "You are my shield, my victory"
+        ],
+        [
+          null,
+          "Salvation's holy crown"
+        ],
+        [
+          null,
+          "Though thousands rise on every side"
+        ],
+        [
+          null,
+          "You'll never let me down"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Blessed be Your name forever,"
+        ],
+        [
+          null,
+          "Lord Your mercy sets me free"
+        ],
+        [
+          null,
+          "From generation unto time You save and shelter me"
+        ]
+      ]
+    }
+  ],
+  "lyricsInferred": true,
+  "audio": "lifter-of-my-head.mp3",
+  "epigraph": "and the lifter up of mine head",
+  "epigraphRef": "Psalm 3:3",
+  "lyricEyebrow": "From the Psalms"
 }
