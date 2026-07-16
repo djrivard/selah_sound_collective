@@ -78,6 +78,10 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra="", og_ty
     if canonical:
         bits.append(f'<meta property="og:url" content="{esc(canonical)}">')
         bits.append(f'<link rel="canonical" href="{esc(canonical)}">')
+    # Google Analytics (gtag.js)
+    bits.append('<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXR5J1NDZB"></script>'
+                '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+                "gtag('js',new Date());gtag('config','G-HXR5J1NDZB');</script>")
     bits.append(f'<meta property="og:site_name" content="{esc(site["siteName"])}">')
     bits.append('<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">')
     bits.append('<meta name="twitter:card" content="summary_large_image">')
