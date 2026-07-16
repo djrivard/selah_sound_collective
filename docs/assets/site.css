@@ -237,6 +237,8 @@
 
 /* ---------- HOME HERO ---------- */
 .home-hero{position:relative;max-width:680px;margin:0 auto;padding:clamp(72px,10vh,92px) clamp(16px,4vw,28px) 0}
+@media(min-width:900px){.home-hero{max-width:900px}}
+@media(min-width:1400px){.home-hero{max-width:1000px}}
 .home-hero .frame{position:relative;overflow:hidden;border:1.5px solid rgba(201,164,70,.45);box-shadow:0 30px 80px rgba(0,0,0,.55)}
 .home-hero img{display:block;width:100%;height:auto}
 .home-hero__fade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(24,20,16,.22) 0%,rgba(24,20,16,0) 30%,rgba(24,20,16,0) 78%,rgba(24,20,16,.5) 100%);pointer-events:none}
@@ -296,10 +298,12 @@
 .card-sp svg{width:12px;height:12px;fill:#1DB954;flex:none}
 .song-card.soon:hover .card-sp{color:var(--gold-br)}
 
-.home-intro{max-width:64ch;margin:0 auto;padding:clamp(28px,5vw,44px) 20px 0;text-align:center}
-.home-intro p{color:var(--cream-d);font-size:clamp(1.02rem,1.7vw,1.16rem);line-height:1.75;margin:0 0 1.05rem}
-.home-intro .lead{color:var(--cream);font-size:clamp(1.1rem,2vw,1.3rem)}
+.home-intro{max-width:58ch;margin:0 auto;padding:clamp(28px,5vw,44px) 20px 0;text-align:center}
+/* one size for every line; the lead is set apart by colour, not scale */
+.home-intro p{color:var(--cream-d);font-size:clamp(1.04rem,1.5vw,1.17rem);line-height:1.72;margin:0 0 1.05rem;
+  text-wrap:balance;text-align:center;hyphens:none}
+.home-intro .lead{color:var(--cream)}
 .home-intro .lead em{font-style:italic;color:var(--gold-br)}
 .home-intro .start{color:var(--cream-dd)}
 .home-intro .rule{width:46px;height:1px;background:var(--gold);margin:clamp(20px,3vw,28px) auto 0;opacity:.7}
-@media(max-width:640px){.home-intro{text-align:left}.home-intro .rule{margin-left:auto;margin-right:auto}}
+@media(max-width:640px){.home-intro p{text-align:left;text-wrap:pretty}.home-intro .rule{margin-left:auto;margin-right:auto}}
