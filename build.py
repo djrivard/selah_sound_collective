@@ -14,6 +14,7 @@ Writes a complete static site to:
 Add a song = drop a new <slug>.json in data/songs/ (+ its cover and audio),
 then run:  python3 build.py
 """
+import datetime
 import json, shutil, pathlib, html, hashlib, re
 
 _VER = {}
@@ -58,7 +59,7 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
-def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
+def head(site, title, desc, root, og_image=None, canonical=None, extra="", og_type="website", jsonld=None):
     og = og_image or site.get("ogImage", "")
     if og and not og.startswith("http"):
         base = site.get("baseUrl", "").rstrip("/")
@@ -68,7 +69,7 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
         '<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">',
         f"<title>{esc(title)}</title>",
         f'<meta name="description" content="{esc(desc)}">',
-        '<meta property="og:type" content="website">',
+        f'<meta property="og:type" content="{og_type}">',
         f'<meta property="og:title" content="{esc(title)}">',
         f'<meta property="og:description" content="{esc(desc)}">',
     ]
@@ -77,8 +78,11 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
     if canonical:
         bits.append(f'<meta property="og:url" content="{esc(canonical)}">')
         bits.append(f'<link rel="canonical" href="{esc(canonical)}">')
+    bits.append(f'<meta property="og:site_name" content="{esc(site["siteName"])}">')
+    bits.append('<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">')
     bits.append('<meta name="twitter:card" content="summary_large_image">')
     bits.append(f'<meta name="twitter:title" content="{esc(title)}">')
+    bits.append(f'<meta name="twitter:description" content="{esc(desc)}">')
     if og:
         bits.append(f'<meta name="twitter:image" content="{esc(og)}">')
     bits.append(FONTS)
@@ -86,6 +90,10 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra=""):
     bits.append(f'<link rel="icon" type="image/png" sizes="32x32" href="{vurl(root, "assets/favicon-32.png")}">')
     bits.append(f'<link rel="apple-touch-icon" href="{vurl(root, "assets/apple-touch-icon.png")}">')
     bits.append(f'<link rel="stylesheet" href="{vurl(root, "assets/site.css")}">')
+    if jsonld:
+        bits.append('<script type="application/ld+json">'
+                    + json.dumps(jsonld, ensure_ascii=False, separators=(",", ":"))
+                    + '</script>')
     bits.append(extra)
     bits.append("</head>")
     return "".join(bits)
@@ -140,6 +148,61 @@ def column_html(sections):
     return "\n".join(out)
 
 
+
+def song_seo(site, song, canonical):
+    """A distinct title, description and MusicRecording record for each song.
+
+    Every page previously shared one description, which search engines treat as
+    duplicate content and which wastes the strongest ranking signal a song page
+    has: the passage it is drawn from. People search "psalm 23 song".
+    """
+    base = site.get("baseUrl", "").rstrip("/")
+    # A few songs carry no scripture field but do have a matched verse; use it,
+    # so "Five Smooth Stones" still surfaces for a 1 Samuel 17 search.
+    scrip = (song.get("scripture") or "").strip() or (song.get("epigraphRef") or "").strip()
+    title = f'{song["title"]} \u2014 {scrip} | {site["siteName"]}' if scrip \
+        else f'{song["title"]} | {site["siteName"]}'
+
+    bits = [f'{song["title"]} is a modern Christian song']
+    if scrip:
+        bits.append(f'drawn from {scrip}')
+    bits.append(f'by {site["siteName"]}')
+    desc = " ".join(bits) + "."
+    epi = (song.get("epigraph") or "").strip()
+    if epi:
+        desc += f' \u201c{epi}.\u201d'
+    desc += " Listen free with the full lyrics."
+    if len(desc) > 300:
+        desc = desc[:297].rsplit(" ", 1)[0] + "\u2026"
+
+    ld = {
+        "@context": "https://schema.org",
+        "@type": "MusicRecording",
+        "name": song["title"],
+        "byArtist": {"@type": "MusicGroup", "name": site["siteName"],
+                     "url": base + "/" if base else None},
+        "genre": ["Christian", "Contemporary Christian Music", "Worship"],
+        "inLanguage": "en",
+    }
+    if canonical:
+        ld["url"] = canonical
+        ld["mainEntityOfPage"] = canonical
+    if song.get("cover"):
+        ld["image"] = f'{base}/covers/{song["cover"]}' if base else song["cover"]
+    audio_base = (site.get("audioBaseUrl") or "").rstrip("/")
+    if song.get("audio") and audio_base:
+        ld["audio"] = {"@type": "AudioObject",
+                       "contentUrl": f'{audio_base}/{song["audio"]}',
+                       "encodingFormat": "audio/mpeg"}
+    if scrip:
+        ld["about"] = {"@type": "CreativeWork", "name": scrip}
+        ld["keywords"] = f'{scrip}, {song["title"]}, modern Christian music, scripture song'
+    if song.get("spotify"):
+        ld["sameAs"] = [song["spotify"]]
+    ld = {k: v for k, v in ld.items() if v is not None}
+    return title, desc, ld
+
+
 def render_song(site, song, root="../"):
     cover = song["cover"]
     title = song["title"]
@@ -149,7 +212,8 @@ def render_song(site, song, root="../"):
     og_image = f"{base}/covers/{cover}" if base else None
     cover_rel = "covers/" + cover
     cover_style = f"<style>:root{{--cover:url('{vurl(root, cover_rel)}')}}</style>"
-    h = head(site, full_title, site.get("description", ""), root,
+    seo_title, seo_desc, seo_ld = song_seo(site, song, canonical)
+    h = head(site, seo_title, seo_desc, root, og_type="music.song", jsonld=seo_ld,
              og_image=og_image, canonical=canonical, extra=cover_style)
 
     left, right = split_columns(song["sections"])
@@ -336,8 +400,36 @@ def canon_key(song):
 def render_library(site, songs, root=""):
     base = site.get("baseUrl", "").rstrip("/")
     canonical = f"{base}/index.html" if base else None
-    h = head(site, f'{site["siteName"]} \u2014 Songs', site.get("description", ""), root,
-             canonical=canonical)
+    base = site.get("baseUrl", "").rstrip("/")
+    live_songs = [s for s in songs if s.get("status") == "published"]
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "MusicGroup",
+         "@id": f"{base}/#artist" if base else "#artist",
+         "name": site["siteName"],
+         "description": site.get("description", ""),
+         "genre": ["Christian", "Contemporary Christian Music", "Worship", "Scripture Song"],
+         "url": f"{base}/" if base else None,
+         "sameAs": [u for u in list((site.get("artistLinks") or {}).values())
+                    + ([site["spotifyArtist"]] if site.get("spotifyArtist") else []) if u]},
+        {"@type": "WebSite",
+         "@id": f"{base}/#website" if base else "#website",
+         "url": f"{base}/" if base else None,
+         "name": site["siteName"],
+         "description": site.get("description", ""),
+         "inLanguage": "en",
+         "publisher": {"@id": f"{base}/#artist" if base else "#artist"}},
+        {"@type": "CollectionPage",
+         "name": f'{site["siteName"]} \u2014 Songs',
+         "url": canonical,
+         "isPartOf": {"@id": f"{base}/#website" if base else "#website"},
+         "about": {"@id": f"{base}/#artist" if base else "#artist"},
+         "numberOfItems": len(live_songs)},
+    ]}
+    for node in ld["@graph"]:
+        for k in [k for k, v in node.items() if v is None]:
+            del node[k]
+    h = head(site, f'Modern Christian Music from Scripture \u2014 {site["siteName"]}',
+             site.get("description", ""), root, canonical=canonical, jsonld=ld)
     books = {s.get("book", "") for s in songs if s.get("book")}
 
     def group_of(book):
@@ -458,10 +550,29 @@ def render_listen(site, root=""):
                         inner, "listen.html")
 
 
+# A distinct description per page; sharing one is duplicate content.
+PAGE_DESC = {
+    "about.html": ("Selah Sound Collective sets Scripture to modern Christian music \u2014 over 230 songs "
+                   "from Genesis to Revelation. Produced by Dominic Rivard; gifts send children to camp."),
+    "listen.html": ("Stream Selah Sound Collective on Spotify, Apple Music, YouTube, Deezer and Amazon "
+                    "Music \u2014 modern Christian songs drawn from Scripture and the psalms."),
+    "support.html": ("Support Selah Sound Collective. Gifts go to God\u2019s Work and to sending children "
+                     "to camp who could not otherwise go."),
+    "contact.html": ("Contact Selah Sound Collective \u2014 questions, song requests, or a hello. "
+                     "Modern Christian music drawn from Scripture."),
+}
+
+
 def content_page(site, root, active, eyebrow, title, lede, inner_html, canonical_name):
     base = site.get("baseUrl", "").rstrip("/")
     canonical = f"{base}/{canonical_name}" if base else None
-    h = head(site, f'{title} \u2014 {site["siteName"]}', site.get("description", ""), root, canonical=canonical)
+    desc = PAGE_DESC.get(canonical_name, site.get("description", ""))
+    ld = {"@context": "https://schema.org", "@type": "WebPage",
+          "name": title, "description": desc, "inLanguage": "en"}
+    if canonical:
+        ld["url"] = canonical
+        ld["isPartOf"] = {"@type": "WebSite", "@id": f"{base}/#website"}
+    h = head(site, f'{title} \u2014 {site["siteName"]}', desc, root, canonical=canonical, jsonld=ld)
     body = f"""<body>
 <div class="page-bg"></div>
 {nav(site, root, active)}
@@ -546,6 +657,74 @@ def render_support(site, root=""):
                         "Help keep the songs coming.", inner, "support.html")
 
 
+
+def write_seo_files(site, songs):
+    """sitemap.xml, robots.txt and llms.txt.
+
+    llms.txt is for answer engines: a plain, factual summary they can quote.
+    Structured data and a clean sitemap do the same job for classic search.
+    """
+    base = site.get("baseUrl", "").rstrip("/")
+    if not base:
+        return
+    today = datetime.date.today().isoformat()
+    live = [s for s in songs if s.get("status") == "published"]
+
+    urls = [(f"{base}/", "1.0", "weekly"), (f"{base}/listen.html", "0.7", "monthly"),
+            (f"{base}/about.html", "0.6", "monthly"), (f"{base}/support.html", "0.5", "monthly"),
+            (f"{base}/contact.html", "0.4", "yearly")]
+    urls += [(f"{base}/songs/{s['slug']}.html", "0.8", "monthly") for s in live]
+    sm = ['<?xml version="1.0" encoding="UTF-8"?>',
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, pri, freq in urls:
+        sm.append(f"<url><loc>{esc(loc)}</loc><lastmod>{today}</lastmod>"
+                  f"<changefreq>{freq}</changefreq><priority>{pri}</priority></url>")
+    sm.append("</urlset>")
+    (OUT / "sitemap.xml").write_text("\n".join(sm))
+
+    # Answer engines are how people will find this next; let them read it.
+    (OUT / "robots.txt").write_text(
+        "User-agent: *\nAllow: /\n\n"
+        "# Answer engines are welcome to read and cite these pages.\n"
+        "User-agent: GPTBot\nAllow: /\n\n"
+        "User-agent: ClaudeBot\nAllow: /\n\n"
+        "User-agent: PerplexityBot\nAllow: /\n\n"
+        "User-agent: Google-Extended\nAllow: /\n\n"
+        "User-agent: CCBot\nAllow: /\n\n"
+        f"Sitemap: {base}/sitemap.xml\n")
+
+    books = {}
+    for s in live:
+        b = s.get("book") or "Other"
+        books[b] = books.get(b, 0) + 1
+    psalms = books.get("Psalms", 0)
+    lines = [f"# {site['siteName']}", "",
+             f"> {site.get('description','')}", "",
+             f"{site['siteName']} is a modern Christian music project that sets passages of the Bible to "
+             f"original songs. The catalogue holds {len(live)} songs spanning "
+             f"{len([b for b in books if b not in ('Standalone','Other')])} books of Scripture, "
+             f"from Genesis to Revelation, including all 150 psalms set to music one by one.",
+             "",
+             "Every song streams free on the site with its full lyrics and the passage it is drawn from. "
+             "The songs are also on Spotify, Apple Music, YouTube, Deezer and Amazon Music.",
+             "",
+             "Funds raised support God's Work and send children to camp.",
+             "",
+             "## Pages", "",
+             f"- [Songs]({base}/): the full catalogue, filterable by testament and book",
+             f"- [Listen]({base}/listen.html): streaming links",
+             f"- [About]({base}/about.html): the project and the people behind it",
+             f"- [Support]({base}/support.html): donations",
+             f"- [Contact]({base}/contact.html): get in touch", "",
+             "## Catalogue", ""]
+    for s in sorted(live, key=lambda x: x["title"]):
+        ref = (s.get("scripture") or s.get("epigraphRef") or "").strip()
+        lines.append(f"- [{s['title']}]({base}/songs/{s['slug']}.html)"
+                     + (f" \u2014 {ref}" if ref else ""))
+    (OUT / "llms.txt").write_text("\n".join(lines) + "\n")
+    print(f"  seo: sitemap.xml ({len(urls)} urls), robots.txt, llms.txt ({len(live)} songs, {psalms} psalms)")
+
+
 def main():
     site = json.loads((DATA / "site.json").read_text())
     songs = [json.loads(p.read_text()) for p in sorted((DATA / "songs").glob("*.json"))]
@@ -591,6 +770,7 @@ def main():
 
     print(f"Built site -> {OUT}")
     print(f"  songs: {len(songs)} total, {built} published pages")
+    write_seo_files(site, songs)
     print(f"  pages: index, about, contact, support + {built} song page(s)")
 
 
