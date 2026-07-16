@@ -100,9 +100,9 @@ def head(site, title, desc, root, og_image=None, canonical=None, extra="", og_ty
 
 
 def nav(site, root, active=""):
-    items = [("Songs", "index.html", "songs"), ("Listen", "listen.html", "listen"),
-             ("About", "about.html", "about"),
-             ("Contact", "contact.html", "contact"), ("Support", "support.html", "support")]
+    items = [("Music", "index.html", "songs"), ("About", "about.html", "about"),
+             ("Listen", "listen.html", "listen"),
+             ("Support", "support.html", "support"), ("Contact", "contact.html", "contact")]
     links = "".join(
         f'<a href="{root}{href}"{" class=\"active\"" if active==key else ""}>{label}</a>'
         for label, href, key in items)
@@ -493,9 +493,10 @@ def render_library(site, songs, root=""):
   <div class="hh-rule"><span></span></div>
   <div class="hh-proof">{over}+ songs &middot; all 150 psalms &middot; free with full lyrics</div>
   <div class="hh-ctas">
-    <a class="btn btn-play" href="listen.html"><svg viewBox="0 0 24 24" width="13" height="13"><path d="M8 5v14l11-7z"/></svg>Start Listening</a>
-    <a class="btn hh-ghost" href="#bookRows">Browse Songs</a>
+    <a class="btn btn-play" id="heroBrowse" href="#libSearch"><svg viewBox="0 0 24 24" width="13" height="13"><path d="M8 5v14l11-7z"/></svg>Start Listening</a>
+    <a class="btn hh-ghost" href="listen.html">Streaming Services</a>
   </div>
+  <div class="hh-rule hh-rule-end"><span></span></div>
 </section>
 <section class="home-intro">
   <p>In the psalms, one small word appears again and again: <em>Selah</em>. Pause here. Let what you just heard sink in.</p>
@@ -652,12 +653,26 @@ def render_support(site, root=""):
         btns.append(f'<a class="{cls}" href="{esc(paypal)}" target="_blank" rel="noopener"{style}>'
                     f'<span>{label}</span></a>')
     cta = ('<div class="cta-row" style="justify-content:center">' + "".join(btns) + '</div>') if btns else ""
+    links = site.get("artistLinks") or {}
+    sp, ap = links.get("spotify"), links.get("applemusic")
+    stream_btns = '<div class="cta-row" style="justify-content:center">'
+    if sp:
+        stream_btns += (f'<a class="btn btn-spotify" href="{esc(sp)}" target="_blank" rel="noopener">'
+                        f'<span>Follow on Spotify</span></a>')
+    if ap:
+        stream_btns += (f'<a class="btn hh-ghost" href="{esc(ap)}" target="_blank" rel="noopener">'
+                        f'<span>Apple Music</span></a>')
+    stream_btns += "</div>"
     inner = f"""<div class="support-card">
     <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
     <p class="prose" style="margin-bottom:0">Selah Sound Collective is a labour of love. What you give goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there.</p>
     <div class="amount-row">{amt_html}</div>
     {cta}
     <p class="support-note">Every gift, of any size, is received with deep gratitude. Thank you for helping the music continue.</p>
+    <div class="support-stream">
+      <p class="prose" style="margin:0 auto 14px">There&rsquo;s a second way to help that costs nothing: <strong>listen</strong>. Stream the songs, add them to your playlists on Spotify or Apple Music, share them &mdash; the royalties go to this same work.</p>
+      {stream_btns}
+    </div>
     </div>"""
     return content_page(site, root, "support", "Give", "Support the Work",
                         "Help keep the songs coming.", inner, "support.html")

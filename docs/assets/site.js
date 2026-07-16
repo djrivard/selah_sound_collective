@@ -76,3 +76,23 @@
   if (search) search.addEventListener('input', apply);
   apply();
 })();
+
+/* hero "Start Listening": bring the catalogue up ready to explore */
+(function () {
+  var go = document.getElementById('heroBrowse');
+  if (!go) return;
+  go.addEventListener('click', function (e) {
+    e.preventDefault();
+    var search = document.getElementById('libSearch');
+    var controls = search ? search.closest('.lib-controls') || search.parentElement : null;
+    (controls || search).scrollIntoView({ behavior: 'smooth', block: 'start' });
+    setTimeout(function () {
+      if (search) search.focus({ preventScroll: true });
+      [].forEach.call(document.querySelectorAll('.chip[data-group="ot"],.chip[data-group="nt"],.chip[data-group="other"]'),
+        function (c, i) {
+          setTimeout(function () { c.classList.add('flash'); }, i * 140);
+          setTimeout(function () { c.classList.remove('flash'); }, 2100 + i * 140);
+        });
+    }, 450);
+  });
+})();

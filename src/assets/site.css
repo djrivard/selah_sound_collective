@@ -314,3 +314,12 @@
 .home-hero2 .btn-play svg{fill:var(--ink)}
 .home-hero2 .hh-ghost{color:var(--cream);border:1px solid rgba(201,164,70,.55)}
 .home-hero2 .hh-ghost:hover{background:rgba(201,164,70,.12)}
+
+/* spotlight pulse when the hero sends someone to browse */
+.chip.flash{animation:chipFlash 1.05s ease-in-out 2;border-color:var(--gold-br);color:var(--cream)}
+@keyframes chipFlash{0%,100%{box-shadow:0 0 0 0 rgba(224,189,99,0)}50%{box-shadow:0 0 0 6px rgba(224,189,99,.18);background:rgba(201,164,70,.14)}}
+@media (prefers-reduced-motion:reduce){.chip.flash{animation:none;background:rgba(201,164,70,.14)}}
+
+.home-hero2 .hh-rule-end{margin:clamp(40px,6vh,56px) auto 0}
+.support-stream{margin-top:26px;padding-top:24px;border-top:1px solid rgba(201,164,70,.25);text-align:center}
+.support-stream .prose{max-width:52ch;font-size:1.02rem}
