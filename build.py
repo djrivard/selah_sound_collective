@@ -485,25 +485,28 @@ def render_library(site, songs, root=""):
     body = f"""<body>
 <div class="page-bg"></div>
 {nav(site, root, "songs")}
-<section class="home-hero">
-  <div class="frame">
-    <img src="{vurl(root, "assets/hero.jpg")}" alt="{esc(site["siteName"])} \u2014 {esc(site.get("tagline",""))}">
-    <div class="home-hero__fade"></div>
-    <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
+<section class="home-hero2">
+  <div class="hh-eyebrow">/\u02c8si\u02d0.l\u0259/ \u2014 pause here, let it sink in</div>
+  <h1 class="hh-selah">Selah</h1>
+  <div class="hh-sub">Sound Collective</div>
+  <p class="hh-tag">Ancient Scripture, Set to Today&rsquo;s Modern Music</p>
+  <div class="hh-rule"><span></span></div>
+  <div class="hh-proof">{over}+ songs &middot; all 150 psalms &middot; free with full lyrics</div>
+  <div class="hh-ctas">
+    <a class="btn btn-play" href="listen.html"><svg viewBox="0 0 24 24" width="13" height="13"><path d="M8 5v14l11-7z"/></svg>Start Listening</a>
+    <a class="btn hh-ghost" href="#bookRows">Browse Songs</a>
   </div>
 </section>
 <section class="home-intro">
-  <p class="lead">Ancient words, modern music.</p>
   <p>In the psalms, one small word appears again and again: <em>Selah</em>. Pause here. Let what you just heard sink in.</p>
-  <p>That&rsquo;s the invitation behind these {over}+ songs drawn straight from Scripture, Genesis to Revelation, all 150 psalms set to deeply poetic and modern music, no two sounding alike.</p>
-  <p>Every song plays free, its lyrics and passage right on the page, so you can follow the Word as the music carries it. <span class="start">No account, no app. Start anywhere.</span></p>
+  <p>That&rsquo;s the invitation behind every song in this catalog &mdash; follow the Word as the music carries it, no two songs sounding alike. <span class="start">No account, no app. Start anywhere.</span></p>
   <p class="lead selah-line">Listen. Pause. Be inspired. <em>Selah.</em></p>
   <div class="rule"></div>
 </section>
 <main class="page page--after-hero">
   <div class="page-head">
     <div class="eyebrow">The Catalog</div>
-    <h1>Songs</h1>
+    <h2 class="as-h1">Songs</h2>
     <div class="rule"></div>
   </div>
   <div class="filterbar">
