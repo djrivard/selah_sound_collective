@@ -13,11 +13,7 @@
       "lines": [
         [
           null,
-          "Generate with warm tones"
-        ],
-        [
-          null,
-          "and minimal high-frequency emphasis."
+          "Generate with warm tones and minimal high-frequency emphasis."
         ]
       ]
     },
@@ -208,7 +204,6 @@
       ]
     }
   ],
-  "lyricsInferred": true,
   "epigraph": "let us make a joyful noise to the rock of our salvation",
   "epigraphRef": "Psalm 95:1",
   "lyricEyebrow": "From the Psalms"

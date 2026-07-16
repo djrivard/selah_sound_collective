@@ -385,6 +385,11 @@ def render_library(site, songs, root=""):
         else:
             cards.append(f'<a class="song-card" href="{root}songs/{esc(s["slug"])}.html" {attrs}>{inner}</a>')
 
+    # "Over N songs" — derived from the catalogue and floored to a ten, so the
+    # claim stays true as songs are added and never needs hand-editing.
+    live = sum(1 for s in songs if s.get("status") == "published")
+    over = max(10, ((live - 1) // 10) * 10)
+
     body = f"""<body>
 <div class="page-bg"></div>
 {nav(site, root, "songs")}
@@ -394,6 +399,12 @@ def render_library(site, songs, root=""):
     <div class="home-hero__fade"></div>
     <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
   </div>
+</section>
+<section class="home-intro">
+  <p class="lead">Over {over} songs drawn straight from Scripture &mdash; Genesis to Revelation, and <em>all 150 psalms</em>, not only the ones people quote.</p>
+  <p>Psalm 23 is here. So is Psalm 88, which ends in the dark and offers no comfort at all.</p>
+  <p>Every song plays free, with its words on the page and the passage they came from &mdash; so you can follow a story line by line instead of catching every third phrase. <span class="start">No account, no app. Start anywhere.</span></p>
+  <div class="rule"></div>
 </section>
 <main class="page page--after-hero">
   <div class="page-head">

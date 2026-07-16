@@ -295,3 +295,11 @@
 .card-sp{display:inline-flex;align-items:center;gap:6px;font-family:'Outfit',sans-serif;font-weight:600;letter-spacing:.12em;text-transform:uppercase;font-size:.54rem;color:var(--gold-dim);margin-top:7px;transition:color .25s}
 .card-sp svg{width:12px;height:12px;fill:#1DB954;flex:none}
 .song-card.soon:hover .card-sp{color:var(--gold-br)}
+
+.home-intro{max-width:64ch;margin:0 auto;padding:clamp(28px,5vw,44px) 20px 0;text-align:center}
+.home-intro p{color:var(--cream-d);font-size:clamp(1.02rem,1.7vw,1.16rem);line-height:1.75;margin:0 0 1.05rem}
+.home-intro .lead{color:var(--cream);font-size:clamp(1.1rem,2vw,1.3rem)}
+.home-intro .lead em{font-style:italic;color:var(--gold-br)}
+.home-intro .start{color:var(--cream-dd)}
+.home-intro .rule{width:46px;height:1px;background:var(--gold);margin:clamp(20px,3vw,28px) auto 0;opacity:.7}
+@media(max-width:640px){.home-intro{text-align:left}.home-intro .rule{margin-left:auto;margin-right:auto}}

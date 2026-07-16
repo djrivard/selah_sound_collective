@@ -13,11 +13,7 @@
       "lines": [
         [
           null,
-          "Generate with warm tones"
-        ],
-        [
-          null,
-          "and minimal high-frequency emphasis."
+          "Generate with warm tones and minimal high-frequency emphasis."
         ]
       ]
     },
@@ -170,7 +166,6 @@
       ]
     }
   ],
-  "lyricsInferred": true,
   "epigraph": "Praise ye the LORD. I will praise the LORD with my whole heart",
   "epigraphRef": "Psalm 111:1",
   "lyricEyebrow": "From the Psalms",

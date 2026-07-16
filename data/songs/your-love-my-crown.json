@@ -17,11 +17,7 @@
         ],
         [
           null,
-          "**Generate with warm tones"
-        ],
-        [
-          null,
-          "and minimal high-frequency emphasis.**"
+          "**Generate with warm tones and minimal high-frequency emphasis.**"
         ]
       ]
     },
@@ -182,7 +178,6 @@
       ]
     }
   ],
-  "lyricsInferred": true,
   "epigraph": "thou hast doves’ eyes within thy locks",
   "epigraphRef": "Song of Songs 4:1",
   "lyricEyebrow": "From the Book of Song of Songs",

@@ -13,11 +13,7 @@
       "lines": [
         [
           null,
-          "Generate with warm tones"
-        ],
-        [
-          null,
-          "and minimal high-frequency emphasis."
+          "Generate with warm tones and minimal high-frequency emphasis."
         ]
       ]
     },
@@ -140,7 +136,6 @@
       ]
     }
   ],
-  "lyricsInferred": true,
   "epigraph": "Make a joyful noise unto the LORD",
   "epigraphRef": "Psalm 98:4",
   "lyricEyebrow": "From the Psalms",
