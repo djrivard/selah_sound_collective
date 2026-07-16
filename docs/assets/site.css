@@ -162,7 +162,7 @@
 
 /* prose (about) */
 .prose{max-width:60ch;margin:0 auto;color:var(--cream-d);font-size:clamp(1.02rem,1.6vw,1.14rem);line-height:1.75}
-.prose p{margin-bottom:1.2rem}
+.prose p{margin-bottom:1.2rem;text-wrap:pretty}
 .prose .scripture{font-style:italic;color:var(--gold-br);text-align:center;font-size:1.18rem;margin:2rem auto;max-width:40ch}
 
 /* ---------- LIBRARY ---------- */
@@ -303,6 +303,8 @@
 .home-intro p{color:var(--cream-d);font-size:clamp(1.04rem,1.5vw,1.17rem);line-height:1.72;margin:0 0 1.05rem;
   text-wrap:balance;text-align:center;hyphens:none}
 .home-intro .lead{color:var(--cream)}
+.home-intro .selah-line{margin-top:1.3rem}
+.home-intro .selah-line em,.home-intro p em{font-style:italic;color:var(--gold-br)}
 .home-intro .lead em{font-style:italic;color:var(--gold-br)}
 .home-intro .start{color:var(--cream-dd)}
 .home-intro .rule{width:46px;height:1px;background:var(--gold);margin:clamp(20px,3vw,28px) auto 0;opacity:.7}

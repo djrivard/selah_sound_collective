@@ -493,9 +493,11 @@ def render_library(site, songs, root=""):
   </div>
 </section>
 <section class="home-intro">
-  <p class="lead">Over {over} songs drawn straight from Scripture &mdash; Genesis to Revelation, and <em>all 150 psalms</em>, not only the ones people quote.</p>
-  <p>Psalm 23 is here. So is Psalm 88, which ends in the dark and offers no comfort at all.</p>
-  <p>Every song plays free, with its words on the page and the passage they came from &mdash; so you can follow a story line by line instead of catching every third phrase. <span class="start">No account, no app. Start anywhere.</span></p>
+  <p class="lead">Ancient words, modern music.</p>
+  <p>In the psalms, one small word appears again and again: <em>Selah</em>. Pause here. Let what you just heard sink in.</p>
+  <p>That&rsquo;s the invitation behind these {over}+ songs drawn straight from Scripture, Genesis to Revelation, all 150 psalms set to deeply poetic and modern music, no two sounding alike.</p>
+  <p>Every song plays free, its lyrics and passage right on the page, so you can follow the Word as the music carries it. <span class="start">No account, no app. Start anywhere.</span></p>
+  <p class="lead selah-line">Listen. Pause. Be inspired. <em>Selah.</em></p>
   <div class="rule"></div>
 </section>
 <main class="page page--after-hero">
@@ -593,13 +595,14 @@ def content_page(site, root, active, eyebrow, title, lede, inner_html, canonical
 
 def render_about(site, root=""):
     inner = """<div class="prose">
-    <p>Selah Sound Collective began with a simple conviction: that the oldest stories still have the power to move us, and that music is one of the truest ways to carry them. Each song here takes a passage of Scripture &mdash; a vow, a psalm, a moment of deliverance &mdash; and gives it a melody you can sit inside.</p>
-    <p class="scripture">&ldquo;Speak to one another with psalms, hymns, and songs from the Spirit.&rdquo;</p>
-    <p>These are modern settings: soft pianos that swell into something grand, voices that carry the weight of the words. They&rsquo;re made to be listened to slowly &mdash; with the lyrics in front of you, and the story unfolding line by line.</p>
-    <p>A song travels further than a page. You can read Ruth&rsquo;s vow and admire it; humming it for a week is harder to walk away from. That&rsquo;s the hope here &mdash; that somewhere between the second verse and the drive home, one of these follows you out of the car and into Monday.</p>
-    <p>Selah Sound Collective is produced by Dominic Rivard, who wrote the words to most of what you&rsquo;re hearing. There are other things he keeps going: a couple of Substacks, some food and drink ventures, all of them close to him. This is the one he&rsquo;d keep if he had to choose.</p>
-    <p>The songs are only half of it. What this project raises goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
-    <p>Thank you for listening, and for sharing them with the people you love.</p>
+    <p class="scripture" style="margin-top:0">Scripture, set to modern music.</p>
+    <p>The name comes from the psalms. Seventy-one times, right in the middle of the singing, one small word appears: <em>Selah</em>. Most scholars read it as a musical instruction. Stop here. Let the last line land before the next one begins. Selah Sound Collective was built on that instruction: over 230 songs that each take a passage of Scripture, a vow, a psalm, a moment of deliverance, and give it a melody you can sit inside.</p>
+    <p class="scripture">&ldquo;Speak to one another with psalms, hymns, and songs from the Spirit.&rdquo;<br><cite style="font-style:normal;font-size:.82em;letter-spacing:.08em">Ephesians 5:19</cite></p>
+    <p>These are modern settings, and no two sound alike. Some are quiet enough to pray along with; some want the volume up. All of them are made to be listened to slowly, with the lyrics in front of you and the story unfolding line by line.</p>
+    <p>A song travels further than a page. You can read Ruth&rsquo;s vow and admire it; humming it for a week is harder to walk away from. That&rsquo;s the hope here: that somewhere between the second verse and the drive home, one of these follows you out of the car and into Monday.</p>
+    <p>Selah Sound Collective is produced by Dominic Rivard, who wrote the words to most of what you&rsquo;re hearing. There are other things he keeps going, a couple of Substacks, some food and drink ventures, all of them close to him. This is the one he&rsquo;d keep if he had to choose.</p>
+    <p>The songs are only half of it. What this project raises goes to God&rsquo;s Work, and to sending kids to camp: the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
+    <p>Thank you for listening. And when a line catches you, do what the psalms say. Pause. <em>Selah.</em></p>
     </div>"""
     return content_page(site, root, "about", "The Project", "About", site.get("tagline", ""), inner, "about.html")
 
