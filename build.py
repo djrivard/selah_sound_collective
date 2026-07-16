@@ -608,7 +608,7 @@ def render_about(site, root=""):
     <p>The songs are only half of it. What this project raises goes to God&rsquo;s Work, and to sending kids to camp: the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
     <p>Thank you for listening. And when a line catches you, do what the psalms say. Pause. <em>Selah.</em></p>
     </div>"""
-    return content_page(site, root, "about", "The Project", "About", site.get("tagline", ""), inner, "about.html")
+    return content_page(site, root, "about", "The Project", "About the Selah Project", site.get("tagline", ""), inner, "about.html")
 
 
 def render_contact(site, root=""):
@@ -660,7 +660,7 @@ def render_support(site, root=""):
         stream_btns += (f'<a class="btn btn-spotify" href="{esc(sp)}" target="_blank" rel="noopener">'
                         f'<span>Follow on Spotify</span></a>')
     if ap:
-        stream_btns += (f'<a class="btn hh-ghost" href="{esc(ap)}" target="_blank" rel="noopener">'
+        stream_btns += (f'<a class="btn btn-goldline" href="{esc(ap)}" target="_blank" rel="noopener">'
                         f'<span>Apple Music</span></a>')
     stream_btns += "</div>"
     inner = f"""<div class="support-card">

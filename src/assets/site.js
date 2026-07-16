@@ -84,7 +84,7 @@
   go.addEventListener('click', function (e) {
     e.preventDefault();
     var search = document.getElementById('libSearch');
-    var controls = search ? search.closest('.lib-controls') || search.parentElement : null;
+    var controls = search ? search.closest('.filterbar') : null;
     (controls || search).scrollIntoView({ behavior: 'smooth', block: 'start' });
     setTimeout(function () {
       if (search) search.focus({ preventScroll: true });
