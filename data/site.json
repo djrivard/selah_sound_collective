@@ -5,10 +5,10 @@
   "baseUrl": "https://selahsoundcollective.com",
   "audioBaseUrl": "https://audio.selahsoundcollective.com",
   "ogImage": "assets/hero.jpg",
-  "contactFormEndpoint": "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID",
+  "contactFormEndpoint": "https://formspree.io/f/mqerelqq",
   "contactEmail": "hello@selahsoundcollective.com",
-  "donateUrl": "https://buy.stripe.com/REPLACE_WITH_YOUR_LINK",
-  "donatePaypal": "https://www.paypal.com/donate/?hosted_button_id=REPLACE_WITH_YOUR_ID",
+  "donateUrl": "",
+  "donatePaypal": "https://www.paypal.com/donate/?hosted_button_id=S6K7KLMQMEBTG",
   "donateAmounts": [
     "$5",
     "$15",

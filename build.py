@@ -212,7 +212,7 @@ def render_song(site, song, root="../"):
     </div>
     <div class="scrip"><span class="dia"></span> {esc(song.get("scripture",""))} <span class="dia"></span></div>
     {epi}
-    <div class="style-note">{esc(song.get("styleNote",""))}</div>
+    {f'<div class="style-note">{esc(song["styleNote"])}</div>' if song.get("styleNote") else ""}
     <button class="play-hero" id="heroPlay" aria-label="Play song"><svg viewBox="0 0 24 24" id="heroIcon"><path d="M8 5v14l11-7z"/></svg></button>
     <div class="play-label" id="heroLabel">Play the Song</div>
   </div>
@@ -474,6 +474,9 @@ def render_about(site, root=""):
     <p>Selah Sound Collective began with a simple conviction: that the oldest stories still have the power to move us, and that music is one of the truest ways to carry them. Each song here takes a passage of Scripture &mdash; a vow, a psalm, a moment of deliverance &mdash; and gives it a melody you can sit inside.</p>
     <p class="scripture">&ldquo;Speak to one another with psalms, hymns, and songs from the Spirit.&rdquo;</p>
     <p>These are modern settings: soft pianos that swell into something grand, voices that carry the weight of the words. They&rsquo;re made to be listened to slowly &mdash; with the lyrics in front of you, and the story unfolding line by line.</p>
+    <p>A song travels further than a page. You can read Ruth&rsquo;s vow and admire it; humming it for a week is harder to walk away from. That&rsquo;s the hope here &mdash; that somewhere between the second verse and the drive home, one of these follows you out of the car and into Monday.</p>
+    <p>Selah Sound Collective is produced by Dominic Rivard, who wrote the words to most of what you&rsquo;re hearing. There are other things he keeps going: a couple of Substacks, some food and drink ventures, all of them close to him. This is the one he&rsquo;d keep if he had to choose.</p>
+    <p>The songs are only half of it. What this project raises goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
     <p>Thank you for listening, and for sharing them with the people you love.</p>
     </div>"""
     return content_page(site, root, "about", "The Project", "About", site.get("tagline", ""), inner, "about.html")
@@ -496,22 +499,36 @@ def render_contact(site, root=""):
                         inner, "contact.html")
 
 
+def _live(url):
+    """A configured link, or empty if it is still a placeholder."""
+    url = (url or "").strip()
+    return "" if (not url or "REPLACE_WITH" in url) else url
+
+
 def render_support(site, root=""):
-    donate = site.get("donateUrl", "#")
-    paypal = site.get("donatePaypal", "")
+    paypal = _live(site.get("donatePaypal"))
+    stripe = _live(site.get("donateUrl"))
+    primary = stripe or paypal
     amounts = site.get("donateAmounts", [])
-    amt_html = "".join(f'<a class="amount" href="{esc(donate)}" target="_blank" rel="noopener">{esc(a)}</a>'
-                       for a in amounts)
-    paypal_html = (f'<a class="btn btn-spotify" href="{esc(paypal)}" target="_blank" rel="noopener" '
-                   f'style="border-color:rgba(201,164,70,.5)">Give with PayPal</a>') if paypal else ""
+    # The amounts are suggestions; the donor picks the figure on the checkout page.
+    amt_html = "".join(f'<a class="amount" href="{esc(primary)}" target="_blank" rel="noopener">{esc(a)}</a>'
+                       for a in amounts) if primary else ""
+    btns = []
+    if stripe:
+        btns.append(f'<a class="btn btn-play" href="{esc(stripe)}" target="_blank" rel="noopener">'
+                    f'<span>Support the Work</span></a>')
+    if paypal:
+        cls = "btn btn-spotify" if stripe else "btn btn-play"
+        style = ' style="border-color:rgba(201,164,70,.5)"' if stripe else ""
+        label = "Give with PayPal" if stripe else "Give with PayPal"
+        btns.append(f'<a class="{cls}" href="{esc(paypal)}" target="_blank" rel="noopener"{style}>'
+                    f'<span>{label}</span></a>')
+    cta = ('<div class="cta-row" style="justify-content:center">' + "".join(btns) + '</div>') if btns else ""
     inner = f"""<div class="support-card">
     <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
-    <p class="prose" style="margin-bottom:0">Selah Sound Collective is a labour of love. If these songs have meant something to you, your gift helps cover production, distribution, and the making of the next one.</p>
+    <p class="prose" style="margin-bottom:0">Selah Sound Collective is a labour of love. What you give goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there.</p>
     <div class="amount-row">{amt_html}</div>
-    <div class="cta-row" style="justify-content:center">
-      <a class="btn btn-play" href="{esc(donate)}" target="_blank" rel="noopener"><span>Support the Work</span></a>
-      {paypal_html}
-    </div>
+    {cta}
     <p class="support-note">Every gift, of any size, is received with deep gratitude. Thank you for helping the music continue.</p>
     </div>"""
     return content_page(site, root, "support", "Give", "Support the Work",
