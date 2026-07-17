@@ -96,3 +96,19 @@
     }, 450);
   });
 })();
+
+/* deep link: index.html?book=Psalms opens that book's shelf */
+(function () {
+  var book = new URLSearchParams(location.search).get('book');
+  if (!book) return;
+  var bchip = document.querySelector('.chip-book[data-book="' + book + '"]');
+  if (!bchip) return;
+  var row = bchip.closest('.book-row');
+  var gchip = row && document.querySelector('.chip[data-group="' + row.getAttribute('data-row') + '"]');
+  if (gchip) gchip.click();
+  bchip.click();
+  setTimeout(function () {
+    var fb = document.querySelector('.filterbar');
+    if (fb) fb.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }, 150);
+})();

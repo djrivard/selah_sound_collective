@@ -533,31 +533,73 @@ def render_library(site, songs, root=""):
 
 def render_listen(site, root=""):
     icons = json.loads((DATA / "icons.json").read_text())
+    songs = [json.loads(f.read_text()) for f in sorted((DATA / "songs").glob("*.json"))]
+    by_slug = {s["slug"]: s for s in songs}
 
-    def cards(items):
-        out = ""
-        for it in items:
-            path = icons.get(it["id"], "")
-            out += (f'<a class="plat" href="{esc(it["url"])}" target="_blank" rel="noopener">'
-                    f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="{path}"/></svg>'
-                    f'<span>{esc(it["name"])}</span></a>')
-        return out
+    def icon(iid):
+        path = icons.get(iid, "")
+        return f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="{path}"/></svg>' if path else ""
+
+    # Start here: three on-site songs
+    sh = ""
+    for slug in ["let-there-be-you", "where-you-go-ill-follow", "the-still-small-voice"]:
+        s = by_slug.get(slug)
+        if not s or s.get("status") != "published":
+            continue
+        scrip = (s.get("scripture") or s.get("epigraphRef") or "").strip()
+        sh += (f'<a class="sh-song" href="songs/{slug}.html">'
+               f'<img src="{vurl(root, "covers/" + s["cover"])}" alt="{esc(s["title"])} cover" loading="lazy">'
+               f'<span class="sh-meta"><span class="sh-title">{esc(s["title"])}</span>'
+               f'<span class="sh-scrip">{esc(scrip)}</span>'
+               f'<span class="sh-play"><svg viewBox="0 0 24 24" width="10" height="10"><path d="M8 5v14l11-7z"/></svg>Play</span></span></a>')
+
+    links = site.get("artistLinks") or {}
+    plats = [pl for pl in site.get("platforms", []) if pl.get("id") != "spotify"]
+    plat_tiles = "".join(
+        f'<a class="plat" href="{esc(pl["url"])}" target="_blank" rel="noopener">{icon(pl["id"])}'
+        f'<span>{esc(pl["name"])}</span></a>' for pl in plats)
+
+    socials = {s0["id"]: s0 for s0 in site.get("socials", [])}
+    social_tiles = "".join(
+        f'<a class="plat" href="{esc(socials[k]["url"])}" target="_blank" rel="noopener">{icon(k)}'
+        f'<span>{esc(socials[k]["name"])}</span></a>'
+        for k in ("instagram", "facebook") if k in socials)
 
     inner = f"""<div class="listen-page">
+    <div class="start-here">
+      <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
+      <div class="sh-label">Start here \u2014 three to begin with</div>
+      <div class="sh-grid">{sh}</div>
+      <div class="sh-note">Plays right here \u2014 no account, no app</div>
+    </div>
     <div class="plat-sec">
       <h2 class="plat-h">Stream the Songs</h2>
-      <p class="plat-lede">Every Selah Sound Collective song, on the platform you already use \u2014 follow us there and new releases will find you.</p>
-      <div class="plat-grid">{cards(site.get("platforms", []))}</div>
+      <p class="plat-lede">Follow on the platform you already use \u2014 new releases will find you.</p>
+      <div class="plat-grid plat-grid--lead">
+        <a class="plat plat-lead" href="{esc(links.get("spotify", "#"))}" target="_blank" rel="noopener">
+          <span class="pl-eyebrow">Most listeners are here</span>
+          <span class="pl-name">Spotify</span>
+          <span class="pl-lede">Follow the artist \u2014 every release, the day it lands.</span>
+          <span class="pl-btn">Follow on Spotify</span>
+        </a>
+        {plat_tiles}
+      </div>
     </div>
     <div class="plat-sec">
       <h2 class="plat-h">Follow Along</h2>
-      <p class="plat-lede">Behind the songs \u2014 new releases, the stories in the Scriptures, and what\u2019s coming next.</p>
-      <div class="plat-grid">{cards(site.get("socials", []))}</div>
+      <p class="plat-lede">Behind the songs \u2014 new releases, the stories in the Scriptures, and what&rsquo;s coming next.</p>
+      <div class="plat-grid plat-grid--lead">
+        <a class="plat plat-lead plat-lead--gold" href="https://selahsoundcollective.substack.com/p/i-cant-go-back" target="_blank" rel="noopener">
+          <span class="pl-eyebrow pl-eyebrow--gold">On the Substack</span>
+          <span class="pl-post">&ldquo;I Can&rsquo;t Go Back&rdquo; <em>\u2014 latest post</em></span>
+          <span class="pl-lede">On vows, the weight of a word, and what a town decides to remember.</span>
+        </a>
+        {social_tiles}
+      </div>
     </div>
     </div>"""
     return content_page(site, root, "listen", "Everywhere the Music Lives", "Listen & Follow",
-                        "Stream, follow, and share \u2014 wherever you listen.",
-                        inner, "listen.html")
+                        "Stream, follow, and share \u2014 wherever you listen.", inner, "listen.html")
 
 
 # A distinct description per page; sharing one is duplicate content.
@@ -602,15 +644,41 @@ def content_page(site, root, active, eyebrow, title, lede, inner_html, canonical
 
 
 def render_about(site, root=""):
-    inner = """<div class="prose">
-    <p class="scripture" style="margin-top:0">Scripture, set to modern music.</p>
-    <p>The name comes from the psalms. Seventy-one times, right in the middle of the singing, one small word appears: <em>Selah</em>. Most scholars read it as a musical instruction. Stop here. Let the last line land before the next one begins. Selah Sound Collective was built on that instruction: over 230 songs that each take a passage of Scripture, a vow, a psalm, a moment of deliverance, and give it a melody you can sit inside.</p>
+    songs = [json.loads(f.read_text()) for f in sorted((DATA / "songs").glob("*.json"))]
+    pub = [s for s in songs if s.get("status") == "published"]
+    over = max(10, ((len(pub) - 1) // 10) * 10)
+    books = len({s.get("book") for s in pub if s.get("book") not in (None, "", "Standalone")})
+    inner = f"""<div class="stat-row">
+    <div class="stat"><div class="stat-n">{over}+</div><div class="stat-l">Original songs</div></div>
+    <div class="stat-div"></div>
+    <div class="stat"><div class="stat-n">150</div><div class="stat-l">Every psalm, set</div></div>
+    <div class="stat-div"></div>
+    <div class="stat"><div class="stat-n">{books}</div><div class="stat-l">Books of the Bible</div></div>
+    <div class="stat-div"></div>
+    <div class="stat"><div class="stat-n">Free</div><div class="stat-l">With full lyrics</div></div>
+    </div>
+    <div class="about-cols">
+    <div class="prose" style="margin:0">
+    <p>The name comes from the psalms. Seventy-one times, right in the middle of the singing, one small word appears: <em>Selah</em>. Most scholars read it as a musical instruction. Stop here. Let the last line land before the next one begins.</p>
+    <p>Selah Sound Collective was built on that instruction: over 230 songs that each take a passage of Scripture &mdash; a vow, a psalm, a moment of deliverance &mdash; and give it a melody you can sit inside. These are modern settings, and no two sound alike.</p>
+    </div>
+    <div class="about-photo">
+    <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
+    <img src="{vurl(root, "assets/about-writing.jpg")}" alt="Writing song lyrics beside an open Bible">
+    </div>
+    </div>
+    <div class="prose">
     <p class="scripture">&ldquo;Speak to one another with psalms, hymns, and songs from the Spirit.&rdquo;<br><cite style="font-style:normal;font-size:.82em;letter-spacing:.08em">Ephesians 5:19</cite></p>
-    <p>These are modern settings, and no two sound alike. Some are quiet enough to pray along with; some want the volume up. All of them are made to be listened to slowly, with the lyrics in front of you and the story unfolding line by line.</p>
     <p>A song travels further than a page. You can read Ruth&rsquo;s vow and admire it; humming it for a week is harder to walk away from. That&rsquo;s the hope here: that somewhere between the second verse and the drive home, one of these follows you out of the car and into Monday.</p>
-    <p>Selah Sound Collective is produced by Dominic Rivard, who wrote the words to most of what you&rsquo;re hearing. There are other things he keeps going, a couple of Substacks, some food and drink ventures, all of them close to him. This is the one he&rsquo;d keep if he had to choose.</p>
-    <p>The songs are only half of it. What this project raises goes to God&rsquo;s Work, and to sending kids to camp: the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
+    <p>Selah Sound Collective is produced by <strong>Dominic Rivard</strong>, who wrote the words to most of what you&rsquo;re hearing. The songs are only half of it: what this project raises goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
     <p>Thank you for listening. And when a line catches you, do what the psalms say. Pause. <em>Selah.</em></p>
+    </div>
+    <div class="about-cta">
+    <div class="ac-label">Not sure where to begin?</div>
+    <div class="cta-row" style="justify-content:center">
+      <a class="btn btn-play" href="{root}index.html?book=Psalms"><svg viewBox="0 0 24 24" width="12" height="12"><path d="M8 5v14l11-7z"/></svg><span>Start with the Psalms</span></a>
+      <a class="btn btn-goldline" href="{root}index.html"><span>Browse all songs</span></a>
+    </div>
     </div>"""
     return content_page(site, root, "about", "The Project", "About the Selah Project", site.get("tagline", ""), inner, "about.html")
 
@@ -623,12 +691,25 @@ def render_contact(site, root=""):
     inner = f"""<form class="form" action="{esc(endpoint)}" method="POST">
     <div class="field"><label for="name">Your name</label><input id="name" name="name" type="text" required></div>
     <div class="field"><label for="email">Email</label><input id="email" name="email" type="email" required></div>
+    <div class="field">
+      <label>What&rsquo;s this about?</label>
+      <div class="topic-chips">
+        <label class="topic"><input type="radio" name="topic" value="Just a hello" checked><span>Just a hello</span></label>
+        <label class="topic"><input type="radio" name="topic" value="Song request"><span>Song request</span></label>
+        <label class="topic"><input type="radio" name="topic" value="Playing a song publicly"><span>Playing a song publicly</span></label>
+        <label class="topic"><input type="radio" name="topic" value="Something else"><span>Something else</span></label>
+      </div>
+    </div>
     <div class="field"><label for="message">Message</label><textarea id="message" name="message" required></textarea></div>
     <button class="btn btn-play" type="submit"><span>Send Message</span></button>
     </form>
-    {mail_alt}"""
+    {mail_alt}
+    <div class="faq-card">
+    <div class="faq-label">Before you write &mdash;</div>
+    <p><strong>Can we play or sing these publicly?</strong> Yes &mdash; playing and singing the songs publicly is welcome and free. The full lyrics are on every song page; a note telling us where they&rsquo;re being heard always makes our week.</p>
+    </div>"""
     return content_page(site, root, "contact", "Get in Touch", "Contact",
-                        "Questions, song requests, or just a hello \u2014 we\u2019d love to hear from you.",
+                        "Questions, song requests, or just a hello \u2014 we&rsquo;d love to hear from you.",
                         inner, "contact.html")
 
 
@@ -641,46 +722,53 @@ def _live(url):
 def render_support(site, root=""):
     paypal = _live(site.get("donatePaypal"))
     stripe = _live(site.get("donateUrl"))
-    primary = stripe or paypal
-    amounts = site.get("donateAmounts", [])
-    # The amounts are suggestions; the donor picks the figure on the checkout page.
-    amt_html = "".join(f'<a class="amount" href="{esc(primary)}" target="_blank" rel="noopener">{esc(a)}</a>'
-                       for a in amounts) if primary else ""
-    btns = []
-    if stripe:
-        btns.append(f'<a class="btn btn-play" href="{esc(stripe)}" target="_blank" rel="noopener">'
-                    f'<span>Support the Work</span></a>')
-    if paypal:
-        cls = "btn btn-spotify" if stripe else "btn btn-play"
-        style = ' style="border-color:rgba(201,164,70,.5)"' if stripe else ""
-        label = "Give with PayPal" if stripe else "Give with PayPal"
-        btns.append(f'<a class="{cls}" href="{esc(paypal)}" target="_blank" rel="noopener"{style}>'
-                    f'<span>{label}</span></a>')
-    cta = ('<div class="cta-row" style="justify-content:center">' + "".join(btns) + '</div>') if btns else ""
     links = site.get("artistLinks") or {}
     sp, ap = links.get("spotify"), links.get("applemusic")
-    stream_btns = '<div class="cta-row" style="justify-content:center">'
-    if sp:
-        stream_btns += (f'<a class="btn btn-spotify" href="{esc(sp)}" target="_blank" rel="noopener">'
-                        f'<span>Follow on Spotify</span></a>')
-    if ap:
-        stream_btns += (f'<a class="btn btn-goldline" href="{esc(ap)}" target="_blank" rel="noopener">'
-                        f'<span>Apple Music</span></a>')
-    stream_btns += "</div>"
-    inner = f"""<div class="support-card">
+
+    # streaming-first block
+    stream = ""
+    if sp or ap:
+        btns = ""
+        if sp:
+            btns += (f'<a class="btn btn-spotify" href="{esc(sp)}" target="_blank" rel="noopener">'
+                     f'<span>Follow on Spotify</span></a>')
+        if ap:
+            btns += (f'<a class="btn btn-goldline" href="{esc(ap)}" target="_blank" rel="noopener">'
+                     f'<span>Apple Music</span></a>')
+        stream = f"""<div class="stream-first">
+    <div class="sf-label">The free way &mdash; just listen</div>
+    <p>Stream the songs, add them to your playlists, share one with a friend. The royalties go to the same work as every gift below &mdash; and it costs you nothing.</p>
+    <div class="cta-row" style="justify-content:center">{btns}</div>
+    </div>"""
+
+    give = paypal or stripe
+    amounts = ""
+    if give:
+        cards = [("$5", "toward the music"),
+                 ("$15", "toward a camper&rsquo;s week"),
+                 ("$50", "toward getting a kid to camp")]
+        amounts = '<div class="amount-cards">' + "".join(
+            f'<a class="amt{" amt--hl" if n == "$15" else ""}" href="{esc(give)}" target="_blank" rel="noopener">'
+            f'<span class="amt-n">{n}</span><span class="amt-l">{l}</span></a>' for n, l in cards) + "</div>"
+
+    btns = []
+    if stripe:
+        btns.append(f'<a class="btn btn-play" href="{esc(stripe)}" target="_blank" rel="noopener"><span>Give by Card</span></a>')
+    if paypal:
+        cls = "btn btn-goldline" if stripe else "btn btn-play"
+        btns.append(f'<a class="{cls}" href="{esc(paypal)}" target="_blank" rel="noopener"><span>Give with PayPal</span></a>')
+    cta = ('<div class="cta-row" style="justify-content:center">' + "".join(btns) + '</div>') if btns else ""
+
+    inner = f"""{stream}
+    <div class="support-card">
     <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
     <p class="prose" style="margin-bottom:0">Selah Sound Collective is a labour of love. What you give goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there.</p>
-    <div class="amount-row">{amt_html}</div>
+    {amounts}
     {cta}
-    <p class="support-note">Every gift, of any size, is received with deep gratitude. Thank you for helping the music continue.</p>
-    <div class="support-stream">
-      <p class="prose" style="margin:0 auto 14px">There&rsquo;s a second way to help that costs nothing: <strong>listen</strong>. Stream the songs, add them to your playlists on Spotify or Apple Music, share them &mdash; the royalties go to this same work.</p>
-      {stream_btns}
-    </div>
+    <p class="support-note">Every gift, of any size, is received with deep gratitude.</p>
     </div>"""
     return content_page(site, root, "support", "Give", "Support the Work",
                         "Help keep the songs coming.", inner, "support.html")
-
 
 
 def write_seo_files(site, songs):
