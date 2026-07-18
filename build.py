@@ -542,7 +542,7 @@ def render_listen(site, root=""):
 
     # Start here: three on-site songs
     sh = ""
-    for slug in ["let-there-be-you", "where-you-go-ill-follow", "the-still-small-voice"]:
+    for slug in ["let-there-be-you", "where-you-go-ill-follow", "awake-awake"]:
         s = by_slug.get(slug)
         if not s or s.get("status") != "published":
             continue
