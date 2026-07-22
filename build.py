@@ -709,7 +709,7 @@ def render_contact(site, root=""):
     <p><strong>Can we play or sing these publicly?</strong> Yes &mdash; playing and singing the songs publicly is welcome and free. The full lyrics are on every song page; a note telling us where they&rsquo;re being heard always makes our week.</p>
     </div>"""
     return content_page(site, root, "contact", "Get in Touch", "Contact",
-                        "Questions, song requests, or just a hello \u2014 we&rsquo;d love to hear from you.",
+                        "Questions, song requests, or just a hello \u2014 we would love to hear from you.",
                         inner, "contact.html")
 
 
