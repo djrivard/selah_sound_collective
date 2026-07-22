@@ -670,7 +670,7 @@ def render_about(site, root=""):
     <div class="prose">
     <p class="scripture">&ldquo;Speak to one another with psalms, hymns, and songs from the Spirit.&rdquo;<br><cite style="font-style:normal;font-size:.82em;letter-spacing:.08em">Ephesians 5:19</cite></p>
     <p>A song travels further than a page. You can read Ruth&rsquo;s vow and admire it; humming it for a week is harder to walk away from. That&rsquo;s the hope here: that somewhere between the second verse and the drive home, one of these follows you out of the car and into Monday.</p>
-    <p>Selah Sound Collective is produced by <strong>Dominic Rivard</strong>, who wrote the words to most of what you&rsquo;re hearing. The songs are only half of it: what this project raises goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
+    <p>Selah Sound Collective is the brainchild of <strong>Dominic Rivard</strong>, who wrote the words to most of what you&rsquo;re hearing and produced the music with the help of today&rsquo;s latest technology. The songs are only half of it: what this project raises goes to God&rsquo;s Work, and to sending kids to camp &mdash; the ones who have earned a week away, and the ones whose families cannot get them there. Usually the same kids.</p>
     <p>Thank you for listening. And when a line catches you, do what the psalms say. Pause. <em>Selah.</em></p>
     </div>
     <div class="about-cta">
