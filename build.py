@@ -559,6 +559,21 @@ def render_listen(site, root=""):
         f'<a class="plat" href="{esc(pl["url"])}" target="_blank" rel="noopener">{icon(pl["id"])}'
         f'<span>{esc(pl["name"])}</span></a>' for pl in plats)
 
+    pls = site.get("playlists", [])
+    playlists = ""
+    if pls:
+        cards = "".join(
+            f'<a class="plist" href="{esc(pl["url"])}" target="_blank" rel="noopener">'
+            f'{icon("spotify")}'
+            f'<span class="plist-body"><span class="plist-name">{esc(pl["name"])}</span>'
+            f'<span class="plist-desc">{esc(pl.get("desc",""))}</span></span>'
+            f'<span class="plist-go">Follow</span></a>' for pl in pls)
+        playlists = f"""<div class="plists">
+      <div class="plists-label">Or follow a playlist</div>
+      <p class="plists-lede">The songs gathered together, ready to press play &mdash; and new releases land in them on their own.</p>
+      <div class="plist-row">{cards}</div>
+    </div>"""
+
     socials = {s0["id"]: s0 for s0 in site.get("socials", [])}
     social_tiles = "".join(
         f'<a class="plat" href="{esc(socials[k]["url"])}" target="_blank" rel="noopener">{icon(k)}'
@@ -584,6 +599,7 @@ def render_listen(site, root=""):
         </a>
         {plat_tiles}
       </div>
+      {playlists}
     </div>
     <div class="plat-sec">
       <h2 class="plat-h">Follow Along</h2>
