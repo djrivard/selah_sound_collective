@@ -741,10 +741,11 @@ def render_support(site, root=""):
     links = site.get("artistLinks") or {}
     sp, ap = links.get("spotify"), links.get("applemusic")
     yt = links.get("youtube")
+    am = links.get("amazonmusic")
 
     # streaming-first block
     stream = ""
-    if sp or ap or yt:
+    if sp or ap or yt or am:
         btns = ""
         if sp:
             btns += (f'<a class="btn btn-spotify" href="{esc(sp)}" target="_blank" rel="noopener">'
@@ -755,6 +756,9 @@ def render_support(site, root=""):
         if yt:
             btns += (f'<a class="btn btn-youtube" href="{esc(yt)}" target="_blank" rel="noopener">'
                      f'<span>YouTube</span></a>')
+        if am:
+            btns += (f'<a class="btn btn-amazon" href="{esc(am)}" target="_blank" rel="noopener">'
+                     f'<span>Amazon Music</span></a>')
         stream = f"""<div class="stream-first">
     <div class="sf-label">The free way &mdash; just listen</div>
     <p>Stream the songs, add them to your playlists, share one with a friend. The royalties go to the same work as every gift below &mdash; and it costs you nothing.</p>

@@ -416,3 +416,6 @@
 
 .btn-youtube{color:var(--cream);background:rgba(255,0,0,.10);border-color:rgba(255,0,0,.5)}
 .btn-youtube:hover{background:rgba(255,0,0,.18);box-shadow:0 10px 30px rgba(255,0,0,.18)}
+
+.btn-amazon{color:var(--cream);background:rgba(37,209,229,.10);border-color:rgba(37,209,229,.5)}
+.btn-amazon:hover{background:rgba(37,209,229,.18);box-shadow:0 10px 30px rgba(37,209,229,.18)}
