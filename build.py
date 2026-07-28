@@ -740,10 +740,11 @@ def render_support(site, root=""):
     stripe = _live(site.get("donateUrl"))
     links = site.get("artistLinks") or {}
     sp, ap = links.get("spotify"), links.get("applemusic")
+    yt = links.get("youtube")
 
     # streaming-first block
     stream = ""
-    if sp or ap:
+    if sp or ap or yt:
         btns = ""
         if sp:
             btns += (f'<a class="btn btn-spotify" href="{esc(sp)}" target="_blank" rel="noopener">'
@@ -751,6 +752,9 @@ def render_support(site, root=""):
         if ap:
             btns += (f'<a class="btn btn-goldline" href="{esc(ap)}" target="_blank" rel="noopener">'
                      f'<span>Apple Music</span></a>')
+        if yt:
+            btns += (f'<a class="btn btn-youtube" href="{esc(yt)}" target="_blank" rel="noopener">'
+                     f'<span>YouTube</span></a>')
         stream = f"""<div class="stream-first">
     <div class="sf-label">The free way &mdash; just listen</div>
     <p>Stream the songs, add them to your playlists, share one with a friend. The royalties go to the same work as every gift below &mdash; and it costs you nothing.</p>

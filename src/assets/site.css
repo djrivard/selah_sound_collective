@@ -413,3 +413,6 @@
 .plist-desc{font-size:.8rem;color:var(--cream-d);line-height:1.45}
 .plist-go{flex:0 0 auto;font:600 .62rem 'Outfit',sans-serif;letter-spacing:.14em;text-transform:uppercase;
   border:1px solid rgba(29,185,84,.6);border-radius:30px;padding:7px 14px;color:var(--cream)}
+
+.btn-youtube{color:var(--cream);background:rgba(255,0,0,.10);border-color:rgba(255,0,0,.5)}
+.btn-youtube:hover{background:rgba(255,0,0,.18);box-shadow:0 10px 30px rgba(255,0,0,.18)}
