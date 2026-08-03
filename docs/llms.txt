@@ -2,7 +2,7 @@
 
 > Modern Christian music drawn straight from Scripture — over 230 original songs, including all 150 psalms, free to stream with the full lyrics.
 
-Selah Sound Collective is a modern Christian music project that sets passages of the Bible to original songs. The catalogue holds 240 songs spanning 37 books of Scripture, from Genesis to Revelation, including all 150 psalms set to music one by one.
+Selah Sound Collective is a modern Christian music project that sets passages of the Bible to original songs. The catalogue holds 241 songs spanning 37 books of Scripture, from Genesis to Revelation, including all 150 psalms set to music one by one.
 
 Every song streams free on the site with its full lyrics and the passage it is drawn from. The songs are also on Spotify, Apple Music, YouTube, Deezer and Amazon Music.
 
@@ -66,6 +66,7 @@ Funds raised support God's Work and send children to camp.
 - [Cries of Silence](https://selahsoundcollective.com/songs/cries-of-silence.html) — Psalm 83
 - [Crown of Glory](https://selahsoundcollective.com/songs/crown-of-glory.html) — Psalm 21
 - [Damascus Road](https://selahsoundcollective.com/songs/damascus-road.html) — Acts 9
+- [Dear Father](https://selahsoundcollective.com/songs/dear-father.html) — Matthew 6:8-13
 - [Don't Forsake Me](https://selahsoundcollective.com/songs/dont-forsake-me.html) — Psalm 38
 - [Don't Grow Weary](https://selahsoundcollective.com/songs/dont-grow-weary.html) — Galatians 6:9
 - [Draw Me Closer](https://selahsoundcollective.com/songs/draw-me-closer.html) — Psalm 25

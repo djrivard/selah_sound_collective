@@ -1,0 +1,333 @@
+{
+  "slug": "dear-father",
+  "title": "Dear Father",
+  "status": "published",
+  "scripture": "Matthew 6:8-13",
+  "book": "Matthew",
+  "cover": "dear-father.jpg",
+  "audio": "dear-father.mp3",
+  "spotify": "",
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "Before I shape a single word"
+        ],
+        [
+          null,
+          "You know the thing I need"
+        ],
+        [
+          null,
+          "You never waited on my tongue"
+        ],
+        [
+          null,
+          "You never waited on me"
+        ],
+        [
+          null,
+          "So I will not come clever"
+        ],
+        [
+          null,
+          "I will not come with proof"
+        ],
+        [
+          null,
+          "I will come the way a child comes"
+        ],
+        [
+          null,
+          "And say the oldest truth"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Dear Father, high in heaven"
+        ],
+        [
+          null,
+          "Holy be Your name"
+        ],
+        [
+          null,
+          "Teach the dust to speak it"
+        ],
+        [
+          null,
+          "Teach the dark the same"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your kingdom come"
+        ],
+        [
+          null,
+          "Your will be done"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ],
+        [
+          null,
+          "Your kingdom come"
+        ],
+        [
+          null,
+          "Your will be done"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ],
+        [
+          null,
+          "(Come, Lord, come)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "Give us this day our daily bread"
+        ],
+        [
+          null,
+          "Enough, and not a stone"
+        ],
+        [
+          null,
+          "And measure out forgiveness"
+        ],
+        [
+          null,
+          "By the mercy I have shown"
+        ],
+        [
+          null,
+          "I have held a debt like water"
+        ],
+        [
+          null,
+          "In a fist that would not part"
+        ],
+        [
+          null,
+          "Loose the fingers, loose the ledger"
+        ],
+        [
+          null,
+          "Loose the winter in my heart"
+        ]
+      ]
+    },
+    {
+      "label": "Pre-Chorus",
+      "lines": [
+        [
+          null,
+          "Dear Father, high in heaven"
+        ],
+        [
+          null,
+          "Holy be Your name"
+        ],
+        [
+          null,
+          "Teach the dust to speak it"
+        ],
+        [
+          null,
+          "Teach the dark the same"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your kingdom come"
+        ],
+        [
+          null,
+          "Your will be done"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ],
+        [
+          null,
+          "Your kingdom come"
+        ],
+        [
+          null,
+          "Your will be done"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ],
+        [
+          null,
+          "(Come, Lord, come)"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "I know the road I'd walk alone"
+        ],
+        [
+          null,
+          "Do not let me take it"
+        ],
+        [
+          null,
+          "Lead us not into temptation"
+        ],
+        [
+          null,
+          "Deliver us from evil"
+        ],
+        [
+          null,
+          "Lead us not into temptation"
+        ],
+        [
+          null,
+          "Deliver us from the evil"
+        ],
+        [
+          null,
+          "(Deliver us)"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Your kingdom over my kingdom"
+        ],
+        [
+          null,
+          "Your will above my own"
+        ],
+        [
+          null,
+          "Your kingdom over my kingdom"
+        ],
+        [
+          null,
+          "Your will above my own"
+        ],
+        [
+          null,
+          "Not that road, not that door"
+        ],
+        [
+          null,
+          "Not the thing I'm reaching for"
+        ],
+        [
+          null,
+          "Your kingdom over my kingdom"
+        ],
+        [
+          null,
+          "Your will above my own"
+        ]
+      ]
+    },
+    {
+      "label": "Build",
+      "lines": [
+        [
+          null,
+          "For Yours is the kingdom"
+        ],
+        [
+          null,
+          "For Yours is the power"
+        ],
+        [
+          null,
+          "For Yours is the glory"
+        ],
+        [
+          null,
+          "Forever, forever"
+        ]
+      ]
+    },
+    {
+      "label": "Chorus",
+      "lines": [
+        [
+          null,
+          "Your kingdom come"
+        ],
+        [
+          null,
+          "Your will be done"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ],
+        [
+          null,
+          "Your kingdom come"
+        ],
+        [
+          null,
+          "Your will be done"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "Aamen"
+        ],
+        [
+          null,
+          "Aamen"
+        ],
+        [
+          null,
+          "On earth as it is in heaven"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "your Father knoweth what things ye have need of, before ye ask him",
+  "epigraphRef": "Matthew 6:8"
+}
