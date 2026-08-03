@@ -127,6 +127,18 @@ def cmd_apply(slug, dry=False):
     for lab in lost:
         print(f"  !! karaoke timings dropped in [{lab}] (line count changed)")
 
+    # Deleting a [Heading] merges two sections and is easy to do by accident,
+    # so say so plainly -- the lyric diff above cannot show it.
+    o_labels = [s["label"] for s in old]
+    n_labels = [s["label"] for s in merged]
+    if o_labels != n_labels:
+        gone = [l for l in o_labels if l not in n_labels]
+        print(f"  !! section headings changed: {len(o_labels)} -> {len(n_labels)}")
+        print(f"     before: {o_labels}")
+        print(f"     after : {n_labels}")
+        if gone:
+            print(f"     missing heading(s): {gone} -- did a [Heading] line get deleted?")
+
     if dry:
         print("\n  --dry: nothing was written.")
         return

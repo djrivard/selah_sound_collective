@@ -256,7 +256,7 @@ def render_song(site, song, root="../"):
                   f'<path d="{SPOTIFY}"/></svg></a>') if spotify else ""
 
     # "Find this on all other platforms" — artist-profile links (Spotify omitted; it has its own button)
-    icons = json.loads((DATA / "icons.json").read_text())
+    icons = json.loads((DATA / "icons.json").read_text(encoding="utf-8"))
     plat_names = {"applemusic": "Apple Music", "youtube": "YouTube", "deezer": "Deezer", "amazonmusic": "Amazon Music"}
     other = ""
     for pid, label in plat_names.items():
@@ -532,8 +532,8 @@ def render_library(site, songs, root=""):
 
 
 def render_listen(site, root=""):
-    icons = json.loads((DATA / "icons.json").read_text())
-    songs = [json.loads(f.read_text()) for f in sorted((DATA / "songs").glob("*.json"))]
+    icons = json.loads((DATA / "icons.json").read_text(encoding="utf-8"))
+    songs = [json.loads(f.read_text(encoding="utf-8")) for f in sorted((DATA / "songs").glob("*.json"))]
     by_slug = {s["slug"]: s for s in songs}
 
     def icon(iid):
@@ -660,7 +660,7 @@ def content_page(site, root, active, eyebrow, title, lede, inner_html, canonical
 
 
 def render_about(site, root=""):
-    songs = [json.loads(f.read_text()) for f in sorted((DATA / "songs").glob("*.json"))]
+    songs = [json.loads(f.read_text(encoding="utf-8")) for f in sorted((DATA / "songs").glob("*.json"))]
     pub = [s for s in songs if s.get("status") == "published"]
     over = max(10, ((len(pub) - 1) // 10) * 10)
     books = len({s.get("book") for s in pub if s.get("book") not in (None, "", "Standalone")})
@@ -817,7 +817,7 @@ def write_seo_files(site, songs):
         sm.append(f"<url><loc>{esc(loc)}</loc><lastmod>{today}</lastmod>"
                   f"<changefreq>{freq}</changefreq><priority>{pri}</priority></url>")
     sm.append("</urlset>")
-    (OUT / "sitemap.xml").write_text("\n".join(sm))
+    (OUT / "sitemap.xml").write_text("\n".join(sm), encoding="utf-8")
 
     # Answer engines are how people will find this next; let them read it.
     (OUT / "robots.txt").write_text(
@@ -828,7 +828,7 @@ def write_seo_files(site, songs):
         "User-agent: PerplexityBot\nAllow: /\n\n"
         "User-agent: Google-Extended\nAllow: /\n\n"
         "User-agent: CCBot\nAllow: /\n\n"
-        f"Sitemap: {base}/sitemap.xml\n")
+        f"Sitemap: {base}/sitemap.xml\n", encoding="utf-8")
 
     books = {}
     for s in live:
@@ -858,13 +858,13 @@ def write_seo_files(site, songs):
         ref = (s.get("scripture") or s.get("epigraphRef") or "").strip()
         lines.append(f"- [{s['title']}]({base}/songs/{s['slug']}.html)"
                      + (f" \u2014 {ref}" if ref else ""))
-    (OUT / "llms.txt").write_text("\n".join(lines) + "\n")
+    (OUT / "llms.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"  seo: sitemap.xml ({len(urls)} urls), robots.txt, llms.txt ({len(live)} songs, {psalms} psalms)")
 
 
 def main():
-    site = json.loads((DATA / "site.json").read_text())
-    songs = [json.loads(p.read_text()) for p in sorted((DATA / "songs").glob("*.json"))]
+    site = json.loads((DATA / "site.json").read_text(encoding="utf-8"))
+    songs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted((DATA / "songs").glob("*.json"))]
     songs.sort(key=canon_key)
 
     # Rebuild docs/ — but never destroy audio we cannot regenerate. The mp3s are
@@ -891,18 +891,18 @@ def main():
                "/covers/*\n  Cache-Control: public, max-age=31536000, immutable\n")
     if not remote_audio:
         headers += "/audio/*\n  Cache-Control: public, max-age=31536000, immutable\n"
-    (OUT / "_headers").write_text(headers)
+    (OUT / "_headers").write_text(headers, encoding="utf-8")
 
-    (OUT / "index.html").write_text(render_library(site, songs, root=""))
-    (OUT / "listen.html").write_text(render_listen(site, root=""))
-    (OUT / "about.html").write_text(render_about(site, root=""))
-    (OUT / "contact.html").write_text(render_contact(site, root=""))
-    (OUT / "support.html").write_text(render_support(site, root=""))
+    (OUT / "index.html").write_text(render_library(site, songs, root=""), encoding="utf-8")
+    (OUT / "listen.html").write_text(render_listen(site, root=""), encoding="utf-8")
+    (OUT / "about.html").write_text(render_about(site, root=""), encoding="utf-8")
+    (OUT / "contact.html").write_text(render_contact(site, root=""), encoding="utf-8")
+    (OUT / "support.html").write_text(render_support(site, root=""), encoding="utf-8")
 
     built = 0
     for s in songs:
         if s.get("status") == "published":
-            (OUT / "songs" / f"{s['slug']}.html").write_text(render_song(site, s, root="../"))
+            (OUT / "songs" / f"{s['slug']}.html").write_text(render_song(site, s, root="../"), encoding="utf-8")
             built += 1
 
     print(f"Built site -> {OUT}")
