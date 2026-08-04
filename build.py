@@ -900,10 +900,20 @@ def main():
     (OUT / "support.html").write_text(render_support(site, root=""), encoding="utf-8")
 
     built = 0
+    wanted = set()
     for s in songs:
         if s.get("status") == "published":
             (OUT / "songs" / f"{s['slug']}.html").write_text(render_song(site, s, root="../"), encoding="utf-8")
+            wanted.add(f"{s['slug']}.html")
             built += 1
+
+    # Delete pages whose song record is gone. Without this a removed song keeps
+    # its page on the site forever, because nothing ever cleans docs/songs.
+    stale = sorted(f for f in (OUT / "songs").glob("*.html") if f.name not in wanted)
+    for f in stale:
+        f.unlink()
+    if stale:
+        print(f"  removed {len(stale)} stale page(s): {', '.join(f.name for f in stale)}")
 
     print(f"Built site -> {OUT}")
     print(f"  songs: {len(songs)} total, {built} published pages")
