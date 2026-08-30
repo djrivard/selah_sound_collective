@@ -1,0 +1,216 @@
+{
+  "slug": "lord-is-it-i",
+  "title": "Lord, Is It I?",
+  "status": "published",
+  "scripture": "Matthew 26:21-22",
+  "book": "Matthew",
+  "cover": "lord-is-it-i.jpg",
+  "audio": "lord-is-it-i.mp3",
+  "spotify": "",
+  "sections": [
+    {
+      "label": "Verse 1",
+      "lines": [
+        [
+          null,
+          "The lamp was low."
+        ],
+        [
+          null,
+          "The bread was torn."
+        ],
+        [
+          null,
+          "Somebody laughed."
+        ],
+        [
+          null,
+          "And then You spoke."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 2",
+      "lines": [
+        [
+          null,
+          "One of you."
+        ],
+        [
+          null,
+          "One of you."
+        ],
+        [
+          null,
+          "The salt stopped moving"
+        ],
+        [
+          null,
+          "hand to hand."
+        ]
+      ]
+    },
+    {
+      "label": "Refrain",
+      "lines": [
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Nobody looked up."
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ]
+      ]
+    },
+    {
+      "label": "Verse 3",
+      "lines": [
+        [
+          null,
+          "Exceeding sorrowful,"
+        ],
+        [
+          null,
+          "and every man alone,"
+        ],
+        [
+          null,
+          "holding the lamp"
+        ],
+        [
+          null,
+          "to his own life."
+        ]
+      ]
+    },
+    {
+      "label": "Verse 4",
+      "lines": [
+        [
+          null,
+          "Not one of them said, is it him."
+        ],
+        [
+          null,
+          "Not one of them said, no."
+        ],
+        [
+          null,
+          "They took it in"
+        ],
+        [
+          null,
+          "and held it like a coal."
+        ]
+      ]
+    },
+    {
+      "label": "Refrain",
+      "lines": [
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Nobody looked up."
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ]
+      ]
+    },
+    {
+      "label": "Bridge",
+      "lines": [
+        [
+          null,
+          "Two thousand years."
+        ],
+        [
+          null,
+          "The same low room."
+        ],
+        [
+          null,
+          "The question goes around"
+        ],
+        [
+          null,
+          "and stops at me."
+        ]
+      ]
+    },
+    {
+      "label": "Refrain",
+      "lines": [
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "I have looked away."
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ]
+      ]
+    },
+    {
+      "label": "Final Refrain",
+      "lines": [
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ],
+        [
+          null,
+          "Lord, is it I?"
+        ]
+      ]
+    },
+    {
+      "label": "Outro",
+      "lines": [
+        [
+          null,
+          "The lamp burns low."
+        ],
+        [
+          null,
+          "The bread goes round."
+        ],
+        [
+          null,
+          "Lord"
+        ]
+      ]
+    }
+  ],
+  "epigraph": "began every one of them to say unto him, Lord, is it I?",
+  "epigraphRef": "Matthew 26:22"
+}
