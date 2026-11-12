@@ -542,7 +542,7 @@ def render_listen(site, root=""):
 
     # Start here: three on-site songs
     sh = ""
-    for slug in ["let-there-be-you", "where-you-go-ill-follow", "awake-awake"]:
+    for slug in ["not-ashes-but-breath", "create-in-me", "let-them-be-one"]:
         s = by_slug.get(slug)
         if not s or s.get("status") != "published":
             continue
@@ -605,10 +605,10 @@ def render_listen(site, root=""):
       <h2 class="plat-h">Follow Along</h2>
       <p class="plat-lede">Behind the songs \u2014 new releases, the stories in the Scriptures, and what&rsquo;s coming next.</p>
       <div class="plat-grid plat-grid--lead">
-        <a class="plat plat-lead plat-lead--gold" href="https://selahsoundcollective.substack.com/p/i-cant-go-back" target="_blank" rel="noopener">
+        <a class="plat plat-lead plat-lead--gold" href="https://selahsoundcollective.substack.com/p/dear-father" target="_blank" rel="noopener">
           <span class="pl-eyebrow pl-eyebrow--gold">On the Substack</span>
-          <span class="pl-post">&ldquo;I Can&rsquo;t Go Back&rdquo; <em>\u2014 latest post</em></span>
-          <span class="pl-lede">On vows, the weight of a word, and what a town decides to remember.</span>
+          <span class="pl-post">&ldquo;Dear Father&rdquo; <em>\u2014 latest post</em></span>
+          <span class="pl-lede">The Lord&rsquo;s Prayer as a slow ambient hymn &mdash; on the line that points down, not up, and the one place I added my own words.</span>
         </a>
         {social_tiles}
       </div>
