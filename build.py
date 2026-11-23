@@ -275,7 +275,7 @@ def render_song(site, song, root="../"):
   <h1 class="sr-only">{esc(title)} &mdash; {esc(site["siteName"])} ({esc(song.get("scripture",""))})</h1>
   <div class="hero__inner">
     <div class="release">
-      <div class="cover-frame"><div class="scrim"></div><div class="cover-band" id="coverBand">{esc(site["siteName"])}</div></div>
+      <div class="cover-frame" role="img" aria-label="{esc(title)} cover"></div>
       <span class="tick tl"></span><span class="tick tr"></span><span class="tick bl"></span><span class="tick br"></span>
     </div>
     <div class="scrip"><span class="dia"></span> {esc(song.get("scripture",""))} <span class="dia"></span></div>

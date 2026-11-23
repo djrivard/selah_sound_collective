@@ -74,17 +74,6 @@
     else showToast(pageUrl);
   });
 
-  /* ---------- fit band name within the cover frame ---------- */
-  function fitBand(){
-    var el=document.getElementById('coverBand'); if(!el)return;
-    el.style.letterSpacing='0.34em'; el.style.fontSize='13px';
-    var ls=0.34, fs=13;
-    while(el.scrollWidth>el.clientWidth&&ls>0.06){ls-=0.02;el.style.letterSpacing=ls.toFixed(2)+'em';}
-    while(el.scrollWidth>el.clientWidth&&fs>8){fs-=0.5;el.style.fontSize=fs+'px';}
-  }
-  fitBand(); window.addEventListener('resize',fitBand);
-  if(document.fonts&&document.fonts.ready)document.fonts.ready.then(fitBand);
-
   /* ---------- visualizer ---------- */
   var canvas=document.getElementById('viz'),ctx=canvas.getContext('2d');
   var dpr=Math.min(window.devicePixelRatio||1,2);
